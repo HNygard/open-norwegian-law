@@ -1,6 +1,9 @@
 package no.law;
 
 import com.google.gson.GsonBuilder;
+import com.google.gson.TypeAdapter;
+import com.google.gson.stream.JsonReader;
+import com.google.gson.stream.JsonWriter;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -30,6 +33,19 @@ public class LawToHtml {
                 new FileOutputStream("./offentleglova.json"), StandardCharsets.UTF_8))) {
             GsonBuilder gsonBuilder = new GsonBuilder();
             gsonBuilder.setPrettyPrinting();
+
+            gsonBuilder.registerTypeAdapter(Law.Section.class, new TypeAdapter<Law.Section>() {
+                @Override
+                public void write(JsonWriter out, Law.Section value) throws IOException {
+                    out.value(value.text);
+                }
+
+                @Override
+                public Law.Section read(JsonReader in) throws IOException {
+                    return new Law.Section(in.nextString());
+                }
+            });
+
             writer.write(gsonBuilder.create().toJson(law));
         }
     }
