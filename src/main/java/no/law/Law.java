@@ -37,6 +37,7 @@ public class Law implements LawReference {
         this.announcementDate = announcementDate;
 
         allPossibleNamesForLaw = new ArrayList<>();
+        allPossibleNamesForLaw.add(lawId);
         allPossibleNamesForLaw.add(lawName);
         allPossibleNamesForLaw.add(shortName);
         allPossibleNamesForLaw.add(shortName + " (" + announcementDate.getYear() + ")");
