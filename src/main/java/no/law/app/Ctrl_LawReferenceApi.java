@@ -6,6 +6,7 @@ import no.law.lawreference.NorwegianText_to_LawReference;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -14,6 +15,10 @@ public class Ctrl_LawReferenceApi {
     @GetMapping(value = "/api/law-reference")
     public LawReferenceWithLawDto lawRef(@RequestParam String searchQuery) {
         LawReferenceFinder law = NorwegianText_to_LawReference.textToLawReference(searchQuery, LocalDate.now());
+
+        if (law.getLaw() == null) {
+            return new LawReferenceWithLawDto("Law not found.");
+        }
 
         List<? extends LawReference> matchingLaw = law.getLaw().getMatchingLawRef(law);
         return new LawReferenceWithLawDto(law, matchingLaw);
@@ -34,6 +39,12 @@ public class Ctrl_LawReferenceApi {
             this.html = lawRefs.stream()
                     .map(LawReference::toHtml)
                     .collect(Collectors.joining("\n\n\n<br><hr><br>\n\n\n"));
+        }
+
+        LawReferenceWithLawDto(String html) {
+            this.lawReference = "";
+            this.lawReferenceMatchTypes = new ArrayList<>();
+            this.html = html;
         }
 
         public String getLawReference() {
