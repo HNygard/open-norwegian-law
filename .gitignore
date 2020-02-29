@@ -1,2 +1,5 @@
 # Compiled Java
 /target
+
+# Intellij files
+*.iml
