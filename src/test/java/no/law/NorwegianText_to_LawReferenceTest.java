@@ -51,5 +51,10 @@ public class NorwegianText_to_LawReferenceTest {
         lawRef = new LawReferenceFinder("LOV-2006-05-19-16", "§ 2", "første");
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) § 2 første ledd", date));
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) § 2 første ledd some other word", date));
+
+        // :: Law name, paragraph, section and sentence
+        lawRef = new LawReferenceFinder("LOV-2006-05-19-16", "§ 1", "første", "andre");
+        Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) § 1 første ledd andre punktum", date));
+        Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) § 1 første ledd andre punktum some other word", date));
     }
 }

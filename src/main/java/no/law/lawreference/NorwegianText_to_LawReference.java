@@ -33,6 +33,12 @@ public class NorwegianText_to_LawReference {
             text = text.replace(matcher.group(1), "");
         }
 
+        pattern = Pattern.compile(" (([a-zæøåA-ZÆØÅ]*) punktum) ");
+        matcher = pattern.matcher(text);
+        if (matcher.find()) {
+            ref.addSentence(matcher.group(2));
+            text = text.replace(matcher.group(1), "");
+        }
 
         Map<String, Law> lawName_to_law = new HashMap<>();
         List<Law> sortedLaws = LawRepository.getLaws().stream()

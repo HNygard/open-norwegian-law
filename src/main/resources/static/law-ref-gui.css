@@ -21,6 +21,9 @@
 .law-chapter-paragraph-section:hover {
     background-color: #07ccff;
 }
+.law-chapter-paragraph-section-sentence {
+    background-color: lightsteelblue;
+}
 
 /* :: Other styling */
 .law-chapter {

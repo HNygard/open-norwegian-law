@@ -116,5 +116,13 @@ public class LawReferenceFinderTest {
                 " òg leggje til rette for vidarebruk av offentleg informasjon.", lawRef.get(0).toString());
 
         // => tredje punktum
+        lawReference.addParagraph("§ 1");
+        lawReference.addSection("første");
+        lawReference.addSentence("andre");
+        lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(1, lawRef.size());
+        Assertions.assertEquals(Law.Sentence.class, lawRef.get(0).getClass());
+        Assertions.assertEquals("Lova skal òg leggje til rette for vidarebruk av offentleg informasjon.",
+                lawRef.get(0).toString());
     }
 }

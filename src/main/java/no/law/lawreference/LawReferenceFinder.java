@@ -13,6 +13,7 @@ public class LawReferenceFinder {
     private Law law;
     private String paragraphRef;
     private String sectionRef;
+    private String sentenceRef;
 
     public LawReferenceFinder() {
     }
@@ -30,6 +31,11 @@ public class LawReferenceFinder {
         this(lawId);
         paragraphRef = paragraph;
         sectionRef = section;
+    }
+
+    public LawReferenceFinder(String lawId, String paragraph, String section, String sentence) {
+        this(lawId, paragraph, section);
+        this.sentenceRef = sentence;
     }
 
     public void law(String rawLawId, LocalDate date, String name) {
@@ -74,6 +80,14 @@ public class LawReferenceFinder {
         this.sectionRef = sectionRef;
     }
 
+    public String getSentenceRef() {
+        return sentenceRef;
+    }
+
+    public void addSentence(String sentenceRef) {
+        this.sentenceRef = sentenceRef;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -81,12 +95,13 @@ public class LawReferenceFinder {
         LawReferenceFinder that = (LawReferenceFinder) o;
         return Objects.equals(law, that.law)
                 && Objects.equals(paragraphRef, that.paragraphRef)
-                && Objects.equals(sectionRef, that.sectionRef);
+                && Objects.equals(sectionRef, that.sectionRef)
+                && Objects.equals(sentenceRef, that.sentenceRef);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(law, paragraphRef, sectionRef);
+        return Objects.hash(law, paragraphRef, sectionRef, sentenceRef);
     }
 
     public String toString() {
@@ -99,6 +114,9 @@ public class LawReferenceFinder {
         }
         if (sectionRef != null) {
             result += " " + sectionRef + " ledd";
+        }
+        if (sentenceRef != null) {
+            result += " " + sentenceRef + " punktum";
         }
         return result.trim();
     }

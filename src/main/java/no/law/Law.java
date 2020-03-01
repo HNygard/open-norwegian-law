@@ -9,6 +9,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * This class holds the main text of a law. Plain text.
@@ -198,7 +199,7 @@ public class Law implements LawReference {
             if (lawRef.getSectionRef() != null) {
                 int sectionNum = NorwegianNumbers.nameToNumber.get(lawRef.getSectionRef());
                 if (sections.size() >= sectionNum) {
-                    return Collections.singletonList(sections.get(sectionNum - 1));
+                    return sections.get(sectionNum - 1).getMatchingLawRef(lawRef);
                 }
             }
             if (isMatchinLawRef(lawRef)) {
@@ -210,9 +211,14 @@ public class Law implements LawReference {
 
     public static class Section implements LawReference {
         String text;
+        List<Sentence> sentences;
 
         public Section(String text) {
             this.text = text;
+            this.sentences = Stream.of(text.split("\\."))
+                    .map(sentence -> sentence.trim() + ".")
+                    .map(Sentence::new)
+                    .collect(Collectors.toList());
         }
 
         public String toString() {
@@ -225,14 +231,47 @@ public class Law implements LawReference {
 
         @Override
         public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
-            // TODO: implement
+            // Matching on Paragraph level
             return false;
         }
 
         @Override
         public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
-            // TODO: implement
-            return Collections.emptyList();
+            if (lawRef.getSentenceRef() != null) {
+                int ref = NorwegianNumbers.nameToNumber.get(lawRef.getSentenceRef()) - 1;
+                if (sentences.get(ref) != null) {
+                    return Collections.singletonList(sentences.get(ref));
+                }
+            }
+
+            return Collections.singletonList(this);
+        }
+    }
+
+    public static class Sentence implements LawReference {
+        private final String text;
+
+        public Sentence(String text) {
+            this.text = text;
+        }
+
+        public String toString() {
+            return text;
+        }
+
+        @Override
+        public String toHtml() {
+            return "<div class=\"law-chapter-paragraph-section-sentence\">" + text + "</div>";
+        }
+
+        @Override
+        public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
+            throw new RuntimeException("Not implemented.");
+        }
+
+        @Override
+        public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+            throw new RuntimeException("Not implemented.");
         }
     }
 
