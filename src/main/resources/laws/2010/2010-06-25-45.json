@@ -1,0 +1,455 @@
+{
+    "lawId": "LOV-2010-06-25-45",
+    "lawName": "Lov om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)",
+    "shortName": "Sivilbeskyttelsesloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel I Formål, virkeområde med mer",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Lovens formål er å beskytte liv, helse, miljø og materielle verdier ved bruk av ikke-militær makt når riket er i krig, når krig truer, når rikets selvstendighet eller sikkerhet er i fare, og ved uønskede hendelser i fredstid."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Lovens stedlige virkeområde",
+                    "sections": [
+                        "For Svalbard, Jan Mayen og bilandene gjelder loven i det omfang og med de stedlige tilpasninger Kongen bestemmer.",
+                        "Loven gjelder ikke for virksomhet i sjøområder i forbindelse med undersøkelser etter, utvinning og utnyttelse av naturforekomster på havbunnen eller i dens undergrunn i indre norsk farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I denne lov menes med:",
+                        "a)Uønskede hendelser: hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø og materielle verdier.",
+                        "b)Sivilforsvarets myndigheter: departementet og den som bemyndiges.",
+                        "c)Egenbeskyttelsestiltak: tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel II Generelle bestemmelser om Sivilforsvaret",
+            "paragraphs": [
+                {
+                    "name": "§ 4",
+                    "title": "Sivilforsvarets oppgaver og ansvar",
+                    "sections": [
+                        "Sivilforsvarets oppgave er å planlegge og iverksette tiltak for beskyttelse av sivilbefolkningen, miljø og materielle verdier. Sivilforsvaret skal blant annet:",
+                        "a)etablere og drifte system for varsling av befolkningen, jf. § 16,",
+                        "b)forestå oppgaver i forbindelse med evakuering av befolkningen, jf. § 17,",
+                        "c)ha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. § 22 første ledd,",
+                        "d)bistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,",
+                        "e)lede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,",
+                        "f)etter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. § 10,",
+                        "g)utføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. § 29.",
+                        "Departementet kan gi forskrifter om Sivilforsvarets organisering, oppgaver og ansvar."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Allmennhetens bistandsplikt i akuttsituasjoner",
+                    "sections": [
+                        "Enhver plikter, når leder i Sivilforsvarets innsats krever det, å delta i innsats ved akutt fare for skade på liv, helse, miljø eller materielle verdier, samt stille eiendom, bygninger og materiell til disposisjon. Bistand etter denne bestemmelsen omfatter også plikt til å bistå med opplysninger som anses nødvendige for ivaretakelse av Sivilforsvarets innsats i akuttsituasjoner.",
+                        "Inngrep etter denne bestemmelsen kan bare foretas dersom dette er nødvendig for å sikre liv eller verne verdier som er større enn det som går tapt eller står i fare for å gå tapt ved inngrepet, og ikke alene kan håndteres av Sivilforsvaret.",
+                        "Myndighet etter første ledd skal så vidt mulig utøves i samråd med politiet.",
+                        "Staten skal betale erstatning for skade på person som følge av innsats etter denne bestemmelsen. Lov 16. juni 1989 nr. 65 om yrkesskadeforsikring gjelder tilsvarende for erstatning etter denne bestemmelsen. Staten skal også betale erstatning for materielle skader som følge av bistand etter første ledd.",
+                        "Departementet kan gi forskrifter om erstatning for skade på person og materiell som følge av innsats etter denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Grader, stillingsbetegnelser og uniformer mv. i Sivilforsvaret",
+                    "sections": [
+                        "Ingen må uberettiget bruke Sivilforsvarets grader, stillingsbetegnelser, uniformer, legitimasjon, merker eller signaler. Det samme gjelder for grader, stillingsbetegnelser, uniformer, legitimasjon, merker eller signaler som lett kan forveksles med Sivilforsvarets egne.",
+                        "Departementet kan gi forskrifter om grader, stillingsbetegnelser og uniformer mv. i Sivilforsvaret."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel III Tjeneste i Sivilforsvaret",
+            "paragraphs": [
+                {
+                    "name": "§ 7",
+                    "title": "Tjenesteplikt – generelle regler",
+                    "sections": [
+                        "Kvinner og menn mellom 18 og 55 år som oppholder seg i riket, kan pålegges tjenesteplikt i Sivilforsvaret.",
+                        "Vernepliktige kan ikke kalles inn til eller beholdes i tjeneste i Sivilforsvaret dersom dette hindrer utførelse av militær tjenesteplikt.",
+                        "Tjenestepliktige i Sivilforsvaret kan ikke sies opp fra stilling som følge av pålagt tjeneste i Sivilforsvaret.",
+                        "Stortinget fastsetter tjenestetidens varighet, herunder tjenestetiden ved utdannelse til befalsstillinger og ved annen spesialopplæring og til ekstraordinære øvelser.",
+                        "I beredskapssituasjoner kan departementet pålegge tjenestepliktige å tjenestegjøre så lenge det anses nødvendig.",
+                        "Departementet kan gi forskrifter om gjennomføringen av sivilforsvarstjenesten, herunder bestemmelser om godtgjøring for og fritak fra tjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Plikt til å gi opplysninger til bruk for tjenestelige forhold mv.",
+                    "sections": [
+                        "Personer som vurderes til tjeneste i Sivilforsvaret og tjenestepliktige, plikter skriftlig å bekrefte mottak av varsel om og pålegg av tjenesteplikt, og øvrig informasjon gitt av Sivilforsvarets myndigheter.",
+                        "Til bruk for tjenestelige forhold plikter offentlige myndigheter og arbeidsgivere å gi Sivilforsvarets myndigheter, uten hinder av taushetsplikt, opplysninger, oppgaver og attestasjoner om personer i tjenestepliktig alder som er knyttet til eller registrert hos dem. Sivilforsvarets myndigheter kan bestemme i hvilken form opplysningene skal gis.",
+                        "Kvinner og menn i tjenestepliktig alder plikter, på oppfordring fra Sivilforsvarets myndigheter, å gi opplysninger som har betydning for tjenestelige forhold. Politiattest kan kreves utferdiget og fremlagt dersom det er av særlig viktighet for Sivilforsvarets myndigheter å få slike opplysninger på grunn av den tjeneste vedkommende utfører eller som man overveier å pålegge vedkommende.",
+                        "Departementet kan gi forskrifter om politiattest, herunder bestemmelser om behandling av opplysninger innhentet for dette formålet.",
+                        "Tjenestepliktige og kvinner og menn som vurderes til tjeneste i Sivilforsvaret plikter å gjennomgå legeundersøkelser og andre prøver som er nødvendig for tjenestegjøring i Sivilforsvaret."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Tjenestepliktens nærmere innhold",
+                    "sections": [
+                        "Tjenestepliktige skal delta på de kurs, øvelser og innsatser som det innkalles til, og rette seg etter de ordre og instrukser som gjelder for tjenesten. Den tjenestepliktige kan ikke forlate tjenesten uten tillatelse.",
+                        "Tjenestepliktige kan pålegges å tjenestegjøre som befal eller instruktør."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Utenlandstjeneste",
+                    "sections": [
+                        "Disponering av tjenestepliktig personell i Sivilforsvaret til tjenestegjøring utenfor landets grenser krever avtale mellom den enkelte og Sivilforsvarets myndigheter."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Disiplinærreaksjoner overfor tjenestepliktige",
+                    "sections": [
+                        "Tjenestepliktig personell som overtrer eller forsømmer tjenesteplikter i Sivilforsvaret kan refses disiplinært. Refselse kan ilegges for forsettlige og uaktsomme forhold.",
+                        "Refselsesbøter kan innkreves av Statens Innkrevingssentral. Innkrevingssentralen kan inndrive bøtene ved trekk i lønn eller andre lignende ytelser som nevnt i lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 2-7.",
+                        "Departementet kan gi forskrifter om disiplinære forhold for tjenestepliktig personell i Sivilforsvaret, herunder hvem som kan tillegges refselsesmyndighet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel IV Kommunale plikter",
+            "paragraphs": [
+                {
+                    "name": "§ 12",
+                    "title": "Kommunens plikter",
+                    "sections": [
+                        "Kommunen skal bidra til gjennomføring av Sivilforsvarets oppgaver og tiltak.",
+                        "Videre skal kommunen blant annet:",
+                        "a)stille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,",
+                        "b)stille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,",
+                        "c)sørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,",
+                        "d)ivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. § 13,",
+                        "e)bygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. §§ 20 flg.,",
+                        "f)ivareta de kommunale beredskapsplikter som fremgår av §§ 14 og 15,",
+                        "g)planlegge og bistå ved gjennomføring av evakuering etter §§ 15, 17 og 18.",
+                        "Med mindre annet er særskilt bestemt i eller i medhold av loven, er kommunen ansvarlig for kostnader som påløper etter denne bestemmelsen.",
+                        "Departementet kan gi forskrifter om andre oppgaver til kommunen som er nødvendige for å gjennomføre tiltak etter denne loven."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Anskaffelse, lagring og vedlikehold av Sivilforsvarets materiell",
+                    "sections": [
+                        "Sivilforsvarets myndigheter anskaffer materiell til Sivilforsvaret og beslutter lokalisering av lager, etter en nasjonal vurdering.",
+                        "Kommunene skal lagre og vedlikeholde Sivilforsvarets materiell.",
+                        "Kostnader til lagring og vedlikehold av Sivilforsvarets materiell dekkes av kommunene.",
+                        "Departementet kan gi forskrifter om vedlikehold, lagring og lokalisering av Sivilforsvarets materiell, herunder bestemmelser om utgiftsfordeling mellom kommunene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel V Kommunal beredskapsplikt",
+            "paragraphs": [
+                {
+                    "name": "§ 14",
+                    "title": "Kommunal beredskapsplikt – risiko- og sårbarhetsanalyse",
+                    "sections": [
+                        "Kommunen plikter å kartlegge hvilke uønskede hendelser som kan inntreffe i kommunen, vurdere sannsynligheten for at disse hendelsene inntreffer og hvordan de i så fall kan påvirke kommunen. Resultatet av dette arbeidet skal vurderes og sammenstilles i en helhetlig risiko- og sårbarhetsanalyse.",
+                        "Risiko- og sårbarhetsanalysen skal legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder ved utarbeiding av planer etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven).",
+                        "Risiko- og sårbarhetsanalysen skal oppdateres i takt med revisjon av kommunedelplaner, jf. lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 11-4 første ledd, og for øvrig ved endringer i risiko- og sårbarhetsbildet.",
+                        "Departementet kan gi forskrifter med nærmere bestemmelser om gjennomføring av risiko- og sårbarhetsanalysen."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Kommunal beredskapsplikt – beredskapsplan for kommunen",
+                    "sections": [
+                        "Med utgangspunkt i risiko- og sårbarhetsanalysen etter § 14 skal kommunen utarbeide en beredskapsplan.",
+                        "Beredskapsplanen skal inneholde en oversikt over hvilke tiltak kommunen har forberedt for å håndtere uønskede hendelser. Som et minimum skal beredskapsplanen inneholde en plan for kommunens kriseledelse, varslingslister, ressursoversikt, evakueringsplan og plan for informasjon til befolkningen og media.",
+                        "Beredskapsplanen skal være oppdatert og revideres minimum én gang per år. Kommunen skal sørge for at planen blir jevnlig øvet.",
+                        "Departementet kan gi forskrifter med nærmere bestemmelser om beredskapsplanens innhold og øvrige krav etter denne bestemmelsen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel VI Sivile beskyttelsestiltak",
+            "paragraphs": [
+                {
+                    "name": "§ 16",
+                    "title": "Varsling",
+                    "sections": [
+                        "Sivilforsvaret kan etablere og drifte system for varsling av sivilbefolkningen.",
+                        "Eier eller bruker av eiendom plikter å stille denne til disposisjon for system for varsling av befolkningen. Sivilforsvaret kan kreve adgang til eiendom med sikte på etablering og drift av slike system.",
+                        "Virksomhet som i den kommunale risiko- og sårbarhetsanalysen vurderes som en særskilt risiko for omgivelsene, kan pålegges å etablere og bekoste egne ordninger for varsling av allmennheten.",
+                        "Departementet kan gi forskrifter med nærmere bestemmelser om varsling etter denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Evakuering i krig eller når krig truer",
+                    "sections": [
+                        "Når riket er i krig, når krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen beslutte evakuering av befolkningen.",
+                        "Når evakuering er besluttet skal enhver, etter pålegg fra Sivilforsvarets myndigheter, flytte til den tid og på den måte som fastsettes. Den enkelte kan pålegges å oppholde seg på et nærmere angitt sted. Ingen må uten samtykke fra Sivilforsvarets myndigheter vende tilbake til fraflyttingsområdet. Kongen kan bestemme at også andre enn Sivilforsvarets myndigheter gis myndighet etter denne bestemmelsen.",
+                        "Pålegg om evakuering kan også omfatte varelagre, transportmidler, husdyr og andre ressurser som anses nødvendig for å dekke befolkningens grunnleggende behov.",
+                        "Evakuering skal så vidt mulig utføres i samråd med politiet.",
+                        "Sivilforsvarets myndigheter kan pålegge berørte kommuner å medvirke under evakuering besluttet etter denne bestemmelse. Kommunene kan gis fullmakt til å utøve rekvisisjonsrett etter bestemmelsene i kapittel VII."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Allmennhetens bistand ved evakuering",
+                    "sections": [
+                        "Eier eller bruker av transportmiddel eller hus kan pålegges å bistå myndighetene med transport av evakuerte eller ved å gi evakuerte husvære. Det som etter myndighetenes skjønn er absolutt nødvendig for innehaveren selv, dennes husstand eller til utøving av dennes næringsvirksomhet, kan ikke kreves avgitt.",
+                        "Vederlag for ytelser etter første ledd fastsettes etter reglene i § 27.",
+                        "Ved evakuering etter pålegg betaler staten transportutgifter ved flyttingen. Fraflyttingskommunen betaler vederlaget for husvære for de evakuerte, men kan kreve dette refundert fra de evakuerte. Andre utgifter ved oppholdet betales av de evakuerte."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Forskrifter om evakuering",
+                    "sections": [
+                        "Departementet kan gi forskrifter om evakuering, herunder bestemmelser om planlegging, iverksetting og gjennomføring av evakuering. Det kan videre gis forskrifter om evakuerte personers rettsstilling og om utredning, fordeling og refusjon av utgifter knyttet til evakuering."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Etablering av offentlige og private tilfluktsrom",
+                    "sections": [
+                        "Kommunen skal bygge, utstyre og innrede offentlige tilfluktsrom til bruk for befolkningen.",
+                        "Offentlig eller privat tiltakshaver skal bygge, utstyre og innrede private tilfluktsrom til bruk for dem som normalt oppholder seg på den enkelte eiendom.",
+                        "Krav om bygging av privat tilfluktsrom etter annet ledd kan etter søknad frafalles mot at det innbetales et beløp som skal nyttes til å etablere anlegg eller ruste opp offentlige tilfluktsrom.",
+                        "Sammen med pålegg om innredning av tilfluktsrom etter annet ledd, kan det i rimelig utstrekning bestemmes at tilfluktsrommet skal innredes slik at det kan benyttes også av personer som normalt befinner seg på andre eiendommer. Eier eller bruker av den eller de øvrige eiendommene plikter i så fall å bidra til dekning av utgiftene til innredningen.",
+                        "Eier og bruker av fast eiendom, samt offentlige myndigheter, kan pålegges å gi Sivilforsvarets myndigheter opplysninger om fast eiendom som vurderes brukt som tilfluktsrom.",
+                        "Departementet kan gi forskrifter om tilfluktsrom. Det kan herunder gis bestemmelser om statens tilskudd ved bygging av offentlige tilfluktsrom og om overføring av ubenyttede midler til bruk i en annen kommune, jf. tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Plikt til å opprettholde tilfluktsrom",
+                    "sections": [
+                        "Eier og bruker av offentlig eller privat tilfluktsrom plikter å holde tilfluktsrommet i forsvarlig stand.",
+                        "Tilfluktsrom kan i fredstid utnyttes til andre formål hvis rommets verneevne ikke reduseres og rommet raskt kan klargjøres som tilfluktsrom ved behov.",
+                        "Bygningsmessige endringer som kan ha innvirkning på tilfluktsrommets verneevne skal forelegges Sivilforsvarets myndigheter for godkjenning før tiltaket iverksettes.",
+                        "Departementet kan gi forskrifter om nærmere plikter etter denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Tilfluktsromtjeneste i beredskapssituasjoner",
+                    "sections": [
+                        "Sivilforsvaret har ansvaret for klargjøring og drift av offentlige tilfluktsrom (tilfluktsromtjeneste) i beredskapssituasjoner. Kommunen plikter å bidra til gjennomføring av Sivilforsvarets oppgaver etter denne bestemmelsen.",
+                        "Eier og bruker av private tilfluktsrom har ansvaret for tilfluktsromtjeneste i private tilfluktsrom.",
+                        "Departementet kan gi forskrifter om tilfluktsromtjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Egenbeskyttelsestiltak ved virksomheter",
+                    "sections": [
+                        "Virksomheter kan pålegges å forberede og sette i verk nødvendige egenbeskyttelsestiltak mot uønskede hendelser.",
+                        "Egenbeskyttelsestiltak kan pålegges felles for flere virksomheter.",
+                        "Virksomhet som er pålagt egenbeskyttelsestiltak etter første ledd, plikter etter anmodning å yte bistand til annen virksomhet og nød- og beredskapsetatene, så langt dette er mulig under hensyn til egen beredskap. Virksomhet som yter bistand kan kreve refusjon av påførte utgifter fra den som mottar bistand.",
+                        "Den enkelte virksomhet kan pålegges å gi Sivilforsvarets myndigheter og tilsynsmyndigheten opplysninger av betydning for egenbeskyttelsestiltak etter denne bestemmelsen.",
+                        "Departementet kan gi forskrifter om egenbeskyttelse ved virksomheter."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Egenbeskyttelsestiltak for fast eiendom",
+                    "sections": [
+                        "Eier og bruker av fast eiendom kan pålegges å forberede og sette i verk egenbeskyttelsestiltak for eiendommen.",
+                        "Departementet kan gi forskrifter om egenbeskyttelse for fast eiendom."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel VII Rekvisisjon av fast eiendom, løsøre og rettigheter",
+            "paragraphs": [
+                {
+                    "name": "§ 25",
+                    "title": "Rekvisisjon",
+                    "sections": [
+                        "Departementet kan kreve avstått eiendomsrett, bruksrett eller annen særlig rådighet over fast eiendom i den grad det er nødvendig for oppfyllelse av lovens bestemmelser. Det samme gjelder rettigheter og løsøre av ethvert slag og elektrisk kraft. Avståelse til bruk omfatter rett til å foreta de endringer ved gjenstanden eller den faste eiendommen som anses nødvendig.",
+                        "Eiendomsrett til fast eiendom kan bare kreves avstått når avståelsens formål ikke kan oppnås gjennom tidsbegrenset bruksrett eller annen særlig rådighet over eiendommen.",
+                        "Departementet kan gi tillatelse til at også andre kan kreve slik avståelse som nevnt i første ledd. Departementet kan bestemme at den som får slik tillatelse, skal dekke utgiftene ved avståelsen helt eller delvis.",
+                        "Departementet kan gi eier eller bruker av løsøre pålegg om at tingen skal stilles til rådighet på angitt sted.",
+                        "Krav om avståelse skal fremsettes skriftlig. Når avståelse har funnet sted, skal det utstedes skriftlig kvittering med angivelse av det som er avstått, samt tid og sted for avståelsen.",
+                        "Avståelsen kan kreves gjennomført straks, selv om erstatning ikke er betalt eller fastsatt. Rekvirerende myndighet skal i så fall sørge for å innhente de beskrivelser og opplysninger som er nødvendige for fastsetting av erstatning. Skjønn etter § 27 skal avholdes så snart som mulig. Når det er nødvendig kan rekvirering gjennomføres med bistand fra politiet.",
+                        "Departementet kan gi forskrifter om rekvisisjon."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Forberedende tiltak med sikte på rekvisisjon",
+                    "sections": [
+                        "Som ledd i forberedende tiltak kan de myndigheter som departementet bestemmer, peke ut fast eiendom og løsøre som skal avstås etter § 25, og gi eier og bruker av løsøre pålegg om at tingen i nærmere angitte tilfeller skal stilles til rådighet på angitt sted.",
+                        "Eier og bruker av fast eiendom eller løsøre plikter etter krav fra myndighetene å erkjenne mottak av melding om tiltak eller pålegg som nevnt, samt å gi opplysninger og å gi adgang til inspeksjon. Løsøre kan om nødvendig pålegges brakt til et bestemt sted for inspeksjon. Slike pålegg skal oppfylles uten erstatning, med mindre annet er bestemt av departementet.",
+                        "Fast eiendom og løsøre kan etter avgjørelse av myndigheter utpekt etter første ledd, utbedres eller på annen måte forandres for å gjøres tjenlig for det påtenkte formål.",
+                        "Departementet kan gi forskrifter om forberedende tiltak etter denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Erstatning",
+                    "sections": [
+                        "Erstatning for avståelse etter § 25 og tap og utgifter ved å etterkomme pålegg etter § 26 fastsettes i mangel av minnelig overenskomst ved skjønn etter lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker, med mindre noe annet bestemmes i eller i medhold av denne loven.",
+                        "Departementet kan fastsette takster for bruk av husrom, lagerrom og driftsbygninger, samt for elektrisk kraft, varer og annet løsøre. Det samme gjelder utgifter ved å etterkomme pålegg etter §§ 25 og 26 første ledd, samt for ytelser etter § 18. Takstene kan fastsettes for hele eller deler av riket.",
+                        "Ved avståelse av bruksrett til rom inntil to døgn, gis ingen annen godtgjøring enn erstatning for beviselig voldte skader, tap eller utgifter oppstått som følge av avståelsen. Avstår samme besitter i løpet av samme kalenderår flere ganger bruksrett til rom som ellers er i bruk, skal godtgjøring gis om tidsrommet samlet utgjør mer enn tre døgn.",
+                        "Departementet kan gi forskrifter om erstatning ved rekvisisjon. Slike regler kan gis med virkning for rekvirering som allerede har funnet sted. Det kan herunder bestemmes at erstatning skal fastsettes og utbetales etter reglene i lov 29. juni 1951 nr. 19 om militære rekvisisjoner. Erstatningsfastsettelsen kan i tilfelle legges til de organer som opprettes i medhold av nevnte lovgivning."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Samordning av rekvisisjoner",
+                    "sections": [
+                        "Når militære myndigheter har rekvisisjonsrett etter lov 29. juni 1951 nr. 19 om militære rekvisisjoner, får § 8 i samme lov tilsvarende anvendelse for krav om avståelse etter loven her i den utstrekning departementet bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel VIII Tilsyn, håndheving og sanksjon med mer",
+            "paragraphs": [
+                {
+                    "name": "§ 29",
+                    "title": "Tilsyn",
+                    "sections": [
+                        "Departementet utpeker hvem som skal føre tilsyn med bestemmelser gitt i eller i medhold av denne lov. Det kan herunder bestemmes at organisasjon eller institusjon skal organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. § 23.",
+                        "Når departementet ved utpeking av tilsynsmyndighet har åpnet for dette, kan tilsynsmyndigheten la andre offentlige eller private sakkyndige føre tilsyn på sine vegne.",
+                        "For tilsyn med lovligheten av kommunens oppfyllelse av plikter etter §§ 12, 13, 14, 15, 20 og 21 gjelder kapittel 10 A i lov 25. september nr. 107 om kommuner og fylkeskommuner (kommuneloven)."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Særlige bestemmelser om tilsyn med egenbeskyttelsestiltak ved virksomheter",
+                    "sections": [
+                        "Utgifter som utpekt tilsynsorgan påføres ved å organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. § 23, kan utliknes og kreves betalt av virksomhetene.",
+                        "Departementet kan gi forskrifter om tilsyn med egenbeskyttelsestiltak ved virksomheter."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Tilsynsmyndighetens rett til opplysninger",
+                    "sections": [
+                        "Enhver som er underlagt tilsyn etter denne loven skal når tilsynsmyndigheten krever det, og uten hinder av taushetsplikt, legge frem de opplysninger som er nødvendige for utøvelsen av tilsynet.",
+                        "Opplysninger som nevnt i første ledd kan også kreves fremlagt fra andre offentlige tilsynsmyndigheter uten hinder av den taushetsplikt som ellers gjelder.",
+                        "Tilsynsmyndigheten kan bestemme i hvilken form opplysninger etter denne bestemmelsen skal gis."
+                    ]
+                },
+                {
+                    "name": "§ 32",
+                    "title": "Rett til adgang mv.",
+                    "sections": [
+                        "Tilsynsmyndigheten skal ha uhindret adgang til ethvert sted og til enhver innretning tilsynsmyndigheten finner nødvendig for å føre tilsyn etter denne loven. Om nødvendig kan det anmodes om bistand fra politiet for å sikre slik adgang.",
+                        "Tilsynspersonellet skal legitimere seg i samsvar med lov 10. februar 1967 nr. 2 om behandlingsmåten i forvaltningssaker § 15, og om mulig sette seg i kontakt med representant for eier eller bruker av objektet."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Gjennomføring av tilsyn",
+                    "sections": [
+                        "Den som eier eller bestyrer tilsynsobjektet, har rett til å være til stede under tilsynet, og kan i rimelig utstrekning også pålegges å være til stede. Tilsynsmyndigheten kan bestemme at retten til å være til stede ikke skal gjelde ved tilsynsmyndighetens intervju med ansatte ved tilsynsobjektet. Det samme gjelder dersom tilstedeværelse må antas å kunne medføre at formålet med tilsynet ikke nås.",
+                        "Tilsynsmyndigheten skal utarbeide en skriftlig rapport om tilsynet. Rapporten skal gjøres tilgjengelig for den som har mottatt pålegg om tilsynet. I tilfeller der det antas å kunne skade en informasjonsgiver om det kommer frem at han eller hun har gitt opplysninger, kan rapporten unnlate å nevne hvem som har gitt de aktuelle opplysningene.",
+                        "Departementet kan gi forskrifter om gjennomføring av tilsyn."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Pålegg og enkeltvedtak",
+                    "sections": [
+                        "Sivilforsvarets myndigheter og tilsynsmyndigheten gir de pålegg og treffer de enkeltvedtak ellers som er nødvendige for gjennomføring av bestemmelsene i denne loven eller bestemmelser gitt i medhold av loven. Det skal settes en frist for når pålegg skal være utført.",
+                        "Dersom pålegg ikke oppfylles innen fastsatt frist kan Sivilforsvarets myndigheter eller tilsynsmyndigheten helt eller delvis stanse virksomheten inntil pålegget er utført.",
+                        "Ved overhengende fare kan tilsynsmyndigheten stanse virksomheten og kreve at nødvendige tiltak blir iverksatt straks, selv om pålegg ikke er gitt.",
+                        "Blir pålegg stadfestet i rettskraftig dom eller ikke etterkommet, kan tilsynsmyndigheten selv utføre eller få pålegget utført for regning av den som dommen er rettet mot, uten at det er nødvendig med kjennelse etter lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 13-14.",
+                        "Ved overhengende fare kan pålegget fullbyrdes etter reglene i tvangsfullbyrdelsesloven § 13-14 uten at dom kreves.",
+                        "Når det er nødvendig kan pålegg og tiltak etter denne bestemmelsen gjennomføres med bistand fra politiet."
+                    ]
+                },
+                {
+                    "name": "§ 35",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "I pålegg etter denne loven kan det fastsettes en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.",
+                        "Tvangsmulkt kan også fastsettes som en engangsmulkt.",
+                        "Sivilforsvarets myndigheter og tilsynsmyndigheten kan frafalle påløpt tvangsmulkt."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Overtredelsesgebyr",
+                    "sections": [
+                        "Sivilforsvarets myndigheter og tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6 første ledd, 7 første ledd, 8 annet, tredje eller femte ledd, 9, 16 annet eller tredje ledd, 20 annet, fjerde eller femte ledd, 21 første ledd, 25 første eller fjerde ledd, 26 første eller annet ledd, 31 første ledd og 32 første ledd.",
+                        "Overtredelsesgebyr kan ilegges etter faste satser eller utmåles i hvert enkelt tilfelle. Ved fastsetting av gebyret kan det blant annet tas hensyn til fortjeneste eller potensiell fortjeneste som den ansvarlige har hatt ved overtredelsen, hvor alvorlig overtredelsen er, og ekstra kostnader som kontrolltiltak og behandling av saken har ført til.",
+                        "Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+                        "Departementet kan gi forskrifter med nærmere regler om fastsetting av overtredelsesgebyr herunder om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall.",
+                        "Overtredelsesgebyr og straff etter § 37 kan ikke brukes på samme lovbrudd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel IX Straff",
+            "paragraphs": [
+                {
+                    "name": "§ 37",
+                    "title": "Straff",
+                    "sections": [
+                        "Den som forsettlig overtrer §§ 5 første ledd, 20 annet ledd eller bestemmelser gitt i medhold av disse bestemmelsene, eller unnlater å etterkomme pålegg gitt med hjemmel i §§ 18 første ledd første punktum, 22 annet ledd, 25 første eller fjerde ledd, 26 første eller annet ledd straffes med bot eller fengsel inntil 3 måneder.",
+                        "Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i §§ 7 første eller femte ledd, 8 første, tredje eller femte ledd, eller § 9 eller bestemmelser gitt i medhold av disse bestemmelsene, straffes med bot eller fengsel inntil 1 år.",
+                        "Medvirkning straffes på samme måte."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel X Avsluttende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 38",
+                    "title": "Forholdet til forvaltningsloven",
+                    "sections": [
+                        "Når ikke annet er bestemt i medhold av lov 10. februar 1967 nr. 2 om behandlingsmåten i forvaltningssaker § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov. Forhåndsvarsel til sakens parter kan likevel unnlates dersom antallet parter i saken er stort, eller et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene synes upåkrevet.",
+                        "Forvaltningsloven kapittel IV–VI gjelder ikke for saker om tjenesteplikten og tjenestens utførelse. Pålegg etter §§ 7 eller 9 kan påklages til departementet.",
+                        "Direktoratet er klageinstans for vedtak truffet av sivilforsvarsdistriktene og tilsynsmyndigheter etter denne loven.",
+                        "Departementet kan bestemme at vedtak etter denne loven ikke kan kreves grunngitt eller påklages når riket er i krig, krig truer eller rikets selvstendighet eller sikkerhet er i fare. Det samme gjelder ved uønskede hendelser i fredstid."
+                    ]
+                },
+                {
+                    "name": "§ 39",
+                    "title": "Overgangsbestemmelser",
+                    "sections": [
+                        "Forskrifter gitt med hjemmel i lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret gjelder også etter at loven her har trådt i kraft."
+                    ]
+                },
+                {
+                    "name": "§ 40",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "Fra samme dato oppheves lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret."
+                    ]
+                },
+                {
+                    "name": "§ 41",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "I lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven) skal § 40 første ledd første punktum lyde:",
+                        "Når forholdene i eller utenfor et vassdrag skaper en særskilt og uvanlig fare for mennesker, miljø eller eiendom, kan vassdragsmyndigheten pålegge enhver tiltakshaver å innrette sin virksomhet for å redusere faren."
+                    ]
+                }
+            ]
+        }
+    ]
+}

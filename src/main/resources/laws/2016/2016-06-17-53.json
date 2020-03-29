@@ -1,0 +1,41 @@
+{
+    "lawId": "LOV-2016-06-17-53",
+    "lawName": "Lov om endringer i straffeloven og straffeprosessloven (personforfølgelse, forberedelse til tvangsekteskap mv.)",
+    "shortName": "Endringslov til straffeloven og straffeprosessloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 266",
+                    "title": "Hensynsløs atferd",
+                    "sections": [
+                        "Den som ved skremmende eller plagsom opptreden eller annen hensynsløs atferd forfølger en person eller på annen måte krenker en annens fred, straffes med bot eller fengsel inntil 2 år.",
+                        "Ny § 266 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 266 a",
+                    "title": "Alvorlig personforfølgelse",
+                    "sections": [
+                        "Den som gjentatte ganger truer, følger etter, iakttar, kontakter eller gjennom andre sammenlignbare handlinger forfølger en annen på en måte som er egnet til å fremkalle frykt eller engstelse, straffes med fengsel inntil 4 år.",
+                        "§ 295 nytt annet ledd skal lyde:",
+                        "På samme måte straffes den som ved forhold som nevnt i første ledd bokstav a til c får noen til å ha seksuell omgang med hverandre.",
+                        "§ 296 bokstav b skal lyde:",
+                        "b)får noen som han står i et forhold til som nevnt i bokstav a til å utføre handlinger som svarer til seksuell omgang med seg selv eller til å ha seksuell omgang med hverandre, eller",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

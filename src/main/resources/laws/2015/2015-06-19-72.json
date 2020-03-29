@@ -1,0 +1,55 @@
+{
+    "lawId": "LOV-2015-06-19-72",
+    "lawName": "Lov om endringar i lov om avleveringsplikt for allment tilgjengelege dokument (innsamling av digitale dokument m.m.)",
+    "shortName": "Endringslov til pliktavleveringslova",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 4 a",
+                    "title": "Innsamling av digitale dokument",
+                    "sections": [
+                        "Norsk materiale som vert gjort allment tilgjengeleg gjennom elektronisk kommunikasjonsnett, kan samlast inn.",
+                        "Digitale dokument som er verna med passord, skal ikkje samlast inn eller avleverast. Unnataket er dei tilfella der det passordverna dokumentet ville ha vore omfatta av avleveringsplikt om det vart utgjeve i eit anna format. Passordverna dokument som ikkje er omfatta av avleveringsplikta, og som inneheld personopplysningar, kan samlast inn eller avleverast dersom den personopplysningane gjeld, har gjeve eit uttrykkjeleg og informert samtykke.",
+                        "Når det er naudsynt for å gjennomføra digital innsamling, kan det framstillast nye eksemplar uavhengig av åndsverklova.",
+                        "Ny § 4 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4 b",
+                    "title": "Handsaming av personopplysningar i det digitale nettarkivet",
+                    "sections": [
+                        "Informasjon som er lagra i nettarkivet, skal som hovudregel ikkje slettast. Personar kan knyta merknader til personopplysningar om dei sjølve som er lagra i nettarkivet.",
+                        "Eit digitalt dokument som er lagra i det digitale nettarkivet og som inneheld personopplysningar, kan krevjast klausulert eller sletta dersom informasjonen er gjord allment tilgjengeleg ved ein feil.",
+                        "Eit digitalt dokument som er lagra i det digitale nettarkivet, som er utgjeve utan ansvarleg redaktør, og som inneheld personopplysningar, kan likevel krevjast klausulert eller sletta dersom eitt eller fleire av vilkåra nedanfor er oppfylte:",
+                        "a)Informasjonen ikkje har vore spreidd utanfor ein lukka krins, og informasjonen aldri var meint å verta gjord allment tilgjengeleg.",
+                        "b)Informasjonen er lagt ut av ein tredjeperson utan samtykke, og den omtalte sjølv ikkje har gjort informasjonen allment kjend.",
+                        "c)Det vil vera til vesentleg ulempe for den opplysningane gjeld, at informasjonen blir oppbevart til forskingsføremål.",
+                        "Informasjon som ikkje er allment kjend, og som omhandlar mindreårige eller personar som er sette under verjemål, skal på førespurnad klausulerast eller slettast.",
+                        "Avslag på ein søknad om klausulering eller sletting kan påklagast til ei særskild nemnd. Kongen gjev føresegner om ei slik nemnd.",
+                        "Ny § 4 c skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4 c",
+                    "title": "Tilgang til det digitale nettarkivet",
+                    "sections": [
+                        "Det digitale nettarkivet kan nyttast til forsking og dokumentasjon.",
+                        "Digitale dokument i nettarkivet som er utgjevne utan ansvarleg redaktør, og som inneheld personopplysningar som ikkje er allment kjende, skal etter søknad berre gjerast tilgjengelege for forskarar på særskilde terminalar hos Nasjonalbiblioteket.",
+                        "Klausulerte digitale dokument i nettarkivet kan berre gjerast tilgjengelege etter særskild avtale.",
+                        "Kongen gjev føresegner om tilgang til det digitale nettarkivet. Føresegnene i åndsverklova gjeld for tilgang til materiale som er verna med opphavsrett.",
+                        "§ 5 første ledd skal lyde:",
+                        "Avleveringsplikt kan påleggjast utgjevar, produsent og importør av dokument som vert gjort tilgjengeleg for allmenta.",
+                        "Lova gjeld frå den tid Kongen fastset."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

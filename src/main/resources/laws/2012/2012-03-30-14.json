@@ -1,0 +1,31 @@
+{
+    "lawId": "LOV-2012-03-30-14",
+    "lawName": "Lov om endringer i voldsoffererstatningsloven og straffeprosessloven",
+    "shortName": "Endringslov til voldsoffererstatningsloven og strpl.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 17 a",
+                    "title": "Domstolsprøving av oppreisningskrav",
+                    "sections": [
+                        "Når Erstatningsnemnda for voldsofres vedtak om voldsoffererstatning bringes inn for domstolene for overprøving, avsier domstolen dom for oppreisningserstatningen dersom det er nedlagt påstand om det. Dette gjelder likevel bare dersom det er gjennomført straffesak mot skadevolder uten at oppreisningskravet er blitt avgjort.",
+                        "Loven trer i kraft straks.",
+                        "Endringene i voldsoffererstatningsloven § 1 og § 11 gjelder for de tilfeller der det søkes om voldsoffererstatning på grunn av handlinger som har funnet sted 1. januar 2011 eller senere. Ny § 17 a gjelder der søksmålet reises etter ikrafttredelsen.",
+                        "Endringene i straffeprosessloven gjelder også for verserende saker."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

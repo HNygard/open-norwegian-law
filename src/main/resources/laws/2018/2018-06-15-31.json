@@ -1,0 +1,35 @@
+{
+    "lawId": "LOV-2018-06-15-31",
+    "lawName": "Lov om endringer i ekteskapsloven (absolutt 18-årsgrense for å inngå ekteskap i Norge)",
+    "shortName": "Ekteskapsloven (endringslov)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 1 a",
+                    "title": "Ekteskapsalder",
+                    "sections": [
+                        "Den som er under 18 år, kan ikke inngå ekteskap.",
+                        "§ 24 overskriften og første ledd skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Oppløsning av ekteskap som er inngått i strid med §§ 1 a, 3 eller 4",
+                    "sections": [
+                        "Hver av ektefellene kan kreve ekteskapet oppløst dersom det er inngått i strid med §§ 1 a, 3 eller 4.",
+                        "1.Loven gjelder fra den tid Kongen bestemmer.",
+                        "2.Søknader om tillatelse til å inngå ekteskap som er mottatt av fylkesmannen før ikrafttredelsen, skal behandles etter de reglene som gjaldt før ikrafttredelsen av denne loven.",
+                        "3.Endringene i ekteskapsloven § 24 gjelder for ekteskap som er inngått etter lovens ikrafttredelse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

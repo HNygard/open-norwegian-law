@@ -1,0 +1,78 @@
+{
+    "lawId": "LOV-2013-06-07-31",
+    "lawName": "Lov om Norsk kulturråd (kulturrådsloven)",
+    "shortName": "Kulturrådsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Norsk kulturråd har som formål å stimulere samtidens mangfoldige kunst- og kulturuttrykk og å bidra til at kunst og kultur skapes, bevares, dokumenteres og gjøres tilgjengelig for flest mulig."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Organisering",
+                    "sections": [
+                        "Norsk kulturråd er et statlig forvaltningsorgan som har hele landet som virkeområde. Norsk kulturråd består av et kollegialt organ (rådet) og en fagadministrasjon."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Rådet",
+                    "sections": [
+                        "Rådet har som oppgave å forvalte Norsk kulturfond og andre statlige tilskudd som er lagt til rådet. Rådet skal bl.a også være et rådgivende organ for staten i kulturspørsmål.",
+                        "Rådet kan nedsette utvalg til forberedelse av saker. Det kan delegere avgjørelsesmyndighet til utvalg, rådets leder og direktøren.",
+                        "Rådet skal ha ti medlemmer og numeriske varamedlemmer etter behov. Rådets medlemmer, inkludert leder, og varamedlemmer oppnevnes av Kongen etter tilråding fra departementet. Rådsmedlemmene kan gjenoppnevnes én gang. Medlemmene oppnevnes på grunnlag av kunst- og kulturfaglig kompetanse. Oppnevningene gjelder for fire år fra 1. januar etter valgår. Oppnevningene skal være rullerende slik at halvparten av medlemmene oppnevnes hvert annet år."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Direktør/fagadministrasjon",
+                    "sections": [
+                        "Fagadministrasjonen ledes av en direktør som tilsettes av departementet.",
+                        "Stillingsinstruks for direktøren fastsettes av departementet."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Instruksjonsmyndighet",
+                    "sections": [
+                        "Rådet er faglig uavhengig i sitt arbeid. Rådet kan ikke instrueres når det gjelder enkeltvedtak om fordeling av tilskudd."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Klage",
+                    "sections": [
+                        "Departementet kan ikke overprøve vedtak fattet av rådet når det gjelder det kunst- og kulturfaglige skjønnet."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Omgjøringsmyndighet",
+                    "sections": [
+                        "Departementet kan ikke på grunnlag av et annet kunst- og kulturfaglig skjønn omgjøre vedtak om tilskudd fattet av rådet."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Forskriftshjemmel",
+                    "sections": [
+                        "Departementet kan gi forskrift om tilskuddsordninger."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Ikraftsetting",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

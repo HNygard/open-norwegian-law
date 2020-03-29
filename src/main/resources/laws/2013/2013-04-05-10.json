@@ -1,0 +1,30 @@
+{
+    "lawId": "LOV-2013-04-05-10",
+    "lawName": "Lov om endringer i skatteloven (om skatt av formue og inntekt)",
+    "shortName": "Endringslov til skatteloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 4-22",
+                    "title": "Skattefrihet for visse engangserstatnings- og forsikringsutbetalinger til barn",
+                    "sections": [
+                        "(1) Skattyter som fyller 21 år eller mindre i inntektsåret, er fritatt for formuesskatt på:",
+                        "a.engangserstatning for personskade og tap av forsørger som i hovedsak utmåles etter prinsippene i skadeserstatningsloven kapittel 3 og yrkesskadeforsikringsloven.",
+                        "b.engangserstatning for personskade og tap av forsørger etter en annen stats erstatningsrett, så langt erstatningen er fastsatt etter hovedsakelig tilsvarende prinsipper som i norsk erstatningsrett.",
+                        "c.engangsutbetaling av ulykkes-, sykdoms- eller uføreforsikring ved skade, sykdom eller lyte.",
+                        "d.engangsutbetaling av ulykkesforsikring eller dødsfallsforsikring ved tap av forsørger.",
+                        "(2) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.",
+                        "Endringene under I trer i kraft straks med virkning fra og med inntektsåret 2012."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

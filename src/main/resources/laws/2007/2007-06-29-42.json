@@ -1,0 +1,29 @@
+{
+    "lawId": "LOV-2007-06-29-42",
+    "lawName": "Lov om endringer i arbeidsmiljøloven og allmenngjøringsloven",
+    "shortName": "Endringslov til aml. og allmenngjøringsl.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 9",
+                    "title": "Ansvar for oppdragsgivere",
+                    "sections": [
+                        "Departementet kan gi forskrift om at oppdragsgiver i kontrakt med oppdragstaker skal informere om plikter etter gjeldende forskrifter om allmenngjøring av tariffavtaler, og om at oppdragsgiver skal påse at oppdragstaker etterlever slike plikter.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

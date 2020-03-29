@@ -1,0 +1,180 @@
+{
+    "lawId": "LOV-2006-06-30-39",
+    "lawName": "Lov om endringer i finansieringsvirksomhetsloven, verdipapirhandelloven og i enkelte andre lover (nytt kapitaldekningsregelverk)",
+    "shortName": "Endringslov til finanslover",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 2-9",
+                    "title": "Krav til virksomheten",
+                    "sections": [
+                        "En finansinstitusjon skal til enhver tid oppfylle de krav til kapital som følger av §§ 2-9 a og 2-9 b, samt forskrift og enkeltvedtak gitt i medhold av disse bestemmelsene. §§ 2-9 a til 2-9 d gjelder ikke forsikringsselskaper og pensjonsforetak med mindre annet er fastsatt ved forskrift gitt av departementet.",
+                        "En finansinstitusjon skal organiseres og drives på en forsvarlig måte. Dette innebærer blant annet at institusjonen skal ha:",
+                        "a)klar organisasjonsstruktur,",
+                        "b)klar ansvarsfordeling,",
+                        "c)klare og hensiktsmessige styrings- og kontrollordninger,",
+                        "d)hensiktsmessige retningslinjer og rutiner for å identifisere, styre, overvåke og rapportere risiko institusjonen er, eller kan bli eksponert for.",
+                        "Finansinstitusjonens styrings- og kontrollordninger samt retningslinjer og rutiner skal stå i forhold til risikoen ved og omfanget av virksomheten i institusjonen.",
+                        "Ny § 2-9 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-9 a",
+                    "title": "Beregnet kapitalkrav",
+                    "sections": [
+                        "En finansinstitusjons ansvarlige kapital skal til enhver tid utgjøre minst åtte prosent av et beregningsgrunnlag etter regler fastsatt i forskrift.",
+                        "Beregningsgrunnlaget for kravet til ansvarlig kapital skal tilsvare summen av beregningsgrunnlagene for kredittrisiko, markedsrisiko og operasjonell risiko.",
+                        "Beregningsgrunnlaget for kredittrisiko skal fastsettes med utgangspunkt i risikovekter fastsatt i forskrift (standard metode) eller med utgangspunkt i risikoparametere helt eller delvis fastsatt av institusjonen selv på bakgrunn av interne målemetoder for klassifisering og kvantifisering av kredittrisiko (internbasert rating metode – IRB).",
+                        "Beregningsgrunnlaget for markedsrisiko skal fastsettes med utgangspunkt i regler fastsatt i forskrift, eller med utgangspunkt i interne målemetoder.",
+                        "Beregningsgrunnlaget for operasjonell risiko skal fastsettes som: en andel av gjennomsnittlig inntekt (basis metode), en andel av inntekten innenfor de ulike forretningsområder multiplisert med en indikator på tapserfaring fastsatt av departementet (sjablongmetode) eller på bakgrunn av interne målemetoder for operasjonell risiko (avanserte metoder).",
+                        "Interne risikostyringsmetoder for blant annet kredittrisiko og markedsrisiko, samt avanserte metoder for operasjonell risiko, kan kun benyttes for beregning av kravet til ansvarlig kapital etter tillatelse gitt av tilsynsmyndigheten.",
+                        "Kredittilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at en finansinstitusjon kan ha lavere kapitaldekning enn det som følger av denne paragraf.",
+                        "Departementet kan i forskrift fastsette bestemmelser om:",
+                        "a)hva som skal anses som ansvarlig kapital og sammensetningen av denne,",
+                        "b)beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko,",
+                        "c)bruk av interne målemetoder,",
+                        "d)hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekravet til ansvarlig kapital etter denne paragraf.",
+                        "Ny § 2-9 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-9 b",
+                    "title": "Vurdering av samlet kapitalbehov og tilsynsmessig oppfølging",
+                    "sections": [
+                        "En finansinstitusjon skal til enhver tid ha oversikt over og vurdere hvilken risiko som er knyttet til virksomheten. En finansinstitusjon skal videre til enhver tid ha ansvarlig kapital som er forsvarlig ut fra risikoen ved og omfanget av den virksomhet institusjonen driver.",
+                        "En finansinstitusjon skal vurdere kapitalbehovet på kort og lengre sikt og hvordan dette kapitalbehovet kan tilfredsstilles. Vurderingen av kapitalbehov skal omfatte størrelsen på, og sammensetningen og fordelingen av, kapitalen sett i forhold til arten og omfanget av den risiko som til enhver tid er knyttet til virksomheten og til den risiko som vil kunne oppstå.",
+                        "Kredittilsynet skal se til at de finansinstitusjoner det har tilsyn med har hensiktsmessige og klare retningslinjer og rutiner, i samsvar med lov og bestemmelser gitt i medhold av lov, for vurdering, styring og kontroll av risiko og kapitalbehov.",
+                        "Kredittilsynet kan pålegge institusjonene å ha en høyere ansvarlig kapital enn de lovbestemte minstekrav, jf. kredittilsynsloven § 4 første ledd nr. 4.",
+                        "Departementet kan i forskrift fastsette bestemmelser om interne retningslinjer og rutiner for vurdering, styring og kontroll av risiko og kapitalbehov.",
+                        "Ny § 2-9 c skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-9 c",
+                    "title": "Opplysningskrav",
+                    "sections": [
+                        "En finansinstitusjon skal offentliggjøre informasjon om virksomheten, risikoen knyttet til institusjonen og ansvarlig kapital etter bestemmelser fastsatt i forskrift.",
+                        "Departementet kan i forskrift fastsette bestemmelser om:",
+                        "a)institusjonens offentliggjøring av informasjon,",
+                        "b)krav til dokumentasjon, herunder bestemmelser som gjør unntak fra lov 14. april 2000 nr. 31 om behandling av personopplysninger.",
+                        "Ny § 2-9 d skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-9 d",
+                    "title": "Retting og pålegg",
+                    "sections": [
+                        "Institusjoner som ikke oppfyller krav i henhold til § 2-9, § 2-9 a, § 2-9 b, § 2-9 c eller forskrifter fastsatt i medhold av lovbestemmelsene skal straks iverksette nødvendige tiltak for å rette opp dette. Ved manglende etterlevelse av kravene kan Kredittilsynet pålegge institusjonene å:",
+                        "a)endre organiseringen, styringen og kontrollen av virksomheten og de strategier, prosesser, retningslinjer og rutiner som virksomheten drives etter,",
+                        "b)ha høyere kapitalkrav som følge av institusjonens tapsavsetningspraksis eller behandlingen av eiendeler,",
+                        "c)endre eller begrense virksomheten,",
+                        "d)redusere risikoen knyttet til virksomheten, herunder produkter og systemer.",
+                        "§ 3-17 oppheves.",
+                        "I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:",
+                        "§ 8-10 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": [
+                {
+                    "name": "§ 8-10",
+                    "title": "Krav til virksomheten",
+                    "sections": [
+                        "Et verdipapirforetak skal til enhver tid oppfylle de krav til kapital som følger av §§ 8-10 a og 8-10 b, samt forskrift og enkeltvedtak gitt i medhold av disse bestemmelsene.",
+                        "Verdipapirforetaket skal organiseres og drives på en forsvarlig måte. Dette innebærer blant annet at foretaket skal ha:",
+                        "1.klar organisasjonsstruktur,",
+                        "2.klar ansvarsfordeling,",
+                        "3.klare og hensiktsmessige styrings- og kontrollordninger,",
+                        "4.hensiktsmessige retningslinjer og rutiner for å identifisere, styre, overvåke og rapportere risiko institusjonen er, eller kan bli eksponert for.",
+                        "Verdipapirforetakets styrings- og kontrollordninger samt retningslinjer og rutiner skal stå i forhold til risikoen ved og omfanget av virksomheten i foretaket.",
+                        "Ny § 8-10 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-10 a",
+                    "title": "Beregnet kapitalkrav",
+                    "sections": [
+                        "Et verdipapirforetaks ansvarlige kapital skal til enhver tid utgjøre minst åtte prosent av et beregningsgrunnlag etter regler fastsatt i forskrift.",
+                        "For verdipapirforetak som ikke er kredittinstitusjon, kan ikke den ansvarlige kapitalen i noe tilfelle være mindre enn de beløp som følger av § 8-9 første ledd.",
+                        "Beregningsgrunnlaget for kravet til ansvarlig kapital skal tilsvare summen av beregningsgrunnlagene for kredittrisiko, markedsrisiko og operasjonell risiko.",
+                        "Beregningsgrunnlaget for kredittrisiko skal fastsettes med utgangspunkt i risikovekter fastsatt i forskrift (standard metode) eller med utgangspunkt i risikoparametere helt eller delvis fastsatt av institusjonen selv på bakgrunn av interne målemetoder for klassifisering og kvantifisering av kredittrisiko (internbasert rating metode – IRB).",
+                        "Beregningsgrunnlaget for markedsrisiko skal fastsettes med utgangspunkt i regler fastsatt i forskrift, eller med utgangspunkt i interne målemetoder.",
+                        "Beregningsgrunnlaget for operasjonell risiko skal fastsettes som: en andel av gjennomsnittlig inntekt (basis metode), en andel av inntekten innenfor de ulike forretningsområder multiplisert med en indikator på tapserfaring fastsatt av departementet (sjablongmetode) eller på bakgrunn av interne målemetoder for operasjonell risiko (avanserte metoder).",
+                        "Kredittilsynet kan i forskrift eller ved enkeltvedtak frita verdipapirforetak med tillatelse til å yte investeringstjenestene som nevnt i § 1-2 første ledd nr. 3 og 5, og forvaltningsselskap for verdipapirfond med tillatelse til å drive aktiv forvaltning, fra krav til ansvarlig kapital for operasjonell risiko.",
+                        "Interne risikostyringsmetoder for blant annet kredittrisiko og markedsrisiko, samt avanserte metoder for operasjonell risiko, kan kun benyttes for beregning av kravet til ansvarlig kapital etter tillatelse gitt av tilsynsmyndigheten.",
+                        "Kredittilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at et verdipapirforetak kan ha lavere kapitaldekning enn det som følger av denne paragraf.",
+                        "Departementet kan i forskrift fastsette bestemmelser om:",
+                        "1.hva som skal anses som ansvarlig kapital og sammensetningen av denne,",
+                        "2.beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko,",
+                        "3.bruk av interne målemetoder,",
+                        "4.hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekravet til kapital etter denne paragraf.",
+                        "Ny § 8-10 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-10 b",
+                    "title": "Vurdering av samlet kapitalbehov og tilsynsmessig oppfølging",
+                    "sections": [
+                        "Et verdipapirforetak skal til enhver tid ha oversikt over og vurdere hvilken risiko som er knyttet til virksomheten. Et verdipapirforetak skal videre til enhver tid ha ansvarlig kapital som er forsvarlig ut fra risikoen ved og omfanget av den virksomhet foretaket driver.",
+                        "Et verdipapirforetak skal vurdere kapitalbehovet på kort og lengre sikt og hvordan dette kapitalbehovet kan tilfredsstilles. Vurderingen av kapitalbehov skal omfatte størrelsen på, og sammensetningen og fordelingen av, kapitalen sett i forhold til arten og omfanget av den risiko som til enhver tid er knyttet til virksomheten og til den risiko som vil kunne oppstå.",
+                        "Kredittilsynet skal se til at de verdipapirforetak det har tilsyn med har hensiktsmessige og klare retningslinjer og rutiner, i samsvar med lov og bestemmelser gitt i medhold av lov, for vurdering, styring og kontroll av risiko og kapitalbehov.",
+                        "Kredittilsynet kan pålegge foretakene å ha en høyere ansvarlig kapital enn de lovbestemte minstekrav, jf. kredittilsynsloven § 4 første ledd nr. 4.",
+                        "Departementet kan i forskrift fastsette bestemmelser om interne retningslinjer og rutiner for vurdering, styring og kontroll av risiko og kapitalbehov.",
+                        "Ny § 8-10 c skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-10 c",
+                    "title": "Opplysningskrav",
+                    "sections": [
+                        "Et verdipapirforetak skal offentliggjøre informasjon om virksomheten, risikoen knyttet til foretaket og ansvarlig kapital etter bestemmelser fastsatt i forskrift.",
+                        "Departementet kan i forskrift fastsette bestemmelser om:",
+                        "1.foretakenes offentliggjøring av informasjon,",
+                        "2.krav til dokumentasjon, herunder bestemmelser som gjør unntak fra lov 14. april 2000 nr. 31 om behandling av personopplysninger.",
+                        "Ny § 8-10 d skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-10 d",
+                    "title": "Retting og pålegg",
+                    "sections": [
+                        "Verdipapirforetak som ikke oppfyller krav i henhold til § 8-10, § 8-10 a, § 8-10 b, § 8-10 c eller forskrifter fastsatt i medhold av lovbestemmelsene, skal straks iverksette nødvendige tiltak for å rette opp dette. Ved manglende etterlevelse av kravene kan Kredittilsynet pålegge foretakene å:",
+                        "1.endre organiseringen, styringen og kontrollen av virksomheten og de strategier, prosesser, retningslinjer og rutiner som virksomheten drives etter,",
+                        "2.ha høyere kapitalkrav som følge av foretakets tapsavsetningspraksis eller behandlingen av eiendeler,",
+                        "3.endre eller begrense virksomheten,",
+                        "4.redusere risikoen knyttet til virksomheten, herunder produkter og systemer.",
+                        "Ny § 8-10 e skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-10 e",
+                    "title": "Unntak",
+                    "sections": [
+                        "Allmennaksjeloven § 8-1 annet ledd gjelder ikke for verdipapirforetak.",
+                        "Loven gjelder fra den tid Kongen bestemmer.",
+                        "Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "Kongen kan gi overgangsbestemmelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        }
+    ]
+}

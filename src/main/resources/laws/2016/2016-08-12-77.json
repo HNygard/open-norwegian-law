@@ -1,0 +1,844 @@
+{
+    "lawId": "LOV-2016-08-12-77",
+    "lawName": "Lov om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven)",
+    "shortName": "Forsvarsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1 Formål, virkeområde og definisjoner",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Loven skal",
+                        "a)sikre Forsvarets operative evne gjennom allmenn verneplikt og tjenesteplikt",
+                        "b)sikre Forsvaret egnet bemanning",
+                        "c)legge til rette for at bemanningen kan brukes slik at Forsvarets nasjonale og internasjonale oppgaver blir gjennomført",
+                        "d)ivareta de vernepliktige og de tjenestepliktige."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Hva og hvem loven gjelder",
+                    "sections": [
+                        "Loven gjelder tjenesteplikt i Forsvaret og rettigheter og plikter knyttet til den. Alle som har verneplikt, militært tilsatte og andre som har inngått kontrakt om tjeneste med Forsvaret, har tjenesteplikt.",
+                        "Verneplikten er den plikten som norske statsborgere og utenlandske statsborgere etter § 6 har til i fred og krig å gjøre tjeneste i Forsvaret hvis Forsvaret finner dem skikket til tjeneste.",
+                        "Tjenesteplikten er plikten til i fred og krig å utføre de oppgavene som Forsvaret tildeler, i den stillingen og på det stedet Forsvaret bestemmer.",
+                        "Loven gjelder sivilt tilsatte i Forsvarsdepartementet og underliggende etater der det er fastsatt i loven her."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I denne loven menes med",
+                        "a)styrkeoppbygging: klargjøring og aktivering av militære styrker",
+                        "b)militært tilsatte: offiserer, befal, grenaderer og konstabler som har inngått kontrakt om tilsetting i Forsvaret",
+                        "c)internasjonale operasjoner: bruk av militære styrker i utlandet for å skape, bevare eller gjenopprette fred og stabilitet."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Begrensninger i tjenesten for dem som er under 18 år",
+                    "sections": [
+                        "De som er under 18 år og som gjør tjeneste i Forsvaret, skal ikke gis opplæring eller delta i stridsrelatert virksomhet. De som er under 18 år kan heller ikke bli satt til ekstraordinær tjeneste etter § 17 tredje ledd.",
+                        "Når Norge er i krig, når krig truer eller når Forsvaret har satt i gang styrkeoppbygging, skal de som er under 18 år straks fritas for tjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Organiseringen av Forsvaret",
+                    "sections": [
+                        "Forsvaret er organisert i Hæren, Sjøforsvaret og Luftforsvaret (forsvarsgrenene), Heimevernet og fellesinstitusjoner. Stortinget bestemmer Heimevernets organisasjon og innpassing i Forsvaret.",
+                        "Heimevernet skal delta i territorielle operasjoner som en del av nasjonale fellesoperasjoner, og i vernet av heimtrakten. Landsrådet for Heimevernet, distriktsrådene, områdeutvalgene og heimevernsnemndene skal sikre Heimevernets samarbeid med sivilbefolkningen. Kongen kan gi forskrift om virksomheten til rådene, utvalgene og nemndene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Verneplikten",
+            "paragraphs": [
+                {
+                    "name": "§ 6",
+                    "title": "Hvem som har verneplikt",
+                    "sections": [
+                        "Norske statsborgere som er skikket til tjeneste i Forsvaret, har verneplikt fra det året de fyller 19 år, til utgangen av det året de fyller 44 år. Norske statsborgere som også er statsborgere av et annet land, har verneplikt i Norge så lenge de er bosatt her, og så lenge avtale med det andre landet ikke er til hinder for det.",
+                        "Norske statsborgere som også er eller har vært statsborgere av et land Norge er i krig med, er fritatt for tjeneste i Forsvaret.",
+                        "Utenlandske statsborgere som oppholder seg i og har en fast tilknytning til Norge, kan bli pålagt verneplikt hvis ikke avtale med landet de er statsborgere av, er til hinder for det. De er fritatt for tjeneste i Forsvaret når Norge er i krig med det landet de er statsborgere av.",
+                        "Verneplikten gjelder ikke for kvinner som er født før 1. januar 1997.",
+                        "Verneplikten gjelder ikke for ordinerte prester i Den norske kirke og prester og forstandere i registrerte tros- og livssynssamfunn som ikke har gjort tjeneste i Forsvaret.",
+                        "Kongen kan gi forskrift om vilkår for og fritak for verneplikten."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Forsvarets rett til å innhente og behandle personopplysninger",
+                    "sections": [
+                        "Forsvaret kan innhente og behandle personopplysninger om norske statsborgere og personer som oppholder seg i Norge uten å være norske statsborgere, når det er nødvendig for",
+                        "a)å avgjøre hvem som anses skikket til tjeneste",
+                        "b)å innkalle tjenestepliktige til tjeneste",
+                        "c)å holde verneplikts- og tjenesteregisteret oppdatert.",
+                        "Opplysningene kan innhentes fra offentlige og private registre fra det året personer fyller 17 år. Opplysningene registreres i Forsvarets verneplikts- og tjenesteregister.",
+                        "Departementet kan gi forskrift om innhentingen og behandlingen av personopplysningene."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Opplysningsplikt og meldeplikt",
+                    "sections": [
+                        "De som kan bli kalt inn til tjeneste i Forsvaret, skal på oppfordring gi Forsvaret opplysninger som har betydning for verneplikten. Plikten gjelder fra det året de fyller 17 år. Opplysningene skal dokumenteres hvis Forsvaret krever det. Vernepliktige som søker om fritak for tjeneste etter kapittel 4, kan bli pålagt å forklare seg muntlig.",
+                        "Forsvaret kan kreve skriftlig bekreftelse på at innkallinger, andre pålegg og dokumenter om verneplikt er mottatt. De som ikke oppholder seg på registrert adresse, skal sørge for å gjøre seg kjent med innholdet.",
+                        "Forsvaret kan kreve at alle som kan bli kalt inn til tjeneste i Forsvaret, skal melde fra om fast eller midlertidig flytting i eller utenfor Norge og om utenlandsopphold på over to måneder.",
+                        "Kongen kan gi forskrift om hvor omfattende meldeplikten skal være, om at alle søkere skal forklare seg muntlig i saker om fritak etter kapittel 4, og om hvilke andre private og offentlige virksomheter i Norge og norske virksomheter utenfor Norge som kan kreve opplysninger etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Sesjon",
+                    "sections": [
+                        "På grunnlag av Forsvarets behov og innhentede opplysninger kan personer som antas å være egnet til tjeneste, innkalles til sesjon. De som blir innkalt, plikter å møte. De som søker om det, kan få utsatt fremmøtetidspunktet når det foreligger vektige velferdsgrunner.",
+                        "På sesjon bestemmer Forsvaret hvem som er skikket til tjeneste, og de innkalte får informasjon om verneplikten og om tjenesten i Forsvaret.",
+                        "Departementet gir forskrift om gjennomføringen av sesjon og om godtgjørelse for å møte til sesjon."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Vurdering av hvem som er skikket til tjeneste",
+                    "sections": [
+                        "De som er innkalt til sesjon, plikter å la seg undersøke av lege og å gjennomgå andre undersøkelser og prøver som Forsvaret mener er nødvendige for å kunne avgjøre om de er skikket til tjeneste. Dette gjelder også dem som senere innkalles til tjeneste, og dem som er i tjeneste.",
+                        "På grunnlag av innhentede opplysninger, vedtak om helsetilstand, andre prøver og samtaler bestemmer Forsvaret på sesjon om de innkalte er skikket til tjeneste. Innkalte som Forsvaret antar er egnet til å gjennomføre tjeneste, og som ikke har hatt mulighet til å møte på sesjon, kan bli vurdert når de møter til tjeneste, eller bare på grunnlag av innhentede opplysninger.",
+                        "Forsvaret skal informere dem som blir vurdert, om resultatet av vurderingen.",
+                        "Departementet kan gi forskrift om undersøkelser og prøver, og om vurderingen av helsetilstanden."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Klage på og omgjøring av vedtak om helsetilstand",
+                    "sections": [
+                        "Et vedtak om helsetilstand kan påklages. Klagefristen er seks måneder etter vedtakstidspunktet.",
+                        "Hvis Forsvaret mottar nye opplysninger, kan vedtaket omgjøres uten klage.",
+                        "Departementet kan gi forskrift om behandlingen av klager på og omgjøring av vedtak om helsetilstand."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Utvidet verneplikt ved frivillig tjeneste og opplæring i Forsvaret",
+                    "sections": [
+                        "De som etter søknad innkalles til tjeneste eller opplæring i Forsvaret før det året de fyller 19 år, har verneplikt fra og med den dagen tjenesten eller opplæringen starter, men tidligst fra den dagen de fyller 18 år."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Utvidet verneplikt for tidligere militært tilsatte",
+                    "sections": [
+                        "Tidligere militært tilsatte som har vært tilsatt i minst ett år etter førstegangstjenesten, har verneplikt til og med det året de fyller 55 år."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Utvidet verneplikt i Heimevernet for personer mellom 44 og 55 år",
+                    "sections": [
+                        "Hvis Heimevernet ikke har mange nok tjenestepliktige under 44 år, kan personer mellom 44 og 55 år som er skikket til tjeneste, bli pålagt en utvidet verneplikt i Heimevernet.",
+                        "Kongen gir forskrift om innholdet i den utvidede verneplikten for personer mellom 44 og 55 år."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Overføring til Sivilforsvaret og til politiet",
+                    "sections": [
+                        "Vernepliktige som ikke kalles inn til tjeneste i Forsvaret, kan overføres til Sivilforsvaret eller politiet.",
+                        "Kongen kan gi forskrift om overføringen til Sivilforsvaret og politiet, men ikke om hvor mange vernepliktige som kan overføres."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Verneplikt i krig eller når krig truer",
+                    "sections": [
+                        "I krig eller når krig truer, kan Kongen gi forskrift om at",
+                        "a)verneplikten inntrer fra fylte 18 år og varer til fylte 55 år",
+                        "b)vurderingen av hvem som er skikket til tjeneste, skal gjøres på andre måter enn det som følger av §§ 9 og 10",
+                        "c)de som tidligere ikke er funnet skikket til tjeneste, kan vurderes på nytt",
+                        "d)norske statsborgere som ikke oppholder seg i Norge, kan kalles inn til sesjon",
+                        "e)alle som kan kalles inn til tjeneste i Forsvaret, kan bli ilagt reiseforbud."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Tjenesteplikten for vernepliktige og personer med kontrakt om tjeneste",
+            "paragraphs": [
+                {
+                    "name": "§ 17",
+                    "title": "Tjenesteplikten",
+                    "sections": [
+                        "De vernepliktiges tjenesteplikt omfatter ordinær tjeneste og ekstraordinær tjeneste. Denne tjenesteplikten går foran annen lovpålagt tjenesteplikt.",
+                        "Ordinær tjeneste er",
+                        "a)førstegangstjeneste",
+                        "b)repetisjonstjeneste",
+                        "c)årlig heimevernstjeneste",
+                        "d)offisers-, befals- og spesialistopplæring.",
+                        "Ekstraordinær tjeneste er",
+                        "a)tjeneste for å avverge og begrense naturkatastrofer eller alvorlige ulykker",
+                        "b)vakthold og sikring av objekter og infrastruktur",
+                        "c)tjeneste for å ivareta andre vesentlige samfunnsinteresser",
+                        "d)særlige øvelser som skal styrke Forsvaret",
+                        "e)beredskapstjeneste ved styrkeoppbygging.",
+                        "Kongen i statsråd bestemmer om vernepliktige kan kalles inn til ekstraordinær tjeneste. Kongen kan gi forskrift om gjennomføringen av ekstraordinær tjeneste, om at Heimevernet kan kalle inn vernepliktige til ekstraordinær tjeneste etter tredje ledd bokstav a til c, og om hvem som skal kunne be om bistand fra Heimevernet."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Tjenestens lengde",
+                    "sections": [
+                        "Vernepliktige kan bli pålagt inntil 19 måneders ordinær tjeneste. Stortinget bestemmer hvor lang førstegangstjenesten, den årlige heimevernstjenesten, repetisjonstjenesten og offisers-, befals- og spesialistopplæringen skal være.",
+                        "Den ekstraordinære tjenesten kan vare inntil seks måneder hver gang. Beredskapstjeneste ved styrkeoppbygging etter § 17 tredje ledd bokstav e kan vare mer enn seks måneder når situasjonen krever det.",
+                        "Den ekstraordinære tjenesten skal fordeles mellom de tjenestepliktige for i størst mulig grad å unngå at de samme innkalles til ekstraordinær tjeneste flere ganger.",
+                        "Kongen kan gi forskrift om hvordan ordinær tjenestetid skal beregnes og godskrives."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Innkalling til tjeneste i Forsvaret",
+                    "sections": [
+                        "Vernepliktige som Forsvaret har funnet skikket til tjeneste etter § 10, kan innkalles til tjeneste i samsvar med Forsvarets behov. De som blir innkalt, plikter å møte. Innkallingen skal inneholde informasjon om oppmøtetidspunkt, tjenestested og tjenestens lengde.",
+                        "Når vernepliktige innkalles til førstegangstjeneste, skal det, så langt det er mulig, tas hensyn til den enkeltes ønske om type tjeneste.",
+                        "Departementet kan gi forskrift om innkalling til tjeneste og om utsettelse av tjenesten når samfunnsinteresser eller vektige velferdsgrunner krever det."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Vaksinering og andre tiltak for å forebygge smittsomme sykdommer",
+                    "sections": [
+                        "Tjenestepliktige som er innkalt til tjeneste, plikter å la seg vaksinere, og å godta at Forsvaret gjennomfører andre tiltak som er nødvendige for å forebygge smittsomme sykdommer.",
+                        "Departementet kan gi forskrift om vaksineringen og om andre tiltak som er nødvendige for å forebygge smittsomme sykdommer."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Gjennomføring av førstegangstjenesten",
+                    "sections": [
+                        "Førstegangstjenesten skal gjennomføres snarest mulig etter at det er bestemt at den vernepliktige skal gjøre tjeneste i Forsvaret. Hvis det er mulig, skal tjenesten være påbegynt innen utløpet av det året den tjenestepliktige fyller 22 år."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Når plikten til å gjennomføre førstegangstjenesten faller bort",
+                    "sections": [
+                        "Plikten til å gjennomføre førstegangstjenesten faller bort hvis den tjenestepliktige ikke er innkalt til tjeneste i løpet av det året den tjenestepliktige fyller 28 år. Blir førstegangstjenesten avbrutt på grunn av sykdom, skade eller lignende, faller resten av førstegangstjenesten bort ved utløpet av det året den tjenestepliktige fyller 28 år.",
+                        "Hvis førstegangstjenesten er blitt utsatt og den tjenestepliktige selv har medvirket til det, varer plikten ut det året den tjenestepliktige fyller 33 år."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Årlig heimevernstjeneste",
+                    "sections": [
+                        "Den årlige heimevernstjenesten etter § 17 andre ledd bokstav c gjennomføres sammenhengende. Tjenesten kan deles opp når det er behov for det.",
+                        "Som en del av opplæringen i heimevernstjenesten kan tjenestepliktige bli pålagt tjeneste i andre deler av Forsvaret og ved den heimevernsavdelingen der de oppholder seg.",
+                        "De tjenestepliktige kan innenfor pliktig heimevernstjeneste bli pålagt tjeneste i forbindelse med arrangementer som er i Forsvarets interesse.",
+                        "Departementet kan gi forskrift om gjennomføringen av den årlige heimevernstjenesten og om bistand til arrangementer."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Frivillige i Heimevernet",
+                    "sections": [
+                        "Personer som har fylt 16 år, kan tas opp i Heimevernet, jf. § 4.",
+                        "Personer som har fylt 19 år, kan inngå kontrakt om heimevernstjeneste.",
+                        "Tjenestepliktige kan ikke inngå kontrakt om heimevernstjeneste mens de har tjenesteplikt i andre deler av Forsvaret.",
+                        "Kongen gir forskrift om de frivilliges tjeneste i Heimevernet."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Frivillig tjeneste for kvinner født før 1. januar 1997",
+                    "sections": [
+                        "Kvinner som er født før 1. januar 1997, kan inngå kontrakt om tjenesteplikt i Forsvaret.",
+                        "Kongen kan gi forskrift om vilkår for og fritak for tjenesteplikten."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Tilleggstjeneste",
+                    "sections": [
+                        "Tjenestepliktige som på grunn av forsømmelser i tjenesten, sykdom, skade eller fravær ikke har fått tilstrekkelig opplæring, kan bli pålagt nødvendig tilleggstjeneste.",
+                        "Tjenestepliktige som har vært fraværende uten gyldig grunn, kan bli pålagt å ta igjen forsømt tjeneste selv om de har fått tilstrekkelig opplæring.",
+                        "Tjenestepliktige som får offisers-, befals- og spesialistopplæring i Heimevernet, kan bli pålagt et tillegg til tjenestetiden på inntil 14 dager hvert tredje år. Tilleggstjenesten kan kreves gjennomført samlet eller fordelt.",
+                        "Departementet kan gi forskrift om tilleggstjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Sivil utdanning som har betydning for Forsvaret",
+                    "sections": [
+                        "Tjenestepliktige med sivil utdanning som har betydning for Forsvaret, kan innkalles til offisers-, befals- og spesialistopplæring.",
+                        "Disse tjenestepliktige kan bli pålagt et tillegg til den ordinære tjenestetiden på inntil 90 dager. Tjenestepliktige som er under høyere sivil utdanning, kan få utsatt tjenesten til utdanningen er fullført. Den ordinære tjenestetiden kan deles opp.",
+                        "Departementet kan gi forskrift om hvilken utdanning som har betydning for Forsvaret, om tjenestevilkår, om tilleggstjeneste for tjenestepliktige som får offisers-, befals- og spesialistopplæring, og om innkalling til tjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Søknad om annen tjeneste av velferdsgrunner",
+                    "sections": [
+                        "Tjenestepliktige kan søke om annen tjeneste når det foreligger vektige velferdsgrunner, og tjenstlige hensyn ikke er til hinder for det.",
+                        "Departementet kan gi forskrift om behandlingen av søknaden."
+                    ]
+                },
+                {
+                    "name": "§ 29",
+                    "title": "Endring av stilling og grad",
+                    "sections": [
+                        "Tjenestepliktige skal motta høyere grad og gjennomgå den opplæringen som tjenesten krever. En tjenestepliktig kan fratas graden bare hvis graden er midlertidig eller gitt for et bestemt oppdrag, eller hvis den tjenestepliktige har vist seg uskikket eller uverdig til å inneha graden.",
+                        "Tjenestepliktige kan ikke mot sin vilje beordres til en stilling med lavere grad enn den de har, hvis ikke særlige forhold i krig gjør det nødvendig."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Fritak for ordinær tjeneste etter utført tjeneste i et annet lands forsvar",
+                    "sections": [
+                        "Tjenestepliktige som har utført militær tjeneste i et annet lands forsvar, kan helt eller delvis fritas for ordinær tjeneste.",
+                        "Kongen kan gi forskrift om fritak for ordinær tjeneste etter utført militær tjeneste i et annet lands forsvar."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Utsatt eller avbrutt tjeneste på grunn av straffeforfølgning",
+                    "sections": [
+                        "Tjenestepliktige som er under straffeforfølgning, kan få tjenesten utsatt eller avbrutt. Departementet kan gi forskrift om når tjenesten skal utsettes eller avbrytes på grunn av straffeforfølgning."
+                    ]
+                },
+                {
+                    "name": "§ 32",
+                    "title": "Fritak for fremmøte i Forsvaret på grunn av sivil stilling eller fagkyndighet",
+                    "sections": [
+                        "Kongen kan gi forskrift om at tjenestepliktige som på grunn av sivil stilling eller fagkyndighet bør fortsette i sin sivile virksomhet, kan fritas for eller få utsatt fremmøte til tjeneste i Forsvaret i krig, når krig truer eller ved styrkeoppbygging. Kongen kan gi forskrift om at disse tjenestepliktige helt eller delvis skal være fritatt for tjeneste i fred."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Engangserstatning ved dødsfall og medisinsk invaliditet",
+                    "sections": [
+                        "Hvis tjenestepliktige som ikke er tilsatt og frivillige som ikke er tilsatt, blir påført skade eller sykdom under tjenesten som medfører medisinsk invaliditet, har de krav på engangserstatning. Ved dødsfall har de etterlatte krav på erstatning.",
+                        "Det gis erstatning fra 2 % medisinsk invaliditet når sykdommen har oppstått under tjenesten og har sammenheng med tjenesten, og når skaden er påført under tjenesten.",
+                        "Det gis erstatning fra 15 % medisinsk invaliditet når sykdommen har oppstått under tjenesten og den ikke har sammenheng med tjenesten, og når skaden er påført i fritiden og under permisjon.",
+                        "Kongen kan gi forskrift om når sykdom eller skade er oppstått under tjenesten og om hvordan erstatning skal utmåles og utbetales."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Tjenesteplikt i krig eller når krig truer",
+                    "sections": [
+                        "Tjenestepliktige plikter å gjøre tjeneste i krig eller når krig truer, og skal møte til tjeneste på kort varsel. Tjenesteplikten varer så lenge det er nødvendig.",
+                        "Kongen kan gi forskrift om tjenesteplikten i krig eller når krig truer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Fritak for tjeneste i Forsvaret av overbevisningsgrunner",
+            "paragraphs": [
+                {
+                    "name": "§ 35",
+                    "title": "Vilkår for fritak",
+                    "sections": [
+                        "Vernepliktige skal fritas for tjeneste i Forsvaret hvis det er grunn til å anta at de ikke kan gjøre tjeneste uten at det kommer i konflikt med deres alvorlige overbevisning og verdier som er av fundamental betydning for dem."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Søknad om fritak",
+                    "sections": [
+                        "Vernepliktige kan søke om fritak tidligst når de møter på sesjon, eller etter at det på annen måte er bestemt om de er skikket til tjeneste.",
+                        "Departementet kan gi forskrift om krav til søknadene og behandlingen av dem."
+                    ]
+                },
+                {
+                    "name": "§ 37",
+                    "title": "Fritak for tjeneste mens søknaden behandles",
+                    "sections": [
+                        "En vernepliktig som har søkt om fritak, skal ikke innkalles til tjeneste mens søknaden behandles. Mottas søknaden etter at den vernepliktige er innkalt eller har møtt til tjeneste, kan Forsvaret opprettholde innkallingen og bestemme at tjenesten skal fortsette inntil søknaden er behandlet. Søkeren kan bare bli pålagt å fortsette i tjenesten i inntil fire uker.",
+                        "En vernepliktig som har søkt om fritak, er likevel ikke fritatt for plikten til å gjøre ekstraordinær tjeneste etter § 17 tredje ledd, eller fritatt for tjenesteplikten i krig eller når krig truer.",
+                        "Departementet kan gi forskrift om hva tjenesten skal inneholde, og hvordan den skal gjennomføres mens en søknad behandles."
+                    ]
+                },
+                {
+                    "name": "§ 38",
+                    "title": "Omgjøring av et vedtak om fritak",
+                    "sections": [
+                        "Et vedtak om fritak kan omgjøres også til ugunst for den vernepliktige så lenge den vernepliktige kan pålegges tjenesteplikt i Forsvaret. Det kan legges vekt på forhold som først oppstod etter vedtaket."
+                    ]
+                },
+                {
+                    "name": "§ 39",
+                    "title": "Prøving for domstolene",
+                    "sections": [
+                        "En vernepliktig som har fått endelig avslag på søknaden om fritak, kan reise sak for domstolene for å få prøvd vedtaket om avslag.",
+                        "Har den vernepliktige søkt om fritak to ganger og fått avslag begge gangene, kan staten reise sak for domstolene med påstand om at søkeren ikke oppfyller vilkårene for fritak. Det samme gjelder hvis søkeren fremmer og trekker tilbake søknader flere ganger før saken blir avgjort. I slike tilfeller fører en ny søknad om fritak ikke til utsettelse av tjenesten.",
+                        "Fritakssaker skal ikke behandles i forliksrådet.",
+                        "Søkeren er prosessdyktig uansett alder. Er søkeren innkalt til et rettsmøte og unnlater å møte uten å ha gyldig fravær, kan retten beslutte at søkeren skal hentes av politiet til det samme rettsmøtet, eller til et senere rettsmøte.",
+                        "Retten kan av eget tiltak sørge for at alle bevis som den mener er nødvendige for å opplyse saken, blir innhentet. Utenrettslige forklaringer og erklæringer kan alltid brukes når retten kommer til at ikke noe er til hinder for det.",
+                        "Behandlingen i domstolene følger for øvrig tvisteloven."
+                    ]
+                },
+                {
+                    "name": "§ 40",
+                    "title": "Fritak for tjeneste når det er reist sak for domstolene",
+                    "sections": [
+                        "Er det reist fritakssak for domstolene, skal den vernepliktige ikke innkalles til tjeneste. Reises saken etter at den vernepliktige er innkalt eller har møtt til tjeneste, skal tjenesten utsettes inntil saken er rettskraftig avgjort av domstolene.",
+                        "Departementet avgjør om en begjæring om gjenåpning av en fritakssak også skal føre til at den vernepliktige ikke blir innkalt til tjeneste, eller at tjenesten blir utsatt."
+                    ]
+                },
+                {
+                    "name": "§ 41",
+                    "title": "Anke og gjenåpning",
+                    "sections": [
+                        "Staten kan anke en dom og begjære en sak gjenåpnet uavhengig av resultatet i saken.",
+                        "Saken kan bare begjæres gjenåpnet så lenge den vernepliktige har tjenesteplikt i Forsvaret. Saken kan begjæres gjenåpnet også på grunn av forhold som først oppstod etter rettskraftig dom. Fristene i tvisteloven § 31-6 gjelder ikke."
+                    ]
+                },
+                {
+                    "name": "§ 42",
+                    "title": "Dekning av sakskostnader ved en domstolsbehandling",
+                    "sections": [
+                        "Staten dekker alle nødvendige sakskostnader ved domstolsbehandlingen av en fritakssak. Den vernepliktige kan få dekket utgiftene i forbindelse med oppmøte i retten etter de reglene som gjelder for vitner.",
+                        "Når den vernepliktige har opptrådt klanderverdig og staten er påført unødvendige kostnader, kan retten beslutte at den vernepliktige helt eller delvis skal dekke sakskostnadene."
+                    ]
+                },
+                {
+                    "name": "§ 43",
+                    "title": "Oppheving av et vedtak om fritak",
+                    "sections": [
+                        "En vernepliktig som er fritatt for tjeneste, kan søke om å få vedtaket om fritak opphevet.",
+                        "Departementet kan gi forskrift om adgangen til å oppheve et vedtak om fritak og om fradrag for avtjent sivil verneplikt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Særregler for militært tilsatte",
+            "paragraphs": [
+                {
+                    "name": "§ 44",
+                    "title": "Tilsettingsvilkår for militært tilsatte",
+                    "sections": [
+                        "Offiserer, befal, grenaderer og konstabler tilsettes på de vilkår som er fastsatt i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. (tjenestemannsloven) med de avvik som følger i eller i medhold av denne lov. Militært tilsatte kan tilsettes på vilkår som avviker fra reglene om verneplikt og tjeneste i kapittel 2 og 3.",
+                        "Militært tilsatte er unntatt fra forbudet om forskjellsbehandling på grunn av alder etter arbeidsmiljøloven § 13-1 første ledd.",
+                        "Militært tilsatte skal ha norsk statsborgerskap.",
+                        "Militært tilsatte plikter å overholde reglene om tilsetting, utdanning, disponering og avansement mv. som er fastsatt i den til enhver tid gjeldende ordningen for militært tilsatte. Ordningen for militært tilsatte fastsettes av Kongen med Stortingets samtykke.",
+                        "Departementet har instruksjons- og organisasjonsmyndighet og kan utforme nødvendige tilpasninger og regelverk innenfor de overordnede rammene i ordningen for militært tilsatte.",
+                        "Departementet kan gi forskrift om hvem som er tilsettingsmyndighet, og om fremgangsmåten ved tilsetting. Forskriftene kan fravike tjenestemannsloven.",
+                        "Departementet kan gi forskrift om unntak fra krav til statsborgerskap."
+                    ]
+                },
+                {
+                    "name": "§ 45",
+                    "title": "Tilsettingsforholdets lengde",
+                    "sections": [
+                        "Offiserer, befal, grenaderer og konstabler kan tilsettes midlertidig, eller de kan tilsettes fast til de fyller 35 år eller fast til de fyller 60 år. De som er tilsatt midlertidig, skal fratre stillingen sin uten oppsigelse. De som er fast tilsatt, skal fratre stillingen ved første månedsskifte etter at de har fylt 35 eller 60 år.",
+                        "Forsvaret kan ved behov forlenge tilsettingsperioden med inntil 3 år for dem som er tilsatt til de fyller 35 år.",
+                        "Når spesielle forhold gjør det nødvendig, kan departementet forlenge tilsettingsperioden med inntil ett år om gangen for militært tilsatte som har nådd aldersgrensen på 60 år.",
+                        "Departementet kan gi forskrift om varigheten av og om adgangen til å fornye det midlertidige tilsettingsforholdet."
+                    ]
+                },
+                {
+                    "name": "§ 46",
+                    "title": "Beordring av militært tilsatte",
+                    "sections": [
+                        "Militært tilsatte kan bli beordret til stillinger i Norge og i utlandet i samsvar med Forsvarets behov.",
+                        "Militært tilsatte kan beordres fra en stilling når det er påkrevd av helsemessige, sikkerhetsmessige eller andre særskilte grunner. De som kan avskjediges eller suspenderes etter tjenestemannsloven §§ 15 og 16 eller refses etter disiplinærloven § 1, kan ikke beordres fra en stilling av andre særskilte grunner.",
+                        "Militært tilsatte kan bli beordret til annen tjeneste eller annet tjenestested når det er nødvendig på grunn av organisasjonsendringer."
+                    ]
+                },
+                {
+                    "name": "§ 47",
+                    "title": "Oppsigelse og fortrinnsrett",
+                    "sections": [
+                        "Militært tilsatte som er pålagt tjeneste som motytelse for opplæring og utdanning betalt av Forsvaret, kan ikke i plikttiden si opp stillingen sin i Forsvaret.",
+                        "Midlertidig tilsatte og de som er fast tilsatt til de fyller 35 år, kan ikke kreve fortrinnsrett etter tjenestemannsloven."
+                    ]
+                },
+                {
+                    "name": "§ 48",
+                    "title": "Utvidet tjenesteplikt i krig for tidligere militært tilsatte",
+                    "sections": [
+                        "I krig eller når krig truer, kan tidligere militært tilsatte bli pålagt tjenesteplikt ut over det året de fyller 55 år. Utvidet tjenesteplikt kan bare bli pålagt dem som er skikket til tjeneste og som mottar pensjon eller redusert lønn, eller som har opptjent fremtidig pensjon.",
+                        "Departementet kan gi forskrift om å utvide tjenesteplikten for tidligere militært tilsatte."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6 Tjeneste i internasjonale operasjoner",
+            "paragraphs": [
+                {
+                    "name": "§ 49",
+                    "title": "Beordring til tjeneste i internasjonale operasjoner",
+                    "sections": [
+                        "Militært tilsatte kan bli beordret til tjeneste i internasjonale operasjoner når Forsvaret krever det.",
+                        "Tjenesteplikten etter helseberedskapsloven § 4-1 går foran plikten til å gjøre tjeneste i internasjonale operasjoner.",
+                        "Departementet kan gi forskrift om at sivile som er tilsatt etter 1. januar 2005 i bestemte stillingskategorier i Forsvarsdepartementet og underliggende etater, kan beordres til tjeneste i internasjonale operasjoner.",
+                        "Departementet kan gi forskrift om kvalifikasjonskrav, beordring, tjenestevilkår og maksimal tjenesteperiode for tjeneste i internasjonale operasjoner."
+                    ]
+                },
+                {
+                    "name": "§ 50",
+                    "title": "Tjenesteplikt etter kontrakt",
+                    "sections": [
+                        "Andre enn de som er nevnt i § 49, og som er norske statsborgere, kan inngå kontrakt om tjeneste i internasjonale operasjoner.",
+                        "De som har inngått kontrakt om tjeneste i internasjonale operasjoner, kan si opp kontrakten med 3 måneders oppsigelsesfrist etter at vedkommende er beordret til tjeneste.",
+                        "Departementet kan bestemme at utenlandske statsborgere kan inngå kontrakt om tjeneste for Forsvaret i en internasjonal operasjon, med de begrensningene som følger av folkeretten eller avtale med de landene som de utenlandske statsborgerne er borgere av.",
+                        "Departementet kan gi forskrift om innholdet i kontraktene."
+                    ]
+                },
+                {
+                    "name": "§ 51",
+                    "title": "Fritak for tjeneste i internasjonale operasjoner",
+                    "sections": [
+                        "Personer som er beordret til tjeneste i en internasjonal operasjon, kan søke om fritak for denne tjenesten. Søknaden skal innvilges hvis søkeren har vektige helsemessige, velferdsmessige eller sosiale grunner.",
+                        "Departementet kan gi forskrift om hvordan slike søknader skal behandles."
+                    ]
+                },
+                {
+                    "name": "§ 52",
+                    "title": "Hjemsending",
+                    "sections": [
+                        "Personer som gjør tjeneste i en internasjonal operasjon, kan sendes hjem før beordringsperioden er over eller kontrakten går ut.",
+                        "Departementet kan gi forskrift om at de som gjør tjeneste i internasjonale operasjoner, kan sendes hjem, og om adgangen til å klage på vedtak om hjemsending."
+                    ]
+                },
+                {
+                    "name": "§ 53",
+                    "title": "Oppsigelse av ordinært tilsettingsforhold",
+                    "sections": [
+                        "Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater som er beordret til tjeneste i en internasjonal operasjon, kan si opp sitt ordinære tilsettingsforhold. Oppsigelsesfristen er 3 måneder. Militært tilsatte som er pålagt tjeneste som motytelse for opplæring og utdanning betalt av Forsvaret, skal likevel utføre resten av den pålagte tjenesten i Norge."
+                    ]
+                },
+                {
+                    "name": "§ 54",
+                    "title": "Rett til oppfølging",
+                    "sections": [
+                        "Forsvaret har et særlig ansvar for at de som gjør tjeneste i internasjonale operasjoner, og deres pårørende blir godt ivaretatt før, under og etter endt tjeneste.",
+                        "Forsvaret skal gi et tilbud om psykiatrisk og psykologisk oppfølging til dem som gjør eller har gjort tjeneste i internasjonale operasjoner, og som har behov for slik oppfølging. Tilbudet gjelder i ett år etter endt tjeneste. Forsvaret skal bidra til at den enkelte får en god overgang til helse- og omsorgstjenesten.",
+                        "Forsvaret skal i ett år etter endt tjeneste også tilby annen oppfølging i den grad det er rimelig, ut fra den enkeltes helsetilstand og økonomiske stilling, tjenestens varighet og forholdene ellers.",
+                        "Departementet kan gi forskrift om oppfølgingens innhold og omfang."
+                    ]
+                },
+                {
+                    "name": "§ 55",
+                    "title": "Erstatningsansvar ved personskade",
+                    "sections": [
+                        "Staten skal erstatte tap som er påført dem som gjør tjeneste i internasjonale operasjoner på grunn av skade eller sykdom som følge av tjeneste i en internasjonal operasjon etter 1. januar 2010. Ansvaret omfatter også psykiske belastningsskader. Avgjørelsen kan ikke påklages.",
+                        "Den som har fått erstatning etter denne bestemmelsen, kan ikke få ytterligere erstatning fra staten på annet grunnlag.",
+                        "For øvrig gjelder yrkesskadeforsikringsloven §§ 12, 13 første ledd, 14 og 15.",
+                        "Departementet kan gi forskrift om utmåling og utbetaling."
+                    ]
+                },
+                {
+                    "name": "§ 56",
+                    "title": "Billighetserstatning",
+                    "sections": [
+                        "Departementet kan gi forskrift om billighetserstatning for psykiske belastningsskader som følge av å delta i internasjonale operasjoner. Utbetaling etter forskriften skal samordnes med andre erstatningsutbetalinger fra staten."
+                    ]
+                },
+                {
+                    "name": "§ 57",
+                    "title": "Forholdet til arbeidsmiljøloven og tjenestemannsloven",
+                    "sections": [
+                        "Arbeidsmiljøloven og tjenestemannsloven §§ 2, 4, 5 og 11 gjelder ikke under tjeneste i internasjonale operasjoner.",
+                        "Departementet kan gi forskrift om arbeidsmiljøet til norske styrker som deltar i internasjonale operasjoner."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7 Fellesbestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 58",
+                    "title": "Plikt til å gi opplysninger til Forsvaret",
+                    "sections": [
+                        "Offentlige myndigheter, arbeidsgivere, utdannings- og helseinstitusjoner, prester og forstandere i tros- og livssynssamfunn skal på forespørsel fra Forsvaret og uten hinder av lovpålagt taushetsplikt gi opplysninger som er nødvendige etter § 7 første ledd, om personer som er knyttet til dem eller registrert hos dem. Opplysningene kan gis fra det året personene fyller 17 år. Det kan ikke kreves betaling for slike opplysninger."
+                    ]
+                },
+                {
+                    "name": "§ 59",
+                    "title": "Vandelskontroll",
+                    "sections": [
+                        "Forsvaret skal kreve vandelsvurdering etter politiregisterloven § 45 av personer som kalles inn til tjeneste i Forsvaret, og av personer som søker om fritak for tjeneste i Forsvaret etter kapittel 4. Vandelsvurderingen inkluderer saker som er under behandling, jf. politiregisterloven § 41 nr. 2.",
+                        "Forsvaret skal også kreve vandelsvurdering av militært tilsatte, sivilt tilsatte og vernepliktige etter politiregisterloven § 45 hvis",
+                        "a)det er nødvendig for å vurdere om de er skikket til en bestemt tjeneste i Forsvaret",
+                        "b)det er nødvendig for å vurdere om det skal gis disiplinær refselse eller reises straffesak.",
+                        "Forsvaret skal kreve at de som skal gjøre tjeneste i internasjonale operasjoner, skal legge frem en uttømmende og utvidet politiattest, jf. politiregisterloven § 41.",
+                        "Frivillige som skal gjøre tjeneste i Heimevernet skal legge frem en uttømmende og utvidet politiattest for heimevernsnemndene, jf. politiregisterloven § 41.",
+                        "Departementet kan gi forskrift om Forsvarets og heimevernnemndenes rett til å kreve vandelsvurdering og uttømmende og utvidet politiattest."
+                    ]
+                },
+                {
+                    "name": "§ 60",
+                    "title": "Støtte fra politiet og norske utenriksstasjoner",
+                    "sections": [
+                        "Politiet skal om nødvendig bistå Forsvaret med å hente inn dem som er innkalt til undersøkelser etter § 10.",
+                        "Politiet og norske utenriksstasjoner skal på forespørsel fra Forsvaret gi nødvendig informasjon til alle mellom 17 og 44 år som kan kalles inn til tjeneste i Forsvaret. Politiet og norske utenriksstasjoner skal også medvirke til å ettersøke og innkalle dem som ikke har møtt til sesjon og tjeneste i Forsvaret."
+                    ]
+                },
+                {
+                    "name": "§ 61",
+                    "title": "Adgang til å ta oppdrag utenfor Forsvarsdepartementet og underliggende etater",
+                    "sections": [
+                        "Tjenestepliktige i Forsvaret og sivilt tilsatte i Forsvarsdepartementet og underliggende etater skal på eget initiativ opplyse sine hovedarbeidsgivere om lønnede og ulønnede oppdrag som kan være uforenlige med hovedarbeidsgiverens interesser. Det skal opplyses om oppdragsgivers navn og oppdragets karakter og omfang. Oppdrag det skal opplyses om, kan blant annet være oppdrag som",
+                        "a)utad fremstår som en naturlig del av hovedarbeidsgiverens tjenesteoppgaver",
+                        "b)krever opplæring i militære ferdigheter eller i å bruke militært utstyr",
+                        "c)er egnet til å skade tjenestestillingens eller arbeidsgiverens anseelse",
+                        "d)kan hemme eller sinke arbeidet for hovedarbeidsgiveren.",
+                        "Departementet kan kreve at tilsatte i enkelte stillinger og avdelinger skal ha arbeidsgivers samtykke til å ta lønnede og ulønnede oppdrag utenfor Forsvarsdepartementet og underliggende etater."
+                    ]
+                },
+                {
+                    "name": "§ 62",
+                    "title": "Pliktmessig avhold",
+                    "sections": [
+                        "Tjenestepliktige i Forsvaret skal ikke nyte alkohol eller andre berusende eller bedøvende midler under tjenesten. De skal heller ikke møte til tjeneste påvirket av alkohol eller andre berusende eller bedøvende midler.",
+                        "Testing av om tjenestepliktige er ruspåvirket skal utføres som beskrevet i vegtrafikkloven § 22 a. Tjenestepliktige kan gjennom rutinekontroll eller stikkprøve og uten mistanke testes som beskrevet i vegtrafikkloven § 22 a første ledd.",
+                        "Hvis testresultatet eller andre forhold gir grunn til å tro at en tjenestepliktig har brutt avholdsplikten, kan den tjenestepliktige undersøkes i samsvar med vegtrafikkloven § 22 a andre og tredje ledd.",
+                        "Den som har militær politimyndighet gis samme myndighet som politiet.",
+                        "Departementet kan gi forskrift om",
+                        "a)gjennomføringen av avholdsplikten",
+                        "b)at avholdsplikten skal gjelde under permisjon og i fritiden",
+                        "c)at avholdsplikten skal gjelde for sivilt tilsatte i Forsvarsdepartementet og underliggende etater",
+                        "d)unntak fra avholdsplikten."
+                    ]
+                },
+                {
+                    "name": "§ 63",
+                    "title": "Oppbevaring og vedlikehold av våpen",
+                    "sections": [
+                        "Forsvaret kan pålegge tjenestepliktige å oppbevare og vedlikeholde våpen, ammunisjon og annet personlig utstyr utenfor tjenestetiden. Våpen, ammunisjon og annet personlig utstyr skal oppbevares og vedlikeholdes på en sikker og god måte.",
+                        "Departementet kan gi forskrift om oppbevaringen og vedlikeholdet."
+                    ]
+                },
+                {
+                    "name": "§ 64",
+                    "title": "Forholdet til forvaltningsloven",
+                    "sections": [
+                        "Forvaltningsloven kapittel IV til VI gjelder ikke behandlingen av saker etter §§ 6 til 31 og §§ 34, 49, 52, 55 og 56.",
+                        "Departementet kan gi forskrift om at forvaltningsloven kapittel IV til VI likevel skal gjelde."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8 Refselse og straff",
+            "paragraphs": [
+                {
+                    "name": "§ 65",
+                    "title": "Refselse",
+                    "sections": [
+                        "Den som overtrer § 62 om pliktmessig avhold og forskrift fastsatt med hjemmel i § 62, kan refses etter disiplinærloven."
+                    ]
+                },
+                {
+                    "name": "§ 66",
+                    "title": "Straff",
+                    "sections": [
+                        "Med bot straffes den som forsettlig eller uaktsomt",
+                        "a)bryter opplysnings- eller meldeplikten etter §§ 8 og 58",
+                        "b)lar være å møte til sesjon etter § 9",
+                        "c)lar være å møte til tjeneste etter § 19.",
+                        "Med bot straffes den som forsettlig",
+                        "a)unndrar seg undersøkelser etter § 10",
+                        "b)unndrar seg vaksinering eller andre tiltak for å forebygge smittsomme sykdommer etter § 20",
+                        "c)bryter oppbevarings- eller vedlikeholdsplikten etter § 63.",
+                        "Medvirkning straffes ikke etter første og andre ledd.",
+                        "Med fengsel inntil 2 år straffes den som med hensikt unndrar seg tjeneste i Forsvaret ved",
+                        "a)å bryte opplysnings- eller meldeplikten etter §§ 8 og 58",
+                        "b)å la være å møte til sesjon etter § 9",
+                        "c)å unndra seg undersøkelser etter § 10",
+                        "d)å bryte reiseforbud etter § 16 bokstav e",
+                        "e)å unndra seg vaksinering eller andre tiltak for å forebygge smittsomme sykdommer etter § 20.",
+                        "Med fengsel inntil 2 år straffes den som gjør tjeneste i Forsvaret på grunnlag av opplysninger den vet er uriktige eller ufullstendige.",
+                        "Brudd på møteplikten kan etter § 19 straffes etter militær straffelov §§ 34 og 35.",
+                        "I forskrift med hjemmel i §§ 8, 9, 10, 16 bokstav e og §§ 19, 20 og 63 kan det fastsettes at brudd på angitte bestemmelser i forskriften skal straffes."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9 Ikrafttredelse og overgangsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 67",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra det tidspunktet Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid."
+                    ]
+                },
+                {
+                    "name": "§ 68",
+                    "title": "Overgangsregler",
+                    "sections": [
+                        "Tidligere yrkesbefal som er fast tilsatt til de fyller 60 år, og som ble tilsatt før 1. januar 2016, beholder sin stilling i Forsvaret til de har fylt 60 år.",
+                        "Tidligere yrkesbefal som er tilsatt før 1. januar 2005, kan sies opp bare etter tjenestemannsloven § 10 nr. 2 bokstav a."
+                    ]
+                },
+                {
+                    "name": "§ 69",
+                    "title": "Oppheving av og endring i andre lover",
+                    "sections": [
+                        "Fra det tidspunkt loven trer i kraft oppheves:",
+                        "1.lov 17. juli 1953 nr. 28 om Heimevernet",
+                        "2.lov 17. juli 1953 nr. 29 om verneplikt",
+                        "3.lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner",
+                        "4.lov 2. juli 2004 nr. 59 om forsvarspersonell."
+                    ]
+                },
+                {
+                    "name": "§ 70",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra det tidspunkt loven trer i kraft gjøres følgende endringer i andre lover:",
+                        "1. I lov 13. august 1915 nr. 5 om domstolene skal § 165 andre ledd andre punktum lyde:",
+                        "Overfor de som gjør tjeneste i Forsvaret kan forkynning i straffesaker også skje ved offiser, befal eller militærpoliti.",
+                        "2. I lov 21. november 1952 nr. 3 om tjenesteplikt i politiet gjøres følgende endringer:",
+                        "§ 3 første ledd skal lyde:",
+                        "Tjenestegjøring etter endt oppøving kan etter bestemmelse av Kongen pålegges når militær beredskap eller styrkeoppbygging helt eller delvis er satt i verk.",
+                        "§ 4 skal lyde:",
+                        "Den som føres over eller tilbake til tjeneste i Forsvaret, kan få øvingstid og tjeneste etter denne lov godskrevet som utført tjeneste etter forsvarsloven i samsvar med regler som Kongen fastsetter.",
+                        "3. I lov 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl. skal § 1 første ledd lyde:",
+                        "Denne lov gjelder for den som har stilling som er eller blir innlemmet i Statens pensjonskasse, og som ikke omfattes av særlige lovbestemmelser om aldersgrenser for militært tilsatte.",
+                        "4. I lov 13. juni 1969 nr. 26 om skadeserstatning skal § 2-1 nr. 3 lyde:",
+                        "3.Med arbeidstaker menes enhver som gjør arbeid eller utfører verv i arbeidsgivers tjeneste, unntatt verv som tillitsvalgt i annet foretak. Like med arbeidstaker regnes ombud i offentlig virksomhet, de som gjør tjeneste i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.",
+                        "5. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:",
+                        "§ 468 første ledd tredje punktum skal lyde:",
+                        "Halvparten av meddommerne skal høre til gruppen menige, grenaderer og konstabler og halvparten til gruppen offiserer og befal.",
+                        "§ 469 første ledd skal lyde:",
+                        "Ved behandlingen av en sak mot en menig, grenader eller konstabel skal halvparten av meddommerne høre til denne gruppen. Det samme gjelder ved saker mot personer uten militær grad. Ved behandlingen av saker mot offiserer eller befal skal én meddommer høre til gruppen menige, grenaderer og konstabler og resten til gruppen offiserer og befal. Av de siste skal så vidt mulig minst én ha samme eller høyere grad enn tiltalte. Meddommerne skal tas fra samme forsvarsgren som tiltalte.",
+                        "§ 476 fjerde ledd skal lyde:",
+                        "I saker for tingrett hvor det er utferdiget forelegg, kan påtalemyndigheten møte ved en militær befal eller offiser. Det samme gjelder ved rettsmøter utenfor hovedforhandling.",
+                        "6. I lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. skal § 12 tredje punktum lyde:",
+                        "Med dette gjøres ingen endring i plikten til å motta forflytninger etter utenrikstjenesteloven § 7, eller i beordringsplikten i forsvarsloven § 46.",
+                        "7. I lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet gjøres følgende endringer:",
+                        "Lovens tittel skal lyde:",
+                        "Lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet (disiplinærloven).",
+                        "§ 1 tredje ledd nr. 2 skal lyde:",
+                        "2)overfor vernepliktige i tjeneste og militært tilsatte",
+                        "§ 3 første ledd skal lyde:",
+                        "Refselse kan brukes mot vernepliktige i tjeneste og militært tilsatte.",
+                        "§ 4 andre ledd nr. 1 skal lyde:",
+                        "1)Når det gjelder forhold som kan straffes etter forsvarsloven § 66,",
+                        "§ 5 første ledd skal lyde:",
+                        "Som refselsesmiddel må bare brukes:",
+                        "1)Arrest inntil 20 dager",
+                        "2)Bot som fastsettes på grunnlag av det tjenestetillegget som gjelder for vernepliktige i tjeneste:",
+                        "a)Overfor menige, inntil 20 ganger tjenestetillegget,",
+                        "b)Overfor militært tilsatte, tilsvarende inntil 50 ganger tjenestetillegget.",
+                        "3)Frihetsinnskrenkning som består i forbud mot til visse tider av dagen eller hele døgn:",
+                        "a)å gå utenfor leiren eller annet nærmere avgrenset område eller fartøy for et tidsrom inntil 30 dager, eller",
+                        "b)å forlate fartøy for bestemte landgangsturer innen samme tidsrom.",
+                        "4)Irettesettelse som gis i form av",
+                        "a)streng irettesettelse i nærvær av flere vernepliktige i tjeneste eller militært tilsatte, eller",
+                        "b)simpel irettesettelse i enerom eller i tjenestlig skriv.",
+                        "§ 12 første ledd skal lyde:",
+                        "Myndighet til å ilegge undergitt personell refselse har enhver offiser som fast eller for tilfellet fører kompanisjefs eller tilsvarende eller høyere kommando.",
+                        "§ 14 skal lyde:",
+                        "Den nærmeste foresatte med refselsesmyndighet skal som regel utøve denne. Den skal utøves etter offiserens overbevisning om hva som er sant etter bevisene og rett etter loven. Foresatte kan ikke gi pålegg om hvordan myndigheten skal utøves i det enkelte tilfelle.",
+                        "Avgjørelsen hører likevel under høyere foresatt hvis det refsbare forhold er skjedd i vedkommendes overvær. Har nærmeste foresatte unnlatt å refse et forhold, kan høyere foresatt refse dersom det finnes grunn til det.",
+                        "Finner en offiser at det bør brukes strengere refselse enn vedkommende selv kan ilegge, skal saken overlates til offiserens foresatte. Det samme gjelder dersom særlige grunner taler mot at offiseren selv avgjør saken.",
+                        "§ 16 skal lyde:",
+                        "En offiser kan ikke etterforske en sak eller utøve refselsesmyndighet mot noen offiseren er gift eller forlovet med eller er i slekt eller svogerskap med i opp- eller nedstigende linje eller i sidelinje så nær som søsken, eller når offiseren er en av dennes fosterforeldre eller verge.",
+                        "Det samme gjelder når offiseren selv eller en person som offiseren er forbundet med som nevnt i første ledd, er personlig fornærmet ved handlingen.",
+                        "Offiseren har plikt til å ta stilling til sin egen habilitet. Offiserens avgjørelse er ikke gjenstand for særskilt klage.",
+                        "Foreligger forhold som nevnt i første eller annet ledd, behandles saken av offiserens nærmeste foresatte.",
+                        "§ 18 første punktum skal lyde:",
+                        "Den forfølgningen retter seg mot, har rett til å la seg bistå av vernepliktig i tjeneste, tillitsvalgt eller militært tilsatt.",
+                        "§ 20 andre ledd skal lyde:",
+                        "Andre refselser enn de som inngår under § 5 nr. 4 b, meddeles vanligvis i nærvær av flere vernepliktige i tjeneste eller militært tilsatte.",
+                        "§ 22 første og andre ledd skal lyde:",
+                        "Offiser som har ilagt en refselse, kan selv oppheve eller omgjøre den, dersom det viser seg at vedtaket er uriktig, eller det på grunn av etterfølgende omstendigheter er urimelig at det blir stående ved makt.",
+                        "Likeledes kan vedkommende offiser omgjøre en ilagt refselse på arrest til bot når fullbyrdelsen ikke kan gjennomføres som følge av at refsede av en militærlege er kjent soningsudyktig og/eller udyktig til videre militærtjeneste.",
+                        "§ 24 første ledd andre punktum skal lyde:",
+                        "Den kan være skriftlig eller muntlig og settes frem for en foresatt.",
+                        "§ 29 første ledd tredje punktum skal lyde:",
+                        "Av de øvrige medlemmer skal ett medlem være offiser eller befal og ett medlem være vernepliktig i tjeneste.",
+                        "§ 34 første ledd første punktum skal lyde:",
+                        "Den refsede har i forbindelse med saken adgang til å uttale seg skriftlig eller muntlig for en offiser.",
+                        "§ 40 første og andre ledd skal lyde:",
+                        "Til dekning av bot kan hos vernepliktige i tjeneste trekkes ved hver utbetaling inntil halvparten av de løpende tjenestetillegg.",
+                        "Inndrivning av bot hos militært tilsatte, kan skje ved trekk i lønn. Uten samtykke fra den refsede kan ved hver utbetaling ikke mer enn en fjerdedel av lønnen tilbakeholdes til dekning av boten. Slikt trekk går foran annet trekk i lønn, bortsett fra trekk for underholdsbidrag for det tidsrom lønnen gjelder, og trekk etter den borgerlige straffeprosesslov § 456.",
+                        "8. I lov 20. mai 1988 nr. 33 om politimyndighet i det militære forsvar gjøres følgende endringer:",
+                        "Lovens tittel skal lyde:",
+                        "Lov 20. mai 1988 nr. 33 om politimyndighet i Forsvaret",
+                        "§ 1 første ledd skal lyde:",
+                        "Offiserer, befal, militærpoliti og militære vakter har politimyndighet overfor alle som er på militært område eller i umiddelbar nærhet av det. Militært område omfatter også militært fartøy eller transportmiddel.",
+                        "§ 2 første ledd skal lyde:",
+                        "Offiserer og befal har også utenfor militært område politimyndighet overfor enhver undergitt som omfattes av kapittel I i disiplinærloven. Militærpolitiet kan utøve politimyndighet overfor enhver som omfattes av kapittel I i disiplinærloven utenfor militært område.",
+                        "§ 5 første ledd skal lyde:",
+                        "Militærpolitiet, offiserer og befal kan etterforske brudd på den militære straffelov eller disiplinærloven.",
+                        "§ 6 skal lyde:",
+                        "Den som rettsstridig forlater eller blir borte fra et sted hvor det påhviler vedkommende en militær plikt å være til stede, kan avhentes av politiet, militærpolitiet, offiser eller befal. En vernepliktig som unnlater å møte frem til førstegangstjeneste kan likevel bare avhentes av politiet.",
+                        "§ 7 skal lyde:",
+                        "Kongen fastsetter nærmere regler om militærpolitiet og utøvelse av politimyndighet i Forsvaret.",
+                        "9. I lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. skal § 5-3 lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Skjenkebevilling til Forsvarets messer for militært tilsatte m.v.",
+                    "sections": [
+                        "Messer for militært tilsatte som drives i samsvar med retningslinjene for slik virksomhet kan gis bevilling av departementet til å skjenke alkoholholdig drikk.",
+                        "Når særlige grunner tilsier det, kan departementet gi Forsvaret og Direktoratet for samfunnssikkerhet og beredskap adgang til å gi skjenkebevilling til messer for militært tilsatte ved anlegg som av hensyn til rikets sikkerhet er sikkerhetsgradert.",
+                        "Før bevilling etter første ledd blir gitt, skal det foreligge uttalelser fra politiet, sosialtjenesten og kommunestyret. Melding om gitte bevillinger sendes politiet.",
+                        "Departementet fastsetter de nærmere vilkår og innskrenkninger for utøvelsen av bevillingen som det til enhver tid finner nødvendig.",
+                        "For øvrig gis bevillingen etter første ledd etter bestemmelsene i kapittel 4.",
+                        "10. I lov 16. juni 1989 nr. 65 om yrkesskadeforsikring skal § 2 bokstav b lyde:",
+                        "b)arbeidstaker: enhver som gjør arbeid eller utfører verv i arbeidsgiverens tjeneste, herunder ombudsmann i offentlig virksomhet, tjenestepliktige i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.",
+                        "11. I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:",
+                        "§ 2-5 første ledd bokstav c skal lyde:",
+                        "c)i Forsvarets tjeneste i utlandet, herunder militært tilsatte som deltar i internasjonale operasjoner,",
+                        "§ 2-5 første ledd bokstav d oppheves. Nåværende bokstav e til i blir bokstav d til h.",
+                        "§ 4-19 første ledd skal lyde:",
+                        "Til medlem som i de siste 12 måneder før han eller hun søker dagpenger har utført minst tre måneders militærtjeneste eller obligatorisk sivilforsvarstjeneste, ytes det dagpenger uten hensyn til vilkårene i § 4-3 om tap av arbeidsinntekt og i § 4-4 om krav til minsteinntekt.",
+                        "§ 5-23 første ledd skal lyde:",
+                        "En menig som kan få helsetjenester i Forsvaret, har ikke rett til stønad etter dette kapitlet.",
+                        "§ 8-24 tredje ledd bokstav d skal lyde:",
+                        "d)militærtjeneste.",
+                        "§ 8-46 første ledd skal lyde:",
+                        "Et medlem som har utført militærtjeneste, har rett til sykepenger ved arbeidsuførhet uten hensyn til vilkårene i §§ 8-2 og 8-3 dersom arbeidsuførheten oppstår under tjenesten.",
+                        "§ 8-47 tredje ledd bokstav a skal lyde:",
+                        "a)da medlemmet utfører militærtjeneste,",
+                        "§ 13-8 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 13-8",
+                    "title": "Militærpersoner o.a.",
+                    "sections": [
+                        "Følgende grupper av medlemmer er yrkesskadedekket:",
+                        "a)vernepliktige og frivillig tjenestegjørende etter forsvarsloven,",
+                        "b)tjenestepliktige og frivillig tjenestegjørende etter lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret,",
+                        "c)tjenestepliktige og frivillig tjenestegjørende etter lov 21. november 1952 nr. 3 om tjenesteplikt i politiet,",
+                        "d)militært tilsatte etter forsvarsloven,",
+                        "e)personer som etter avtale deltar i Forsvarets tjeneste som lotter.",
+                        "Medlemmer som nevnt i første ledd bokstav a til c er yrkesskadedekket ved enhver skade og sykdom som er påført eller oppstått i tidsrommet fra de møter til tjeneste til de blir dimittert.",
+                        "Medlemmer som nevnt i første ledd bokstav d er yrkesskadedekket etter bestemmelsene som gjelder for arbeidstakere. Når medlemmene deltar i manøver eller utfører oppdrag under feltmessige forhold, gjelder likevel bestemmelsene i andre ledd i denne paragrafen. Når medlemmene tjenestegjør i internasjonale operasjoner, er de yrkesskadedekket ved enhver skade og sykdom som er påført eller oppstått under opphold i utlandet.",
+                        "Medlemmer som nevnt i første ledd bokstav e er yrkesskadedekket under kurs, øvelser og annen tjeneste for Forsvaret.",
+                        "§ 13-14 første ledd skal lyde:",
+                        "Arbeidsgivere, rektorer, forlegningssjefer og andre i tilsvarende stilling plikter snarest å sende skademelding til Arbeids- og velferdsetaten når en arbeidstaker, elev, student, tjenestepliktig i Forsvaret osv. blir påført en skade eller sykdom som kan gi rett til yrkesskadedekning.",
+                        "§ 14-6 fjerde ledd bokstav e skal lyde:",
+                        "f)avtjening av militærtjeneste eller obligatorisk sivilforsvarstjeneste.",
+                        "§ 14-7 tredje ledd skal lyde:",
+                        "Til et medlem som avtjener militærtjeneste eller obligatorisk sivilforsvarstjeneste i opptjeningstiden etter § 14-6, skal beregningsgrunnlaget minst svare til en årsinntekt på tre ganger grunnbeløpet, dersom tjenesten har vart eller var ment å vare mer enn 28 dager.",
+                        "12. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 7 første ledd lyde:",
+                        "Vernepliktige i tjeneste og militært tilsatte i Forsvaret kan beordres til å utføre oppgaver som fremgår av denne lov, med mindre annet følger av ansettelsesvilkårene.",
+                        "13. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt skal § 5-15 første ledd bokstav f lyde:",
+                        "f.følgende ytelser til tjenestepliktige i Forsvaret og sivile tjenestepliktige: dagpenger, dimisjonsgodtgjørelse, utdanningsbonus av samme størrelse og forsørgertillegg m.v. til tjenestepliktige som ikke er tilsatt samt lagførere og mannskap i Sivilforsvaret etter offentlig regulativ,",
+                        "14. I lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap gjøres følgende endringer:",
+                        "§ 4-1 femte ledd skal lyde:",
+                        "Tjenesteplikt etter paragrafen her gjelder bare i den utstrekning styrkeoppbygging i Forsvaret ikke er til hinder, med mindre noe annet er bestemt i lov.",
+                        "§ 4-2 første ledd tredje punktum skal lyde:",
+                        "Personell som ikke er styrkedisponert i Forsvaret, kan i fredstid pålegges å delta på kurs og øvelser av inntil 3 ukers varighet."
+                    ]
+                }
+            ]
+        }
+    ]
+}

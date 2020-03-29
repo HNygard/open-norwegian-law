@@ -1,0 +1,78 @@
+{
+    "lawId": "LOV-2007-06-29-87",
+    "lawName": "Lov om registrering av innsamlinger",
+    "shortName": "Innsamlingsregistreringsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Definisjon og formål",
+                    "sections": [
+                        "Formålet med loven er å medvirke til at midler som gis til innsamlinger i størst mulig grad gir overskudd til beste for det oppgitte formål med innsamlingen.",
+                        "Med innsamling menes i denne lov enhver frivillig innsamling av penger eller gaver rettet mot offentligheten til inntekt for samfunnsnyttige formål."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Registrering",
+                    "sections": [
+                        "Enhver innsamling som nevnt i § 1 første ledd kan på de vilkår som framgår av denne lov registreres i Innsamlingsregisteret. Registreringen skjer etter skriftlig melding til registreringsorganet. Den skriftlige meldingen skal utformes etter nærmere bestemmelser fastsatt av registreringsorganet, herunder bestemmelser om utforming av budsjett for innsamlingsaksjonen.",
+                        "En alminnelig stiftelse utpekt av departementet skal være registreringsorgan."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Innsamlingsmerke",
+                    "sections": [
+                        "Enhver innsamling som er registrert etter § 2, kan synliggjøre at den er registrert gjennom bruk av et særskilt innsamlingsmerke på innsamlingspersonell, innsamlingsmateriell og informasjon om innsamlingen. Registreringsorganet utformer innsamlingsmerket og fastsetter nærmere bestemmelser om hvordan merket skal benyttes."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Avgift",
+                    "sections": [
+                        "Registrerte innsamlinger skal betale en avgift for registrering og kontroll etter nærmere satser fastsatt av registreringsorganet. Avgiftsstørrelsen for den enkelte innsamling skal beregnes ut fra innsamlingens budsjett, med endelig avregning når endelig regnskap foreligger."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Regnskap",
+                    "sections": [
+                        "Regnskap for den enkelte innsamling skal sendes registreringsorganet innen 6 måneder etter utløpet av hvert kalenderår. Regnskap skal føres etter nærmere bestemmelse fastsatt av registreringsorganet og skal før innsending være revidert av registrert eller statsautorisert revisor."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Minimumsandel til det oppgitte formål med innsamlingen",
+                    "sections": [
+                        "Alle registrerte innsamlinger skal ha et budsjett hvor minst 65 % av de innsamlede midler skal gå uavkortet til det oppgitte formålet med innsamlingen. Beregningen av minsteandelen kan skje i forhold til en tidsperiode på maksimalt 3 år. Registreringsorganet utarbeider nærmere retningslinjer for hvordan beregningen skal skje.",
+                        "Oversikt over det økonomiske resultat i alle registrerte innsamlinger skal offentliggjøres av registreringsorganet, herunder hvor stor andel av de innsamlede midler som i henhold til budsjett og godkjent regnskap gikk til det oppgitte formålet med innsamlingen. Registreringsorganet fastsetter hvordan beregningen av det økonomiske resultat skal skje. Offentliggjøring skal skje på registreringsorganets hjemmeside senest en måned etter at årlig regnskap for innsamlingen er innsendt."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Sletting mv.",
+                    "sections": [
+                        "Registreringsorganet kan slette eller nekte registrering av en innsamling når den ikke tilfredsstiller de krav som følger av denne lov eller fastsatte retningslinjer, eller når dokumenterbare forhold ved tidligere innsamlinger gir grunn til å tro at lovens forutsetninger for registrering ikke vil bli fulgt. Ved sletting av registrering som følge av at innsamlingen avholdes i strid med bestemmelser i denne lov eller fastsatte retningslinjer, skal dette kunngjøres på registreringsorganets hjemmesider."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Anmeldelse",
+                    "sections": [
+                        "Får registreringsorganet mistanke om bedrageri, utroskap, underslag eller lignende i forbindelse med en innsamlingsaksjon, skal det vurdere om forholdet skal anmeldes til politiet."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "lawId": "LOV-2003-04-25-24",
+    "lawName": "Lov om endringer i rettergangslovgivningen mv. (elektronisk kommunikasjon med domstolene mv.)",
+    "shortName": "Endringslov til rettergangslovgivningen",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 2-13",
+                    "title": "Bruk av elektronisk kommunikasjon",
+                    "sections": [
+                        "Ved elektronisk kommunikasjon med namsmyndighetene gjelder domstolloven § 197 a tilsvarende.",
+                        "Ikrafttredelse",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

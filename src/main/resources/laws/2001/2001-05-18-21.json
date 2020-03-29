@@ -1,0 +1,720 @@
+{
+    "lawId": "LOV-2001-05-18-21",
+    "lawName": "Lov om gjennomføring av straff mv. (straffegjennomføringsloven)",
+    "shortName": "Straffegjennomføringsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1 Lovens anvendelsesområde og generelle prinsipper for straffegjennomføring",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Anvendelsesområde",
+                    "sections": [
+                        "Denne loven gjelder for gjennomføring av fengselsstraff, strafferettslige særreaksjoner, samfunnsstraff og varetektsfengsling og for gjennomføring av andre reaksjoner når det er særskilt bestemt i lov."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Formål",
+                    "sections": [
+                        "Straffen skal gjennomføres på en måte som tar hensyn til formålet med straffen, som motvirker nye straffbare handlinger, som er betryggende for samfunnet og som innenfor disse rammene sikrer de innsatte tilfredsstillende forhold.",
+                        "Ved varetektsfengsling skal kriminalomsorgen legge forholdene til rette for å avhjelpe negative virkninger av isolasjon."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Innhold",
+                    "sections": [
+                        "Gjennomføringen av reaksjonen skal være sikkerhetsmessig forsvarlig. Innholdet skal bygge på de tiltak kriminalomsorgen har til rådighet for å fremme domfeltes tilpasning til samfunnet. Kriminalomsorgen skal legge forholdene til rette for at domfelte skal kunne gjøre en egen innsats for å motvirke nye straffbare handlinger.",
+                        "Barns rett til samvær med sine foreldre skal særlig vektlegges under gjennomføringen av reaksjonen.",
+                        "Domfelte har aktivitetsplikt under gjennomføringen av straff og strafferettslige særreaksjoner. Aktivitetsplikten kan bestå av arbeid, samfunnsnyttig tjeneste, opplæring, program eller andre tiltak som er egnet til å motvirke ny kriminalitet. Under sykdom eller uførhet kan aktivitetsplikten falle bort.",
+                        "Ved gjennomføringen av fengselsstraff og strafferettslige særreaksjoner skal det så vidt mulig skje en gradvis overgang fra fengsel til full frihet og gis tilbud om deltagelse i fritidsaktiviteter."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Forvaltningssamarbeid",
+                    "sections": [
+                        "Kriminalomsorgen skal gjennom samarbeid med andre offentlige etater legge til rette for at domfelte og innsatte i varetekt får de tjenester som lovgivningen gir dem krav på. Samarbeidet skal bidra til en samordnet innsats for å dekke domfelte og innsattes behov og fremme deres tilpasning til samfunnet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Administrative bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 5",
+                    "title": "Kriminalomsorgens organisatoriske inndeling",
+                    "sections": [
+                        "Kriminalomsorgen er inndelt i Kriminalomsorgens sentrale forvaltning, regionalt nivå og lokalt nivå.",
+                        "Kriminalomsorgens sentrale forvaltning har ansvaret for den faglige og administrative ledelsen av kriminalomsorgen. Lederen utnevnes av Kongen.",
+                        "Regionalt nivå ledes faglig og administrativt av en regiondirektør. Det kan bestemmes at regiondirektører tilsettes på åremål.",
+                        "Kongen kan gi nærmere regler om kriminalomsorgens virksomhet, organisering og gjennomføringen av fengselsstraff, strafferettslige særreaksjoner, varetekt, samfunnsstraff og andre reaksjoner når det er særskilt bestemt i lov."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Myndighet til å treffe avgjørelser",
+                    "sections": [
+                        "Avgjørelser etter denne loven treffes av lokalt nivå med mindre annet følger av annet ledd.",
+                        "Regionalt nivå treffer avgjørelse i alle saker etter § 11, § 37 fjerde ledd, og syvende ledd tredje punktum, § 38 tredje og fjerde ledd, § 44 annet ledd og § 58 annet ledd. Når den domfelte er idømt fengselsstraff på mer enn ti år, idømt en strafferettslig særreaksjon eller innsatt i avdeling med særlig høyt sikkerhetsnivå etter § 10 annet ledd, treffer regionalt nivå også avgjørelse etter §§ 12 til 16, 20, 33, 35, 36 og 42 til 44."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Saksbehandlingsregler",
+                    "sections": [
+                        "Forvaltningsloven gjelder med følgende unntak:",
+                        "a)Domfelte, innsatte eller tilsatte i kriminalomsorgen kan ikke være fullmektig for en person som er under straffegjennomføring eller innsatt etter denne loven.",
+                        "b)Saksbehandlingen kan være muntlig når tidsmessige grunner gjør det nødvendig. Det gjelder også for vedtaket og underretningen om vedtaket til domfelte eller innsatte.",
+                        "c)En part har ikke krav på innsyn i et dokument som inneholder opplysninger som det av hensyn til en annen person må anses utilrådelig at parten får kjennskap til. Parten har heller ikke krav på å gjøre seg kjent med opplysninger i et dokument dersom innsyn er utilrådelig på grunn av sikkerhetsmessige hensyn, eller av hensyn til etterforskning av straffbare forhold.",
+                        "d)Det kan gjøres unntak fra plikten til å begrunne vedtak etter forvaltningsloven § 24 hvis begrunnelsen vil røpe opplysning som er unntatt fra adgangen til innsyn etter bokstav c.",
+                        "e)Klagefristen i saker etter denne loven er 7 dager. Dette gjelder ikke saker om reaksjon på brudd etter § 40 første til og med sjette ledd og § 58 første ledd. I slike saker er klagefristen 48 timer.",
+                        "f)Beslutning om å fremme sak for forhørsretten etter § 44 annet ledd eller § 58 annet ledd kan ikke påklages. Det samme gjelder beslutning om innsettelse i fengsel etter § 11.",
+                        "g)Kriminalomsorgens sentrale forvaltning og regionalt nivå kan, selv om fristene i forvaltningsloven § 35 tredje ledd er overskredet, av eget tiltak omgjøre et vedtak som er fattet av underordnet instans til skade for domfelte eller innsatte hvis særlige grunner tilsier det.",
+                        "h)Enhver som gjør tjeneste i kriminalomsorgen, har taushetsplikt om det vedkommende i forbindelse med tjenesten får vite om sikkerhetsmessige forhold i fengslene.",
+                        "i)Taushetsplikt er ikke til hinder for at kriminalomsorgen gir opplysninger som nevnt i § 36 tredje ledd og § 42 syvende ledd til den fornærmede i straffesaken eller dennes etterlatte."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Krav til tilsatte mv.",
+                    "sections": [
+                        "For å bli tilsatt i kriminalomsorgen kan det settes spesielle krav til utdanningen. Det må ikke være noe å utsette på vandelen til tilsatte i kriminalomsorgen. En tilsatt kan midlertidig eller varig forflyttes til en annen driftsenhet i kriminalomsorgen dersom hensynet til tjenesten tilsier det."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Tilsynsråd",
+                    "sections": [
+                        "I tilknytning til hver region skal det være et tilsynsråd som etter nærmere regler skal føre tilsyn med fengsler og friomsorgskontor og med behandlingen av de domfelte og innsatte."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Fengselsstraff og strafferettslige særreaksjoner",
+            "paragraphs": [
+                {
+                    "name": "§ 10",
+                    "title": "Gjennomføringsformer",
+                    "sections": [
+                        "Fengselsstraff og strafferettslige særreaksjoner kan gjennomføres",
+                        "a)i fengsel med høyt sikkerhetsnivå (lukket fengsel),",
+                        "b)i fengsel med lavere sikkerhetsnivå (åpent fengsel),",
+                        "c)i overgangsbolig,",
+                        "d)utenfor fengsel med særlige vilkår etter § 16, eller",
+                        "e)som prøveløslatt med vilkår etter § 43 annet ledd.",
+                        "Avdeling i fengsel med høyt sikkerhetsnivå kan tilrettelegges for innsatte med særlige behov, herunder personer som er idømt en strafferettslig særreaksjon, eller innrettes med særlig høyt sikkerhetsnivå.",
+                        "Straff kan gjennomføres ved heldøgnsopphold i institusjon eller sykehus etter §§ 12 og 13."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Innsettelse i fengsel",
+                    "sections": [
+                        "Kriminalomsorgen skal sette domfelte direkte inn i fengsel med høyt sikkerhetsnivå hvis ikke annet er bestemt med hjemmel i denne loven. Domfelte bør så langt det er praktisk mulig og formålstjenlig settes inn i nærheten av hjemstedet.",
+                        "Dersom spesielle sikkerhetsmessige grunner gjør det påkrevet, kan domfelte settes inn i avdeling med særlig høyt sikkerhetsnivå etter § 10 annet ledd.",
+                        "Domfelte med særlige behov, herunder personer som er idømt en strafferettslig særreaksjon, bør settes inn i avdeling tilrettelagt for dette etter § 10 annet ledd.",
+                        "Kriminalomsorgen skal vurdere om domfelte kan settes direkte inn i fengsel med lavere sikkerhetsnivå dersom det er idømt fengselsstraff på inntil 2 år. Slik innsettelse skal ikke besluttes dersom formålet med straffen eller sikkerhetsmessige grunner taler mot det, eller det er grunn til å anta at domfelte vil unndra seg gjennomføringen. I særlige tilfeller kan domfelte settes direkte inn i fengsel med lavere sikkerhetsnivå når det er idømt fengselsstraff på mer enn 2 år."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Gjennomføring av straff i institusjon",
+                    "sections": [
+                        "Straffen kan i særlige tilfeller helt eller delvis gjennomføres ved heldøgnsopphold i institusjon dersom oppholdet er nødvendig for å bedre domfeltes evne til å fungere sosialt og lovlydig, eller andre tungtveiende grunner taler for det. Kriminalomsorgen skal ikke beslutte slik gjennomføring hvis sikkerhetsmessige grunner taler mot det eller det er grunn til å anta at domfelte vil unndra seg gjennomføringen."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Gjennomføring av straff i sykehus",
+                    "sections": [
+                        "Kriminalomsorgen kan beslutte at straffen kan gjennomføres ved heldøgnsopphold i sykehus dersom behandling av sykdom gjør det nødvendig, og behandlingen ikke kan gis under ordinær gjennomføring av straffen."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Overføring mellom gjennomføringsformer",
+                    "sections": [
+                        "Kriminalomsorgen kan overføre innsatte til et annet fengsel dersom",
+                        "a)det er sannsynlig at innsatte har begått eller vil begå en straffbar handling,",
+                        "b)det er grunn til å anta at innsatte vil unndra seg gjennomføringen,",
+                        "c)innsatte til tross for skriftlig advarsel har særlig negativ innflytelse på miljøet i fengslet,",
+                        "d)overføring er nødvendig for å opprettholde ro, orden og sikkerhet i fengslet, eller",
+                        "e)bygningsmessige eller bemanningsmessige forhold eller plassmangel gjør det nødvendig.",
+                        "Innsatte som gjennomfører straff i avdeling med særlig høyt sikkerhetsnivå, kan overføres til annet fengsel for å forebygge brudd på ro, orden og sikkerhet i avdelingen selv om vilkårene etter første ledd bokstavene a til e ikke er oppfylt.",
+                        "Domfelte som selv ønsker det, kan overføres til annet fengsel dersom dette er hensiktsmessig for den videre straffegjennomføring.",
+                        "Domfelte som gjennomfører straff utenfor fengsel etter § 16, kan tilbakeføres til fengsel dersom det er sannsynlig at domfelte har begått eller vil begå en straffbar handling, unndra seg gjennomføringen eller bryte forutsetninger og vilkår for gjennomføring av straff utenfor fengsel.",
+                        "Domfelte skal ikke overføres til mer restriktivt fengsel enn det som er nødvendig."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Overføring til mindre restriktivt fengsel",
+                    "sections": [
+                        "Innsatte i avdeling med særlig høyt sikkerhetsnivå, eller som er tilrettelagt for innsatte med særlige behov, kan overføres til fengsel med høyt sikkerhetsnivå dersom sikkerhetsmessige grunner ikke taler mot det og det ikke er grunn til å anta at innsatte vil unndra seg gjennomføringen. Kriminalomsorgen skal vurdere innsatte i avdeling med særlig høyt sikkerhetsnivå for overføring til fengsel med høyt sikkerhetsnivå med ikke mer enn 6 måneders mellomrom.",
+                        "Innsatte kan, etter å ha gjennomført en del av straffen, overføres fra fengsel med høyt sikkerhetsnivå til fengsel med lavere sikkerhetsnivå. Innsatte skal ikke overføres dersom formålet med straffen eller sikkerhetsmessige grunner taler mot det, eller det er grunn til å anta at innsatte vil unndra seg gjennomføringen. Kriminalomsorgen skal vurdere overføring til fengsel med lavere sikkerhetsnivå når det gjenstår ett år til innsatte kan løslates på prøve.",
+                        "Innsatte kan overføres fra fengsel med høyt eller lavere sikkerhetsnivå til overgangsbolig når en del av straffen er gjennomført. Innsatte skal ikke overføres dersom formålet med straffen eller sikkerhetsmessige grunner taler mot det, eller det er grunn til å anta at innsatte vil unndra seg gjennomføringen. Overføringen må være hensiktsmessig for å fremme en positiv utvikling og for å motvirke ny kriminalitet."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Gjennomføring av straff utenfor fengsel",
+                    "sections": [
+                        "Dersom det er nødvendig og hensiktsmessig for å sikre en fortsatt særlig positiv utvikling og motvirke ny kriminalitet, kan kriminalomsorgen overføre domfelte til gjennomføring av straffen utenfor fengsel med særlige vilkår når halvdelen av straffetiden er gjennomført. Overføring skal ikke besluttes dersom formålet med straffen eller hensynet til en sikkerhetsmessig forsvarlig gjennomføring taler mot det.",
+                        "Det er en forutsetning for gjennomføring av straff utenfor fengsel at domfelte skal ha fast bopel og være sysselsatt i form av arbeid, opplæring eller andre tiltak. Domfelte skal dessuten unnlate å bruke rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet.",
+                        "Dersom det fremstår som nødvendig for en sikkerhetsmessig forsvarlig gjennomføring av straffen utenfor fengsel, skal kriminalomsorgen fastsette særlige vilkår. Kriminalomsorgen kan blant annet fastsette at domfelte skal",
+                        "a)gjennomgå behandling,",
+                        "b)delta i program,",
+                        "c)innta antabus eller andre foreskrevne medikamenter,",
+                        "d)overholde bestemmelser om oppholdssted, eller",
+                        "e)unnlate å ha samkvem med bestemte personer.",
+                        "Kriminalomsorgen kan oppheve fastsatte vilkår, endre eller fastsette nye vilkår hvis det fremstår som nødvendig av hensyn til en sikkerhetsmessig forsvarlig gjennomføring av straffen.",
+                        "Kriminalomsorgen skal kontrollere at domfelte overholder forutsetninger og fastsatte vilkår. Som ledd i kontrollen kan tiltak etter § 56 iverksettes. Ved brudd på vilkår eller forutsetninger, eller dersom det er sannsynlig at domfelte har begått eller vil begå straffbar handling eller unndra seg gjennomføringen, gjelder bestemmelsene om tilbakeføring til fengsel i § 14 fjerde og femte ledd."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Fellesskap med andre innsatte",
+                    "sections": [
+                        "Så langt det er praktisk mulig skal innsatte ha adgang til fellesskap under arbeid, opplæring, program eller andre tiltak, og i fritiden. Kriminalomsorgen kan beslutte hel eller delvis utelukkelse fra fellesskapet etter bestemmelsene i § 29 annet ledd og §§ 37, 38, 39 og 40 annet ledd bokstav d. Innsatte skal være i enerom om natten hvis ikke helsemessige forhold eller plassmangel er til hinder for det.",
+                        "Fellesskapet for innsatte som gjennomfører straff i avdeling som nevnt i § 10 annet ledd, kan helt eller delvis begrenses av hensyn til ro, orden og sikkerhet, eller dersom hensynet til innsatte selv eller andre innsatte tilsier det, og det ikke fremstår som et uforholdsmessig inngrep."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Arbeid, opplæring, program eller andre tiltak",
+                    "sections": [
+                        "Kriminalomsorgen skal legge til rette for at innsatte får et aktivitetstilbud på dagtid."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Dagpenger",
+                    "sections": [
+                        "Domfelte som gjennomfører straff i fengsel, eller utenfor fengsel etter §§ 12 og 13, kan tilstås dagpenger. Satsene fastsettes av Kriminalomsorgens sentrale forvaltning."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Frigang",
+                    "sections": [
+                        "Kriminalomsorgen kan gi innsatte tillatelse til å delta i arbeid, opplæring, program eller andre tiltak utenfor fengsel dersom sikkerhetsmessige grunner ikke taler mot det, og det ikke er grunn til å anta at innsatte vil unndra seg gjennomføringen av straffen."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Fritidsaktiviteter",
+                    "sections": [
+                        "Kriminalomsorgen skal legge forholdene til rette for at de innsatte skal få tilbud om deltagelse i aktiviteter på fritiden, herunder mulighet for fysisk aktivitet og kulturell virksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Lufting",
+                    "sections": [
+                        "Innsatte skal så langt det er mulig få oppholde seg i friluft hver dag."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Religion og livssyn",
+                    "sections": [
+                        "Kriminalomsorgen skal gi innsatte mulighet til å utøve religion og livssyn."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Reportasje og intervju",
+                    "sections": [
+                        "Kriminalomsorgen kan gi tillatelse til reportasje fra fengsel. Det kan settes vilkår for tillatelsen for å sikre ro, orden og sikkerhet i fengslet.",
+                        "Innsatte har rett til å la seg intervjue og fotografere. Kriminalomsorgen skal legge forholdene til rette for en praktisk gjennomføring av denne retten. Kriminalomsorgen kan bestemme tid og sted for intervjuet av hensyn til ro, orden og sikkerhet i fengslet. Politiet skal samtykke til intervju av varetektsinnsatte som er ilagt restriksjoner etter straffeprosessloven § 186 annet ledd.",
+                        "Den som gis tillatelse til reportasje etter første ledd, eller som intervjuer innsatte, kan pålegges taushetsplikt om opplysninger som vedrører sikkerhetsmessige forhold i fengslet. Den som forsettlig eller uaktsomt krenker taushetsplikten, straffes med bøter eller med fengsel inntil 6 måneder."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Samarbeidsorganer",
+                    "sections": [
+                        "Dersom de innsatte ønsker det, bør kriminalomsorgen etablere samarbeidsorganer med representanter for innsatte og tilsatte. Hvis straff gjennomføres i avdeling som nevnt i § 10 annet ledd, kan slike organer etableres dersom sikkerhetsmessige grunner ikke taler mot det.",
+                        "Samarbeidsorganene har som formål å legge til rette for diskusjon av spørsmål som har betydning for de innsattes daglige liv. Spørsmål som angår en enkelt innsatt eller tilsatt, eller spørsmål om organisering av sikkerhetsmessige tiltak, kan ikke diskuteres."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Private eiendeler",
+                    "sections": [
+                        "Kriminalomsorgen kan ut fra hensynet til ro, orden og sikkerhet gi bestemmelser om hvilke gjenstander som det er tillatt å ta med inn eller ut av fengsel.",
+                        "Gjenstander som tas inn eller ut av fengsel, kan undersøkes etter §§ 27 og 28.",
+                        "Kriminalomsorgen kan midlertidig holde tilbake penger eller gjenstander som er forsøkt innført eller utført i strid med første ledd. Hvis pengene eller gjenstandene ikke blir beslaglagt etter straffeprosessloven kapittel 16, inndratt etter straffeloven § 34, eller holdt tilbake på annet grunnlag, skal de senest leveres tilbake ved løslatelse eller når en besøkende forlater fengslet. Kriminalomsorgen kan destruere alkohol, andre rusmidler og medikamenter mv."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Undersøkelse av personer og gjenstander",
+                    "sections": [
+                        "Kriminalomsorgen kan på fengselsområdet undersøke personer og gjenstander ved bruk av teknisk utstyr eller hund for å forhindre at det tas med gjenstander som ikke er tillatt. Ved positivt utslag, eller når personen ikke medvirker til undersøkelsen, kan fengslet avvise personen. Ved funn av gjenstander som ikke er tillatt, gjelder reglene i § 26 tredje ledd.",
+                        "Dersom undersøkelsen etter første ledd gir positivt utslag, eller kriminalomsorgen ellers beslutter det, kan en person visiteres dersom han eller hun samtykker. Dersom undersøkelsen etter første ledd gir positivt utslag, eller det ellers er grunn til å anta at en person forsøker å ta med seg gjenstander som ikke er tillatt inn i fengslet, kan en person holdes tilbake av tilsatte inntil politiet ankommer selv om personen ikke samtykker til visitasjon. Ved funn av gjenstand som ikke er tillatt, gjelder bestemmelsen i første ledd annet og tredje punktum tilsvarende.",
+                        "Undersøkelse etter første ledd ved bruk av teknisk utstyr eller hund overfor offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare finne sted i avdeling med særlig høyt sikkerhetsnivå. Disse personer kan bare avvises etter første ledd dersom de ikke medvirker til undersøkelsen. Ved positivt utslag kan kontrolltiltak som nevnt i § 31 tredje ledd, jf. sjette ledd iverksettes.",
+                        "Enhver kan avkreves gyldig legitimasjon for å sikre rett identitet.",
+                        "Før kriminalomsorgen gir tillatelse til besøk til innsatte, kan det på forhånd innhentes opplysninger om den besøkendes vandel.",
+                        "Ved bruk av telefon kan samtalepartens identitet undersøkes på forhånd.",
+                        "Innsatte kan fotograferes for å sikre rett identitet."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Undersøkelse av innsatte, rom og eiendeler",
+                    "sections": [
+                        "Kriminalomsorgen kan undersøke innsatte, deres rom og eiendeler for å forebygge uorden eller straffbar handling. Undersøkelsen kan skje ved bruk av teknisk utstyr eller hund, visitasjon eller ved kroppsvisitasjon."
+                    ]
+                },
+                {
+                    "name": "§ 29",
+                    "title": "Undersøkelser for å avdekke bruk av rusmidler mv.",
+                    "sections": [
+                        "Kriminalomsorgen kan pålegge domfelte som gjennomfører straff etter § 10 første ledd bokstav a, b, c og d å avgi urinprøve, utåndingsprøve eller blodprøve eller å medvirke til andre undersøkelser som kan skje uten fare eller særlig ubehag, for å avdekke bruk av rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet. Blodprøve kan bare tas av helsepersonell.",
+                        "Dersom det er sannsynlig at domfelte i kroppen skjuler rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen beslutte at domfelte skal settes i enerom med spesialtoalett. Uttalelse fra lege skal innhentes og tas i betraktning ved vurderingen av om tiltaket skal settes i verk. Under oppholdet skal domfelte ha jevnlig tilsyn av helsepersonell.",
+                        "Dersom det er overveiende sannsynlig at en innsatt i kroppen skjuler rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen beslutte at det skal foretas kroppslig undersøkelse eller annet tiltak for å bringe stoffet frem. Uttalelse fra lege skal innhentes og tas i betraktning ved vurderingen av om tiltaket skal settes i verk. Inngrepet kan bare utføres av helsepersonell. Samtykke fra regionalt nivå skal innhentes på forhånd hvis dette er praktisk mulig."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Postsending",
+                    "sections": [
+                        "Innsatte skal kunne sende og motta postsending hvis ikke annet følger av denne bestemmelsen.",
+                        "Kriminalomsorgen skal kontrollere postsending til og fra innsatte i avdeling med særlig høyt sikkerhetsnivå før den utleveres eller sendes. Postsending til og fra innsatte i fengsel med høyt sikkerhetsnivå skal kontrolleres, men kontroll kan unnlates dersom sikkerhetsmessige grunner ikke taler mot det. Postsending til og fra innsatte i fengsel med lavere sikkerhetsnivå og overgangsbolig skal kontrolleres dersom det fremstår som nødvendig av sikkerhetsmessige grunner.",
+                        "Kontroll av postsending kan skje ved åpning og gjennomlesning av sendingen før den utleveres eller sendes, og ved undersøkelse som nevnt i § 27 første ledd. I avdeling med særlig høyt sikkerhetsnivå kan innsatte pålegges å føre korrespondanse på et språk de tilsatte behersker.",
+                        "Kriminalomsorgen kan nekte å utlevere eller sende postsending til eller fra innsatte dersom sendingen inneholder opplysninger om planlegging eller gjennomføring av straffbar handling, unndragelse av gjennomføringen eller handlinger som vil forstyrre ro, orden og sikkerhet. Innsatte bør gjøres kjent med den delen av sendingen som uten skade kan meddeles.",
+                        "Postsending som den innsatte allerede har mottatt, kan kontrolleres etter tredje ledd.",
+                        "Postsending til eller fra offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan undersøkes etter § 27 tredje ledd. Kontroll ved gjennomlesning skal ikke finne sted. Sendingen skal alltid åpnes i nærvær av innsatte.",
+                        "Bestemmelsene i første til sjette ledd gjelder tilsvarende for elektronisk kommunikasjon med tekst, lyd og bilde."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Besøk",
+                    "sections": [
+                        "Innsatte skal kunne motta besøk hvis ikke annet følger av denne bestemmelsen.",
+                        "Kriminalomsorgen skal kontrollere besøk i avdeling med særlig høyt sikkerhetsnivå. Besøk i fengsel med høyt sikkerhetsnivå skal kontrolleres, men kontroll kan unnlates dersom sikkerhetsmessige grunner ikke taler mot det. Besøk i fengsel med lavere sikkerhetsnivå og overgangsbolig skal kontrolleres dersom det fremstår som nødvendig av sikkerhetsmessige grunner.",
+                        "Kontroll under besøk kan skje ved påsyn av tilsatt under besøket, ved overhøring av samtale, ved bruk av glassvegg eller ved å forby fysisk kontakt mellom innsatte og den besøkende. Dersom sikkerhetsmessige grunner gjør det nødvendig å overhøre samtalen, kan innsatte og den besøkende pålegges å føre samtalen på et språk de tilsatte behersker. Flere kontrolltiltak kan iverksettes samtidig dersom det er nødvendig. Det skal ikke iverksettes strengere kontrolltiltak enn nødvendig.",
+                        "Kriminalomsorgen kan nekte besøk dersom det er grunn til å anta at besøket vil bli misbrukt til planlegging eller gjennomføring av straffbar handling, unndragelse av gjennomføringen eller handlinger som vil kunne forstyrre ro, orden og sikkerhet. Dersom besøket er av stor betydning for innsatte, og kontroll er tilstrekkelig for å avverge at besøket misbrukes til formål som nevnt i første punktum i dette ledd, bør besøket kontrolleres og ikke nektes.",
+                        "Besøkende kan undersøkes etter § 27 første, annet, fjerde og femte ledd.",
+                        "Offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan undersøkes etter § 27 annet til femte ledd. Kontroll under besøket ved at samtale overhøres skal ikke finne sted.",
+                        "Besøk bør gjennomføres i besøksrom. Fengslet skal legge forholdene til rette for at besøk av barn kan gjennomføres på en skånsom måte. Ved brudd på gjeldende besøksregler kan besøket avbrytes."
+                    ]
+                },
+                {
+                    "name": "§ 32",
+                    "title": "Telefonsamtaler",
+                    "sections": [
+                        "Innsatte skal kunne telefonere hvis ikke annet følger av denne bestemmelsen.",
+                        "Kriminalomsorgen skal kontrollere telefonsamtale til og fra innsatte i avdeling med særlig høyt sikkerhetsnivå. Telefonsamtale til og fra innsatte i fengsel med høyt sikkerhetsnivå skal kontrolleres, men kontroll kan unnlates dersom sikkerhetsmessige grunner ikke taler mot det. Telefonsamtale til og fra innsatte i fengsel med lavere sikkerhetsnivå og overgangsbolig skal kontrolleres dersom det fremstår som nødvendig av sikkerhetsmessige grunner.",
+                        "Kontroll av telefonsamtale kan skje ved at samtalen avlyttes. Samtalepartene skal på forhånd varsles om avlyttingen. Partene kan pålegges å føre samtalen på et språk de tilsatte behersker. Undersøkelse av samtalepartners identitet kan foretas under samtalen.",
+                        "Kriminalomsorgen kan nekte innsatte å telefonere dersom det er grunn til å anta at telefonsamtalen vil bli misbrukt til planlegging eller gjennomføring av straffbar handling, unndragelse av gjennomføringen eller handlinger som vil forstyrre ro, orden og sikkerhet. Dersom telefonsamtalen er av stor betydning for innsatte, og kontroll er tilstrekkelig for å avverge at samtalen misbrukes til formål som nevnt i første punktum i dette ledd, bør samtalen kontrolleres og ikke nektes.",
+                        "Telefonsamtaler kan tas opp på bånd dersom det er sannsynlig at innsatte planlegger å unndra seg gjennomføringen. Samtalepartene skal på forhånd varsles om at opptak vil finne sted.",
+                        "Telefonsamtale til og fra offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant kan undersøkes etter § 27 sjette ledd før samtalen påbegynnes. Samtalen kan ikke avlyttes eller tas opp på bånd."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Permisjon fra fengsel",
+                    "sections": [
+                        "Dersom sikkerhetmessige grunner ikke taler mot det, kan kriminalomsorgen gi innsatte permisjon av kortere tids varighet dersom særlige og vektige grunner taler for det, eller når permisjon anses formålstjenlig for den videre gjennomføring av straffen.",
+                        "Innsatte kan først gis ordinær permisjon etter at en del av straffen er gjennomført.",
+                        "Ved vurderingen av om en permisjon er sikkerhetsmessig forsvarlig skal det, ut fra den kjennskap kriminalomsorgen har til innsatte og innsattes atferd under gjennomføringen, særlig legges vekt på om det er grunn til å anta at innsatte vil begå ny straffbar handling, unndra seg gjennomføringen eller bryte forutsetninger og permisjonsvilkår som er fastsatt etter § 36 første og annet ledd."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Fremstilling",
+                    "sections": [
+                        "Kriminalomsorgen kan fremstille innsatte utenfor fengsel med følge av tilsatte."
+                    ]
+                },
+                {
+                    "name": "§ 35",
+                    "title": "Straffavbrudd",
+                    "sections": [
+                        "Kriminalomsorgen kan beslutte at gjennomføringen av straffen skal avbrytes dersom domfeltes helsetilstand tilsier det, eller når det for øvrig foreligger særlig tungtveiende grunner som ikke kan avhjelpes på annen måte."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Fastsettelse av vilkår ved permisjon og straffavbrudd",
+                    "sections": [
+                        "Det er en forutsetning at innsatte under permisjon og straffavbrudd ikke begår ny straffbar handling, oppholder seg på oppgitt adresse, overholder fastsatte vilkår etter annet ledd og møter tilbake til fengslet i upåvirket tilstand til fastsatt tid. Under permisjon skal innsatte dessuten unnlate å bruke rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet.",
+                        "Kriminalomsorgen skal fastsette særlige vilkår dersom det fremstår som nødvendig for en sikkerhetsmessig forsvarlig gjennomføring av permisjonen eller straffavbruddet. Det kan bestemmes at innsatte skal",
+                        "a)oppsøke angitt myndighet eller person,",
+                        "b)melde seg for politiet eller kriminalomsorgen til fastsatt tid,",
+                        "c)innta antabus eller andre foreskrevne medikamenter,",
+                        "d)avgi ren urin- eller utåndingsprøve før utgang,",
+                        "e)hentes og bringes tilbake til fengslet av bestemte personer,",
+                        "f)overholde bestemmelser om oppholdssted,",
+                        "g)unnlate å ha samkvem med bestemte personer, eller",
+                        "h)under straffavbrudd unnlate å bruke rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet. Vilkår om forbud mot bruk av alkohol skal bare unnlates dersom det fremstår som sikkerhetsmessig ubetenkelig.",
+                        "Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til tidspunktet for permisjonen eller straffavbruddet, skal kriminalomsorgen varsle fornærmede eller etterlatte på forhånd."
+                    ]
+                },
+                {
+                    "name": "§ 37",
+                    "title": "Utelukkelse fra fellesskapet som forebyggende tiltak",
+                    "sections": [
+                        "Kriminalomsorgen kan beslutte at en innsatt helt eller delvis skal utelukkes fra fellesskapet med andre innsatte dersom det er nødvendig for å",
+                        "a)hindre at innsatte til tross for skriftlig advarsel fortsetter å påvirke miljøet i fengslet på en særlig negativ måte,",
+                        "b)hindre innsatte i å skade seg selv eller øve vold eller fremsette trusler mot andre,",
+                        "c)hindre betydelig materiell skade,",
+                        "d)hindre straffbare handlinger, eller",
+                        "e)opprettholde ro, orden og sikkerhet.",
+                        "Kriminalomsorgen skal beslutte delvis utelukkelse dersom dette er tilstrekkelig for å forebygge handlinger etter første ledd bokstavene a til e.",
+                        "Hel eller delvis utelukkelse etter første ledd skal ikke opprettholdes lenger enn nødvendig, og kriminalomsorgen skal fortløpende vurdere om det fortsatt er grunnlag for utelukkelsen.",
+                        "Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgens sentrale forvaltning. Melding skal deretter gis til Kriminalomsorgens sentrale forvaltning med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det.",
+                        "Dersom delvis utelukkelse fra fellesskapet overstiger 30 dager, skal tiltaket meldes til regionalt nivå.",
+                        "Innsatte som er helt utelukket fra fellesskapet, skal flere ganger daglig tilses av tilsatte. Lege skal varsles om utelukkelsen uten ugrunnet opphold.",
+                        "Kriminalomsorgen kan beslutte at alle eller enkelte innsatte helt eller delvis skal utelukkes fra fellesskapet dersom det er sannsynlig at et ubestemt antall innsatte har begått eller er i ferd med å begå handlinger som nevnt i første ledd, eller dersom akutte bygningsmessige eller bemanningsmessige forhold gjør det nødvendig. Slik utelukkelse kan opprettholdes i inntil 3 døgn. Regionalt nivå kan forlenge utelukkelsen med inntil 3 døgn dersom særlige grunner gjør det påkrevet.",
+                        "Kriminalomsorgen kan beslutte at en innsatt skal utelukkes helt eller delvis fra fellesskapet dersom bygningsmessige eller bemanningsmessige forhold gjør det påkrevet, eller dersom den innsatte selv ønsker det.",
+                        "§ 17 annet ledd skal anvendes ved utelukkelse fra fellesskapet i avdelinger som nevnt i § 10 annet ledd."
+                    ]
+                },
+                {
+                    "name": "§ 38",
+                    "title": "Bruk av tvangsmidler i fengsel",
+                    "sections": [
+                        "Kriminalomsorgen kan ta i bruk sikkerhetscelle, sikkerhetsseng eller annet godkjent tvangsmiddel for å",
+                        "a)avverge alvorlig angrep eller skade på person,",
+                        "b)hindre iverksettelse av alvorlige trusler eller betydelig skade på eiendom,",
+                        "c)hindre alvorlige opptøyer eller uroligheter,",
+                        "d)hindre rømning fra fengsel, under transport eller fra bestemmelsessted,",
+                        "e)avverge ulovlig inntrenging i fengsel, eller",
+                        "f)sikre adgang til sperret eller forskanset rom.",
+                        "Kriminalomsorgen skal bare bruke tvangsmidler dersom forholdene gjør det strengt nødvendig, og mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelig. Tvangsmidler skal brukes med varsomhet slik at ingen blir påført unødig skade eller lidelse. Uttalelse fra lege skal så vidt mulig innhentes og tas i betraktning ved vurderingen av om det skal besluttes bruk av sikkerhetscelle eller sikkerhetsseng. Kriminalomsorgen skal fortløpende vurdere om det er grunnlag for å opprettholde tiltaket.",
+                        "Bruk av sikkerhetsseng som overstiger 24 timer, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Spørsmålet skal vurderes på nytt etter 24 timer. Tiltaket skal meldes til Kriminalomsorgens sentrale forvaltning når bruk av sikkerhetsseng overstiger 3 døgn.",
+                        "Bruk av sikkerhetscelle som overstiger 3 døgn, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til Kriminalomsorgens sentrale forvaltning når bruk av sikkerhetscelle overstiger 6 døgn."
+                    ]
+                },
+                {
+                    "name": "§ 39",
+                    "title": "Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff og strafferettslige særreaksjoner",
+                    "sections": [
+                        "Dersom det er sannsynlig at en innsatt har begått handling som kan føre til reaksjon etter § 40 annet ledd bokstavene c, d og e, kan kriminalomsorgen helt eller delvis utelukke den innsatte fra fellesskapet i inntil 24 timer."
+                    ]
+                },
+                {
+                    "name": "§ 40",
+                    "title": "Reaksjon på brudd ved gjennomføring av fengselsstraff og strafferettslige særreaksjoner",
+                    "sections": [
+                        "Kriminalomsorgen kan ilegge reaksjon etter denne bestemmelse dersom innsatte forsettlig eller uaktsomt har brutt reglene for ro, orden og disiplin eller forutsetninger og vilkår fastsatt i eller i medhold av denne loven. Dette omfatter brudd som er begått under midlertidig fravær fra fengsel eller under transport til og fra fengsel. Reaksjon kan også besluttes overfor den som har medvirket til brudd.",
+                        "Følgende reaksjoner kan anvendes",
+                        "a)skriftlig irettesettelse,",
+                        "b)tap av dagpenger i en bestemt periode,",
+                        "c)tap av begunstigelse,",
+                        "d)utelukkelse fra fritidsfellesskapet eller andre aktiviteter i fritiden for et tidsrom av inntil 20 dager for brudd som utmåles i samme reaksjonssak, eller",
+                        "e)tap av adgang til permisjon for et tidsrom av inntil fire måneder.",
+                        "Domfelte som gjennomfører straff utenfor fengsel etter § 16 kan, hvis ikke tilbakeføring til fengsel besluttes etter § 14 fjerde ledd, gis skriftlig irettesettelse. Dersom domfelte som følge av brudd er eller vil bli overført til fengsel, skal reaksjoner bare besluttes dersom domfelte har unndratt seg gjennomføringen av straffen.",
+                        "Dersom innsatte har begått flere brudd, skal kriminalomsorgen beslutte en felles reaksjon. Tap av en begunstigelse kan besluttes i tillegg til en reaksjon etter annet ledd bokstavene a, b, d og e. Alternativt kan kriminalomsorgen beslutte tap av to begunstigelser. Reaksjon skal ikke besluttes dersom innsatte som følge av bruddet er eller vil bli overført til mer restriktivt fengsel, med mindre innsatte har unndratt seg gjennomføringen.",
+                        "Reaksjonen kan gjøres betinget med en prøvetid på inntil tre måneder. Dersom innsatte i prøvetiden gjør seg skyldig i nytt brudd, avbrytes prøvetiden. I disse tilfelle skal kriminalomsorgen beslutte en ny felles reaksjon.",
+                        "Dersom helsemessige eller andre særlige grunner taler for det, kan en reaksjon avbrytes eller helt eller delvis ettergis. Hvis gjennomføringen av en avbrutt reaksjon ikke er iverksatt på nytt innen tre måneder, er reaksjonen ettergitt.",
+                        "Den som forsettlig unndrar seg gjennomføringen av fengselsstraff eller strafferettslige særreaksjoner, straffes med bøter eller fengsel inntil 6 måneder. Offentlig påtale finner bare sted etter kriminalomsorgens begjæring."
+                    ]
+                },
+                {
+                    "name": "§ 41",
+                    "title": "Forberedelse til løslatelse",
+                    "sections": [
+                        "Kriminalomsorgen skal i god tid forberede og bidra til at forholdene legges til rette for prøveløslatelse. Dette gjelder så langt mulig også overfor innsatte som gjennomfører kortere fengselsstraff. Det skal i nødvendig utstrekning tas kontakt med offentlige myndigheter, organisasjoner eller privatpersoner som kan yte bistand for å oppnå ordnede boligforhold, arbeid, opplæring eller andre tiltak som kan bidra til en lovlydig livsførsel etter løslatelse."
+                    ]
+                },
+                {
+                    "name": "§ 42",
+                    "title": "Løslatelse fra fengselsstraff",
+                    "sections": [
+                        "Kriminalomsorgen kan løslate domfelte på prøve når vedkommende, medregnet mulig varetektsopphold, har gjennomført to tredjedeler av straffen og minst 60 dager. Dersom løslatelse på prøve medfører at den gjenstående straffetid blir mindre enn 14 dager, kan prøveløslatelse bare skje dersom tungtveiende grunner taler for det. Domfelte som er dømt i utlandet til fengsel i mer enn 21 år, og som er overført til gjennomføring av straffen i Norge, kan løslates på prøve etter å ha vært fengslet i minst 14 år.",
+                        "Kriminalomsorgen kan beslutte at domfelte som ikke lenger er fengslet, men som fyller vilkårene for løslatelse på prøve etter første ledd, skal løslates på prøve uten ny innsettelse.",
+                        "Dersom halvdelen av fengselsstraffen og minst 60 dager fengsel er gjennomført, medregnet varetektsopphold, kan kriminalomsorgen løslate domfelte på prøve dersom særlige grunner tilsier det.",
+                        "Dersom særlige grunner taler for det, kan kriminalomsorgen løslate domfelte kort tid før løslatelse ellers skulle skje.",
+                        "Kriminalomsorgen skal ikke beslutte prøveløslatelse hvis omstendighetene etter en totalvurdering gjør løslatelse utilrådelig. Kriminalomsorgen skal særlig legge vekt på domfeltes atferd under gjennomføring av straffen, og om det er grunn til å anta at domfelte vil begå nye straffbare handlinger i prøvetiden.",
+                        "Kriminalomsorgen kan gjøre prøveløslatelsen betinget av at et utvisningsvedtak blir iverksatt.",
+                        "Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til tidspunktet for løslatelse, skal kriminalomsorgen varsle fornærmede eller etterlatte på forhånd.",
+                        "Prøvetiden utløper på det tidspunkt den idømte fengselsstraff ville vært gjennomført i sin helhet."
+                    ]
+                },
+                {
+                    "name": "§ 43",
+                    "title": "Fastsettelse og endring av vilkår ved prøveløslatelse fra fengselsstraff",
+                    "sections": [
+                        "Det er en forutsetning for prøveløslatelse at prøveløslatte ikke begår ny straffbar handling i prøvetiden.",
+                        "Dersom det fremstår som nødvendig for å gjennomføre prøveløslatelsen på en sikkerhetsmessig forsvarlig måte, skal kriminalomsorgen sette som vilkår at prøveløslatte i en tidsavgrenset periode skal møte for kriminalomsorgen i upåvirket tilstand. Dersom det fremstår som nødvendig for en sikkerhetsmessig forsvarlig gjennomføring, skal kriminalomsorgen i perioden med møteplikt fastsette at prøveløslatte skal",
+                        "a)overholde bestemmelser om bosted,",
+                        "b)møte i upåvirket tilstand hos offentlig myndighet, person eller organisasjon etter kriminalomsorgens anvisning,",
+                        "c)overholde bestemmelser om behandling,",
+                        "d)overholde bestemmelser om oppholdssted, arbeid eller opplæring, eller",
+                        "e)unnlate å ha samkvem med bestemte personer.",
+                        "Dersom det fremstår som nødvendig av hensyn til en sikkerhetsmessig forsvarlig gjennomføring av prøveløslatelsen, kan fastsatte vilkår i perioden med møteplikt oppheves, endres eller kriminalomsorgen kan fastsette nye vilkår som nevnt i annet ledd. Ved mistanke om brudd på vilkår fastsatt med hjemmel i § 43 kan tiltak etter § 56 iverksettes.",
+                        "Kriminalomsorgen kan forlenge perioden med møteplikt innen prøvetidens utløp på samme vilkår som nevnt i tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 44",
+                    "title": "Brudd på prøveløslatelsesvilkår i perioden med møteplikt for kriminalomsorgen",
+                    "sections": [
+                        "Hvis prøveløslatte forsettlig eller uaktsomt bryter vilkår fastsatt etter § 43 annet ledd, kan kriminalomsorgen pålegge den prøveløslatte å møte til samtale for å få innskjerpet vilkårene. Under samtalen skal den prøveløslatte gjøres kjent med følgene av gjentatt vilkårsbrudd. Dersom det fremstår som nødvendig for å motvirke nye brudd, skal kriminalomsorgen fastsette vilkår etter § 43 annet ledd eller nye vilkår om at den prøveløslatte skal",
+                        "a)unnlate å bruke rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet, eller",
+                        "b)overholde bestemmelser om meldeplikt for politiet eller kriminalomsorgen i tillegg til møteplikten etter § 43 annet ledd.",
+                        "Hvis prøveløslatte etter at kriminalomsorgen har holdt innskjerpingssamtale eller fastsatt vilkår etter første ledd på nytt bryter vilkår, kan regionalt nivå bringe saken inn for forhørsretten med begjæring om gjeninnsettelse i fengsel for hel eller delvis fullbyrding av reststraffen. Straffeloven § 28 b første og tredje ledd gis tilsvarende anvendelse på saker om gjeninnsettelse for fullbyrdelse av reststraff etter prøveløslatelse.",
+                        "Dersom prøveløslatte unnlater å møte til innskjerpingssamtale etter første ledd, kan gjennomføringen av straffen avbrytes. Det samme gjelder hvis prøveløslatte, etter at innskjerpingssamtale er gjennomført, på nytt bryter vilkår. Dersom regionalt nivå bringer saken inn for forhørsretten etter annet ledd, avbrytes gjennomføringen av straffen fra det tidspunkt begjæringen er oversendt retten.",
+                        "Hvis retten ved kjennelse beslutter at den prøveløslatte skal gjeninnsettes for hel fullbyrding av reststraffen, kan kriminalomsorgen beslutte ny løslatelse på prøve selv om minstetidene i § 42 første ledd ikke er oppfylt for reststraffens del.",
+                        "Kriminalomsorgen kan anmode politiet om å avhente prøveløslatte etter straffeprosessloven § 461 tredje ledd hvis det er nødvendig for å få iverksatt reaksjon etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 45",
+                    "title": "Ny straffbar handling begått i prøvetiden",
+                    "sections": [
+                        "Begår den prøveløslatte en ny straffbar handling i prøvetiden, og tiltale blir reist eller saken blir begjært pådømt innen seks måneder etter at prøvetiden gikk ut, gjelder bestemmelsene i straffeloven § 28 b annet ledd og tredje ledd annet til fjerde punktum tilsvarende.",
+                        "Dersom prøveløslatte er siktet for en straffbar handling som kan føre til gjeninnsettelse for fullbyrdelse av reststraffen etter straffeloven § 28 b, kan gjennomføringen av straffen avbrytes."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Varetekt og andre reaksjoner når det er særskilt bestemt i lov",
+            "paragraphs": [
+                {
+                    "name": "§ 46",
+                    "title": "Generelle bestemmelser",
+                    "sections": [
+                        "Kriminalomsorgen kan ikke pålegge innsatte etter dette kapittel andre innskrenkninger i friheten enn det som er nødvendig for å sikre formålet med fengslingen eller for å opprettholde ro, orden og sikkerhet i fengslet. Skadelige virkninger av fengslingen skal så vidt mulig forebygges.",
+                        "Kriminalomsorgen skal prioritere tiltak for å avhjelpe negative virkninger av isolasjon overfor varetektsinnsatte som er ilagt restriksjoner etter straffeprosessloven § 186 annet ledd."
+                    ]
+                },
+                {
+                    "name": "§ 47",
+                    "title": "Plassering av innsatte",
+                    "sections": [
+                        "Kriminalomsorgen bør plassere innsatte i nærheten av hjemstedet når det er praktisk mulig. Det samme gjelder varetektsinnsatte, med mindre hensynet til etterforskningen eller den siktedes forsvar taler imot det.",
+                        "Varetektsinnsatte kan overføres til et annet fengsel etter § 14. Første ledd annet punktum gjelder tilsvarende.",
+                        "Varetektsinnsatte kan ikke uten eget samtykke pålegges å dele rom med andre, med mindre helsemessige forhold eller plasshensyn tilsier det."
+                    ]
+                },
+                {
+                    "name": "§ 48",
+                    "title": "Fellesskap",
+                    "sections": [
+                        "Varetektsinnsatte som er ilagt restriksjoner etter straffeprosessloven § 186 annet ledd, har ikke adgang til å delta i fellesskap med andre innsatte, herunder aktiviteter etter § 49. Kriminalomsorgen skal, i den grad det er praktisk mulig, gjøre unntak når domstolen opphever restriksjonene eller når påtalemyndigheten gir samtykke til helt eller delvis fellesskap."
+                    ]
+                },
+                {
+                    "name": "§ 49",
+                    "title": "Arbeid, opplæring, program og andre tiltak",
+                    "sections": [
+                        "Innsatte har så langt det er praktisk mulig adgang til å delta i arbeid, opplæring, program eller andre tiltak. Kriminalomsorgen kan ikke pålegge varetektsinnsatte å delta i slike aktiviteter. De kan likevel pålegges å bidra til nødvendig renhold og annet husarbeid i fengslet."
+                    ]
+                },
+                {
+                    "name": "§ 50",
+                    "title": "Adgang til å bruke egne penger",
+                    "sections": [
+                        "Varetektsinnsatte har rett til å benytte seg av egne penger når det er forenlig med ro, orden og sikkerhet i fengslet. Ved deltagelse i fellesskap med andre innsatte kan retten til å bruke egne penger begrenses."
+                    ]
+                },
+                {
+                    "name": "§ 51",
+                    "title": "Helsetjeneste",
+                    "sections": [
+                        "Varetektsinnsatte har mulighet til å motta besøk av og la seg behandle av sin egen lege eller tannlege dersom det er rimelig grunn til det. Forskriving av medisiner skal skje i samråd med fengselshelsetjenesten."
+                    ]
+                },
+                {
+                    "name": "§ 52",
+                    "title": "Andre bestemmelser",
+                    "sections": [
+                        "For øvrig gjelder bestemmelsene i denne loven med unntak av §§ 12, 15, 16, 20, 33, 35, 36 og 41 til 45. §§ 17, 18, 21, 25 og 30 til 32 gjelder for varetektsinnsatte ilagt restriksjoner etter straffeprosessloven § 186 annet ledd dersom domstolen eller påtalemyndigheten samtykker til det."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Samfunnsstraff",
+            "paragraphs": [
+                {
+                    "name": "§ 53",
+                    "title": "Innholdet i samfunnsstraffen",
+                    "sections": [
+                        "De idømte timene samfunnsstraff etter straffeloven § 28 a skal gå ut på",
+                        "a)samfunnsnyttig tjeneste,",
+                        "b)program, eller",
+                        "c)andre tiltak som er egnet til å motvirke ny kriminalitet.",
+                        "Kriminalomsorgen fastsetter i hvert enkelt tilfelle det nærmere innholdet i samfunnsstraffen innenfor de rammene som retten har fastsatt i dommen. Har domstolen satt vilkår om at den domfelte skal overholde bestemmelser om bosted, oppholdssted, arbeid, opplæring eller behandling, skal kriminalomsorgen fastsette det nærmere innholdet i bestemmelsene. Kriminalomsorgen skal legge særlig vekt på tiltak som kan fremme den domfeltes evne til å motvirke sitt kriminelle handlingsmønster. Kriminalomsorgen skal også legge vekt på tiltak som kan fremme den domfeltes evne til å gjennomføre straffen i samsvar med bestemmelsene gitt i og i medhold av denne loven.",
+                        "Kriminalomsorgen skal endre innholdet når det fremstår som nødvendig av hensyn til en sikkerhetsmessig forsvarlig gjennomføring av samfunnsstraffen. Kriminalomsorgen kan endre innholdet hvis bemanningsmessige forhold tilsier det."
+                    ]
+                },
+                {
+                    "name": "§ 54",
+                    "title": "Krav til den domfelte",
+                    "sections": [
+                        "Den domfelte skal gjennomføre straffen etter nærmere anvisning fra kriminalomsorgen. Den domfelte skal",
+                        "a)møte til fastsatt tid og sted,",
+                        "b)være upåvirket av berusende eller bedøvende midler ved fremmøtet,",
+                        "c)gi opplysninger om sitt bosted, forsørgelsesgrunnlag og andre forhold av betydning for gjennomføringen av straffen,",
+                        "d)overholde vilkårene som domstolen har fastsatt etter straffeloven § 28 a tredje ledd, og",
+                        "e)oppholde seg i landet i gjennomføringstiden hvis ikke kriminalomsorgen gir tillatelse til noe annet.",
+                        "Den domfelte skal ikke vise en atferd som kan",
+                        "a)true sikkerheten til personer som deltar under gjennomføringen, eller",
+                        "b)påvirke miljøet på en særlig negativ måte.",
+                        "Den domfelte skal ikke begå en ny straffbar handling i gjennomføringstiden."
+                    ]
+                },
+                {
+                    "name": "§ 55",
+                    "title": "Forebyggende rusforbud",
+                    "sections": [
+                        "Hvis det fremstår som nødvendig for å motvirke en ny straffbar handling som er rettet mot noens liv, helse eller frihet, kan kriminalomsorgen på ethvert tidspunkt i løpet av gjennomføringstiden forby den domfelte å bruke berusende eller bedøvende midler.",
+                        "Kriminalomsorgen skal oppheve forbudet når det ikke lenger fremstår som nødvendig."
+                    ]
+                },
+                {
+                    "name": "§ 56",
+                    "title": "Undersøkelser i forbindelse med fastsatte vilkår eller rusforbud, eller som følge av mistanke om at den domfelte møter påvirket",
+                    "sections": [
+                        "Hvis retten har satt vilkår etter straffeloven § 28 a tredje ledd, eller kriminalomsorgen etter § 55 eller § 58 første ledd har forbudt den domfelte å bruke berusende eller bedøvende midler, skal kriminalomsorgen undersøke om vilkåret eller forbudet blir overholdt. Undersøkelsen kan innebære uanmeldte besøk i hjemmet. Når det er satt rusforbud, kan kriminalomsorgen pålegge den domfelte å avgi urinprøve, utåndingsprøve eller blodprøve eller å medvirke til annen undersøkelse som kan skje uten fare eller særlig ubehag. Blodprøve kan bare tas av helsepersonell.",
+                        "Er det grunn til å anta at den domfelte møter påvirket av berusende eller bedøvende midler, skal kriminalomsorgen snarest undersøke forholdet. Den domfelte kan pålegges å avgi urinprøve, utåndingsprøve eller blodprøve eller å medvirke til andre undersøkelser som kan skje uten fare eller særlig ubehag. Blodprøve kan bare tas av helsepersonell.",
+                        "Tiltak som er en del av undersøkelse etter første eller annet ledd, kommer ikke til fradrag i det idømte antallet timer."
+                    ]
+                },
+                {
+                    "name": "§ 57",
+                    "title": "Straffavbrudd",
+                    "sections": [
+                        "Kriminalomsorgen kan avbryte gjennomføringen av straffen dersom den domfeltes helsetilstand tilsier det, eller det for øvrig foreligger særlig tungtveiende grunner som ikke kan avhjelpes på annen måte. Når det fremstår som nødvendig for at avbruddet skal være sikkerhetsmessig forsvarlig, skal kriminalomsorgen fastsette slike vilkår for avbruddet som nevnt i § 58 første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 58",
+                    "title": "Reaksjon på brudd",
+                    "sections": [
+                        "Hvis den domfelte forsettlig eller uaktsomt bryter bestemmelser gitt i eller i medhold av § 54 første og annet ledd eller § 55, kan kriminalomsorgen pålegge den domfelte å møte til samtale for å få innskjerpet kravene. Under samtalen skal den domfelte gjøres kjent med følgene av gjentatte brudd. Dersom det fremstår som nødvendig for å motvirke nye brudd, skal kriminalomsorgen fastsette vilkår om at den domfelte skal",
+                        "a)overholde bestemmelser om oppholdssted,",
+                        "b)unnlate å ha samkvem med bestemte personer,",
+                        "c)unnlate å bruke berusende eller bedøvende midler, eller",
+                        "d)overholde bestemmelser om meldeplikt for politiet eller kriminalomsorgen.",
+                        "Hvis den domfelte etter at kriminalomsorgen har holdt innskjerpingssamtale eller fastsatt vilkår etter første ledd, på nytt bryter kravene eller vilkår fastsatt etter første ledd bokstav a til d, bør regionalt nivå bringe saken inn for forhørsretten med begjæring om at den subsidiære fengselsstraffen skal fullbyrdes helt eller delvis i medhold av straffeloven § 28 b første og tredje ledd.",
+                        "Dersom den domfelte unnlater å møte til innskjerpingssamtale etter første ledd, kan kriminalomsorgen avbryte gjennomføringen av straffen. Det samme gjelder dersom den domfelte, etter at innskjerpingssamtalen er gjennomført, på nytt bryter kravene. Når regionalt nivå beslutter å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunktet begjæringen er oversendt retten.",
+                        "Kriminalomsorgen kan anmode politiet om å avhente den domfelte etter straffeprosessloven § 461 tredje ledd hvis det er nødvendig for å få iverksatt en reaksjon etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 59",
+                    "title": "Ny straffbar handling",
+                    "sections": [
+                        "Begår den domfelte en ny straffbar handling i gjennomføringstiden, gjelder bestemmelsene i straffeloven § 28 b annet og tredje ledd.",
+                        "Dersom den domfelte er siktet for en straffbar handling som kan føre til fullbyrding av den subsidiære fengselsstraffen etter straffeloven § 28 b annet og tredje ledd, kan gjennomføringen av straffen avbrytes."
+                    ]
+                },
+                {
+                    "name": "§ 60",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra det tidspunktet Kongen bestemmer.",
+                        "Fra samme tidspunkt oppheves fengselsloven av 12. desember 1958. Forskriftene gitt i medhold av fengselsloven og i medhold av straffeloven § 28 b og § 53 nr. 6 skal likevel fortsatt gjelde, for så vidt de ikke er i strid med denne loven, inntil de oppheves eller endres av Kongen.",
+                        "I Almindelig borgerlig Straffelov 22. mai 1902 nr. 10 gjøres følgende endringer:",
+                        "§ 15 første ledd skal lyde:",
+                        "De alminnelige straffer er:",
+                        "fengsel,",
+                        "hefte,",
+                        "samfunnsstraff og",
+                        "bøter.",
+                        "§ 26 skal lyde:",
+                        "De nærmere reglene om gjennomføring av fengselsstraff, samfunnsstraff og strafferettslige særreaksjoner gis ved særskilt lov.",
+                        "§ 28 a skal lyde:",
+                        "Samfunnsstraff kan idømmes for handlinger som kan medføre straff av fengsel inntil 6 år dersom lovovertrederen samtykker og hensynet til straffens formål ikke taler mot en reaksjon i frihet. Forhøyelse av maksimumsstraffen ved gjentakelse eller sammenstøt av forbrytelser kommer ikke i betraktning. Samfunnsstraff kan bare idømmes hvis den siktede er bosatt i Norge.",
+                        "I dommen skal det fastsettes et timetall og en gjennomføringstid. Timetallet skal være fra 30 til 420 timer. Gjennomføringstiden skal være inntil 1 år hvis ikke sterke grunner taler for en lengre gjennomføringstid. Reglene i § 25 gjelder tilsvarende for fastsettingen av gjennomføringstiden.",
+                        "Retten kan sette vilkår om at den domfelte i gjennomføringstiden skal overholde bestemmelser gitt av kriminalomsorgen om bosted, oppholdssted, arbeid, opplæring eller behandling, eller forbys samkvem med bestemte personer.",
+                        "I dommen skal det fastsettes en subsidiær fengselsstraff, som skal svare til lengden av den straffen som ville blitt idømt uten samfunnsstraff.",
+                        "Sammen med samfunnsstraff kan retten idømme bøtestraff. Dette gjelder selv om bøter ellers ikke er fastsatt for overtredelsen. Ved utmålingen av samfunnsstraffen skal retten ta hensyn til at også bøtestraff idømmes.",
+                        "I særlige tilfeller kan ubetinget fengselsstraff på inntil 30 dager idømmes sammen med samfunnsstraffen.",
+                        "Når en dom på samfunnsstraff blir lest opp eller forkynt for den domfelte, skal han gjøres nærmere kjent med hva dommen går ut på, og med følgene av brudd på bestemmelsene gitt i eller i medhold av straffegjennomføringsloven, og av at det begås en ny straffbar handling før utløpet av gjennomføringstiden.",
+                        "§ 28 b skal lyde:",
+                        "Dersom den domfelte har brutt bestemmelsene gitt i eller i medhold av straffegjennomføringsloven § 54 første og annet ledd, § 55 eller § 58 første ledd bokstav a til d, skal forhørsretten ved kjennelse etter kriminalomsorgens begjæring bestemme at den subsidiære fengselsstraffen helt eller delvis skal fullbyrdes. Etter anmodning fra kriminalomsorgen kan påtalemyndigheten fremsette begjæringen for forhørsretten.",
+                        "Dersom den domfelte har brutt forutsetningen om at ny straffbar handling ikke skal begås i gjennomføringstiden, kan forhørsretten ved kjennelse etter påtalemyndighetens begjæring bestemme at den subsidiære fengselsstraffen helt eller delvis skal fullbyrdes. Retten kan gi en samlet dom for begge handlinger eller en særskilt dom for den nye handlingen.",
+                        "Kjennelsen må være avsagt innen utløpet av gjennomføringstiden. Ved omgjøringen skal retten ta hensyn til omfanget av den samfunnsstraffen som er gjennomført. Reglene om forsvarer og om pågripelse og varetektsfengsel i straffeprosessloven § 100 og kapittel 14 gjelder tilsvarende. Den domfelte, forsvareren og kriminalomsorgen eller påtalemyndigheten skal varsles etter reglene i straffeprosessloven § 243.",
+                        "§ 28 c oppheves.",
+                        "§ 53 nr. 2 første ledd skal lyde:",
+                        "Retten kan sette som vilkår for utsettelsen at den domfelte melder seg for politiet til bestemte tider. Perioden for meldeplikten er ett år når ikke retten bestemmer noe annet. Meldeplikten løper fra den dag dommen er rettskraftig. Gjelder dommen en straffbar handling som den domfelte har tilstått, kan det bestemmes i dommen at meldeplikten skal settes i verk straks selv om dommen ikke er endelig.",
+                        "§ 53 nr. 2 annet ledd oppheves.",
+                        "§ 53 nr. 6 første ledd første punktum skal lyde:",
+                        "Kongen kan gi nærmere regler om gjennomføringen av vilkårene.",
+                        "§ 53 nr. 6 annet ledd oppheves.",
+                        "§ 54 nr. 2 tredje punktum oppheves.",
+                        "§ 54 a annet ledd oppheves.",
+                        "§ 60 annet ledd skal lyde:",
+                        "Er samfunnsstraff idømt, skal fradraget gjøres i den subsidiære fengselsstraffen, samtidig som antallet timer samfunnsstraff reduseres forholdsmessig. Er samfunnsstraffen idømt sammen med ubetinget fengselsstraff, skal fradraget først gjøres i denne.",
+                        "§ 62 annet ledd skal lyde:",
+                        "Bestemmelsene i første ledd gjelder tilsvarende ved idømmelse av en felles straff på samfunnsstraff. Skal samfunnsstraff idømmes sammen med ubetinget fengselsstraff, skal det ved utmålingen av samfunnsstraffen tas hensyn til den ubetingete fengselsstraffen.",
+                        "§ 72 annet ledd siste punktum skal lyde:",
+                        "Tilsvarende gjelder der domfelte i eller utenfor riket utfører samfunnsstraff i henhold til dom.",
+                        "§ 73 a første punktum skal lyde:",
+                        "Idømt samfunnsstraff faller bort ved foreldelse etter de samme frister som for frihetsstraff.",
+                        "I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:",
+                        "§ 76 nytt femte ledd skal lyde:",
+                        "Ved rettsmøter i forhørsretten om fullbyrding av subsidiær fengselsstraff etter straffeloven § 28 b første ledd eller av reststraff etter prøveløslatelse etter straffegjennomføringsloven § 44 annet ledd, kan tilsatte i kriminalomsorgen møte.",
+                        "§ 161 annet ledd annet punktum oppheves.",
+                        "§ 459 første og annet ledd skal lyde:",
+                        "Fullbyrding av frihetsstraff eller samfunnsstraff skal utsettes dersom domfelte er blitt alvorlig sinnslidende eller hans helsetilstand ellers gjør fullbyrding utilrådelig.",
+                        "Ellers kan fullbyrding av frihetsstraff eller samfunnsstraff utsettes når vektige grunner tilsier det.",
+                        "§ 461 skal lyde:",
+                        "Skal en domfelt som er på frifot, utholde frihetsstraff eller samfunnsstraff, meddeler politiet ham pålegg om å møte til fastsatt tid og sted for at fullbyrdingen kan påbegynnes.",
+                        "Mistenkes han for å ville flykte, eller unnlater han på tilsigelse å fremstille seg, kan han avhentes.",
+                        "Hvis den domfelte uteblir under gjennomføringen av frihetsstraff eller samfunnsstraff, kan han avhentes.",
+                        "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:",
+                        "Overskriften i § 13-12 skal lyde:",
+                        "Medlemmer som oppholder seg i institusjon eller utfører samfunnsstraff",
+                        "§ 13-12 første ledd bokstav e skal lyde:",
+                        "e)medlemmer som utfører samfunnsstraff etter straffeloven § 28 a,",
+                        "I lov 11. juni 1971 nr. 52 om strafferegistrering gjøres følgende endringer:",
+                        "§ 1 første ledd nr. 1 skal lyde:",
+                        "Frihetsstraff, samfunnsstraff, rettighetstap eller utsettelse med å idømme straff.",
+                        "§ 6 første ledd nr. 7 tredje punktum skal lyde:",
+                        "Det samme gjelder også dom på samfunnsstraff der den subsidiære fengselsstraffen er inntil 6 måneder, og samfunnsstraffen er utført mer enn 5 år før attesten blir utstedt.",
+                        "§ 6 første ledd nr. 9 annet punktum skal lyde:",
+                        "Det samme gjelder dom på samfunnsstraff der den subsidiære fengselsstraffen er over 6 måneder, og samfunnsstraffen er utført mer enn 10 år før attesten blir utstedt.",
+                        "I lov 13. august 1915 nr. 5 om domstolene gjøres følgende endring:",
+                        "§ 165 annet ledd første punktum skal lyde:",
+                        "Istedenfor stevnevitne kan offentlige myndigheter bruke en ansatt ved politiet eller i kriminalomsorgen når det gjelder forkynning i straffesaker.",
+                        "Lovendringene under II – IV trer i kraft fra det tidspunktet Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        },
+        {
+            "name": "VII",
+            "paragraphs": []
+        }
+    ]
+}

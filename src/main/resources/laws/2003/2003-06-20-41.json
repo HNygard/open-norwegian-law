@@ -1,0 +1,221 @@
+{
+    "lawId": "LOV-2003-06-20-41",
+    "lawName": "Lov om tiltak mot hvitvasking av utbytte fra straffbare handlinger mv. (hvitvaskingsloven)",
+    "shortName": "Hvitvaskingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Formålet med loven er å forebygge og bekjempe hvitvasking av utbytte fra straffbare handlinger."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Begreper",
+                    "sections": [
+                        "I denne lov forstås med:",
+                        "1rapporteringspliktig: virksomhet eller person som nevnt i § 4,",
+                        "2transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Geografisk virkeområde",
+                    "sections": [
+                        "Loven gjelder for rapporteringspliktige som er etablert i Norge, herunder filialer av utenlandske foretak.",
+                        "Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen, og fastsette særlige regler om tiltak mot hvitvasking av utbytte og finansiering av terrorisme for disse områdene."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Anvendelsesområde",
+                    "sections": [
+                        "Loven gjelder for følgende virksomheter og juridiske personer:",
+                        "1finansinstitusjoner,",
+                        "2Norges Bank,",
+                        "3e-pengeforetak,",
+                        "4foretak og personer som driver virksomhet som består i overføring av penger eller pengefordringer,",
+                        "5verdipapirforetak,",
+                        "6forvaltningsselskaper for verdipapirfond,",
+                        "7forsikringsselskap,",
+                        "8pensjonskasser,",
+                        "9postoperatører ved formidling av postsendinger,",
+                        "10verdipapirregistre,",
+                        "11andre foretak hvis hovedvirksomhet er omfattet av punktene 2 til 12 og 14 i vedlegg I til direktiv 2000/12/EF om adgang til å starte og utøve virksomhet som kredittinstitusjon, herunder utlånsvirksomhet, fondsmegling, betalingsformidling, finansiell leasing, rådgivnings- eller andre tjenester knyttet til finansielle transaksjoner samt utleie av bankbokser.",
+                        "Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:",
+                        "1statsautoriserte og registrerte revisorer,",
+                        "2autoriserte regnskapsførere,",
+                        "3eiendomsmeglere og boligbyggelag når det drives eiendomsmegling,",
+                        "4forsikringsmeglere,",
+                        "5prosjektmeglere,",
+                        "6valutameglere,",
+                        "7advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utførelse av finansielle transaksjoner eller transaksjoner som gjelder fast eiendom eller løsøregjenstander som nevnt i nr. 8;",
+                        "8forhandlere av gjenstander, herunder auksjonsforretninger, kommisjonærer og lignende, ved transaksjoner i kontanter på 40 000 norske kroner eller mer eller et tilsvarende beløp i utenlandsk valuta. Transaksjoner med betalingskort omfattes kun når det er bestemt i forskrift fastsatt av departementet;",
+                        "9personer og foretak som mot vederlag tilbyr tilsvarende tjenester som nevnt i nr. 1 til 8.",
+                        "Loven gjelder også for foretak og personer som utfører tjenester på vegne av eller for rapporteringspliktige.",
+                        "Når advokater opptrer som bostyrere, gjelder bestemmelsene i §§ 7, 8, 11, 16 og 17.",
+                        "Kongen kan i forskrift fastsette regler som gir loven anvendelse for spillvirksomhet, inkassoforetak og regulerte markeder."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Identitetskontroll",
+                    "sections": [
+                        "Rapporteringspliktige skal ved etablering av kundeforhold kreve gyldig legitimasjon av kunden. Plikten gjelder også for den rapporteringspliktiges ansatte. Som gyldig legitimasjon regnes alltid skriftlig legitimasjon.",
+                        "Ved transaksjoner som gjelder 100 000 norske kroner eller mer, for kunder som den rapporteringspliktige ikke på forhånd har et etablert kundeforhold til, skal det kreves legitimasjon som nevnt i første ledd. Beløpsgrensen beregnes samlet for transaksjoner som gjennomføres i flere operasjoner som ser ut til å kunne ha sammenheng med hverandre. Dersom beløpet ikke er kjent når transaksjonen gjennomføres, skal identitetskontrollen utføres så snart den rapporteringspliktige blir kjent med beløpet og at det overstiger beløpsgrensen.",
+                        "Den rapporteringspliktige skal i alle tilfeller kreve legitimasjon som nevnt i første ledd, dersom den har mistanke om at transaksjonen har tilknytning til utbytte av en straffbar handling eller til forhold som rammes av straffeloven § 147 a eller § 147 b.",
+                        "Identitetskontroll skal skje ved kundens personlige fremmøte hos den rapporteringspliktige. Dersom personlig fremmøte er til vesentlig ulempe for kunden eller ikke er praktisk gjennomførbart, kan det gjøres unntak fra dette kravet, såfremt betryggende identitetskontroll likevel kan finne sted.",
+                        "Departementet kan i forskrift fastsette nærmere regler om gjennomføring av identitetskontroll, hva som anses som gyldig legitimasjon og unntak fra plikten til å kreve legitimasjon og til å foreta identitetskontroll."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Registrering av opplysninger",
+                    "sections": [
+                        "Rapporteringspliktige skal registrere følgende opplysninger om kunder:",
+                        "1fullt navn eller firma,",
+                        "2personnummer, organisasjonsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode,",
+                        "3fast adresse,",
+                        "4referanse til legitimasjon som har støttet identitetskontrollen, og",
+                        "5annet fastsatt i forskrift gitt av departementet.",
+                        "Rapporteringspliktige skal sørge for at registrerte opplysninger lagres forsvarlig.",
+                        "Det skal ved bruk av kontonummer eller på annen måte registreres en entydig forbindelse mellom kundeforholdet og opplysningene.",
+                        "Dersom den rapporteringspliktige vet eller kan ha grunn til å tro at kunden handler på vegne av en annen eller at en annen eier formuesgodet det handles for, skal den rapporteringspliktige bringe på det rene opplysninger som nevnt i første og tredje ledd også om den det handles på vegne av, og registrere slike opplysninger."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Undersøkelses- og rapporteringsplikt",
+                    "sections": [
+                        "Dersom rapporteringspliktige har mistanke om at en transaksjon har tilknytning til utbytte av en straffbar handling eller til forhold som rammes av straffeloven § 147 a eller § 147 b, skal det foretas nærmere undersøkelser for å få bekreftet eller avkreftet mistanken. Plikten gjelder også for den rapporteringspliktiges ansatte.",
+                        "Dersom undersøkelsene ikke har avkreftet mistanken, skal den rapporteringspliktige av eget tiltak oversende opplysninger til ØKOKRIM om den aktuelle transaksjonen og om de forhold som har medført mistanke. Den rapporteringspliktige og ansatte skal på forespørsel gi ØKOKRIM alle nødvendige opplysninger om transaksjonen og mistanken.",
+                        "Kunder eller tredjepersoner skal ikke gjøres kjent med at det er blitt oversendt opplysninger til ØKOKRIM."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Oppbevaring av opplysninger mv.",
+                    "sections": [
+                        "Rapporteringspliktige skal oppbevare kopi av de nødvendige dokumenter som er brukt i forbindelse med legitimasjon som nevnt i § 5, og registrerte opplysninger som nevnt i § 6, i fem år etter at kundeforholdet er opphørt eller transaksjonen er gjennomført.",
+                        "Rapporteringspliktige skal oppbevare dokumenter i tilknytning til transaksjoner som nevnt i § 7 første ledd i fem år etter at transaksjonen er gjennomført.",
+                        "Dokumenter og opplysninger som rapporteringspliktige oppbevarer etter første og annet ledd, skal slettes innen ett år etter at oppbevaringsplikten opphører.",
+                        "Departementet kan i forskrift fastsette nærmere regler om hvilke dokumenter som skal oppbevares og om oppbevaringsmåten."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Om gjennomføring av mistenkelige transaksjoner",
+                    "sections": [
+                        "Rapporteringspliktige skal ikke gjennomføre transaksjoner som medfører undersøkelsesplikt, før ØKOKRIM er underrettet. ØKOKRIM kan i særlige tilfeller gi pålegg om ikke å gjennomføre en slik transaksjon. Transaksjonen kan likevel gjennomføres før ØKOKRIM er underrettet, dersom det ikke er mulig å la være å gjennomføre den, eller dersom unnlatelse av å gjennomføre transaksjonen ville vanskeliggjøre etterforskningen. I så fall skal ØKOKRIM underrettes umiddelbart etter at transaksjonen er gjennomført."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "ØKOKRIMs plikt til å slette opplysninger",
+                    "sections": [
+                        "Opplysninger som ØKOKRIM mottar etter bestemmelsene i § 7, skal slettes senest fem år etter at opplysningene ble registrert, med mindre det i dette tidsrommet er registrert nye opplysninger, eller det er foretatt etterforsknings- eller rettergangsskritt mot den registrerte.",
+                        "Dersom ØKOKRIMs undersøkelser viser at det ikke foreligger en straffbar handling, skal opplysningene slettes snarest mulig.",
+                        "Departementet kan gi nærmere regler om ØKOKRIMs saksbehandling, herunder sletting av opplysninger."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Forholdet til taushetsplikt",
+                    "sections": [
+                        "Opplysninger som i god tro meddeles ØKOKRIM etter § 7, er ikke brudd på taushetsplikt og gir ikke grunnlag for erstatning eller straff.",
+                        "Rapporteringspliktige som nevnt i § 4 første ledd nr. 1, kan uten hinder av taushetsplikt utveksle nødvendige kundeopplysninger seg imellom når det anses nødvendig som ledd i undersøkelser av mistanke om at en transaksjon har tilknytning til utbytte av en straffbar handling eller til forhold som rammes av straffeloven § 147 a eller § 147 b.",
+                        "ØKOKRIM kan gi opplysninger som ØKOKRIM mottar etter bestemmelsene i § 7 til andre offentlige myndigheter enn politiet som har oppgaver knyttet til forebygging av forhold som rammes av straffeloven § 147 a eller § 147 b."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Unntak fra advokaters rapporteringsplikt mv.",
+                    "sections": [
+                        "Advokater og andre som ervervsmessig eller stadig yter rettshjelpvirksomhet, har ikke plikt til å rapportere om forhold som de har fått kjennskap til gjennom arbeidet med å fastslå klientens rettsstilling, eller om forhold som de har fått kjennskap til før, under og etter en rettssak, når forholdet har direkte tilknytning til rettstvisten.",
+                        "Dette gjelder tilsvarende for revisorer og andre rapporteringspliktige rådgivere når de bistår en advokat eller andre som ervervsmessig eller stadig yter rettshjelpvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Kontroll- og kommunikasjonsrutiner",
+                    "sections": [
+                        "Rapporteringspliktige skal etablere forsvarlige interne kontroll- og kommunikasjonsrutiner som sikrer oppfyllelse av pliktene som påligger rapporteringspliktige etter loven og bestemmelser fastsatt i medhold av loven. Kontroll- og kommunikasjonsrutinene skal være skriftlige og fastsatt på øverste nivå hos den rapporteringspliktige. Det skal utpekes en person i ledelsen som skal ha et særskilt ansvar for å følge opp rutinene. Det skal gjennomføres opplæringsprogrammer og oppfølging for ansatte og andre personer som utfører oppgaver til oppfyllelse av plikter etter loven."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Kontrollutvalget for tiltak mot hvitvasking av utbytte fra straffbare handlinger",
+                    "sections": [
+                        "Kontrollutvalget for tiltak mot hvitvasking av utbytte fra straffbare handlinger (Kontrollutvalget) skal føre kontroll med:",
+                        "1ØKOKRIMs behandling av opplysninger mottatt i medhold av § 7,",
+                        "2ØKOKRIMs pålegg og godkjenninger etter § 9, og",
+                        "3at ØKOKRIM oppfyller plikten til å slette opplysninger etter § 10.",
+                        "Kontrollutvalget skal bestå av minst tre medlemmer som oppnevnes av Kongen. Dessuten oppnevnes ett eller flere varamedlemmer. Lederen for utvalget skal oppfylle de krav som stilles til høyesterettsdommere. Kontrollutvalgets medlemmer har taushetsplikt om det de får vite i utøvelsen av sitt verv.",
+                        "ØKOKRIM skal gi Kontrollutvalget de opplysninger, dokumenter mv. som Kontrollutvalget finner nødvendig for sin kontroll. Når Kontrollutvalget krever det, har ØKOKRIMs tjenestemenn plikt til å forklare seg overfor Kontrollutvalget uten hensyn til taushetsplikt.",
+                        "Departementet kan i forskrift fastsette nærmere regler om oppgavene og saksbehandlingen til Kontrollutvalget."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Elektroniske overvåkningssystemer",
+                    "sections": [
+                        "Rapporteringspliktige som nevnt i § 4 første ledd nr. 1, skal etablere elektroniske overvåkningssystemer. Departementet kan i forskrift gi nærmere regler om elektroniske overvåkningssystemer."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Straff",
+                    "sections": [
+                        "Med bøter straffes rapporteringspliktige som forsettlig overtrer eller medvirker til overtredelse av denne lov eller forskrifter gitt i medhold av loven.",
+                        "Ved særlig skjerpende omstendigheter kan fengsel inntil 1 år anvendes."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Pålegg og tvangstiltak",
+                    "sections": [
+                        "Tilsynsorgan kan gi den rapporteringspliktige pålegg om at forhold i strid med denne lov eller bestemmelser gitt i medhold av loven, skal opphøre. Tilsynsorgan kan sette en frist for at forholdene bringes i samsvar med pålegget.",
+                        "Den som ikke etterkommer pålegg etter første ledd, kan ilegges tvangsmulkt av tilsynsorganene. Tvangsmulkten kan ilegges i form av engangsmulkt eller løpende mulkt. Ilagt mulkt er tvangsgrunnlag for utlegg.",
+                        "Departementet kan i forskrift gi nærmere regler om fastsettelse av tvangsmulkt, herunder mulktens størrelse."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan i forskrift fastsette:",
+                        "1regler til utfylling og gjennomføring av bestemmelsene i loven,",
+                        "2unntak fra enkelte eller flere av bestemmelsene i loven for visse rapporteringspliktige,",
+                        "3regler om hvilke opplysninger om avsender som skal følge en transaksjon i betalingskjeden,",
+                        "4særskilte regler om rapportering av transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot hvitvasking av utbytte eller finansiering av terrorisme,",
+                        "5forbud eller restriksjoner når det gjelder adgangen for rapporteringspliktige til å etablere forretningsforhold til eller foreta transaksjoner med personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot hvitvasking av utbytte eller finansiering av terrorisme."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Ikrafttredelse og overgangsregler",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer.",
+                        "Kongen kan gi overgangsregler."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
+                        "1 I lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner oppheves § 2-1 annet ledd, § 2-17, § 2-17a og § 5-1 første ledd annet punktum.",
+                        "2 I lov 24. mai 1985 nr. 28 om Norges Bank og pengevesenet skal § 12 annet ledd annet punktum lyde:",
+                        "Taushetsplikten etter foregående ledd gjelder heller ikke overfor ØKOKRIM ved oversendelse av opplysninger i henhold til § 7 i lov om tiltak mot hvitvasking av utbytte fra straffbare handlinger mv. (hvitvaskingsloven).",
+                        "3 I lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. skal § 6 annet ledd lyde:",
+                        "Når Tilsynet i sitt tilsynsarbeide får mistanke om at det foreligger forhold med tilknytning til utbytte av en straffbar handling eller til forhold som rammes av straffeloven § 147 a eller § 147 b, skal opplysninger om dette oversendes Den sentrale enhet for etterforskning og påtale av økonomisk kriminalitet og miljøkriminalitet, ØKOKRIM."
+                    ]
+                }
+            ]
+        }
+    ]
+}

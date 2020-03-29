@@ -1,0 +1,41 @@
+{
+    "lawId": "LOV-2015-12-18-133",
+    "lawName": "Lov om overføring av offentlige og private rettsforhold fra Statens vegvesen til et statlig utbyggingsselskap for veg",
+    "shortName": "Lov om statlig utbyggingsselskap for veg",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med loven er å regulere overføring av rettigheter og forpliktelser i forbindelse med overføringen av private og offentlige rettsforhold fra Statens vegvesen til et statlig utbyggingsselskap for veg."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Overføring av forpliktelser fra Statens vegvesen til det statlige utbyggingsselskapet for veg",
+                    "sections": [
+                        "Overføring av forpliktelser knyttet til prosjekter det statlige utbyggingsselskapet for veg får overført fra Statens vegvesen, skjer med frigjørende virkning for staten.",
+                        "Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Overføring av offentlige rettigheter, konsesjoner og tillatelser",
+                    "sections": [
+                        "Offentlige rettigheter, konsesjoner og tillatelser som gjelder prosjekter som utbyggingsselskapet gis ansvaret for, overføres til selskapet fra samme tid som prosjektet overføres."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan fastsette overgangsregler."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "lawId": "LOV-2002-12-13-85",
+    "lawName": "Lov om omdanning av Luftfartsverket til aksjeselskap",
+    "shortName": "Lov om Statens lufthavnselskap AS",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med denne loven er å regulere visse overgangsspørsmål i forbindelse med omdanning av forvaltningsbedriften Luftfartsverket til aksjeselskap."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Overføring av forpliktelser",
+                    "sections": [
+                        "Overføring til aksjeselskapet av forpliktelser knyttet til forvaltningsbedriften Luftfartsverket har frigjørende virkning for staten.",
+                        "Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Overføring av offentlige rettigheter, tillatelser mv.",
+                    "sections": [
+                        "Offentlige rettigheter, tillatelser, konsesjoner med videre som gjelder forvaltningsbedriften Luftfartsverket blir fra omdanningstidspunktet overført til aksjeselskapet.",
+                        "Omregistrering i grunnboken og andre offentlige registre i forbindelse med omdanningen skjer ved navneendring."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Overgangsbestemmelser for de ansattes rettigheter",
+                    "sections": [
+                        "Bestemmelsen i denne paragraf gjelder ansatte i forvaltningsbedriften Luftfartsverket som ved omdanningen til aksjeselskap blir ansatt i selskapet.",
+                        "Lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. (tjenestemannsloven) § 13 nr. 2 til nr. 6 om fortrinnsrett til annen statsstilling og ventelønn skal i tilfelle som nevnt i første ledd fremdeles gjelde for arbeidstakere som blir oppsagt av grunner som nevnt i tjenestemannsloven § 13 nr. 1 bokstavene a, b og c, og som var omfattet av disse bestemmelsene før overgangen. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum gjelder i tre år etter ansettelse i aksjeselskapet.",
+                        "Staten kan kreve utbetalte utgifter til ventelønn etter annet ledd refundert fra selskapet."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft straks, med unntak av § 6 som gjelder fra den tid Kongen bestemmer."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra det tidspunkt som fremgår av § 5 gjøres følgende endringer i andre lover:",
+                        "1. I lov 13. august 1915 nr. 6 om rettergangsmåten for tvistemål (tvistemålsloven) skal § 204 nr. 2 første ledd første og nytt annet punktum lyde:",
+                        "Uten samtykke fra departementet må retten ikke ta imot forklaring som vitnet ikke kan gi uten å krenke lovbestemt taushetsplikt han har som følge av tjeneste eller arbeid for stat eller kommune. Tilsvarende gjelder for vitne som har taushetsplikt som følge av tjeneste eller arbeid for familievernkontor, postoperatør, tilbyder av tilgang til telenett eller teletjeneste, teleinstallatør, eller statens lufthavnselskap.",
+                        "Nåværende annet punktum blir nytt tredje punktum.",
+                        "2. I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane skal § 5 ny bokstav f) lyde:",
+                        "f)Eigedom som statens lufthamnselskap eig, i same omfang som fritaket for statens eigedom etter bokstav a femte strekpunkt.",
+                        "3. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven) skal § 118 første ledd første og nytt annet punktum lyde:",
+                        "Uten samtykke fra departementet må retten ikke ta imot forklaring som vitnet ikke kan gi uten å krenke lovbestemt taushetsplikt han har som følge av tjeneste eller arbeid for stat eller kommune. Tilsvarende gjelder for vitne som har taushetsplikt som følge av tjeneste eller arbeid for familievernkontor, postoperatør, tilbyder av tilgang til telenett eller teletjeneste, teleinstallatør, eller statens lufthavnselskap.",
+                        "Nåværende annet punktum blir nytt tredje punktum.",
+                        "4. I lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) skal § 13-2 første og annet ledd lyde:",
+                        "Er avgifter som påløper i forbindelse med et luftfartøys benyttelse av norsk landingsplass til allmenn bruk, eller andre luftfartsanlegg eller tjenester som er stilt til rådighet for eier eller bruker av luftfartøy, ikke blitt betalt til fastsatt tid eller tilstrekkelig sikkerhet stilt, kan innehaveren eller luftfartsmyndigheten hindre fartøyet i å forlate plassen eller holde tilbake et annet fartøy med samme eier eller bruker.",
+                        "Luftfartsmyndigheten kan i tillegg;",
+                        "1.nekte eier eller bruker adgang til norsk landingsplass,",
+                        "2.nekte eier eller bruker adgang til norsk luftrom,",
+                        "inntil avgiften er betalt eller tilstrekkelig sikkerhet stilt."
+                    ]
+                }
+            ]
+        }
+    ]
+}

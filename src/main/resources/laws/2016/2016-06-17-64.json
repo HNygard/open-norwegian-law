@@ -1,0 +1,67 @@
+{
+    "lawId": "LOV-2016-06-17-64",
+    "lawName": "Lov om åpenhet om eierskap i medier",
+    "shortName": "Lov om åpenhet om eierskap i medier",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Lovens formål er å sikre åpenhet om eierforhold i norske medier."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Lovens virkeområde",
+                    "sections": [
+                        "Loven gjelder foretak som driver dagspresse, fjernsyn, radio eller elektroniske medier, samt foretak som gjennom eierskap eller samarbeidsavtaler har innflytelse over slike foretak."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Medietilsynets oppgaver",
+                    "sections": [
+                        "Medietilsynet skal bidra til å skape større åpenhet, oppmerksomhet og kunnskap om eierforholdene i norske medier. Tilsynet skal innhente og systematisere informasjon om eierforholdene, og informasjonen skal gjøres tilgjengelig for allmennheten."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Opplysningsplikt",
+                    "sections": [
+                        "Enhver plikter å gi Medietilsynet de opplysninger tilsynet krever for å kunne utføre sine oppgaver etter loven. Opplysningsplikten omfatter både opplysninger om eierskap i norske medier og opplysninger om samarbeidsavtaler som gir en avtalepart tilsvarende innflytelse over det redaksjonelle produktet som eierskap. Opplysninger kan kreves gitt skriftlig eller muntlig innen en fastsatt frist.",
+                        "Opplysninger som kreves etter første ledd, kan gis uten hinder av den lovbestemte taushetsplikt som ellers påhviler ligningsmyndigheter, andre skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet. Slik taushetsplikt er heller ikke til hinder for at dokumenter som befinner seg hos slike myndigheter, utleveres for gransking.",
+                        "Departementet kan gi forskrift om omfanget og gjennomføringen av opplysningsplikten."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "For å sikre at vedtak etter § 4 første ledd overholdes, kan Medietilsynet ilegge den ansvarlige for oppfyllelsen tvangsmulkt. Tvangsmulkten tilfaller statskassen.",
+                        "Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Ved løpende mulkt kan Medietilsynet bestemme at mulkten skal fastsettes for hver dag, uke eller måned som går etter at en fastsatt frist for oppfyllelse av plikten løper ut, uten at plikten er oppfylt. Ved tvangsmulkt i form av et engangsbeløp kan Medietilsynet bestemme at mulkten skal betales når en fastsatt frist for oppfyllelse av plikten løper ut, uten at plikten er oppfylt.",
+                        "Medietilsynet kan i særlige tilfeller redusere eller frafalle påløpt tvangsmulkt, inklusive renter.",
+                        "Departementet kan gi forskrift om ileggelse av tvangsmulkt, vilkår for tvangsmulkt, tvangsmulktens størrelse og renter ved forsinket betaling."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Klageinstans",
+                    "sections": [
+                        "Klager over Medietilsynets enkeltvedtak etter denne loven eller etter forskrift fastsatt i medhold av loven behandles av Klagenemnda for mediesaker (Medieklagenemnda).",
+                        "Klagenemnda kan ikke av eget tiltak omgjøre Medietilsynets vedtak."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

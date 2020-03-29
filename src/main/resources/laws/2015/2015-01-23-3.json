@@ -1,0 +1,109 @@
+{
+    "lawId": "LOV-2015-01-23-3",
+    "lawName": "Lov om endringer i straffegjennomføringsloven mv. (Infoflyt-systemet mv.)",
+    "shortName": "Endringslov til straffegjennomføringsloven mv. (Infoflyt)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1 A. Behandling av personopplysninger i kriminalomsorgen",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1 B. Særlig om behandling av personopplysninger i Infoflyt-systemet",
+            "paragraphs": [
+                {
+                    "name": "§ 4f",
+                    "title": "Formålet med behandlingen av personopplysninger i Infoflyt-systemet",
+                    "sections": [
+                        "Kriminalomsorgen kan behandle personopplysninger om domfelte og innsatte i Infoflyt-systemet dersom det er nødvendig for å",
+                        "a)forebygge og forhindre rømning når det foreligger rømningsfare",
+                        "b)forebygge og forhindre anslag utenfra for å bistå til rømning",
+                        "c)forebygge og forhindre gisseltaking",
+                        "d)forebygge, forhindre og bekjempe organisert kriminalitet, terror, voldelig ekstremisme eller annen alvorlig kriminalitet under gjennomføringen av varetekt, straff og andre strafferettslige reaksjoner eller",
+                        "e)ivareta sikkerheten til innsatte eller domfelte eller andre personer med spesielt beskyttelsesbehov.",
+                        "I vurderingen av om det er nødvendig å behandle personopplysninger i Infoflyt-systemet, skal kriminalomsorgen særlig legge vekt på det straffbare forholdets art og hvor alvorlig det er, straffens lengde, strafferettslig historikk, adferd under tidligere straffegjennomføring, andre straffbare forhold som er under etterforskning eller domstolsbehandling, tilknytning til kriminelle nettverk, samarbeidspartneres kjennskap til den innsatte eller domfelte og andre forhold som gir grunn til å anta at vedkommende vil begå eller medvirke til handlinger som nevnt i første ledd bokstav a til d.",
+                        "Er den innsatte eller domfelte registrert i Infoflyt-systemet, kan kriminalomsorgen behandle personopplysninger om vedkommendes besøkende, telefon- eller brevkontakter, familiemedlemmer, venner, bekjente og andre som har eller søker kontakt med den innsatte eller domfelte eller som den innsatte eller domfelte søker kontakt med, når kontakten antas opprettet eller ønskes opprettet for å begå eller medvirke til handlinger som nevnt i første ledd bokstav a til d.",
+                        "Kriminalomsorgen kan også behandle personopplysninger om andre personer, dersom det er nødvendig for å ivareta sikkerheten til personene selv eller til innsatte eller domfelte i tilfeller hvor det foreligger spesielt beskyttelsesbehov etter første ledd bokstav e."
+                    ]
+                },
+                {
+                    "name": "§ 4g",
+                    "title": "Kriminalomsorgens informasjonsplikt",
+                    "sections": [
+                        "Den behandlingsansvarlige i kriminalomsorgen skal informere den registrerte om at det behandles personopplysninger om vedkommende i Infoflyt-systemet og at opplysningene kan utleveres til politiet og påtalemyndigheten etter § 4i.",
+                        "Den behandlingsansvarlige kan unnlate å informere den registrerte dersom",
+                        "a)det er nødvendig for å ivareta formålene i § 4f første ledd bokstav a til e",
+                        "b)det er nødvendig av hensyn til nasjonal eller offentlig sikkerhet",
+                        "c)opplysningene er mottatt fra Politiets sikkerhetstjeneste eller",
+                        "d)den registrerte ikke er innsatt eller domfelt, og det ikke opprettes en egen sak på vedkommende i Infoflyt-systemet."
+                    ]
+                },
+                {
+                    "name": "§ 4h",
+                    "title": "Den registrertes rett til innsyn",
+                    "sections": [
+                        "Den registrerte som ber om det, skal gis innsyn i de opplysningene som er registrert om vedkommende i Infoflyt-systemet og de opplysningene som er utlevert til politiet og påtalemyndigheten.",
+                        "Innsynet kan nektes helt eller delvis dersom",
+                        "a)det er nødvendig for å ivareta formålene i § 4f første ledd bokstav a til e",
+                        "b)det er nødvendig av hensyn til nasjonal eller offentlig sikkerhet eller",
+                        "c)opplysningene er mottatt fra Politiets sikkerhetstjeneste.",
+                        "Dersom begjæringen om innsyn ikke tas til følge og det er grunnlag for kriminalomsorgen å unnlate å informere den registrerte etter § 4g annet ledd, skal det gis et svar som ikke tilkjennegir at det foreligger en registrering i Infoflyt-systemet."
+                    ]
+                },
+                {
+                    "name": "§ 4i",
+                    "title": "Utlevering av personopplysninger til politiet og påtalemyndigheten",
+                    "sections": [
+                        "Er det nødvendig for å ivareta formålene i § 4f første ledd bokstavene a til e eller for at politiet skal kunne foreta en risikovurdering i tilknytning til den registrerte innsatte eller domfelte, kan kriminalomsorgen uten hinder av taushetsplikt utlevere opplysninger til politiet og påtalemyndigheten."
+                    ]
+                },
+                {
+                    "name": "§ 4j",
+                    "title": "Datatilsynets kontroll og virkemidler",
+                    "sections": [
+                        "Datatilsynet skal etter begjæring fra den registrerte eller den som antar å være registrert, kontrollere at opplysningene om vedkommende er behandlet i samsvar med loven og at reglene om informasjonsplikt og innsyn er fulgt. Dette gjelder ikke opplysninger som kriminalomsorgen har mottatt fra Politiets sikkerhetstjeneste.",
+                        "Har kriminalomsorgen eller politiet besluttet unntak fra informasjonsplikten etter § 4 g annet ledd eller politiregisterloven § 48, skal ikke svaret tilkjennegi at det foreligger en registrering i Infoflyt-systemet.",
+                        "Datatilsynet kan ikke gi pålegg om innsyn i opplysninger som kriminalomsorgen eller politiet har unntatt fra innsynsretten etter § 4h annet ledd eller politiregisterloven § 49 fjerde ledd."
+                    ]
+                },
+                {
+                    "name": "§ 4k",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Kongen kan gi forskrifter om",
+                        "a)behandlingsansvar",
+                        "b)type opplysninger som kan behandles",
+                        "c)opplysningskvalitet",
+                        "d)tilgang",
+                        "e)samarbeid med politiet",
+                        "f)framgangsmåte ved opprettelse og avslutning av sak",
+                        "g)informasjonsplikt",
+                        "h)innsyn",
+                        "i)retting, sperring og sletting",
+                        "j)handleplikt ved feil eller mangler",
+                        "k)oppbevaring og bruk av sperret informasjon",
+                        "l)utlevering av informasjon til politiet",
+                        "m)saksbehandlingsregler",
+                        "n)klage og klagefrist",
+                        "o)tilsyn og",
+                        "p)informasjonssikkerhet og internkontroll.",
+                        "I lov 24. mai 2013 nr. 19 om endringer i straffeprosessloven mv. (elektronisk kontroll som varetektsurrogat mv.) oppheves del I.",
+                        "Loven trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

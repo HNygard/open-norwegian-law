@@ -1,0 +1,68 @@
+{
+    "lawId": "LOV-2006-06-30-56",
+    "lawName": "Lov om behandling av etikk og redelighet i forskning",
+    "shortName": "Forskningsetikkloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Loven skal bidra til at forskning i offentlig og privat regi skjer i henhold til anerkjente etiske normer."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Uavhengighet",
+                    "sections": [
+                        "Komiteer og utvalg oppnevnt med hjemmel i denne lov skal være faglig uavhengige statlige organer."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Nasjonale forskningsetiske komiteer",
+                    "sections": [
+                        "Det skal være nasjonale forskningsetiske komiteer som til sammen dekker alle fagområder. Komiteene skal være rådgivende organer innen forskningsetikk. Departementet oppretter komiteer, bestemmer komiteenes ansvarsområder og oppnevner medlemmer.",
+                        "Komiteene skal ha kompetanse i relevante forskningsdisipliner, etikk og jus. De skal også ha lekrepresentasjon."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Regionale komiteer for medisinsk og helsefaglig forskningsetikk",
+                    "sections": [
+                        "Det skal være regionale komiteer innen medisinsk og helsefaglig forskningsetikk. Departementet oppretter komiteer, bestemmer komiteenes ansvarsområder og oppnevner medlemmer. Medlemmene oppnevnes etter forslag fra relevante organer. Komiteene skal ha kompetanse i relevante forskningsdisipliner, etikk og jus. De skal også ha lekrepresentasjon.",
+                        "Forskningsprosjekter i Norge som innebærer forsøk på mennesker, skal legges fram for komiteen til godkjenning. Forskningsprosjekter i utlandet skal legges fram for komiteen til godkjenning dersom forskningen drives av forsker ansatt av norsk arbeidsgiver eller dersom en vesentlig del av midlene kommer fra Norge.",
+                        "Komiteenes vedtak kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag. Den nasjonale komiteens avgjørelse er endelig og kan ikke påklages videre."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Nasjonalt utvalg for gransking av redelighet i forskning",
+                    "sections": [
+                        "Det skal være et nasjonalt utvalg for gransking av redelighet i forskning. Utvalget skal uttale seg om forskning i Norge har vært vitenskapelig uredelig. Utvalget skal videre uttale seg om forskning i utlandet dersom forskningen drives av forsker ansatt av norsk arbeidsgiver eller dersom en vesentlig del av midlene kommer fra Norge.",
+                        "Med vitenskapelig uredelighet menes forfalskning, fabrikkering, plagiering og andre alvorlige brudd med god vitenskapelig praksis som er begått forsettlig eller grovt uaktsomt i planlegging, gjennomføring eller rapportering av forskning.",
+                        "Utvalgets medlemmer oppnevnes av departementet. Utvalgets leder skal ha dommererfaring. Sammensetningen skal sikre at utvalget har nødvendig forsknings- og forskningsetisk kompetanse.",
+                        "Utvalget kan i den enkelte sak bestemme at offentlighet for sakens dokumenter først skal inntre når endelig uttalelse foreligger.",
+                        "Departementet er klageinstans for klager vedrørende utvalgets saksbehandling. Klage over uttalelsens innhold behandles av et særskilt nedsatt utvalg. Særskilt utvalg nedsettes for hver klage og skal inneha nødvendig faglig, forskningsetisk og juridisk ekspertise. Det særskilte utvalgets avgjørelse er endelig."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan gi utfyllende forskrifter om oppnevning av og saksbehandling i komiteer og utvalg etter loven."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Denne lov trer i kraft fra det tidspunkt Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

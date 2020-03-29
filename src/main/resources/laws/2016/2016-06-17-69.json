@@ -1,0 +1,93 @@
+{
+    "lawId": "LOV-2016-06-17-69",
+    "lawName": "Lov om endringer i universitets- og høyskoleloven (NOKUTs tilsyn, nasjonal vitnemålsportal mv.)",
+    "shortName": "Endringslov til universitets- og høyskoleloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "NOKUTs oppgaver og myndighet",
+                    "sections": [
+                        "(1) NOKUT er et faglig uavhengig statlig forvaltningsorgan.",
+                        "(2) Formålet med NOKUTs virksomhet er å føre tilsyn med kvaliteten i høyere utdanning og fagskoleutdanning, gi generell godkjenning av utenlandsk høyere utdanning, og å stimulere til kvalitetsutvikling som sikrer et høyt internasjonalt nivå i utdanningstilbudene ved institusjonene. NOKUTs arbeid skal bidra til at samfunnet kan ha tillit til kvaliteten i norsk høyere utdanning, fagskoleutdanning og godkjent høyere utenlandsk utdanning. I sitt arbeid skal NOKUT søke å bistå institusjonene i deres utviklingsarbeid.",
+                        "(3) NOKUT skal akkreditere institusjoner og studietilbud, føre tilsyn med institusjonenes kvalitetsarbeid og føre tilsyn med at institusjoner og eksisterende studietilbud fyller gjeldende standarder og kriterier for akkreditering. NOKUT skal også gi generell godkjenning av utenlandsk utdanning. NOKUT kan benytte andre virkemidler og gjennomføre andre tiltak, så langt de er i samsvar med formålet med NOKUTs virksomhet.",
+                        "(4) NOKUT skal gjennomføre evalueringer av betydning for å kunne bedømme kvaliteten i høyere utdanning. Departementet kan pålegge NOKUT å foreta slike evalueringer. Alle evalueringer som foretas av NOKUT, er offentlige, og NOKUT skal bidra til at disse gjøres kjent.",
+                        "(5) NOKUTs vedtak overfor private institusjoner kan i forskrift unntas fra bestemmelsene i forvaltningsloven kap. VI.",
+                        "(6) Departementet kan gi forskrift om",
+                        "a)krav til kvalitetssikringssystemer og kvalitetsarbeid",
+                        "b)standarder og kriterier for akkreditering av institusjoner og studietilbud",
+                        "c)saksbehandlingsregler for NOKUTs virksomhet.",
+                        "NOKUT kan gi utfyllende forskrift om de samme emnene.",
+                        "§ 2-2 annet ledd skal lyde:",
+                        "(2) Styret oppnevnes av departementet og består av ni medlemmer. Ett medlem skal være student ved universitet eller høyskole, og ett medlem skal være student ved fagskole. Ett medlem skal oppnevnes blant NOKUTs ansatte og skal ha stemmerett i saker som angår de ansattes forhold. Det skal oppnevnes varamedlemmer, herunder personlige varamedlemmer for de ansattes og studentenes medlemmer. Departementet oppnevner styrets leder.",
+                        "§ 3-1 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-1",
+                    "title": "Akkreditering av studietilbud og institusjoner",
+                    "sections": [
+                        "(1) Akkreditering forstås i denne loven som en faglig bedømming av om en høyere utdanningsinstitusjon eller et studietilbud fyller standarder og kriterier gitt av departementet og NOKUT. Akkreditering er et vilkår for å kunne tilby høyere utdanning. Akkrediterte studietilbud skal være i samsvar med Nasjonalt kvalifikasjonsrammeverk. Studietilbud fra nye tilbydere kan bare akkrediteres dersom studietilbudet minst fører til en bachelorgrad",
+                        "(2) NOKUTs akkreditering av institusjoner og studietilbud skal baseres på evaluering foretatt av eksterne sakkyndige oppnevnt av NOKUT.",
+                        "(3) Utdanningsinstitusjoner som er akkreditert etter § 3-3 første og annet ledd, kan selv akkreditere nye studietilbud i samsvar med sine faglige fullmakter. Institusjonenes akkrediteringer skal bygge på standarder og kriterier som nevnt i første ledd, og vurderingen av studietilbud skal være dokumentert.",
+                        "(4) Hvis NOKUT finner at en institusjon eller et studietilbud ikke oppfyller fastsatte standarder og kriterier, skal det gis en frist for å rette forholdene. Hvis standardene og kriteriene fortsatt ikke er oppfylt, skal NOKUT trekke akkrediteringen av institusjonen eller studietilbudet tilbake.",
+                        "§ 3-2 nytt tredje ledd skal lyde:",
+                        "(3) Departementet kan fastsette at det skal avholdes obligatoriske nasjonale deleksamener i enkelte fag eller emner, og om resultatet skal føres på vitnemålet.",
+                        "Nåværende tredje til femte ledd blir fjerde til sjette ledd.",
+                        "§ 3-2 nytt syvende ledd skal lyde:",
+                        "(7) Den som forsettlig eller uaktsomt tildeler eller bruker en tittel, alene eller som en del av en annen tittel, uten å ha rett til dette etter første eller femte ledd i denne paragrafen, eller i strid med forbud gitt i medhold av sjette ledd, kan ilegges overtredelsesgebyr av departementet. Foretak kan ilegges slikt overtredelsesgebyr selv om ingen enkeltperson har utvist skyld som beskrevet i første punktum. Departementet kan gi forskrift om utstedelse, størrelse, forfall, klage, overprøving og lemping av overtredelsesgebyret. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+                        "§ 3-3 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Faglige fullmakter",
+                    "sections": [
+                        "(1) Institusjoner som er akkreditert som universitet, har fullmakt til selv å akkreditere studietilbud institusjonene skal tilby.",
+                        "(2) Institusjoner som er akkreditert som vitenskapelig høyskole eller høyskole, har fullmakt til selv å akkreditere studietilbud de skal tilby på lavere grads nivå. Innenfor fagområder der de kan tildele doktorgrad eller tilsvarende, kan institusjonene selv akkreditere studietilbud de skal tilby på lavere og høyere grads nivå. For fagområder der institusjonene ikke kan tildele doktorgrad, må de søke NOKUT om akkreditering av studietilbud på høyere grads nivå.",
+                        "(3) Styret fastsetter studieplan for det faglige innholdet i studiene, herunder bestemmelser om obligatorisk kurs, praksis og lignende og om vurderingsformer.",
+                        "(4) Fullmakter etter første og annet ledd kan trekkes tilbake av departementet dersom institusjonene ikke har et tilfredsstillende kvalitetsarbeid som sikrer og videreutvikler kvaliteten i utdanningen.",
+                        "§ 3-4 tredje punktum oppheves.",
+                        "§ 3-5 femte ledd andre punktum oppheves.",
+                        "Ny § 4-14 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4-14",
+                    "title": "Nasjonal vitnemåls- og karakterportal",
+                    "sections": [
+                        "(1) Nasjonal vitnemåls- og karakterportal er en tjeneste for digital, tidsbegrenset tilgjengeliggjøring av vitnemål og karakterer. Formålet med systemet er å sikre sannferdig informasjon om vitnemål og karakterer og å forhindre bruk av forfalskede vitnemål og karakterutskrifter. Portalen eies av staten gjennom departementet.",
+                        "(2) I portalen vil identitetsopplysninger som fødselsnummer, D-nummer og identifiseringsinformasjon knyttet til utdanningsinstitusjonen, bli innhentet automatisk, uavhengig av om portalen er tatt i bruk av den informasjonen gjelder. Vitnemål og karakterer vil kun innhentes fra utdanningsinstitusjonene når portalen er tatt i bruk av den informasjonen gjelder. Den informasjonen gjelder, bestemmer hvem som skal få tilgang til informasjon i portalen, hvilken informasjon de skal få tilgang til, og for hvilket tidsrom.",
+                        "(3) Departementet er behandlingsansvarlig for Nasjonal vitnemåls- og karakterportal. Departementet gir forskrift om portalen, blant annet om hvilke opplysninger som skal registreres og behandlingen av opplysningene.",
+                        "§ 5-2 første ledd skal lyde:",
+                        "(1) Den som har vært oppe til eksamen eller prøve, kan klage over formelle feil innen tre uker etter at han eller hun er eller burde vært kjent med det forhold som begrunner klagen. Slik klage må fremsettes for institusjonen. Institusjonen kan fastsette kortere klagefrist enn tre uker ved ikke bestått forprøve. Klagefristen kan ikke settes kortere enn én uke.",
+                        "§ 5-3 femte ledd skal lyde:",
+                        "(5) Bedømmelse av muntlig prestasjon og vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages. Forprøver kan bare påklages når prøven ikke er bestått. Institusjonen kan, dersom sensurtidspunktet kunngjøres senest når forprøven avholdes, fastsette kortere klagefrist enn tre uker ved ikke bestått forprøve. Klagefristen kan ikke settes kortere enn én uke.",
+                        "Ny § 5-4 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Senter for internasjonalisering av utdanning",
+                    "sections": [
+                        "(1) Senter for internasjonalisering av utdanning (SIU) er et nasjonalt kompetanse- og informasjonssenter som skal arbeide for å samordne og fremme internasjonalt utdanningssamarbeid gjennom hele utdanningsløpet. SIU er administrativt underlagt departementet.",
+                        "(2) Enkeltvedtak om tildeling av midler som SIU fatter, kan påklages til det organet som har delegert vedtaksmyndigheten. Klageorganet kan ikke overprøve SIUs skjønnsmessige vurderinger.",
+                        "(3) Departementet kan gi forskrift om SIUs saksbehandling, mandat, organisering og øvrige administrative forhold.",
+                        "§ 6-4 fjerde ledd skal lyde:",
+                        "(4) For stillinger etter første ledd bokstavene f til i gir departementet forskrift om varighet, arbeidets omfang og innhold, og om adgangen til å fornye ansettelsesforholdet. Departementet kan gi forskrift om beregning av tjenestetid for stipendiater etter tjenestemannsloven §§ 9 og 10.",
+                        "§ 7-2 sjette ledd skal lyde:",
+                        "(6) Den som forsettlig eller uaktsomt bruker en vernet institusjonsbetegnelse i strid med denne paragrafen, kan ilegges overtredelsesgebyr av departementet. Foretak kan ilegges slikt overtredelsesgebyr selv om ingen enkeltperson har utvist skyld som beskrevet i første punktum. Departementet kan gi forskrift om utstedelse, størrelse, forfall, klage, overprøving og lemping av overtredelsesgebyret. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

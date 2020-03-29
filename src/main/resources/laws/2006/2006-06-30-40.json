@@ -1,0 +1,93 @@
+{
+    "lawId": "LOV-2006-06-30-40",
+    "lawName": "Lov om endringer i forsikringsloven (utlikning i fellesordninger for premieberegning)",
+    "shortName": "Endringslov til forsikringsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 10A. Fellesordning for premieberegning for pensjonsordninger med ytelsesbasert foretakspensjon",
+            "paragraphs": [
+                {
+                    "name": "§ 10A-1",
+                    "title": "Virkeområde mv.",
+                    "sections": [
+                        "Bestemmelsene i dette kapittel gjelder pensjonsordninger med ytelsesbasert foretakspensjon hvor finansieringsordningen er basert på premieberegning i fellesordninger.",
+                        "Ytelsesbaserte foretakspensjonsordninger som nevnt i første ledd kan bare inngå i fellesordning bestående av andre ytelsesbaserte foretakspensjonsordninger.",
+                        "En felles pensjonsordning for konsernforetak kan utgjøre en fellesordning.",
+                        "En pensjonsinnretning som har en eller flere fellesordninger skal føre regnskap for hver fellesordning.",
+                        "Departementet kan gi nærmere regler til utfylling, gjennomføring og avgrensning av reglene i kapitlet her."
+                    ]
+                },
+                {
+                    "name": "§ 10A-2",
+                    "title": "Årets premier",
+                    "sections": [
+                        "Årlig premie for en pensjonsordning skal tilsvare summen av ordinær årspremie, reguleringspremie og særskilte engangspremier for ytelser som ikke kan premiesettes på forhånd.",
+                        "Premier beregnes etter § 10A-3 hvis ikke noe annet følger av reglene i §§ 10A-4 og 10A-5 om fellesordning for premieberegning."
+                    ]
+                },
+                {
+                    "name": "§ 10A-3",
+                    "title": "Premieberegning",
+                    "sections": [
+                        "Pensjonsordningen skal årlig tilføres en premie som etter beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre rett til pensjon som medlemmene vil opptjene i løpet av året, med tillegg av årets risikopremier og kostnader for tjenester (ordinær årspremie). Premie for hvert år beregnes ved årets begynnelse og senere i året i takt med lønnsutviklingen.",
+                        "Pensjonsordningen skal i tillegg hvert år tilføres premie til dekning av oppregulering i løpet av året av opptjente pensjonsrettigheter (reguleringspremie). Reguleringspremien beregnes på tidspunktet for oppreguleringen ut fra lønnsutviklingen i løpet av året.",
+                        "Pensjonsordningen skal også hvert år tilføres premie til dekning av pensjonsrettigheter som medlemmene i tilfelle får i løpet av året, og som ikke kan premiesettes på forhånd ut fra forsikringstekniske beregninger. Slik premie beregnes på det tidspunkt pensjonsrettighetene oppstår."
+                    ]
+                },
+                {
+                    "name": "§ 10A-4",
+                    "title": "Vilkår for fellesordning for premieberegning",
+                    "sections": [
+                        "Bestemmelsene i kapittel 9 er ikke til hinder for at det opprettes fellesordninger som består av flere pensjonsordninger, for at premie for den enkelte pensjonsordning som inngår i en fellesordning, skal bli fastsatt ved beregning basert på prinsipper som vil motvirke at pensjonskostnaden for de enkelte medlemmer for tilsvarende pensjonsrettigheter vil variere med medlemmenes kjønn og alder.",
+                        "Alle pensjonsordningene i en fellesordning skal ha pensjonsplaner som gir samme typer av pensjonsytelser. Forholdet mellom alderspensjonsytelse og etterlatteytelse for det enkelte medlem skal være det samme etter pensjonsplanene for alle pensjonsordningene. Alle pensjonsordningene skal bygge på samme beregningsrente og i hovedsak samme beregningsgrunnlag.",
+                        "Pensjonsordninger med pensjonsplaner som gir forskjellig ytelsesnivå for alderspensjon, kan inngå i samme fellesordning."
+                    ]
+                },
+                {
+                    "name": "§ 10A-5",
+                    "title": "Premieberegning i fellesordninger",
+                    "sections": [
+                        "En fellesordning opprettet etter § 10A-4 skal hvert år tilføres premie tilsvarende summen av ordinær årspremie fastsatt etter forsikringsteknisk beregning for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordnings andel av samlet ordinær premie til fellesordningen beregnes ut fra forholdet mellom den rett til alderspensjon som vil bli opptjent i løpet av året for samtlige medlemmer av hver av pensjonsordningene. Kostnader for tjenester kan unntas fra fordeling i fellesordningen.",
+                        "Opptas en arbeidstaker som medlem av en pensjonsordning i løpet av et forsikringsår, belastes tilleggspremie for den del av året som gjenstår. Tillegget beregnes ut fra pensjonsordningens andel av samlet årspremie til fellesordningen og den prosentvise økningen av pensjonsordningens beregningsgrunnlag etter første ledd annet punktum som det nye medlemmet representerer. Avvik fra forsikringsteknisk beregnet premie inngår ved beregningen av ordinær årspremie til fellesordningen i det etterfølgende år. Bestemmelsene i første til tredje punktum gjelder tilsvarende ved beregning av premietillegg for særskilt lønnsøkning for et medlem av pensjonsordningen.",
+                        "Dersom det i løpet av et forsikringsår opptas en ny pensjonsordning i en fellesordning, skal den ordinære årspremien beregnes ut fra den samlede ordinære årspremie til fellesordningen som er beregnet for året, og den prosentvise økningen av det samlede beregningsgrunnlaget etter første ledd annet punktum som pensjonsordningen representerer.",
+                        "Det skal fastsettes i forsikringsavtalen om reguleringspremie som nevnt i § 10A-3 annet ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning. Ved særskilt beregning skal reguleringspremien beregnes for hver pensjonsordning i fellesordningen ut fra den prosentvise økning av premiereserven for pensjonsordningen som er påkrevd som følge av oppregulering av medlemmenes opptjente pensjonsrettigheter ut fra lønnsutviklingen. Ved gjennomsnittsberegning skal fellesordningen hvert år tilføres reguleringspremier tilsvarende summen av årlig reguleringspremie etter § 10A-3 annet ledd for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordningens andel av samlet reguleringspremie til fellesordningen beregnes ut fra forholdet mellom samlet premiereserve for hver av pensjonsordningene på tidspunktet for oppregulering av pensjonsrettighetene. Ved beregning av premiereserve etter reglene i leddet her skal premiereserve knyttet til pensjoner under utbetaling unntas fra beregningen, med mindre annet er fastsatt. Kostnader for tjenester kan beregnes og belastes særskilt for hver pensjonsordning.",
+                        "Reguleringspremie for pensjoner under utbetaling skal beregnes og betales særskilt for hver enkelt pensjonsordning.",
+                        "Det skal fastsettes i forsikringsavtalen i hvilken utstrekning premier som nevnt i § 10A-3 tredje ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning som nevnt i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 10A-6",
+                    "title": "Eldre arbeidstakere",
+                    "sections": [
+                        "Alle pensjonsordninger i en fellesordning skal ha samme regler om opptak av medlemmer som har mindre enn 10 år igjen til pensjonsalderen, og om rett til pensjon og medregning av tidligere tjenestetid for slike arbeidstakere når de er opptatt som medlemmer, jf. foretakspensjonsloven § 3-9 annet og tredje ledd, jf. § 5-6 første ledd bokstav c."
+                    ]
+                },
+                {
+                    "name": "§ 10A-7",
+                    "title": "Innbetaling av premie",
+                    "sections": [
+                        "Blir premie for et forsikringsår ikke innbetalt ved årets utgang eller ved utløpet av annen frist fastsatt i nytt premievarsel etter lov 16. juni 1989 nr. 69 om forsikringsavtaler § 14-2, bortfaller den økning av forsikringsforpliktelsene som den ikke innbetalte premien skulle dekke. Medlemmene i pensjonsordningen skal i tilfelle varsles om dette. Det kan likevel ikke som følge av slikt bortfall kreves tilbakebetaling av for mye utbetalt pensjon.",
+                        "Departementet kan ved forskrift fastsette nærmere regler om innbetaling av premie.",
+                        "§ 14-1 første ledd andre punktum skal lyde:",
+                        "Bestemmelsene i §§ 3-1 til 3-7, kapittel 4 og 5, §§ 6-3 til 6-5 og 11-2, samt kapittel 13 gjelder ikke for filialer av utenlandske selskaper.",
+                        "§ 17-1 tredje ledd oppheves.",
+                        "§ 17-2 første ledd skal lyde:",
+                        "Departementet kan gi nærmere overgangsregler.",
+                        "Loven gjelder fra den tid Kongen bestemmer.",
+                        "Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "Kongen kan fastsette overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

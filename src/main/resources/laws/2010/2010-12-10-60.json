@@ -1,0 +1,24 @@
+{
+    "lawId": "LOV-2010-12-10-60",
+    "lawName": "Lov om endring i lov 16. januar 1970 nr. 1 om folkeregistrering",
+    "shortName": "Endringslov til folkeregisterloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 12 a",
+                    "title": "Oppgaver etter denne lov som er forhåndsutfylt med personopplysninger, kan gjøres tilgjengelig for mottakeren ved elektronisk kommunikasjon.",
+                    "sections": [
+                        "Endringsloven trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

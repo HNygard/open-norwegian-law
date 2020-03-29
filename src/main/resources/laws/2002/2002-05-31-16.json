@@ -1,0 +1,35 @@
+{
+    "lawId": "LOV-2002-05-31-16",
+    "lawName": "Lov om endringer i skattelovgivningen",
+    "shortName": "Endringslov til skattelovgivningen",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 18-8",
+                    "title": "Skattemessig inngangsverdi for avskrivbare fysiske driftsmidler som er særskilte for kraftforetak",
+                    "sections": [
+                        "For driftsmidler som pr. 1. januar 1997 inngikk i skattyters åpningsbalanse med skattemessig inngangsverdi fastsatt etter lov 28. juni 1996 nr. 41 om endringer i lov 18. august 1911 om skatt på formue og inntekt Overgangsregel til §§ 19 e, 26 c, 136 annet ledd A nr. 1 første ledd eller B, skal gjenanskaffelsesverdi beregnet av Norges vassdrags- og energidirektorat tilsvare de verdier som ble fastsatt og rapportert av direktoratet i 1997 etter § 2-7 i forskrift 20. januar 1997 nr. 79 om fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 for særskilte driftsmidler i kraftforetak.",
+                        "Endringene under I trer i kraft straks.",
+                        "Endringen under II trer i kraft straks med virkning for rettssaker hvor stevning er innkommet etter ikrafttreden.",
+                        "Endringen under III trer i kraft straks med virkning fra og med inntektsåret 2001."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

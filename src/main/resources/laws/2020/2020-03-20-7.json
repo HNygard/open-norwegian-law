@@ -1,0 +1,31 @@
+{
+    "lawId": "LOV-2020-03-20-7",
+    "lawName": "Lov om endringer i folketrygdloven",
+    "shortName": "Endringslov til folketrygdloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 25-16",
+                    "title": "Forskrifter ved allmennfarlig smittsom sykdom",
+                    "sections": [
+                        "Ved utbrudd eller fare for utbrudd av allmennfarlig smittsom sykdom kan Kongen i statsråd gi forskrift om utvidelse av trygdens ansvar for å utbetale ytelser etter folketrygdloven.",
+                        "På tilsvarende vilkår som nevnt i første ledd kan departementet gi forskrift om",
+                        "a)unntak fra krav til legeerklæring,",
+                        "b)rett til sykepenger etter § 8-4 for personer som har eller kan antas å ha smittsom sykdom,",
+                        "c)rett til omsorgspenger, og",
+                        "d)unntak fra pålagte plikter.",
+                        "Forskrift gitt med hjemmel i første eller annet ledd kan gis virkning så lenge utbruddet eller faren for utbrudd er til stede.",
+                        "Loven trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

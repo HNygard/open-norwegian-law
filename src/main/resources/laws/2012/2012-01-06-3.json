@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2012-01-06-3",
+    "lawName": "Lov om endringar i lov 20. desember 1985 nr. 108 om folkebibliotek",
+    "shortName": "Endringslov til folkebibliotekloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 13",
+                    "title": "Statlige bibliotekoppgaver",
+                    "sections": [
+                        "Departementet, eller den departementet bestemmer, ivaretar statlige bibliotekoppgaver etter denne lov.",
+                        "Lova tek til å gjelde straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

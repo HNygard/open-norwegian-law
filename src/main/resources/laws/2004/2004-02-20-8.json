@@ -1,0 +1,81 @@
+{
+    "lawId": "LOV-2004-02-20-8",
+    "lawName": "Lov om endringer i lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven)",
+    "shortName": "Endringslov til ehandelsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 15",
+                    "title": "Erstatnings- og straffeansvar for tjenesteyter",
+                    "sections": [
+                        "For tjenesteyter som overfører informasjon, gir tilgang til et kommunikasjonsnettverk eller lagrer informasjon gjelder de alminnelige rettsregler om erstatningsansvar og straffeansvar hvis ikke annet følger av §§ 16-18.",
+                        "Ny § 16 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Ansvarsfrihet for visse overførings- og tilgangstjenester",
+                    "sections": [
+                        "En tjenesteyter som overfører informasjon for en tjenestemottaker i et kommunikasjonsnettverk, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i den overførte informasjonen, forutsatt at",
+                        "a)Overføringen ikke starter hos tjenesteyteren,",
+                        "b)tjenesteyteren ikke selv velger mottakeren av overføringen og",
+                        "c)tjenesteyteren ikke selv bestemmer eller endrer informasjonen som overføres.",
+                        "Overføring som nevnt i første ledd, omfatter også automatisk, mellomliggende og kortvarig lagring av den overførte informasjonen, forutsatt at",
+                        "a)lagringen utelukkende tjener til gjennomføring av overføringen og",
+                        "b)lagringen ikke varer lenger enn det som er nødvendig for slik overføring.",
+                        "Bestemmelsene i første og andre ledd gjelder tilsvarende for tjenesteytere hvis tjeneste består i å gi tilgang til et kommunikasjonsnettverk.",
+                        "Ny § 17 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Ansvarsfrihet for visse mellomlagringstjenester",
+                    "sections": [
+                        "En tjenesteyter som nevnt i § 16 første ledd, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i informasjon som automatisk, mellomliggende og midlertidig lagres utelukkende for å gjøre overføringen til andre tjenestemottakere mer effektiv, forutsatt at tjenesteyteren",
+                        "a)ikke selv bestemmer eller endrer informasjonen som overføres,",
+                        "b)overholder vilkår for tilgang til informasjonen,",
+                        "c)overholder alminnelig godtatte regler for oppdatering av informasjonen og",
+                        "d)ikke griper inn i lovlig anvendelse av alminnelig anerkjent teknologi, i den hensikt å oppnå data om bruken av informasjonen.",
+                        "Ansvarsfrihet etter første ledd gjelder bare dersom tjenesteyteren uten ugrunnet opphold fjerner eller sperrer tilgang til den lagrede informasjonen når tjenesteyter har fått kunnskap om at en domstol, en offentlig myndighet eller et særskilt organ utpekt av departementet i forskrift har gitt pålegg om å fjerne eller sperre tilgangen til informasjonen. Det samme gjelder når tjenesteyter har mottatt underretning om at informasjonen er fjernet fra opprinnelsesstedet eller at tilgangen til informasjonen er sperret.",
+                        "Ny § 18 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Ansvarsfrihet for visse lagringstjenester",
+                    "sections": [
+                        "En tjenesteyter som lagrer informasjon på oppfordring fra en tjenestemottaker, kan bare",
+                        "a)straffes for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett, eller",
+                        "b)holdes erstatningsansvarlig for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett eller grov uaktsomhet.",
+                        "Tjenesteyteren er i alle tilfelle straffri eller fri fra erstatningsansvar dersom han uten ugrunnet opphold treffer nødvendige tiltak for å fjerne eller sperre tilgangen til informasjonen etter at forsettet eller den grove uaktsomheten etter første ledd forelå.",
+                        "En tjenesteyter er ikke ansvarsfri etter denne paragraf dersom tjenestemottakeren handler på tjenesteyterens vegne eller under hans kontroll.",
+                        "Ny § 19 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Overvåking mv.",
+                    "sections": [
+                        "Bestemmelsene i §§ 14-16 medfører ikke at tjenesteyteren har en generell plikt til å kontrollere eller overvåke den informasjonen som lagres eller overføres på oppfordring fra en tjenestemottaker, eller en generell plikt til å undersøke forhold som antyder ulovlig virksomhet.",
+                        "Ny § 20 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Pålegg om at overtredelsen skal opphøre eller forhindres",
+                    "sections": [
+                        "Bestemmelsene i §§ 16-18 er ikke til hinder for at en domstol eller en forvaltningsmyndighet på annet rettsgrunnlag enn denne loven krever at tjenesteyteren bringer en overtredelse til opphør eller hindrer den.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

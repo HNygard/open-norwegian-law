@@ -1,0 +1,44 @@
+{
+    "lawId": "LOV-2009-06-19-105",
+    "lawName": "Lov om endringer i energiloven",
+    "shortName": "Endringslov til energiloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 1-4",
+                    "title": "(Statens anlegg)",
+                    "sections": [
+                        "Lovens bestemmelser i §§ 2-2 annet og tredje ledd, 3-2, 3-3, 3-4, 3-6, 10-2 og 10-3 gjelder ikke for statens anlegg.",
+                        "§ 3-1 første ledd første punktum skal lyde:",
+                        "Anlegg for produksjon, omforming, overføring og fordeling av elektrisk energi, kan ikke bygges, eies eller drives uten konsesjon.",
+                        "§ 3-1 annet ledd nytt annet punktum skal lyde:",
+                        "Departementet kan ved forskrift fastsette unntak fra konsesjonsplikt etter denne bestemmelse for nærmere bestemte lavspenningsanlegg.",
+                        "§ 3-2 første ledd skal lyde:",
+                        "Innen et område kan konsesjon gis for bygging, eierskap og drift av anlegg for fordeling av elektrisk energi mellom spenningsnivåer som fastsettes av departementet.",
+                        "Ny § 3-4 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-4",
+                    "title": "(Tilknytningsplikt)",
+                    "sections": [
+                        "Alle som innehar konsesjoner for nettanlegg etter dette kapittel, har plikt til å tilknytte nye anlegg for produksjon av elektrisk energi og nye anlegg for uttak av elektrisk energi som ikke omfattes av § 3-3, og om nødvendig investere i nettanlegg. Den samme plikten gjelder ved produksjons- og forbruksøkninger som medfører behov for investeringer i nett. Plikten til å foreta nødvendige investeringer i nettanlegg etter denne bestemmelsen gjelder alle konsesjonærer der tilknytningen utløser et investeringsbehov.",
+                        "Departementet kan gi unntak fra tilknytnings- og investeringsplikten for produksjon, dersom tiltaket ikke er samfunnsmessig rasjonelt.",
+                        "Departementet kan i ekstraordinære tilfeller gi unntak fra tilknytnings- og investeringsplikten for forbruk.",
+                        "Nåværende §§ 3-4 og 3-5 blir nye §§ 3-5 og 3-6.",
+                        "§ 5-1 første ledd første punktum skal lyde:",
+                        "Fjernvarmeanlegg kan ikke bygges, eies eller drives uten konsesjon.",
+                        "Loven trer i kraft fra det tidspunkt Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

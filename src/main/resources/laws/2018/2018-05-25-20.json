@@ -1,0 +1,36 @@
+{
+    "lawId": "LOV-2018-05-25-20",
+    "lawName": "Lov om endringer i lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen (forvaltningen av Fiskeri- og havbruksnæringens forskningsfond)",
+    "shortName": "Endringslov til ov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 3",
+                    "title": "Forvaltning",
+                    "sections": [
+                        "Avgiftsmidlene forvaltes av et aksjeselskap hvor staten eier alle aksjene. Aksjeselskapet skal utføre de oppgaver som er fastsatt i eller i medhold av loven.",
+                        "Utgifter til forvaltning og administrasjon av aksjeselskapet dekkes av avgiftsmidlene.",
+                        "Forvaltningsloven gjelder for aksjeselskapet. Enkeltvedtak som selskapet treffer, kan ikke påklages, og vedtakene kan bare omgjøres av selskapet selv.",
+                        "Arkivlova kapittel II om offentlige arkiv gjelder for selskapet.",
+                        "§ 5 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan gi forskrift om aksjeselskapets organisering og saksbehandling, oppløsning av selskapet, saksbehandlingen i saker om vedtak etter § 2 og omfanget av opplysningsplikten etter § 4.",
+                        "Loven gjelder fra den tid Kongen bestemmer. Selskapet skal treffe avgjørelse i saker som ikke er endelig avgjort på det tidspunktet loven begynner å gjelde."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "lawId": "LOV-2005-05-27-30",
+    "lawName": "Lov om endringer i plan- og bygningsloven (utbyggingsavtaler)",
+    "shortName": "Endringslov til plan- og bygningsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 8",
+                    "title": "Delegasjon av kommunestyrets myndighet",
+                    "sections": [
+                        "Kommunestyrets myndighet og oppgaver etter §§ 4, 9-1, 20-5, 27-1, 27-2, 27-3, 28-2, 30, 35 nr. 2, 36, 37, 64 a, 69 nr. 4, 109 og 118 kan ikke delegeres.",
+                        "Nytt kapittel XI-A skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kap. XI-A Utbyggingsavtaler",
+            "paragraphs": [
+                {
+                    "name": "§ 64",
+                    "title": "Definisjon",
+                    "sections": [
+                        "Med utbyggingsavtale menes en avtale mellom kommunen og grunneier eller utbygger om utbygging av et område, som har sitt grunnlag i kommunens planmyndighet etter denne lov, og som gjelder gjennomføring av kommunal arealplan."
+                    ]
+                },
+                {
+                    "name": "§ 64 a",
+                    "title": "Forutsetninger for bruk av utbyggingsavtaler",
+                    "sections": [
+                        "Utbyggingsavtaler må ha grunnlag i kommunale vedtak som angir i hvilke tilfeller utbyggingsavtale er en forutsetning for utbygging, og som synliggjør kommunens forventninger til avtalen.",
+                        "Kommunen skal legge til rette for medvirkning av berørte grupper og interesser."
+                    ]
+                },
+                {
+                    "name": "§ 64 b",
+                    "title": "Avtalens innhold",
+                    "sections": [
+                        "En utbyggingsavtale kan gjelde forhold som kommunen har gitt bestemmelser om i arealdelen til kommuneplan, reguleringsplan eller bebyggelsesplan.",
+                        "Avtalen kan også regulere antallet boliger i et område, største og minste boligstørrelse, og nærmere krav til bygningers utforming der det er hensiktsmessig. Avtalen kan også regulere at kommunen eller andre skal ha fortrinnsrett til å kjøpe en andel av boligene til markedspris.",
+                        "Avtalen kan også gå ut på at grunneier eller utbygger skal besørge eller helt eller delvis bekoste tiltak som er nødvendige for gjennomføringen av planvedtak. Slike tiltak må stå i rimelig forhold til utbyggingens art og omfang og kommunens bidrag til gjennomføringen av planen og forpliktelser etter avtalen. Kostnadene som belastes utbygger eller grunneier til tiltaket må stå i forhold til den belastning den aktuelle utbygging påfører kommunen.",
+                        "Avtalen kan uansett gjelde forskuttering av kommunale tiltak som er nødvendige for gjennomføringen av planvedtak."
+                    ]
+                },
+                {
+                    "name": "§ 64 c",
+                    "title": "Saksbehandling og offentlighet",
+                    "sections": [
+                        "Kommunen skal kunngjøre oppstart av forhandlinger om utbyggingsavtale.",
+                        "Dersom fremforhandlet forslag til utbyggingsavtale bygger på kompetansen i § 64 b annet eller tredje ledd, skal forslaget legges ut til offentlig ettersyn med 30 dagers frist for merknader.",
+                        "Når utbyggingsavtale er inngått, skal denne kunngjøres.",
+                        "Reglene i første til tredje ledd gjelder tilsvarende ved eventuelle endringer i utbyggingsavtalen.",
+                        "Kommunen kan ikke inngå bindende utbyggingsavtale om et område før arealplanen for området er vedtatt."
+                    ]
+                },
+                {
+                    "name": "§ 64 d",
+                    "title": "Klage",
+                    "sections": [
+                        "Utbyggingsavtaler kan ikke påklages."
+                    ]
+                },
+                {
+                    "name": "§ 64 e",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan gi ytterligere regler om krav til avtaleinngåelsen, typer av tiltak som kan omfattes, herunder at nærmere angitte tiltak ikke kan inngå i avtale og hvordan avtalevilkårene skal gjennomføres."
+                    ]
+                },
+                {
+                    "name": "§ 64 f",
+                    "title": "Dispensasjon. Samtykke til å fravike reglene",
+                    "sections": [
+                        "Det kan ikke gis dispensasjon i medhold av § 7 fra bestemmelsene i dette kapitlet.",
+                        "Departementet kan etter søknad gi samtykke til å fravike reglene i kapittel XI-A der samfunnsmessige interesser tilsier det.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer.",
+                        "Lovens bestemmelser kommer ikke til anvendelse på avtaler som er inngått før lovens ikrafttredelse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "lawId": "LOV-2020-03-27-17",
+    "lawName": "Midlertidig lov om forskriftshjemmel for å avhjelpe konsekvenser av utbrudd av Covid-19 mv. (koronaloven)",
+    "shortName": "Koronaloven (midlertidig lov)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Loven skal legge til rette for forsvarlige, effektive og forholdsmessige tiltak som er nødvendige for å begrense forstyrrelsen av sentrale samfunnsfunksjoner som følge av utbruddet av Covid-19, og for å avhjelpe negative konsekvenser for befolkningen, næringslivet, offentlig sektor eller samfunnet for øvrig.",
+                        "Denne lov kommer ikke til anvendelse dersom formålet kan ivaretas gjennom normal lovbehandling i Stortinget."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Forskriftshjemmel",
+                    "sections": [
+                        "Kongen kan i midlertidige forskrifter utfylle, supplere eller fravike følgende lover så langt det er nødvendig for å ivareta lovens formål:",
+                        "Lov 13. august 1915 nr. 5 om domstolene (domstolloven)",
+                        "Lov 7. juni 1935 nr. 2 om tinglysing",
+                        "Lov 28. juli 1949 nr. 26 om Statens pensjonskasse",
+                        "Lov 16. juni 1961 nr. 15 om rettshøve mellom grannar (grannelova)",
+                        "Lov 21. juni 1963 nr. 23 om vegar (veglova)",
+                        "Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven)",
+                        "Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)",
+                        "Lov 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v.",
+                        "Lov 9. juni 1978 nr. 50 om kulturminner",
+                        "Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven)",
+                        "Lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven)",
+                        "Lov 21. juni 1985 nr. 83 om ansvarlige selskaper og kommandittselskaper (selskapsloven)",
+                        "Lov 29. april 1988 nr. 21 om ferie",
+                        "Lov 17. februar 1989 nr. 2 om bidragsforskott (forskotteringsloven)",
+                        "Lov 17. juli 1992 nr. 99 om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven)",
+                        "Lov 17. juli 1992 nr. 100 om barneverntjenester (barnevernloven)",
+                        "Lov 11. juni 1993 nr. 66 om pristiltak",
+                        "Lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer",
+                        "Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)",
+                        "Lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)",
+                        "Lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)",
+                        "Lov 26. juni 1998 nr. 41 om kontantstøtte til småbarnsforeldre (kontantstøtteloven)",
+                        "Lov 17. juli 1998 nr. 56 om årsregnskap (regnskapsloven)",
+                        "Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)",
+                        "Lov 15. januar 1999 nr. 2 om revisjon og revisorer (revisorloven)",
+                        "Lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven)",
+                        "Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)",
+                        "Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)",
+                        "Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven)",
+                        "Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap (helseberedskapsloven)",
+                        "Lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven)",
+                        "Lov 15. juni 2001 nr. 59 om stiftelser (stiftelsesloven)",
+                        "Lov 8. mars 2002 nr. 4 om barnetrygd (barnetrygdloven)",
+                        "Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)",
+                        "Lov 6. juni 2003 nr. 38 om bustadbyggjelag (bustadbyggjelagslova)",
+                        "Lov 6. juni 2003 nr. 39 om burettslag (burettslagslova)",
+                        "Lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven)",
+                        "Lov 5. mars 2004 nr. 12 om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven)",
+                        "Lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven)",
+                        "Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)",
+                        "Lov 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg",
+                        "Lov 3. juni 2005 nr. 37 (utdanningsstøtteloven)",
+                        "Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)",
+                        "Lov 17. juni 2005 nr. 64 om barnehager (barnehageloven)",
+                        "Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven)",
+                        "Lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)",
+                        "Lov 17. juni 2005 nr. 102 om visse forhold vedrørende de politiske partiene (partiloven)",
+                        "Lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven)",
+                        "Lov 29. juni 2007 nr. 81 om samvirkeforetak (samvirkelova)",
+                        "Lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
+                        "Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)",
+                        "Lov 19. juni 2009 nr. 95 om voksenopplæring (voksenopplæringsloven)",
+                        "Lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)",
+                        "Lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)",
+                        "Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)",
+                        "Lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven)",
+                        "Lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven)",
+                        "Lov 12. august 2016 nr. 77 om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven)",
+                        "Lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven)",
+                        "Lov 16. juni 2017 nr. 67 om statens ansatte mv. (statsansatteloven)",
+                        "Lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven)",
+                        "Lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven)",
+                        "Forskriftene kan ikke fravike regler i Grunnloven. Innskrenking av rettigheter kan bare gjøres så langt det er forenlig med Grunnloven, menneskerettsloven og Norges folkerettslige forpliktelser.",
+                        "Saker om bruk av myndigheten etter første ledd fremmes av Justis- og beredskapsdepartementet eller av vedkommende departement med Justis- og beredskapsdepartementets samtykke.",
+                        "Forskrifter hjemlet i denne lov skal vedtas av Kongen i statsråd."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Stedlig virkeområde",
+                    "sections": [
+                        "Forskrifter fastsatt i medhold av loven gjelder på norsk territorium og på kontinentalsokkelen. For Svalbard, Jan Mayen og bilandene gjelder forskrifter fastsatt i medhold av loven i det omfanget og med de stedlige tilpasningene Kongen bestemmer. Det samme gjelder norske skip og luftfartøy uansett hvor de befinner seg."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Forskrifters ikrafttredelse og varighet",
+                    "sections": [
+                        "Forskrifter fastsatt i medhold av § 2 trer i kraft én dag etter at Stortinget er skriftlig meddelt den nye forskriften, med mindre Stortinget opphever forskriften, jf. § 5.",
+                        "Forskrifter fastsatt i medhold av § 2 kan bare gjelde for et begrenset tidsrom og faller bort når loven opphører å gjelde."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Meddelelse til Stortinget",
+                    "sections": [
+                        "Forskrifter gitt med hjemmel i denne lov skal etter kunngjøring umiddelbart meddeles Stortinget skriftlig.",
+                        "Dersom stortingsrepresentanter, som til sammen representerer minst en tredjedel av Stortingets medlemmer, ikke kan støtte en bestemt forskrift, eller deler av forskriften, og uttrykker dette skriftlig i tråd med vedtatt arbeidsordning i Stortinget, plikter Kongen straks å oppheve de aktuelle bestemmelsene. Vedtaket om opphevelse av forskrift meddeles Stortinget i samsvar med bestemmelsene i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Domstolskontroll",
+                    "sections": [
+                        "Forskrift fastsatt i medhold av denne lov kan ikke innskrenke adgangen til å bringe spørsmål om vedtak truffet i medhold av forskriften for domstolene. I en slik sak kan retten prøve både lovligheten av det vedtaket som er truffet og av den forskriften det er truffet i medhold av."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Lovens ikrafttredelse og opphevelse",
+                    "sections": [
+                        "Loven trer i kraft straks, og oppheves én måned etter ikrafttredelse."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven trer i kraft, skal lov 5. august 1994 om vern mot smittsomme sykdommer § 7-12 nytt fjerde punktum lyde:",
+                        "Lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold § 3 andre ledd andre punktum og tredje ledd gjelder ikke for forskrifter som er fastsatt i forbindelse med utbruddet av Covid-19.",
+                        "Lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 7-12 nytt fjerde punktum oppheves 1 måned etter ikrafttredelsen."
+                    ]
+                }
+            ]
+        }
+    ]
+}

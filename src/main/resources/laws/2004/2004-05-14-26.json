@@ -1,0 +1,33 @@
+{
+    "lawId": "LOV-2004-05-14-26",
+    "lawName": "Lov om endringer i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (sameloven)",
+    "shortName": "Endringslov til sameloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 2-6",
+                    "title": "Samemanntallet",
+                    "sections": [
+                        "Alle som avgir erklæring om at de oppfatter seg selv som same, og som enten",
+                        "a)har samisk som hjemmespråk, eller",
+                        "b)har eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, eller",
+                        "c)er barn av person som står eller har stått i manntallet",
+                        "kan kreve seg innført i samemanntallet.",
+                        "Begjæring om innføring i samemanntallet rettes til Sametinget.",
+                        "Samemanntallet utarbeides av Sametinget på grunnlag av folkeregisteret, samemanntallet ved siste valg og de krav om innføring eller strykning som er kommet i løpet av valgperioden. Samemanntallet skal føres kommunevis.",
+                        "Når en person er innført i samemanntallet, kan dette registreres i folkeregisteret. Denne registrering skal være tilgjengelig kun for den myndighet som har ansvaret for gjennomføring av valg til Sameting, eller etter samtykke fra Sametinget.",
+                        "Samemanntallet kan føres ved hjelp av EDB.",
+                        "Denne lov trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "lawId": "LOV-2019-11-29-74",
+    "lawName": "Lov om endringer i merverdiavgiftsloven",
+    "shortName": "Endringslov til merverdiavgiftsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 12 Omgåelse",
+            "paragraphs": [
+                {
+                    "name": "§ 12-1",
+                    "title": "Omgåelse",
+                    "sections": [
+                        "Skatteloven § 13-2 får tilsvarende anvendelse for merverdiavgift.",
+                        "Endringene under I trer i kraft 1. januar 2020."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

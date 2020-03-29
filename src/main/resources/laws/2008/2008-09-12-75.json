@@ -1,0 +1,36 @@
+{
+    "lawId": "LOV-2008-09-12-75",
+    "lawName": "Lov om endringer i lov 9. juni 1978 nr. 50 om kulturminner",
+    "shortName": "Endringslov til kulturminneloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 23",
+                    "title": "Utførselsforbud",
+                    "sections": [
+                        "Kunst eller kulturmateriale som har stor betydning for bevaring, forskning eller formidling av kulturarv, kunst og historie i Norge, må ikke føres ut av landet uten tillatelse fra rette myndighet.",
+                        "Departementet kan i forskrift gi nærmere regler om hvilke gjenstander som omfattes av utførselsforbudet i første ledd.",
+                        "§ 28 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Rette myndighet etter loven",
+                    "sections": [
+                        "Kongen fastsetter hvem det er som er rette myndighet i medhold av §§ 3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 15a, 16, 17, 18, 21, 23, 23 c og 25.",
+                        "Kongen kan også bestemme at kommuner, fylkeskommuner og Sametinget skal være rette myndighet etter nevnte bestemmelser. Departementet kan bestemme at kommuner, fylkeskommuner og Sametinget så langt det er mulig skal yte faglig bistand i saker etter loven her.",
+                        "Departementet kan gi nærmere regler om utfylling og gjennomføring av loven.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

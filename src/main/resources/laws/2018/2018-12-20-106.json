@@ -1,0 +1,36 @@
+{
+    "lawId": "LOV-2018-12-20-106",
+    "lawName": "Lov om endringer i skattebetalingsloven",
+    "shortName": "Endringslov til skattebetalingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 3-5",
+                    "title": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+                    "sections": [
+                        "(1) Innkrevingsmyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+                        "(2) Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.",
+                        "§ 15-1 tredje ledd oppheves.",
+                        "§ 15-2 annet og tredje ledd skal lyde:",
+                        "(2) Krav med forfall som ligger mer enn ti år tilbake i tid, kan settes ned dersom fortsatt innfordring ikke antas å gi dekning av betydning. Avgjørelsen må ikke virke støtende eller være egnet til å svekke den alminnelige betalingsmoralen.",
+                        "(3) Det kan settes ytterligere vilkår for å få innvilget en betalingsordning etter første og annet ledd.",
+                        "Nåværende tredje ledd blir nytt fjerde ledd.",
+                        "Endringene under I trer i kraft 1. januar 2019.",
+                        "Endringene under II trer i kraft 1. juli 2019."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

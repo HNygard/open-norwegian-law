@@ -1,0 +1,680 @@
+{
+    "lawId": "LOV-2008-12-19-106",
+    "lawName": "Lov om endringer i folketrygdloven og i enkelte andre lover (arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner)",
+    "shortName": "Endringslov til folketrygdloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 8-48",
+                    "title": "Forholdet mellom sykepenger og andre folketrygdytelser",
+                    "sections": [
+                        "Bestemmelser om forholdet mellom sykepenger på den ene siden og dagpenger under arbeidsløshet, uførepensjon, alderspensjon og avtalefestet pensjon på den andre siden står i §§ 8-49 til 8-52.",
+                        "Den som samtidig fyller vilkårene for sykepenger og for arbeidsavklaringspenger, har rett til den høyeste av ytelsene, jf. § 11-23.",
+                        "§ 8-50 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-50",
+                    "title": "Medlemmer med uførepensjon",
+                    "sections": [
+                        "Det ytes ikke sykepenger til et medlem som mottar hel uførepensjon eller foreløpig uførepensjon etter kapittel 12.",
+                        "Til et medlem som mottar gradert uførepensjon eller foreløpig uførepensjon, ytes det sykepenger etter bestemmelsene i kapitlet her ut fra den arbeidsinntekt som medlemmet har i tillegg til ytelsen.",
+                        "§ 8-55 bokstav c skal lyde:",
+                        "c)Ved tilbakefall ytes det sykepenger som minst svarer til uførepensjon ved yrkesskade, til en person som mottar eller har mottatt slike ytelser, se § 12-18.",
+                        "Overskriften til kapittel 10 skal lyde:",
+                        "Kapittel 10. Stønad for å kompensere for utgifter til bedring av arbeidsevnen og funksjonsevnen i dagliglivet",
+                        "Etter kapitteloverskriften i kapittel 10 skal ny innholdsfortegnelse lyde:",
+                        "Bestemmelser om",
+                        "-formål står i § 10-1",
+                        "-generelle vilkår står i §§ 10-2 til 10-4",
+                        "-stønad til bedring av funksjonsevnen står i §§ 10-5 til 10-7",
+                        "-forholdet til annen lovgivning står i § 10-8",
+                        "§ 10-1 skal lyde:",
+                        "Formålet med ytelser etter dette kapitlet er å kompensere for bestemte utgifter til bedring av arbeidsevnen og funksjonsevnen i dagliglivet for medlemmer som har sykdom, skade eller lyte.",
+                        "§ 10-3 annet og tredje ledd oppheves.",
+                        "Nåværende fjerde ledd blir nytt annet ledd.",
+                        "§ 10-4 første og annet ledd oppheves.",
+                        "Nåværende tredje ledd blir nytt første ledd.",
+                        "§ 10-5 fjerde ledd skal lyde:",
+                        "Det ytes ikke stønad etter denne paragrafen til en person som mottar alderspensjon, uførepensjon, eller avtalefestet pensjon som det godskrives pensjonspoeng for, se § 3-19 sjette ledd. Til en person som mottar uførepensjon, kan det likevel ytes stønad dersom det er sannsynlig at stønaden vil føre til at uførepensjonen faller bort eller blir redusert.",
+                        "§ 10-7 fjerde og femte ledd oppheves og nåværende sjette ledd blir nytt fjerde ledd.",
+                        "§§ 10-8 til 10-16 oppheves.",
+                        "Nåværende § 10-17 blir ny § 10-8.",
+                        "§ 10-18 oppheves.",
+                        "Kapittel 11 skal lyde:",
+                        "Bestemmelser om",
+                        "-formål står i § 11-1",
+                        "-generelle vilkår står i §§ 11-2 til 11-6",
+                        "-meldeplikt står i § 11-7",
+                        "-aktivitet og fravær fra fastsatt aktivitet står i §§ 11-8 og 11-9",
+                        "-varighet og oppfølging står i §§ 11-10 og 11-11",
+                        "-tilleggsstønader står i § 11-12",
+                        "-arbeidsavklaringspenger står i §§ 11-13 til 11-19 samt i §§ 11-21 og 11-22",
+                        "-nytt krav om arbeidsavklaringspenger og tilleggsstønader står i § 11-20",
+                        "-forholdet til andre ytelser står i §§ 11-23 til 11-25",
+                        "-arbeidsavklaringspenger ved yrkesskade står i § 11-26"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11. Arbeidsavklaringspenger og tilleggsstønader",
+            "paragraphs": [
+                {
+                    "name": "§ 11-1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med arbeidsavklaringspenger er å sikre inntekt for medlemmer mens de får aktiv behandling, deltar på et arbeidsrettet tiltak eller får annen oppfølging med sikte på å skaffe seg eller beholde arbeid.",
+                        "Formålet med tilleggsstønader er å kompensere for bestemte utgifter som medlemmer har i forbindelse med gjennomføringen av et arbeidsrettet tiltak."
+                    ]
+                },
+                {
+                    "name": "§ 11-2",
+                    "title": "Forutgående medlemskap",
+                    "sections": [
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at vedkommende",
+                        "a)har vært medlem i trygden i minst tre år umiddelbart før han eller hun setter fram krav om en ytelse, eller",
+                        "b)har vært medlem i trygden i minst ett år umiddelbart før han eller hun setter fram krav om en ytelse, og i denne tiden har vært fysisk og psykisk i stand til å utføre et ordinært inntektsgivende arbeid.",
+                        "Departementet kan i forskrift fastsette nærmere regler om når vilkåret om forutgående medlemskap kan fravikes.",
+                        "Vilkårene i første ledd gjelder ikke for en flyktning (§ 1-7) som er medlem i trygden."
+                    ]
+                },
+                {
+                    "name": "§ 11-3",
+                    "title": "Opphold i Norge",
+                    "sections": [
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at medlemmet oppholder seg i Norge.",
+                        "Ytelser kan likevel gis til et medlem som i henhold til sin aktivitetsplan, jf. arbeids- og velferdsforvaltningsloven § 14 a, får medisinsk behandling eller deltar på et arbeidsrettet tiltak i utlandet.",
+                        "Et medlem kan også få ytelser etter dette kapitlet i en begrenset periode under opphold i utlandet dersom det kan godtgjøres at utenlandsoppholdet er forenelig med gjennomføringen av den fastsatte aktiviteten, og ikke hindrer Arbeids- og velferdsetatens oppfølging og kontroll."
+                    ]
+                },
+                {
+                    "name": "§ 11-4",
+                    "title": "Alder",
+                    "sections": [
+                        "Det er et vilkår for rett til tilleggsstønader etter § 11-12 at medlemmet er mellom 16 og 67 år.",
+                        "Det er et vilkår for rett til arbeidsavklaringspenger etter § 11-13 at medlemmet er mellom 18 og 67 år."
+                    ]
+                },
+                {
+                    "name": "§ 11-5",
+                    "title": "Nedsatt arbeidsevne",
+                    "sections": [
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at medlemmet på grunn av sykdom, skade eller lyte har fått arbeidsevnen nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid.",
+                        "Når det vurderes om arbeidsevnen er nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid, skal det blant annet legges vekt på helse, alder, evner, utdanning, yrkesbakgrunn, interesser, ønsker, muligheter for å gå tilbake til nåværende arbeidsgiver, arbeidsmuligheter på hjemstedet og arbeidsmuligheter på andre steder der det er rimelig at vedkommende tar arbeid."
+                    ]
+                },
+                {
+                    "name": "§ 11-6",
+                    "title": "Behov for bistand til å skaffe seg eller beholde arbeid",
+                    "sections": [
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at medlemmet",
+                        "a)har behov for aktiv behandling, eller",
+                        "b)har behov for arbeidsrettet tiltak, eller",
+                        "c)etter å ha prøvd tiltak etter bokstavene a eller b fortsatt anses å ha en viss mulighet for å komme i arbeid, og får oppfølging fra Arbeids- og velferdsetaten for å bli i stand til å skaffe seg eller beholde arbeid som han eller hun kan utføre."
+                    ]
+                },
+                {
+                    "name": "§ 11-7",
+                    "title": "Meldeplikt",
+                    "sections": [
+                        "For å ha rett til ytelser etter dette kapitlet må medlemmet melde seg til Arbeids- og velferdsetaten hver fjortende dag (meldeperioden) og gi opplysninger som har betydning for retten til ytelsene. Melding skal gis ved bruk av meldekort, ved oppmøte eller på annen måte som Arbeids- og velferdsetaten bestemmer.",
+                        "Dersom medlemmet uten rimelig grunn unnlater å melde seg på fastsatt dag, faller retten til ytelser etter dette kapitlet bort fra og med den dagen medlemmet skulle ha meldt seg og inntil han eller hun melder seg på nytt. Hvis medlemmet har hatt rimelig grunn til å unnlate å melde seg, skal ytelsene etterbetales.",
+                        "Dersom det vil være unødig tyngende for medlemmet å overholde meldeplikten, kan Arbeids- og velferdsetaten helt eller delvis frita medlemmet fra meldeplikten.",
+                        "Arbeids- og velferdsetaten skal av eget tiltak vurdere om det skal gis fritak fra meldeplikten. Fritak fra meldeplikt unntar ikke medlemmet fra den alminnelige opplysningsplikten etter folketrygdloven § 21-3.",
+                        "Departementet kan i forskrift fastsette nærmere regler om innholdet i meldeplikten."
+                    ]
+                },
+                {
+                    "name": "§ 11-8",
+                    "title": "Aktivitet med sikte på å komme i arbeid",
+                    "sections": [
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at medlemmet bidrar aktivt i prosessen med å komme i arbeid. Kravene til egenaktivitet skal tilpasses den enkeltes funksjonsnivå og fastsettes ved innvilgelsen av ytelsen."
+                    ]
+                },
+                {
+                    "name": "§ 11-9",
+                    "title": "Fravær fra fastsatt aktivitet",
+                    "sections": [
+                        "Ved fravær fra fastsatt aktivitet, jf. § 11-8, faller arbeidsavklaringspengene og tilleggsstønadene bort inntil vilkårene for å motta ytelsene igjen er oppfylt.",
+                        "Fravær på inntil én dag per meldeperiode, og fravær som skyldes sterke velferdsgrunner, skal ikke føre til reduksjon av ytelsene. Fravær som skyldes sterke velferdsgrunner, må dokumenteres.",
+                        "Fravær som skyldes sykdom eller skade, skal ikke føre til reduksjon av ytelsene. Arbeids- og velferdsetaten kan kreve at fravær som skyldes sykdom, dokumenteres med legeerklæring eller erklæring fra annen sakkyndig som Arbeids- og velferdsetaten godkjenner.",
+                        "Departementet kan i forskrift fastsette nærmere regler om hva som anses som fravær fra fastsatt aktivitet, og konsekvenser av slike fravær."
+                    ]
+                },
+                {
+                    "name": "§ 11-10",
+                    "title": "Varighet",
+                    "sections": [
+                        "Ytelser etter dette kapitlet gis så lenge det er påkrevd for at medlemmet skal kunne gjennomføre fastsatt aktivitet med sikte på å komme i arbeid, jf. § 11-8, men likevel ikke lenger enn fire år. Stønadsperioden kan i særlige tilfeller forlenges.",
+                        "Arbeidsavklaringspenger kan også gis i inntil tre måneder etter at medlemmet er satt i stand til å skaffe seg arbeid som han eller hun kan utføre, jf. § 11-14.",
+                        "Departementet kan i forskrift fastsette nærmere regler om varigheten og kan herunder bestemme i hvilke tilfeller stønadsperioden kan forlenges utover fire år."
+                    ]
+                },
+                {
+                    "name": "§ 11-11",
+                    "title": "Oppfølging",
+                    "sections": [
+                        "Mottakere av arbeidsavklaringspenger skal få jevnlig oppfølging fra Arbeids- og velferdsetaten.",
+                        "Det skal i forbindelse med innvilgelse av ytelser etter dette kapitlet avtales individuelle oppfølgingstidspunkter, der Arbeids- og velferdsetaten sammen med medlemmet skal vurdere om vilkårene for rett til ytelse fortsatt er oppfylt, og om medlemmet har den ønskede fremdriften mot målet om å komme i arbeid.",
+                        "Departementet kan i forskrift fastsette nærmere regler om oppfølgingen."
+                    ]
+                },
+                {
+                    "name": "§ 11-12",
+                    "title": "Tilleggsstønader",
+                    "sections": [
+                        "Til medlem som gjennomfører et arbeidsrettet tiltak, kan det ytes tilleggsstønad etter fast sats til dekning av dokumenterte utgifter til bøker og undervisningsmateriell.",
+                        "Medlem som gjennomfører et arbeidsrettet tiltak og som ikke har ordinær lønn gjennom tiltaksdeltakelsen og ikke mottar sykepenger etter lovens kapittel 8, kan gis tilleggsstønad til dekning av",
+                        "a)utgifter til daglige reiser i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak,",
+                        "b)utgifter til hjemreiser under gjennomføring av et arbeidsrettet tiltak,",
+                        "c)nødvendige utgifter til flytting fra hjemstedet i forbindelse med et arbeidsrettet tiltak eller i forbindelse med arbeid etter at tiltaket er gjennomført,",
+                        "d)nødvendige utgifter til barnetilsyn i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak,",
+                        "e)nødvendige ekstrautgifter til bolig i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak.",
+                        "Til et medlem som på grunn av sykdom eller skade midlertidig ikke kan reise på vanlig måte til og fra arbeids- eller undervisningsstedet, kan det i stedet for arbeidsavklaringspenger etter § 11-13 gis tilleggsstønad til dekning av nødvendige ekstra transportutgifter til daglige reiser. Stønaden begrenses til det beløpet som medlemmet ville ha fått utbetalt i arbeidsavklaringspenger for samme tidsrom.",
+                        "Departementet kan i forskrift fastsette nærmere regler om tilleggsstønadene."
+                    ]
+                },
+                {
+                    "name": "§ 11-13",
+                    "title": "Arbeidsavklaringspenger",
+                    "sections": [
+                        "Arbeidsavklaringspenger gis til medlem som har fått sin arbeidsevne nedsatt (jf. § 11-5) med minst halvparten, og som fyller minst ett av vilkårene i § 11-6.",
+                        "Det kan også gis arbeidsavklaringspenger",
+                        "a)i ventetid under utarbeidelse av aktivitetsplanen, jf. arbeids- og velferdsforvaltningsloven § 14 a,",
+                        "b)i ventetid før aktiv behandling eller et arbeidsrettet tiltak starter,",
+                        "c)i inntil fire måneder når medlemmet som følge av sykdom skal vurderes for uførepensjon. Dersom krav om uførepensjon ikke er behandlet innen den fastsatte vedtaksperioden, kan perioden forlenges i inntil fire nye måneder. Årsaken til at kravet ikke er behandlet, må dokumenteres i saken.",
+                        "Arbeidsavklaringspenger kan også gis til medlem som tidligere har mottatt arbeidsavklaringspenger, og som igjen blir arbeidsufør som følge av en annen sykdom innen seks måneder mens vedkommende er i arbeid uten å ha opparbeidet ny rett til sykepenger etter kapittel 8. Arbeidsavklaringspenger kan videre gis til medlem som tidligere har mottatt arbeidsavklaringspenger, og som igjen blir arbeidsufør som følge av samme sykdom innen ett år selv om nedsettelsen av arbeidsevnen antas å være rent forbigående. Arbeidsavklaringspenger kan dessuten gis til studenter som har behov for aktiv behandling for å kunne gjenoppta studiene.",
+                        "Arbeidsavklaringspenger kan tidligst gis fra det tidspunktet da kravet om ytelsen ble satt fram.",
+                        "Det gis ikke arbeidsavklaringspenger i arbeidsgiverperioden for sykepenger, jf. § 8-19.",
+                        "Departementet kan i forskrift fastsette nærmere regler om når det kan gis arbeidsavklaringspenger."
+                    ]
+                },
+                {
+                    "name": "§ 11-14",
+                    "title": "Arbeidsavklaringspenger i ventetid på arbeid",
+                    "sections": [
+                        "Det kan gis arbeidsavklaringspenger i tre måneder etter at medlemmet er satt i stand til å skaffe seg arbeid som han eller hun kan utføre før vedkommende har fått tilbud om eller har fått arbeid, når vedkommende er registrert som reell arbeidssøker hos Arbeids- og velferdsetaten og overholder meldeplikten. Som reell arbeidssøker regnes den som er arbeidsfør og villig til å ta ethvert arbeid som han eller hun kan utføre, og som er lønnet etter tariff eller sedvane hvor som helst i Norge uavhengig av om det er på heltid eller deltid og til å delta på arbeidsmarkedstiltak.",
+                        "Retten til arbeidsavklaringspenger i ventetid på arbeid faller bort i fire uker dersom medlemmet",
+                        "a)uten rimelig grunn nekter å ta tilbudt arbeid som han eller hun kan utføre, eller å delta på et arbeidsrettet tiltak, eller",
+                        "b)uten rimelig grunn nekter eller unnlater å møte til konferanse med Arbeids- og velferdsetaten etter innkalling.",
+                        "Tidsbegrenset bortfall av arbeidsavklaringspenger i ventetid på arbeid kan bare fastsettes på grunnlag av forhold som ikke ligger lenger tilbake i tid enn tre måneder. Bortfallsperioden regnes fra siste stønadsdag, jf. § 11-17.",
+                        "Medlemmet må være registrert som arbeidssøker hos Arbeids- og velferdsetaten, overholde meldeplikten og fylle vilkårene for rett til arbeidsavklaringspenger i ventetid på arbeid i bortfallsperioden.",
+                        "Departementet kan i forskrift fastsette nærmere regler om arbeidsavklaringspenger i ventetid på arbeid."
+                    ]
+                },
+                {
+                    "name": "§ 11-15",
+                    "title": "Grunnlaget for beregning av arbeidsavklaringspenger",
+                    "sections": [
+                        "Grunnlaget for beregning av arbeidsavklaringspenger fastsettes ut fra medlemmets pensjonsgivende inntekt, jf. § 3-15, i året før arbeidsevnen (jf. § 11-5) ble nedsatt med minst halvparten. Grunnlaget for beregning av arbeidsavklaringspenger skal likevel fastsettes ut fra gjennomsnittet av den pensjonsgivende inntekten i de tre siste kalenderårene før samme tidspunkt, dersom dette gir et høyere grunnlag.",
+                        "Den pensjonsgivende inntekten etter første ledd skal reguleres i samsvar med endringer i grunnbeløpet fram til søknadstidspunktet.",
+                        "Pensjonsgivende inntekt over seks ganger grunnbeløpet regnes ikke med i grunnlaget for arbeidsavklaringspenger.",
+                        "Grunnlaget for arbeidsavklaringspenger reguleres i samsvar med senere endringer i grunnbeløpet."
+                    ]
+                },
+                {
+                    "name": "§ 11-16",
+                    "title": "Arbeidsavklaringspengenes størrelse",
+                    "sections": [
+                        "Arbeidsavklaringspenger gis med 66 prosent av grunnlaget for arbeidsavklaringspenger, jf. § 11-15.",
+                        "Minste årlige ytelse er 1,97 ganger grunnbeløpet.",
+                        "For et medlem som får sin arbeidsevne (jf. § 11-5) nedsatt før fylte 26 år på grunn av en alvorlig og varig sykdom, skade eller lyte som er klart dokumentert, er minste årlige ytelse 2,44 ganger grunnbeløpet. Dette gjelder selv om medlemmet har vært mer enn 50 prosent yrkesaktiv etter fylte 26 år, dersom kravet settes fram før medlemmet fyller 36 år. Arbeidsavklaringspenger etter dette leddet kan tidligst gis fra og med den dagen medlemmet fyller 20 år.",
+                        "Til medlem som forsørger barn, jf. § 1-6, gis et barnetillegg. Dersom begge foreldrene mottar arbeidsavklaringspenger, kan begge få barnetillegg. Som barn regnes egne barn og fosterbarn, jf. barnevernloven § 4-22, dersom medlemmet har forsørget fosterbarnet i de to siste årene før krav om barnetillegg blir satt fram. Arbeids- og velferdsetaten kan fravike kravet om at fosterbarnet skal ha blitt forsørget i de to siste årene før krav om barnetillegg settes fram, når fosterhjemsordningen har en varig karakter. Et barn anses ikke som forsørget dersom det har inntekt, herunder kapitalinntekt, som er større enn grunnbeløpet, eller har rett til barnepensjon etter folketrygdloven kapittel 18.",
+                        "Arbeidsavklaringspenger medregnet barnetillegg kan ikke utgjøre mer enn 90 prosent av medlemmets grunnlag for arbeidsavklaringspenger, jf. § 11-15.",
+                        "Departementet kan i forskrift fastsette barnetilleggets størrelse."
+                    ]
+                },
+                {
+                    "name": "§ 11-17",
+                    "title": "Stønadsdager",
+                    "sections": [
+                        "Arbeidsavklaringspenger gis for fem dager per uke. Dagsatsen fremkommer ved at den årlige ytelsen deles på 260."
+                    ]
+                },
+                {
+                    "name": "§ 11-18",
+                    "title": "Reduksjon av arbeidsavklaringspenger på grunn av samtidig arbeid",
+                    "sections": [
+                        "Det gis fulle arbeidsavklaringspenger til medlem som har tapt hele arbeidsevnen.",
+                        "Dersom et medlem har tapt en del av sin arbeidsevne, reduseres arbeidsavklaringspengene medregnet barnetillegg, slik at ytelsen svarer til den del av arbeidsevnen som er tapt. Reduserte arbeidsavklaringspenger gis når arbeidsevnen er redusert med minst 40 prosent.",
+                        "Beregningen av den reduserte ytelsen skal ta utgangspunkt i forholdet mellom en arbeidstid på 37,5 timer per uke og det antall timer vedkommende har vært eller kunne ha vært i inntektsgivende arbeid. Ved beregningen skal det tas hensyn til om medlemmet har reduserte muligheter til å utføre inntektsgivende arbeid på grunn av deltakelse på et arbeidsrettet tiltak, eller på grunn av at medlemmet får aktiv behandling. Beregningen baseres på gjennomsnittlig arbeidet tid i meldeperioden, jf. § 11-7.",
+                        "Når medlemmet arbeider i et arbeidsrettet tiltak uten lønn eller med lønn inntil grunnbeløpet, kan arbeidsavklaringspengene reduseres med et lavere antall timer enn det timeantall som er arbeidet.",
+                        "Når medlemmet er nær ved å komme i fullt arbeid, kan det i inntil seks måneder gis arbeidsavklaringspenger når medlemmet arbeider inntil 80 prosent.",
+                        "Departementet kan i forskrift fastsette nærmere regler om reduksjon av arbeidsavklaringspenger på grunn av samtidig arbeid, og kan herunder fravike bestemmelsene i denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 11-19",
+                    "title": "Reduksjon av arbeidsavklaringspenger på grunn av ytelser fra arbeidsgiver",
+                    "sections": [
+                        "Medlemmet anses ikke for å ha fått nedsatt hele arbeidsevnen dersom vedkommende i det samme tidsrommet får ytelser fra arbeidsgiver. Pensjonsgivende inntekt (jf. § 3-15) fra nåværende eller tidligere arbeidsgiver, som tilstås i forbindelse med overgang til arbeidsavklaringspenger eller i forbindelse med oppsigelse, fratreden eller reduksjon av arbeidstid, skal føre til at arbeidsavklaringspengene reduseres med samme beløp.",
+                        "Økonomiske ytelser fra nåværende eller tidligere arbeidsgiver som ikke er pensjonsgivende inntekt, og som tilstås i forbindelse med overgang til arbeidsavklaringspenger eller i forbindelse med oppsigelse, fratreden eller reduksjon av arbeidstid, skal føre til at arbeidsavklaringspengene reduseres med samme beløp.",
+                        "Pensjonsgivende inntekt som er erstatning fra arbeidsgiver etter skadeserstatningsloven § 3-1, eller yrkesskadeforsikringsloven § 13, skal ikke føre til reduksjon av arbeidsavklaringspengene.",
+                        "Departementet kan i forskrift fastsette nærmere regler om hvordan reduksjon av arbeidsavklaringspenger på grunn av ytelser fra arbeidsgiver skal skje."
+                    ]
+                },
+                {
+                    "name": "§ 11-20",
+                    "title": "Nytt krav om arbeidsavklaringspenger og tilleggsstønader",
+                    "sections": [
+                        "Dersom arbeidsavklaringspenger eller tilleggsstønader har vært stanset i mer enn 52 uker, må det settes fram nytt krav om slike ytelser.",
+                        "Det må uansett settes fram et nytt krav om ytelser dersom",
+                        "a)saken er avsluttet med et endelig avslag,",
+                        "b)personen er ferdig avklart, eller",
+                        "c)personen har fått innvilget arbeidsavklaringspenger i ventetid på arbeid, jf. § 11-14."
+                    ]
+                },
+                {
+                    "name": "§ 11-21",
+                    "title": "Arbeidsavklaringspenger under opphold i institusjon",
+                    "sections": [
+                        "Dersom et medlem som mottar arbeidsavklaringspenger oppholder seg i en institusjon med fri kost og losji, blir arbeidsavklaringspengene redusert. Dette gjelder likevel ikke for medlemmer som forsørger ektefelle eller har krav på barnetillegg.",
+                        "Arbeidsavklaringspengene gis uten reduksjon for innleggelsesmåneden og de tre påfølgende månedene. Deretter blir arbeidsavklaringspengene redusert med 50 prosent inntil institusjonsoppholdet avsluttes. Dersom medlemmet innen tre måneder etter utskrivelsen på nytt kommer i institusjon, gis det reduserte arbeidsavklaringspenger fra og med måneden etter at det nye oppholdet tar til.",
+                        "Dersom medlemmet har faste og nødvendige utgifter til bolig o.a., kan Arbeids- og velferdsetaten bestemme at arbeidsavklaringspengene ikke skal reduseres."
+                    ]
+                },
+                {
+                    "name": "§ 11-22",
+                    "title": "Arbeidsavklaringspenger under straffegjennomføring",
+                    "sections": [
+                        "Et medlem som utholder varetekt, straff eller særreaksjon i anstalt under kriminalomsorgen, har ikke rett til arbeidsavklaringspenger. Det gis likevel arbeidsavklaringspenger hvis vedkommende arbeider for en arbeidsgiver utenfor anstalten i medhold av straffegjennomføringsloven § 20.",
+                        "Ved gjennomføring av samfunnsstraff, straffegjennomføring i medhold av straffegjennomføringsloven § 16 eller betinget dom, tilstås arbeidsavklaringspenger dersom vilkårene for øvrig er oppfylt. Tilsvarende gjelder ved prøveløslatelse i medhold av straffegjennomføringsloven §§ 42 flg."
+                    ]
+                },
+                {
+                    "name": "§ 11-23",
+                    "title": "Forholdet til andre fulle ytelser fra folketrygden",
+                    "sections": [
+                        "Dersom et medlem har rett til arbeidsavklaringspenger og samtidig fyller vilkårene for en annen folketrygdytelse som skal dekke samme inntektstap i samme tidsrom, kan han eller hun velge ytelse. Fulle sykepenger av deltidsstilling anses som en redusert ytelse etter § 11-24.",
+                        "Arbeidsavklaringspenger reduseres med samme beløp når medlemmet får barnepensjon etter lovens kapittel 18.",
+                        "Departementet kan i forskrift fastsette nærmere regler om forholdet mellom arbeidsavklaringspenger og andre fulle ytelser fra folketrygden."
+                    ]
+                },
+                {
+                    "name": "§ 11-24",
+                    "title": "Forholdet til andre reduserte ytelser fra folketrygden",
+                    "sections": [
+                        "For medlem som mottar en annen redusert ytelse fra folketrygden, gis det reduserte arbeidsavklaringspenger.",
+                        "Arbeidsavklaringspengene beregnes som en full ytelse, og reduseres deretter med den prosentandelen som den reduserte ytelsen utgjør. For personer som er sykmeldt fra en deltidsstilling, skal arbeidsavklaringspengene reduseres med den prosentandel som sykmeldingen utgjør av full stilling.",
+                        "Arbeidsavklaringspenger reduseres med tilsvarende beløp når medlemmet får redusert barnepensjon etter lovens kapittel 18.",
+                        "Departementet kan i forskrift fastsette nærmere regler om beregning av arbeidsavklaringspenger når mottaker samtidig har rett til andre reduserte ytelser fra folketrygden."
+                    ]
+                },
+                {
+                    "name": "§ 11-25",
+                    "title": "Forholdet til ytelser etter annen lovgivning",
+                    "sections": [
+                        "Retten til arbeidsavklaringspenger og tilleggsstønader etter dette kapitlet faller bort i den utstrekning ytelsene kommer inn under ansvarsområdet i annen lovgivning.",
+                        "Departementet kan i forskrift fastsette nærmere regler om avgrensningen av folketrygdens ansvar."
+                    ]
+                },
+                {
+                    "name": "§ 11-26",
+                    "title": "Arbeidsavklaringspenger ved yrkesskade",
+                    "sections": [
+                        "Til den som har nedsatt arbeidsevne på grunn av skade eller sykdom som går inn under kapittel 13, gis det ytelser etter dette kapitlet, men med følgende særbestemmelser:",
+                        "a)Vilkåret i § 11-2 om forutgående medlemskap gjelder ikke.",
+                        "b)Arbeidsavklaringspenger ytes ved reduksjon av arbeidsevnen ned til 30 prosent.",
+                        "Ved beregning av den delen av nedsettelsen av arbeidsevnen som skyldes yrkesskade eller yrkessykdom, skal arbeidsavklaringspengegrunnlaget (jf. § 11-15) ikke settes lavere enn antatt årlig arbeidsinntekt på skadetidspunktet, justert i samsvar med endringer i grunnbeløpet fram til søknadstidspunktet.",
+                        "Dersom den delen av nedsettelsen av arbeidsevnen som ikke skyldes yrkesskade eller yrkessykdom, er under 30 prosent, beregnes hele ytelsen etter annet ledd.",
+                        "I kapittel 12 skal kapitteloverskriften lyde:",
+                        "Etter kapitteloverskriften i kapittel 12 skal ny innholdsfortegnelse lyde:",
+                        "Bestemmelser om",
+                        "-formål står i § 12-1",
+                        "-vilkår for rett til uførepensjon står i §§ 12-2 til 12-7",
+                        "-uførepensjon til hjemmearbeidende ektefelle står i § 12-8",
+                        "-uføretidspunkt står i § 12-10",
+                        "-gradering av uførepensjon står i § 12-11",
+                        "-revurdering av uføregraden står i § 12-12",
+                        "-beregning av uførepensjon står i § 12-13",
+                        "-avkall på uførepensjon står i § 12-14",
+                        "-uførepensjon til gjenlevende ektefelle står i § 12-15",
+                        "-foreløpig uførepensjon står i § 12-16",
+                        "-avkorting av uførepensjon for ytelser fra arbeidsgiver står i § 12-17",
+                        "-uførepensjon ved yrkesskade står i § 12-18",
+                        "Paragrafoverskrift til § 12-5 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 12. Uførepensjon",
+            "paragraphs": [
+                {
+                    "name": "§ 12-5",
+                    "title": "Hensiktsmessig behandling og arbeidsavklaring",
+                    "sections": [
+                        "§ 12-5 første ledd skal lyde:",
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at vedkommende har gjennomgått hensiktsmessig behandling for å bedre arbeidsevnen. Med mindre åpenbare grunner tilsier at arbeidsrettede tiltak ikke er hensiktsmessige, kan ytelser etter dette kapitlet bare gis dersom vedkommende har gjennomført eller har forsøkt å gjennomføre individuelle og hensiktsmessige arbeidsrettede tiltak uten at inntektsevnen er bedret.",
+                        "§ 12-9 oppheves.",
+                        "§ 12-11 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-11",
+                    "title": "Gradering av uførepensjon",
+                    "sections": [
+                        "Det ytes hel uførepensjon dersom vedkommende har tapt hele sin inntektsevne/arbeidsevne, se §§ 12-7 og 12-8.",
+                        "Dersom vedkommende har tapt en del av sin inntektsevne/arbeidsevne, gis det en gradert ytelse som svarer til den del av inntektsevnen/arbeidsevnen som er tapt. Uførepensjon graderes med intervaller på fem prosent.",
+                        "Ved økt arbeidsinnsats med hvilende pensjonsrett kan det ytes uførepensjon med en uføregrad ned til 20 prosent.",
+                        "Ektefelletillegg og barnetillegg graderes ikke etter bestemmelsene i denne paragrafen, se §§ 3-24 til 3-26.",
+                        "§ 12-12 fjerde ledd oppheves. Nåværende femte ledd blir nytt fjerde ledd.",
+                        "§ 12-13 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-13",
+                    "title": "Beregning av uførepensjon",
+                    "sections": [
+                        "Uførepensjon består av grunnpensjon, tilleggspensjon og/eller særtillegg.",
+                        "Grunnpensjonen fastsettes etter bestemmelsene i § 3-2.",
+                        "Tilleggspensjonen fastsettes etter bestemmelsene i §§ 3-8 til 3-12, 3-17, 3-18 og 3-20 til 3-22.",
+                        "Særtillegget fastsettes etter bestemmelsene i § 3-3.",
+                        "Til uførepensjonen kan det ytes ektefelletillegg og barnetillegg etter bestemmelsene i §§ 3-24 til 3-26.",
+                        "Uførepensjon til personer som er innlagt i institusjon eller sitter i fengsel, fastsettes etter bestemmelsene i §§ 3-27 til 3-29.",
+                        "§ 12-14 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-14",
+                    "title": "Avkall på uførepensjon",
+                    "sections": [
+                        "En uførepensjonist kan gi avkall på retten til pensjon dersom",
+                        "a)ektefellen mottar alderspensjon, uførepensjon, foreløpig uførepensjon, eller avtalefestet pensjon som det godskrives pensjonspoeng for, se § 3-19 sjette ledd, og",
+                        "b)vedkommende enten har kortere trygdetid enn ektefellen eller får graderte ytelser.",
+                        "Ektefellens ytelser fastsettes da etter reglene for pensjonister som forsørger den andre ektefellen.",
+                        "Paragrafoverskrift til § 12-17 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-17",
+                    "title": "Avkorting av uførepensjon for ytelser fra arbeidsgiver",
+                    "sections": [
+                        "§ 12-18 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-18",
+                    "title": "Uførepensjon ved yrkesskade",
+                    "sections": [
+                        "Til den som er arbeidsufør på grunn av en skade eller sykdom som går inn under kapittel 13, ytes det uførepensjon etter følgende særbestemmelser:",
+                        "a)Vilkåret i § 12-2 om minst tre års forutgående medlemskap gjelder ikke.",
+                        "b)Vilkåret i § 12-3 om fortsatt medlemskap gjelder ikke.",
+                        "c)Vilkåret i § 3-8 om minst tre poengår for rett til tilleggspensjon gjelder ikke.",
+                        "d)Grunnpensjon og tilleggspensjon ytes ved uføregrader ned til 30 prosent.",
+                        "Det skal fastsettes en særskilt uføregrad for den del av uførheten som skyldes yrkesskade eller yrkessykdom. Det ses bort fra uførhet som skyldes andre forhold enn yrkesskaden, når denne delen utgjør under 30 prosent av den totale uførheten.",
+                        "Ved yrkesskade beregnes uførepensjon etter særbestemmelsene i § 3-30.",
+                        "Uførepensjon som er innvilget etter en yrkesskade før fylte 67 år, ytes ut vedkommendes levetid dersom vedkommende ikke har rett til alderspensjon fra folketrygden.",
+                        "§ 13-2 andre ledd skal lyde:",
+                        "Bestemmelser om",
+                        "-beregning av pensjoner ved yrkesskade står i § 3-30",
+                        "-stønad ved helsetjenester står i § 5-25",
+                        "-grunnstønad og hjelpestønad står i § 6-9",
+                        "-stønad ved gravferd står i § 7-5",
+                        "-sykepenger står i § 8-55",
+                        "-arbeidsavklaringspenger står i § 11-26",
+                        "-uførepensjon står i § 12-18",
+                        "-menerstatning ved yrkesskade står i § 13-17",
+                        "-pensjon til gjenlevende ektefelle står i § 17-12",
+                        "-barnepensjon står i § 18-11",
+                        "-alderspensjon står i § 19-11.",
+                        "I § 13-11 skal paragrafoverskriften og første ledd lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 13-11",
+                    "title": "Deltakere i arbeidsrettede tiltak",
+                    "sections": [
+                        "Medlemmer som deltar i arbeidsrettede tiltak, kurs eller lignende i regi av Arbeids- og velferdsetaten, i kvalifiseringsprogram i kommunal regi, eller i program i henhold til introduksjonsloven, er yrkesskadedekket. Det er et vilkår at tiltaket har yrkesopplæring, sysselsetting eller arbeidstrening som overordnet mål.",
+                        "§ 14-6 tredje ledd skal lyde:",
+                        "Likestilt med yrkesaktivitet er tidsrom da det er gitt en ytelse til livsopphold i form av dagpenger under arbeidsløshet etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns sykdom m.m. etter kapittel 9 eller arbeidsavklaringspenger etter kapittel 11, eller enten foreldrepenger eller svangerskapspenger etter kapitlet her.",
+                        "§ 15-9 tredje ledd skal lyde:",
+                        "Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14.",
+                        "§ 16-8 tredje ledd skal lyde:",
+                        "Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14.",
+                        "§ 17-3 første ledd bokstav b skal lyde:",
+                        "b)i de siste tre årene fram til dødsfallet mottok pensjon etter denne loven, eller",
+                        "§ 17-8 fjerde ledd skal lyde:",
+                        "Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14.",
+                        "§ 18-2 første ledd bokstav b skal lyde:",
+                        "b)at den avdøde faren eller moren mottok pensjon fra folketrygden de siste tre årene fram til dødsfallet.",
+                        "§ 18-7 annet ledd skal lyde:",
+                        "Barnepensjonen faller bort i den utstrekning barnet har rett til uførepensjon eller foreløpig uførepensjon.",
+                        "I innholdsfortegnelsen til kapittel 21 oppheves 14. strekpunkt.",
+                        "§ 21-8 første ledd skal lyde:",
+                        "Et krav om en ytelse som gis på grunnlag av sykdom, skade eller lyte, kan avslås, og en innvilget ytelse kan holdes tilbake eller stanses dersom medlemmet uten rimelig grunn nekter å ta imot tilbud om behandling, rehabilitering eller arbeidsrettede tiltak.",
+                        "§ 21-10 tredje ledd skal lyde:",
+                        "Departementet kan gi forskrifter om at underretning om vedtak ikke behøver å gis når vedtaket gjelder stans av dagpenger under arbeidsløshet etter kapittel 4 eller arbeidsavklaringspenger eller tilleggstønader etter kapittel 11 av grunner som er åpenbart kjent for medlemmet, og det er gitt forhåndsorientering om at retten til ytelse bortfaller i slike tilfeller.",
+                        "§ 22-8 første ledd første punktum skal lyde:",
+                        "Når en forsørger har fått utbetalt ektefelletillegg eller barnetillegg, og den forsørgede får etterbetalt pensjon, overgangsstønad eller arbeidsavklaringspenger, skal etterbetalingen reduseres med et beløp som svarer til det tillegget forsørgeren har fått utbetalt for samme tidsrom.",
+                        "§ 22-10 annet ledd skal lyde:",
+                        "Følgende ytelser gis pr. dag og utbetales vanligvis etterskottsvis hver måned:",
+                        "a)sykepenger (kapittel 8)",
+                        "b)omsorgspenger ved barns sykdom (§§ 9-5 til 9-9)",
+                        "c)opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn (§ 9-13)",
+                        "d)pleiepenger for pleie av barn og nære pårørende (§§ 9-10 til 9-12)",
+                        "e)svangerskapspenger (kapittel 14)",
+                        "f)foreldrepenger (kapittel 14)",
+                        "§ 22-10 fjerde ledd bokstav b skal lyde:",
+                        "b)tilleggsstønader (§ 11-14)",
+                        "§ 22-10 sjuende ledd skal lyde:",
+                        "Dagpenger under arbeidsløshet (kapittel 4) og arbeidsavklaringspenger (kapittel 11) gis pr. dag og utbetales vanligvis etterskottsvis hver fjortende dag. Departementet gir forskrifter om utbetaling og kontroll av dagpenger under arbeidsløshet og arbeidsavklaringspenger og tilleggsstønader etter kapittel 11.",
+                        "§ 22-12 tredje ledd skal lyde:",
+                        "Uførepensjon utbetales ikke for perioder hvor medlemmet har mottatt arbeidsavklaringspenger.",
+                        "§ 22-16 annet ledd bokstav d skal lyde:",
+                        "d)uførepensjon når inntekten overstiger den fastsatte inntektsgrensen, se § 12-12.",
+                        "§ 23-3 annet ledd nr. 1 bokstav e oppheves.",
+                        "§ 23-3 annet ledd nr. 1 bokstavene b-d og 2 skal lyde:",
+                        "Avgiften betales med:",
+                        "1.Lav sats av:",
+                        "b)overgangsstønad etter folketrygdloven § 15-7, § 16-7 og § 17-6,",
+                        "c)personinntekt for personer under 17 år eller over 69 år,",
+                        "d)introduksjonsstønad beregnet etter lov om introduksjonsordning for nyankomne innvandrere kapittel 3,",
+                        "2.Mellomsats av",
+                        "a)lønn og annen godtgjørelse som nevnt i skatteloven § 12-2 bokstav a,",
+                        "b)arbeidsavklaringspenger etter folketrygdloven kapittel 11,",
+                        "c)personinntekt fastsatt etter skatteloven § 12-10 vunnet i næring der det svares produktavgift som nevnt i § 23-5,",
+                        "d)personinntekt fastsatt etter skatteloven § 12-10 vunnet ved jordbruk med binæringer og skogbruk,",
+                        "e)personinntekt fastsatt etter skatteloven § 12-10 for pass og stell av barn som ikke har fylt 12 år før utgangen av inntektsåret, eller som har særlig behov for omsorg og pleie, når barnepasset skjer i barnepasserens hjem,",
+                        "f)kvalifiseringsstønad etter sosialtjenesteloven,",
+                        "g)godtgjørelse til deltaker for arbeidsinnsats i deltakerlignet selskap innen jordbruk med binæringer og skogbruk.",
+                        "§ 25-7 første punktum skal lyde:",
+                        "Dersom en lege ikke innen rimelig tid gir trygden de opplysninger som er nødvendige for å avgjøre en sak om sykepenger, medisinsk rehabilitering, arbeidsrettede tiltak eller uførepensjon, kan Arbeids- og velferdsdirektoratet bestemme at trygden i opptil ett år ikke skal gi slike ytelser på grunnlag av erklæringer fra legen.",
+                        "I lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) gjøres følgende endringer:",
+                        "Ny § 14 a skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 14 a",
+                    "title": "Vurdering av behov for bistand for å beholde eller skaffe seg arbeid og rett til aktivitetsplan",
+                    "sections": [
+                        "Alle som henvender seg til kontoret, og som ønsker eller trenger bistand for å komme i arbeid, har rett til å få vurdert sitt bistandsbehov. Brukere som har behov for en mer omfattende vurdering av sitt bistandsbehov, har rett til å få en arbeidsevnevurdering. Brukeren skal få en skriftlig vurdering av",
+                        "a)sine muligheter for å komme i arbeid",
+                        "b)hva slags arbeid som skal være målet",
+                        "c)behovet for bistand for å komme i arbeid",
+                        "d)om, og eventuelt hvor mye, arbeidsevnen er nedsatt",
+                        "e)hvilken type bistand som kan være aktuell for brukeren",
+                        "Vedtak etter første ledd kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer.",
+                        "Brukere som har fått fastslått at de har et bistandsbehov, har rett til å delta i utarbeidelsen av en konkret plan for hvordan de skal komme i arbeid (aktivitetsplan). Det skal likevel ikke utarbeides aktivitetsplaner for personer som har rett til kvalifiseringsprogram etter sosialtjenesteloven kapittel 5A.",
+                        "Arbeids- og velferdsetaten har ansvaret for at vurderingene blir gjennomført, og at aktivitetsplanene blir utarbeidet. For brukere som samtidig har krav på en individuell plan etter § 15, skal arbeids- og velferdsforvaltningen legge til rette for at aktivitetsplanen og den individuelle planen så langt som mulig blir samordnet.",
+                        "Departementet kan i forskrift fastsette at visse grupper skal unntas fra retten til arbeidsevnevurderinger og nærmere regler om innholdet i arbeidsevnevurderingen.",
+                        "I lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersoner gjøres følgende endringer:",
+                        "§ 18 nr. 1 tredje ledd skal lyde:",
+                        "Har invaliden rett til foreløpig uførepensjon eller overgangsstønad fra folketrygden som inneholder tilleggspensjon, gjelder bestemmelsene i første ledd på samme måte. For arbeidsavklaringspenger og overgangsstønad til enslige forsørgere gjelder første ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "§ 18 nr. 1 sjette ledd skal lyde:",
+                        "Dersom det ytes foreløpig uførepensjon eller overgangsstønad fra folketrygden som inneholder tilleggspensjon, gjelder bestemmelsene i fjerde ledd på samme måte. For arbeidsavklaringspenger og overgangsstønad til enslige forsørgere gjelder fjerde ledd første og andre punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "§ 24 nr. 1 annet ledd skal lyde:",
+                        "Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å gjennomgå arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.",
+                        "I lov 13. desember 1946 nr. 22 om krigspensjonering for hjemmestyrkepersonell og sivilpersoner gjøres følgende endringer:",
+                        "§ 23 nr. 1 tredje ledd skal lyde:",
+                        "Har invaliden rett til foreløpig uførepensjon eller overgangsstønad fra folketrygden som inneholder tilleggspensjon, gjelder bestemmelsene i første ledd på samme måte. For arbeidsavklaringspenger og overgangsstønad til enslige forsørgere gjelder første ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "§ 23 nr. 1 sjette ledd skal lyde:",
+                        "Dersom det ytes foreløpig uførepensjon eller overgangsstønad fra folketrygden som inneholder tilleggspensjon, gjelder bestemmelsene i fjerde ledd på samme måte. For arbeidsavklaringspenger og overgangsstønad til enslige forsørgere gjelder fjerde ledd første og andre punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "§ 33 nr. 1 annet ledd skal lyde:",
+                        "Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å gjennomgå arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.",
+                        "I lov 3. desember 1948 nr. 7 om pensjonstrygd for sjømenn gjøres følgende endringer:",
+                        "§ 4 nr. 3 skal lyde:",
+                        "3.Alderspensjon ytes til og med den kalendermåned pensjonisten fyller 67 år, eller til den kalendermåned pensjonisten får uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger etter lov om folketrygd for hel uførhet eller full avtalefestet pensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d.",
+                        "§ 5 nr. 2 skal lyde:",
+                        "2.For pensjonist som har uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger etter lov om folketrygd for mindre enn hel uførhet eller gradert avtalefestet pensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, bortfaller en forholdsmessig del av alderspensjonen som svarer til uføregraden eller pensjonsgraden.",
+                        "§ 16 nr. 1 bokstav e skal lyde:",
+                        "e)på det tidspunkt vilkårene i bokstav a-d er oppfylt, ikke får uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger fra folketrygden for hel uførhet eller full avtalefestet pensjon som omfattes av samordningsloven § 1 nr. 1 første ledd bokstav d.",
+                        "§ 28 nr. 2 skal lyde:",
+                        "2.Den som er innvilget eller innvilges alderspensjon etter denne loven og uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger fra folketrygden eller avtalefestet pensjon som omfattes av samordningsloven § 1 nr. 1 første ledd bokstav d med virkning fra et tidspunkt før 1. januar 2001, har rett til alderspensjon etter bestemmelsene i denne loven som gjaldt før denne datoen, herunder pensjon etter satser som nevnt i nr. 1. Pensjonen ytes etter de tidligere bestemmelsene også etter at pensjonisten er fylt 67 år.",
+                        "§ 29 nr. 2 skal lyde:",
+                        "2.Til en pensjonist som får uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger fra folketrygden, eller avtalefestet pensjon som omfattes av samordningsloven § 1 nr. 1 første ledd bokstav d, som er mindre enn det alderspensjon etter denne loven ville utgjøre hvis han ikke hadde hatt slik ytelse fra folketrygden eller avtalefestet pensjon, gis det et overgangstillegg som tilsvarer forskjellen. Ved sammenligningen medregnes et eventuelt tillegg etter § 6 for den som var omfattet av § 1, jf § 2 i denne loven i minst 36 måneder i løpet av de siste 60 månedene før den måned pensjonen ble tatt ut (virkningstidspunktet).",
+                        "I lov 28. juli 1949 nr. 26 om Statens Pensjonskasse gjøres følgende endringer:",
+                        "§ 28 sjette ledd skal lyde:",
+                        "Når et medlem blir tilstått uførepensjon fra folketrygden, skal uførepensjon fra Pensjonskassen ytes etter samme uføregrad som i folketrygden. Pensjonskassens styre kan fravike denne uføregrad når særlige grunner tilsier det.",
+                        "§ 28a skal lyde:",
+                        "Når et medlem er fratrådt etter 1. januar 1967 med rett til oppsatt alderspensjon og senere blir tilstått uførepensjon etter lov om folketrygd, har han fra samme tidspunkt rett til uførepensjon etter samme uføregrad fra Pensjonskassen svarende til oppsatt alderspensjon beregnet etter bestemmelsene i § 24 annet ledd. Den oppsatte uførepensjonen løper fram til tidspunktet for utbetaling av den oppsatte alderspensjonen.",
+                        "I lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. gjøres følgende endringer:",
+                        "§ 10 sjette ledd skal lyde:",
+                        "Når et medlem har fratrådt etter 1. januar 1967 med rett til oppsatt alderspensjon og senere blir tilstått full uførepensjon etter lov om folketrygd, har han fra samme tidspunkt rett til uførepensjon fra pensjonsordningen svarende til oppsatt alderspensjon beregnet etter bestemmelsen i § 7 nr. 2. Hvis han tilstås gradert uførepensjon fra folketrygden, ytes uførepensjon etter samme uføregrad.",
+                        "§ 11 sjuende ledd skal lyde:",
+                        "Når et medlem blir tilstått uførepensjon fra folketrygden, skal uførepensjon fra pensjonsordningen ytes etter samme uføregrad som i folketrygden. Pensjonsordningens styre kan fravike denne uføregrad når særlige grunner tilsier det.",
+                        "I lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere gjøres følgende endring:",
+                        "§ 8 annet ledd første punktum skal lyde:",
+                        "Alderspensjon oppheves fra og med kalendermåneden etter den måned da pensjonisten fylte 67 år eller fra og med den kalendermåned da pensjonisten får rett til uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger etter loven om folketrygd for hel uførhet eller tar ut full avtalefestet pensjon som nevnt i samordningsloven § 1 nr. 1 første ledd bokstav d.",
+                        "I lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser gjøres følgende endringer:",
+                        "§ 19 annet ledd skal lyde:",
+                        "Bestemmelsene i nr. 1 og 3 gjelder tilsvarende for samordning av tjenestepensjon med uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger etter loven om folketrygd. Er ytelsen fra folketrygden ikke bereknet for hel uførhet, skal fradragsbeløpet nedsettes forholdsmessig.",
+                        "§ 20 tredje ledd skal lyde:",
+                        "Bestemmelsene i første og annet ledd gjelder tilsvarende for samordning av pensjon fra personskadetrygd med uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger etter loven om folketrygd. Er ytelsen fra folketrygden ikke bereknet for hel uførhet, skal fradragsbeløpet nedsettes forholdsmessig.",
+                        "§ 21 tredje ledd skal lyde:",
+                        "Bestemmelsen i første og annet ledd gjelder tilsvarende for samordning av pensjoner fra tjenestepensjonsordning, personskadetrygd og uførepensjon, foreløpig uførepensjon eller arbeidsavklaringspenger etter loven om folketrygd.",
+                        "§ 23 nr. 1 annet ledd skal lyde:",
+                        "Bestemmelsene i første ledd gjelder tilsvarende for særtillegg fra folketrygden, for ventetillegg fra folketrygden for tilleggspensjon og for den delen av arbeidsavklaringspengene og overgangsstønad etter folketrygdloven kapittel 11 og 15 som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "I lov 12. desember 1958 nr. 10 om yrkesskadetrygd gjøres følgende endringer:",
+                        "§ 11 nr. 4 første og annet ledd skal lyde:",
+                        "4. Til enslig person som har rett til pensjon etter denne lov eller sykepenger etter bestemmelsene i pkt. 2, annet eller tredje ledd og som er innlagt i institusjon som omfattes av folketrygdloven § 3-27 eller § 3-29, skal det fra og med den andre kalendermåned etter den måned da forpleiningen tok til bare utbetales en så stor del av nevnte ytelser etter denne lov som sammen med de sykepenger, arbeidsavklaringspenger, foreløpig uførepensjon og den pensjon eller overgangsstønad som vedkommende eventuelt har rett til etter lov om folketrygd, svarer til 10 prosent av full og ikke samordnet pensjon etter denne lov, tillagt 15 prosent av folketrygdens grunnbeløp.",
+                        "Til person som forsørger ektefelle eller barn skal det i tilfelle som nevnt i første ledd bare utbetales en så stor del av pensjon eller sykepenger etter denne lov, som sammen med de sykepenger, arbeidsavklaringspenger, foreløpig uførepensjon og den pensjon eller overgangsstønad som vedkommende eventuelt har rett til etter lov om folketrygd, svarer til 10 prosent av full og ikke samordnet pensjon etter denne lov, tillagt 15 prosent av folketrygdens grunnbeløp, samt pensjon etter §§ 19 og 22 i denne lov.",
+                        "§ 12 nr. 3 fjerde ledd skal lyde:",
+                        "Dersom den skadede har rett til foreløpig uførepensjon eller overgangsstønad fra folketrygden som inneholder tilleggspensjon, gjelder bestemmelsene i annet ledd på samme måte. For arbeidsavklaringspenger og overgangsstønad til enslige forsørgere gjelder annet ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "§ 19 nr. 1 tredje ledd skal lyde:",
+                        "Dersom det ytes foreløpig uførepensjon eller overgangsstønad fra folketrygden som inneholder tilleggspensjon, gjelder bestemmelsene i annet ledd på samme måte. For arbeidsavklaringspenger og overgangsstønad til enslige forsørgere gjelder annet ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.",
+                        "§ 38 nr. 1 annet ledd skal lyde:",
+                        "Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å delta på arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.",
+                        "I lov 23. desember 1988 nr. 110 om statstilskott til ordninger for avtalefestet pensjon gjøres følgende endring:",
+                        "§ 2 første ledd bokstav f skal lyde:",
+                        "f)Pensjon fra ordningen må ikke kunne ytes for tidsrom hvor det ytes arbeidsavklaringspenger, foreløpig uførepensjon, uførepensjon eller etterlattepensjon fra folketrygden.",
+                        "I lov 13. desember 1991 nr. 81 om sosiale tjenester m.v. (sosialtjenesteloven) gjøres følgende endring:",
+                        "§ 5A-10 første ledd skal lyde:",
+                        "Kvalifiseringsstønaden reduseres i den utstrekning vedkommende har rett til dagpenger under arbeidsløshet, sykepenger eller foreldrepenger.",
+                        "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
+                        "§ 5-42 bokstav b skal lyde:",
+                        "b)stønad, omsorgspenger og annen utbetaling fra omsorgs- og trygdeinnretning, herunder arbeidsavklaringspenger etter folketrygdloven kapittel 11 og overgangsstønad etter folketrygdloven §§ 15-7, 16-7 og 17-6.",
+                        "§ 5-43 første ledd bokstav d nr. 5 skal lyde:",
+                        "5.tilleggsstønader etter § 11-12",
+                        "§ 6-32 første ledd bokstav a skal lyde:",
+                        "a)Minstefradrag i lønnsinntekt, jf. skatteloven § 6-31 første ledd bokstav a, c, d og annet ledd, gis med 36 prosent av summen av slik inntekt. Tilsvarende gjelder for minstefradrag i arbeidsavklaringspenger.",
+                        "§ 6-81 annet ledd skal lyde:",
+                        "(2) Fra og med den måned skattyter mottar foreløpig uførepensjon etter folketrygdloven § 12-16 eller uførepensjon fordi ervervsevnen er satt ned med minst 2/3, gis det et særfradrag i alminnelig inntekt på 1.614 kroner pr. påbegynt måned. Dette gjelder ikke skattyter som samtidig mottar arbeidsavklaringspenger fra folketrygden.",
+                        "§ 6-81 tredje ledd skal lyde:",
+                        "(3) Andre skattytere enn nevnt i første og annet ledd som har mottatt foreløpig uførepensjon eller uførepensjon etter folketrygdloven eller uførepensjon etter andre lover, skal for hver påbegynt måned slike ytelser er mottatt, ha et særfradrag lik halvparten av månedsfradraget etter annet ledd. Dette gjelder ikke skattyter som samtidig mottar arbeidsavklaringspenger fra folketrygden.",
+                        "§ 12-2 bokstav c skal lyde:",
+                        "c)arbeidsavklaringspenger etter folketrygdloven kapittel 11 og overgangsstønad etter folketrygdloven §§ 15-7, 16-7 og 17-6.",
+                        "§ 17-1 første ledd bokstav a skal lyde:",
+                        "a)har rett til særfradrag etter § 6-81 første og annet ledd,",
+                        "I lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven) gjøres følgende endringer:",
+                        "§ 6-1 annet ledd skal lyde:",
+                        "(2) Uførepensjonen begynner å løpe 12 måneder etter at inntektsevnen ble redusert.",
+                        "§ 6-4 nytt annet ledd skal lyde:",
+                        "(2) Kongen kan gi forskrift om fradrag i uførepensjonen ved utbetaling av arbeidsavklaringspenger og om beregning av slike fradrag.",
+                        "I lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven) gjøres følgende endring:",
+                        "§ 12 første ledd skal lyde:",
+                        "Introduksjonsstønaden reduseres i den utstrekning vedkommende har rett til dagpenger under arbeidsløshet, sykepenger eller foreldrepenger, og retten til disse ytelsene er opparbeidet før vedkommende startet i et introduksjonsprogram. Stønaden reduseres tilsvarende for uførepensjon eller arbeidsavklaringspenger vedkommende mottar.",
+                        "I lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) gjøres følgende endring:",
+                        "§ 11 oppheves.",
+                        "I lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsvirksomhetsloven) gjøres følgende endring:",
+                        "§ 11-8 annet ledd skal lyde:",
+                        "Medlem som er sykmeldt ved utløpet av oppsigelsesfristen, skal her anses som ufør dersom den sykdom som da var konstatert, har gitt rett til arbeidsavklaringspenger eller uførepensjon innen ett år etter utløpet av oppsigelsesfristen.",
+                        "I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) gjøres følgende endringer:",
+                        "§ 1-6 første ledd bokstav f skal lyde:",
+                        "f)personer som i opplæringsøyemed eller i forbindelse med arbeidsrettede tiltak utplasseres i virksomheter uten å være arbeidstakere,",
+                        "§ 4-6 første ledd skal lyde:",
+                        "(1) Hvis en arbeidstaker har fått redusert arbeidsevne som følge av ulykke, sykdom, slitasje e.l., skal arbeidsgiver, så langt det er mulig, iverksette nødvendige tiltak for at arbeidstaker skal kunne beholde eller få et passende arbeid. Arbeidstaker skal fortrinnsvis gis anledning til å fortsette i sitt vanlige arbeid, eventuelt etter særskilt tilrettelegging av arbeidet eller arbeidstiden, endringer i arbeidsutstyr, gjennomgått arbeidsrettede tiltak e.l.",
+                        "Loven gjelder fra den tid Kongen bestemmer. Endringen av folketrygdloven § 8-21 fjerde ledd første punktum i del I trer likevel i kraft straks. Departementet kan i forskrift fastsatt nærmere overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        },
+        {
+            "name": "VII",
+            "paragraphs": []
+        },
+        {
+            "name": "VIII",
+            "paragraphs": []
+        },
+        {
+            "name": "IX",
+            "paragraphs": []
+        },
+        {
+            "name": "X",
+            "paragraphs": []
+        },
+        {
+            "name": "XI",
+            "paragraphs": []
+        },
+        {
+            "name": "XII",
+            "paragraphs": []
+        },
+        {
+            "name": "XIII",
+            "paragraphs": []
+        },
+        {
+            "name": "XIV",
+            "paragraphs": []
+        },
+        {
+            "name": "XV",
+            "paragraphs": []
+        },
+        {
+            "name": "XVI",
+            "paragraphs": []
+        },
+        {
+            "name": "XVII",
+            "paragraphs": []
+        },
+        {
+            "name": "XVIII",
+            "paragraphs": []
+        },
+        {
+            "name": "XIX",
+            "paragraphs": []
+        }
+    ]
+}

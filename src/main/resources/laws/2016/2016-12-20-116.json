@@ -1,0 +1,72 @@
+{
+    "lawId": "LOV-2016-12-20-116",
+    "lawName": "Lov om endringer i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven)",
+    "shortName": "Endringslov til merverdiavgiftsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "IV Dispensasjon",
+            "paragraphs": [
+                {
+                    "name": "§ 3-31",
+                    "title": "Dispensasjon",
+                    "sections": [
+                        "Dersom det foreligger særlige forhold, kan departementet treffe enkeltvedtak om helt eller delvis unntak fra loven."
+                    ]
+                },
+                {
+                    "name": "§ 3-32",
+                    "title": "Våpensystemet F-35",
+                    "sections": [
+                        "Departementet kan treffe enkeltvedtak om unntak fra loven ved omsetning av varer og tjenester til vedlikehold av våpensystemet F-35. Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fastsette vilkår for unntak.",
+                        "Kapittel 6 ny del V skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "V Dispensasjon",
+            "paragraphs": [
+                {
+                    "name": "§ 6-36",
+                    "title": "Dispensasjon",
+                    "sections": [
+                        "Dersom det foreligger særlige forhold, kan departementet treffe enkeltvedtak om helt eller delvis fritak for merverdiavgift."
+                    ]
+                },
+                {
+                    "name": "§ 6-37",
+                    "title": "Våpensystemet F-35",
+                    "sections": [
+                        "Departementet kan treffe enkeltvedtak om fritak fra merverdiavgift ved omsetning av varer og tjenester til vedlikehold av våpensystemet F-35. Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fastsette vilkår for fritak.",
+                        "Ny § 7-9 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-9",
+                    "title": "Dispensasjon",
+                    "sections": [
+                        "Dersom det foreligger særlige forhold, kan departementet treffe enkeltvedtak om at det helt eller delvis ikke skal beregnes merverdiavgift ved innførselen.",
+                        "Ny § 7-10 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-10",
+                    "title": "Våpensystemet F-35",
+                    "sections": [
+                        "Departementet kan treffe enkeltvedtak om fritak fra plikten til å beregne merverdiavgift ved innførsel av varer til vedlikehold av våpensystemet F-35. Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fastsette vilkår for fritak.",
+                        "Endringene under I trer i kraft 1. januar 2017."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

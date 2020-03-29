@@ -1,0 +1,721 @@
+{
+    "lawId": "LOV-2002-07-05-64",
+    "lawName": "Lov om registrering av finansielle instrumenter (verdipapirregisterloven) og endringer i enkelte andre lover",
+    "shortName": "Verdipapirregisterloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1. Innledende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1-1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Lovens formål er å legge til rette for sikker, ordnet og effektiv registrering av finansielle instrumenter og rettigheter i slike instrumenter med de rettsvirkninger som er bestemt i denne lov."
+                    ]
+                },
+                {
+                    "name": "§ 1-2",
+                    "title": "Verdipapirregisterets utfyllende regler",
+                    "sections": [
+                        "Et verdipapirregister skal fastsette regler for virksomheten i henhold til bestemmelsene i denne loven. Reglene skal godkjennes av Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 1-3",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "Med verdipapirregister menes i denne lov foretak med tillatelse etter denne lov til å drive registrering av finansielle instrumenter."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Rett og plikt til registrering i et verdipapirregister",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "Finansielle instrumenter som skal innføres i verdipapirregister",
+                    "sections": [
+                        "Følgende finansielle instrumenter skal innføres i et verdipapirregister som nevnt i § 3-1:",
+                        "1.aksjer og tegningsrettigheter i norske allmennaksjeselskaper, og",
+                        "2.norske ihendehaverobligasjoner.",
+                        "Departementet kan i forskrift gi nærmere regler om plikt til å innføre finansielle instrumenter i et verdipapirregister, herunder regler som presiserer, utvider og innskrenker plikten etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Finansielle instrumenter som kan innføres i verdipapirregister",
+                    "sections": [
+                        "Andre finansielle instrumenter som nevnt i verdipapirhandelloven § 1-2 annet ledd kan innføres i et verdipapirregister, med de rettsvirkninger som følger av denne lov. Departementet kan bestemme at registrering av rettigheter i enkelte finansielle instrumenter ikke skal gis de rettsvirkninger som følger av denne lov. Departementet kan i forskrift fastsette at andre formuesobjekter kan innføres i et verdipapirregister.",
+                        "Innføring etter første ledd kan ikke skje dersom det allerede er utstedt et dokument som representerer det finansielle instrumentet på en måte som kan komme i strid med det som følger av denne loven. Innføring etter første ledd kan likevel skje dersom slikt dokument makuleres, legges i sikker forvaring eller på annen måte sikres mot å komme i omsetning. Når det finansielle instrumentet er innført i et verdipapirregister, har ikke lenger dokument som nevnt i første punktum rettsvirkninger som kan komme i strid med denne loven. Departementet kan gi nærmere regler om innkalling av dokumenter ved overgang til innføring i et verdipapirregister.",
+                        "Innføring etter første ledd kan ikke skje dersom det finansielle instrumentet allerede er innført i et annet norsk verdipapirregister, eller i et utenlandsk register med rettsvirkninger som kan komme i strid med det som følger av denne loven. Innføring i strid med bestemmelsen i første punktum er uten rettsvirkninger etter kapittel 7."
+                    ]
+                },
+                {
+                    "name": "§ 2-3",
+                    "title": "Beslutning om innføring i verdipapirregister",
+                    "sections": [
+                        "Dersom annet ikke er bestemt i eller i medhold av lov, beslutter utstederen av finansielle instrumenter om disse skal innføres i et verdipapirregister. Verdipapirregistre skal fastsette nærmere regler om hvem som skal anses som utsteder.",
+                        "Et verdipapirregister kan ikke nekte innføring med mindre registerets virksomhetsområde ifølge vedtektene er begrenset eller registeret for øvrig har saklig grunn for nektelse."
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "Nærmere regler om innføring",
+                    "sections": [
+                        "Verdipapirregisteret fastsetter regler om innføring i registeret og om fremgangsmåten der et finansielt instrument ikke lenger skal være innført i verdipapirregisteret."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Krav om tillatelse mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "Vilkår for å drive virksomhet som verdipapirregister",
+                    "sections": [
+                        "Virksomhet som består i registrering av finansielle instrumenter med de virkninger som bestemt i denne lov, kan bare drives av foretak med tillatelse fra departementet.",
+                        "Et verdipapirregister skal være organisert som allmennaksjeselskap, og skal oppfylle de krav som følger av denne lov.",
+                        "Annet ledd gjelder ikke utenlandske verdipapirregistre som oppfyller krav i regler gitt av departementet."
+                    ]
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "Søknad om tillatelse",
+                    "sections": [
+                        "Søknad om tillatelse skal inneholde de opplysninger som er av betydning for behandling av søknaden og som viser at de lovbestemte krav er oppfylt. Departementet kan be om ytterligere opplysninger.",
+                        "Vedtak om tillatelse skal meddeles søkeren snarest mulig og senest seks måneder etter at søknaden ble mottatt. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt da slike opplysninger ble mottatt."
+                    ]
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Endring og tilbakekall av tillatelse",
+                    "sections": [
+                        "Departementet kan helt eller delvis endre, herunder sette nye vilkår for, eller tilbakekalle tillatelse til å drive verdipapirregister dersom:",
+                        "1.verdipapirregisteret ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen, eller har opphørt å drive registeret i mer enn seks måneder,",
+                        "2.verdipapirregisteret har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,",
+                        "3.verdipapirregisteret ikke lenger oppfyller de vilkår som kreves for tillatelsen,",
+                        "4.verdipapirregisteret foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov,",
+                        "5.mislige forhold hos verdipapirregisteret gir grunn til å frykte at en fortsettelse av virksomheten kan skade allmenne interesser, eller",
+                        "6.verdipapirregisteret ikke etterkommer pålegg gitt av Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 3-4",
+                    "title": "Virksomhet i utlandet",
+                    "sections": [
+                        "Et verdipapirregister som skal utøve virksomhet i utlandet ved etablering av datterselskap eller filial, skal melde dette til Kredittilsynet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Selskapsrettslige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Styre og ledelse",
+                    "sections": [
+                        "Et verdipapirregister skal ha et styre med minst fem medlemmer. Daglig leder kan ikke være medlem av styret.",
+                        "Styremedlemmer, daglig leder og andre som faktisk deltar i ledelsen av verdipapirregisteret skal ha relevante kvalifikasjoner og yrkeserfaring, ha en hederlig vandel og for øvrig ikke ha utvist utilbørlig adferd som gir grunn til å anta at stillingen eller vervet ikke vil kunne ivaretas på forsvarlig måte.",
+                        "Verdipapirregisteret skal gi Kredittilsynet melding ved endring av styrets sammensetning, skifte av daglig leder eller andre personer som faktisk deltar i ledelsen av virksomheten. Meldingen skal så vidt mulig gis på forhånd, og inneholde nødvendige opplysninger om kvalifikasjoner, yrkeserfaring, vandel, samt verv eller stilling i annen virksomhet. Kredittilsynet kan gi pålegg om at endringen ikke skal iverksettes dersom endringen kan antas å medføre at kravene i annet ledd ikke oppfylles."
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Kontrollkomité",
+                    "sections": [
+                        "Verdipapirregister skal ha kontrollkomité på minst tre medlemmer som velges av generalforsamlingen. Kontrollkomiteen skal føre tilsyn med at foretaket følger lover, forskrifter og konsesjonsvilkår, samt vedtekter og vedtak truffet av foretakets organer, og skal vurdere sikkerhetsmessige forhold ved virksomheten. Generalforsamlingen skal fastsette instruks for kontrollkomiteen. Instruksen skal godkjennes av Kredittilsynet. Kontrollkomiteen skal gi melding til generalforsamlingen og Kredittilsynet om sitt arbeid. Kredittilsynet kan gi nærmere forskrift om sammensetningen av og virksomheten til verdipapirregistres kontrollkomité."
+                    ]
+                },
+                {
+                    "name": "§ 4-3",
+                    "title": "Vedtekter",
+                    "sections": [
+                        "Verdipapirregisterets vedtekter og endringer i disse skal godkjennes av departementet. Departementet kan gi forskrift om vedtektenes innhold."
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "Internkontroll mv.",
+                    "sections": [
+                        "Styret skal fastsette retningslinjer for internkontroll og forvisse seg om at internkontrollen etableres, gjennomføres og dokumenteres på en forsvarlig måte i samsvar med styrets retningslinjer og pålegg. Kredittilsynet kan gi forskrift med nærmere bestemmelser om internkontroll.",
+                        "Daglig leder skal sørge for at internkontroll etableres og gjennomføres i henhold til lov og forskrifter. Det samme gjelder for styrets vedtatte retningslinjer og pålegg.",
+                        "Styret skal fastsette retningslinjer for ansattes og tillitsvalgtes handel med finansielle instrumenter og for ansattes og tillitsvalgtes habilitet. Styret skal også fastsette retningslinjer for ansattes og tillitsvalgtes adgang til å inneha verv i selskaper som har innført finansielle instrumenter i verdipapirregisteret.",
+                        "Departementet kan i forskrift gi nærmere regler om de forhold som nevnt i annet og tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 4-5",
+                    "title": "Kapitalforhold",
+                    "sections": [
+                        "Et verdipapirregister skal til enhver tid ha en ansvarlig kapital som er forsvarlig ut fra omfanget og risikoen ved foretakets virksomhet. Departementet kan i forskrift gi nærmere regler om hva som skal regnes som foretakets ansvarlige kapital, samt om minstekrav til ansvarlig kapital."
+                    ]
+                },
+                {
+                    "name": "§ 4-6",
+                    "title": "Vedtak om sammenslåing, deling og avhendelse av virksomhet",
+                    "sections": [
+                        "Vedtak om avhendelse av en vesentlig del av foretakets konsesjonspliktige virksomhet skal treffes av generalforsamlingen med flertall som for vedtektsendring. Departementet avgjør i tvilstilfelle om en avhendelse omfatter en vesentlig del av den konsesjonspliktige virksomheten.",
+                        "Vedtak som nevnt i første ledd og vedtak om fusjon og fisjon av foretaket etter allmennaksjeloven skal meddeles departementet. Departementet kan innen tre måneder fra den dag melding er mottatt nekte sammenslåing, deling eller avhendelse, samt sette vilkår for gjennomføringen av transaksjonen eller endre den konsesjon som foreligger. Vedtak som nevnt i første punktum kan ikke gjennomføres før utløpet av perioden nevnt i annet punktum."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Virksomhets- og eierbegrensningsregler mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Virksomhetsbegrensninger",
+                    "sections": [
+                        "I tillegg til verdipapirregistrering kan et verdipapirregister bare drive annen virksomhet som har naturlig sammenheng med verdipapirregistrering og som ikke svekker tilliten til verdipapirregisterets integritet og uavhengighet. Departementet kan i forskrift gi nærmere regler og treffe enkeltvedtak om hvilken virksomhet et verdipapirregister kan drive.",
+                        "Kredittilsynet kan pålegge foretaket å drive tilknyttet virksomhet som nevnt i første ledd i eget foretak. Annen konsesjonspliktig virksomhet skal alltid drives i eget foretak.",
+                        "Et verdipapirregister kan ikke være deltaker i annet foretak med ubegrenset ansvar for foretakets forpliktelser, ha eiendeler i annen næringsvirksomhet eller ha slik innflytelse som nevnt i allmennaksjeloven § 1-3 annet ledd, dersom dette svekker verdipapirregisterets integritet og uavhengige stilling."
+                    ]
+                },
+                {
+                    "name": "§ 5-2",
+                    "title": "Eierbegrensninger",
+                    "sections": [
+                        "Ingen kan eie aksjer som representerer mer enn ti prosent av aksjekapitalen eller stemmene i et verdipapirregister. Likestilt med aksjeeie regnes erverv av rett til å bli eier av aksjer når dette må anses som reelt erverv av aksjene.",
+                        "Departementet kan i særlige tilfeller gjøre unntak fra første ledd, og sette vilkår for slikt vedtak.",
+                        "Begrensningene i første ledd er ikke til hinder for at et verdipapirregister eies 100 prosent av et foretak med hovedkontor i Norge som ikke driver annen virksomhet enn å forvalte eierinteresser i datterselskaper, når datterselskapene ikke driver annen virksomhet enn verdipapirregistrering eller virksomhet som har naturlig sammenheng med dette. Første ledd gjelder tilsvarende for foretak som eier verdipapirregisteret.",
+                        "Departementet kan gi tillatelse til at et norsk eller utenlandsk verdipapirregister eller et annet foretak kan ha eierandeler som representerer inntil 25 prosent av aksjekapitalen eller stemmene i et verdipapirregister som ledd i en strategisk samarbeidsavtale mellom foretakene vedrørende verdipapirregistrering. Avtalen må være vedtatt av generalforsamlingen i det eide verdipapirregisteret med flertall som for vedtektsendring, så lenge avtalen gjelder.",
+                        "Dersom en aksjeeier besitter aksjer i strid med reglene i paragrafen her, kan departementet fastsette en frist for å bringe eierforholdet i overensstemmelse med loven. Dersom denne fristen overskrides, kan departementet selge aksjene etter reglene om tvangssalg av omsettelige verdipapirer så langt de passer. Tvangsfullbyrdelsesloven § 10-6 jf. § 8-16 kommer ikke til anvendelse. Vedkommende aksjeeier skal varsles om at tvangssalg vil bli foretatt to uker før salg foretas.",
+                        "Inntil eierforholdet er brakt i orden etter femte ledd kan aksjeeieren for den del av aksjene som overstiger tillatt nivå, ikke utøve andre rettigheter i selskapet enn retten til å heve utbytte og til å utøve fortrinnsrett ved kapitalforhøyelse."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Stemmerettsbegrensninger",
+                    "sections": [
+                        "På generalforsamlingen i et verdipapirregister kan ingen stemme for mer enn 10 prosent av stemmene i foretaket eller for mer enn 20 prosent av de stemmene som er representert på generalforsamlingen.",
+                        "Reglene i denne paragraf gjelder ikke på generalforsamling i verdipapirregister som omfattes av bestemmelsene i § 5-2 annet, tredje og fjerde ledd."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Konsolidering av eierandeler",
+                    "sections": [
+                        "Likt med aksjeeierens egne aksjer regnes i forhold til reglene i § 5-2 og § 5-3 de aksjer som eies eller overtas av:",
+                        "a)aksjeeierens ektefelle eller en person som aksjeeieren bor sammen med i ekteskapslignende forhold,",
+                        "b)aksjeeierens mindreårige barn samt mindreårige barn til en person som nevnt i bokstav a som aksjeeieren bor sammen med,",
+                        "c)selskap hvor aksjeeieren har slik innflytelse som nevnt i allmennaksjeloven § 1-3 annet ledd,",
+                        "d)selskap innen samme konsern som aksjeeieren, og",
+                        "e)noen som det må antas aksjeeieren har forpliktende samarbeid med når det gjelder å gjøre bruk av rettighetene som aksjeeier.",
+                        "Departementet avgjør i tvilstilfelle om aksjer som aksjeeieren ikke eier skal likestilles med egne aksjer etter reglene i første ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Registrering av rettigheter til finansielle instrumenter",
+            "paragraphs": [
+                {
+                    "name": "§ 6-1",
+                    "title": "Registreringsberettigede",
+                    "sections": [
+                        "Berettiget til å melde registrering er den som ifølge registeret fremstår som berettiget, eller den som godtgjør at retten er gått over til ham.",
+                        "Berettiget til å melde slettelse av panterett eller annen heftelse er den berettigede etter heftelsen. Slik slettelse kan også skje dersom det godtgjøres at rettigheten er falt bort.",
+                        "Utstederen av et finansielt instrument er berettiget til å melde slettelse av instrumentet fra registeret, dersom det godtgjøres at det finansielle instrumentet er opphørt å eksistere på grunn av innfrielse eller annet forhold.",
+                        "Berettiget til å melde registrering er videre enhver som etter annen lovgivning har rett eller myndighet til å stifte eller overføre rettigheter i eller til finansielle instrumenter uten samtykke av den som er nevnt i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 6-2",
+                    "title": "Enkeltkonti og forvalterkonti",
+                    "sections": [
+                        "Med mindre annet er bestemt i eller i medhold av lov, kan finansielle instrumenter registreres på enkeltkonti som tilhører de enkelte investorer, eller på forvalterkonti for to eller flere investorer. Registeret plikter å opprette investor- eller forvalterkonti til registrering av finansielle instrumenter som er innført i registeret.",
+                        "Verdipapirregisteret kan i sine regler bestemme at visse typer finansielle instrumenter bare skal kunne registreres på enkeltkonti, og at det må opprettes egne konti for bestemte formål."
+                    ]
+                },
+                {
+                    "name": "§ 6-3",
+                    "title": "Forvalterkonti",
+                    "sections": [
+                        "Det skal fremgå av registeret at en konto er en forvalterkonto, og hvem som forvalter kontoen. Forvalteren må være godkjent av Kredittilsynet. Departementet kan gi forskrift om godkjennelse og tilbakekall av godkjennelse av forvalter.",
+                        "Forvalteren har fullmakt til å råde over beholdninger på kontoen med bindende virkning for investor, og for øvrig med slike rettsvirkninger som er bestemt i kapittel 7.",
+                        "Finansielle instrumenter som tilhører forvalteren, kan ikke være registrert på forvalterkonto som forvaltes av vedkommende. I forhold til reglene i § 6-8 og § 8-2 regnes forvalteren som innehaver av finansielle instrumenter på forvalterkonto. På en forvalterkonto kan det ikke registreres finansielle instrumenter som tilhører forvalteren selv.",
+                        "Forvalter plikter å gi opplysninger om de reelle eierne i samme omfang og på samme måte som verdipapirregisteret plikter å gi opplysninger etter § 8-2 eller annen lov. Departementet kan i forskrift gi nærmere regler om forvalterens opplysningsplikt og plikt til oppbevaring av opplysningene.",
+                        "Dersom et norsk verdipapirregister er forvalter av en forvalterkonto i et annet norsk verdipapirregister, gjelder reglene i kapittel 7 ved overføringer mellom forskjellige beholdninger på forvalterkontoen. Departementet kan gi nærmere regler om dette. For øvrig har overføringer av finansielle instrumenter mellom forskjellige beholdninger på samme forvalterkonto ikke rettsvirkninger etter kapittel 7."
+                    ]
+                },
+                {
+                    "name": "§ 6-4",
+                    "title": "Sanksjoner ved brudd på reglene i § 6-3",
+                    "sections": [
+                        "Dersom noen forvalter en forvalterkonto uten godkjennelse etter § 6-3 første ledd, eller godkjennelsen trekkes tilbake, kan Kredittilsynet kreve kontoen sperret. Ved sperring mister forvalteren retten til å disponere over de finansielle instrumentene som er registrert på kontoen, herunder til å motta utbetalinger knyttet til de finansielle instrumentene med frigjørende virkning for betaleren. Sperringen er ikke til hinder for gjennomføringen av transaksjoner som er godkjent av Kredittilsynet.",
+                        "Første ledd gjelder tilsvarende dersom en forvalter ikke oppfyller sin plikt til å gi opplysninger etter § 6-3 fjerde ledd."
+                    ]
+                },
+                {
+                    "name": "§ 6-5",
+                    "title": "Organisering av registreringsvirksomheten",
+                    "sections": [
+                        "Verdipapirregisteret fastsetter regler om organiseringen av registreringsvirksomheten, bruk av eksterne registerførere, adgang til å foreta registreringer direkte i registeret, krav til dokumentasjon av identitet, og fullmaktsforhold."
+                    ]
+                },
+                {
+                    "name": "§ 6-6",
+                    "title": "Retting og sletting av opplysninger fra rettighetsregisteret",
+                    "sections": [
+                        "Registeret skal rette feil i en registrering dersom det finner at registreringen er uriktig.",
+                        "Verdipapirregisteret kan slette opplysninger fra rettighetsregisteret dersom de åpenbart er uten betydning.",
+                        "Opplysninger som er slettet fra rettighetsregisteret skal oppbevares i minst ti år."
+                    ]
+                },
+                {
+                    "name": "§ 6-7",
+                    "title": "Endringsmeldinger og beholdningsoversikter",
+                    "sections": [
+                        "Verdipapirregisteret skal sende melding til rettighetshavere ved enhver endring i registeret som kan ha betydning for deres rettigheter, med mindre noe annet er avtalt. Tilsvarende gjelder andre som har meldt en registrering.",
+                        "Verdipapirregisteret skal én gang i året sende rettighetshavere en oversikt over deres beholdning av eller rettigheter i registrerte finansielle instrumenter. Det skal framgå av oversikten også andre opplysninger som kan ha betydning for deres rettigheter.",
+                        "Verdipapirregisteret fastsetter nærmere regler om endringsmeldinger og beholdningsoversikter."
+                    ]
+                },
+                {
+                    "name": "§ 6-8",
+                    "title": "Opplysninger som skal fremgå av registeret",
+                    "sections": [
+                        "Registeret skal inneholde opplysninger om de finansielle instrumentene og om innehavere av rettigheter til disse.",
+                        "Departementet gir forskrift om hvilke opplysninger etter første ledd som skal fremgå av registeret, og om hvordan opplysningene skal sammenstilles."
+                    ]
+                },
+                {
+                    "name": "§ 6-9",
+                    "title": "Vederlag for registreringstjenester",
+                    "sections": [
+                        "Departementet kan i forskrift gi regler om verdipapirregisterets vederlag for registreringstjenester."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Rettsvirkninger av registrering",
+            "paragraphs": [
+                {
+                    "name": "§ 7-1",
+                    "title": "Kolliderende rettigheter",
+                    "sections": [
+                        "En registrert rettighet går foran en rettighet som ikke er registrert eller som er registrert på et senere tidspunkt.",
+                        "En eldre rettighet går uten hensyn til første ledd foran en yngre rettighet, dersom den yngre rettigheten er ervervet ved avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten.",
+                        "En eldre rettighet går uten hensyn til første ledd foran en yngre rettighet, dersom den yngre rettigheten er ervervet ved arv.",
+                        "Rettighetsregisteret skal fastsette regler for når en rettighet er registrert. Reglene skal godkjennes av departementet."
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Mangler ved avhenderens rett",
+                    "sections": [
+                        "Når en rettighet som er ervervet ved avtale er registrert etter § 7-1, kan det ikke gjøres gjeldende mot erververen at avhenderens rett ikke var i samsvar med registerets innhold. Dette gjelder ikke dersom erververen var eller burde ha vært kjent med avhenderens manglende rett da rettigheten ble registrert. Første punktum gjelder ikke konflikter mellom kolliderende rettigheter som nevnt i § 7-1."
+                    ]
+                },
+                {
+                    "name": "§ 7-3",
+                    "title": "Utstederens innsigelse",
+                    "sections": [
+                        "Når en rettighet som er ervervet ved avtale er registrert etter § 7-1, kan ikke utstederen av andre finansielle instrumenter enn aksjer og grunnfondsbevis gjøre gjeldende mot erververen innsigelser som nevnt i gjeldsbrevloven § 15. Innsigelsen kan likevel gjøres gjeldende dersom erververen var eller burde ha vært kjent med utstederens innsigelse da rettigheten ble registrert. Gjeldsbrevloven § 18 gjelder tilsvarende.",
+                        "Utstederen kan i alle tilfelle gjøre gjeldende innsigelser som nevnt i gjeldsbrevloven §§ 16 og 17."
+                    ]
+                },
+                {
+                    "name": "§ 7-4",
+                    "title": "Frigjørende betaling",
+                    "sections": [
+                        "Utbetaling fra en skyldner til den som etter registeret er berettiget til å motta betaling på forfallstidspunktet i henhold til registerets innhold er frigjørende for skyldneren, selv om mottakeren ikke hadde rett til å ta imot betaling. Dette gjelder ikke dersom skyldneren var eller burde ha vært kjent med betalingsmottakerens manglende rett da utbetalingen fant sted."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8. Taushetsplikt og innsynsrett",
+            "paragraphs": [
+                {
+                    "name": "§ 8-1",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "Tillitsvalgte, ansatte og revisor i et verdipapirregister plikter å hindre at noen får adgang eller kjennskap til det som de i sitt arbeid får vite om noens forretningsmessige eller personlige forhold, hvis ikke noe annet følger av denne eller annen lov. Det samme gjelder andre som utfører arbeid eller oppdrag på vegne av et verdipapirregister.",
+                        "Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten, oppdraget eller vervet."
+                    ]
+                },
+                {
+                    "name": "§ 8-2",
+                    "title": "Innsynsrett",
+                    "sections": [
+                        "Uten hinder av taushetsplikten etter § 8-1 gjelder følgende om rett til å få opplysninger fra et verdipapirregister:",
+                        "1.En kontohaver har rett til å få alle opplysninger som er registrert på kontoen.",
+                        "2.En panthaver eller rettighetshaver til en annen begrenset rettighet registrert på en konto, har rett til å få alle opplysninger som er registrert på kontoen som kan ha betydning for rettigheten.",
+                        "3.Skifteretten, namsmyndighetene og vergemålsretten har rett til å få opplyst hvilke registrerte finansielle instrumenter som tilhører en saksøkt, en skyldner eller en umyndiggjort, og om det er øvrige begrensede rettigheter i disse. Skifteretten, bostyrer og leder av gjeldsnemnd som er oppnevnt av skifteretten, har rett til å få alle opplysninger som er registrert om en konkursskyldner eller en skyldner som er under gjeldsforhandling, eller om en avdød ved skifte av insolvent dødsbo, herunder alle opplysninger om finansielle instrumenter som er innført i verdipapirregisteret. Tilsvarende gjelder for leder av administrasjonsstyret for finansinstitusjon oppnevnt av Finansdepartementet eller Kredittilsynet.",
+                        "4.Enhver har rett til å få opplysninger som er registrert om et finansielt instrument, med mindre noe annet følger av lov eller forskrift.",
+                        "5.Dersom noen med hjemmel i lov har krav på opplysninger og opplysningene finnes i et verdipapirregister, har vedkommende rett til å få disse opplysningene fra verdipapirregisteret."
+                    ]
+                },
+                {
+                    "name": "§ 8-3",
+                    "title": "Vederlag",
+                    "sections": [
+                        "Verdipapirregisteret kan kreve vederlag for utlevering av opplysninger til kontohavere, rettighetshavere og andre, herunder ved utlevering av endringsmeldinger og beholdningsoversikter. Dette gjelder likevel ikke for opplysninger offentlige myndigheter har krav på i medhold av lov eller forskrift."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9. Erstatningsansvar, sikkerhetsstillelse, klage",
+            "paragraphs": [
+                {
+                    "name": "§ 9-1",
+                    "title": "Registerets erstatningsansvar",
+                    "sections": [
+                        "Verdipapirregisteret er ansvarlig for økonomisk tap noen påføres som følge av feil som er oppstått i tilknytning til registreringsvirksomheten. Dette gjelder ikke dersom registeret godtgjør at feilen skyldes forhold utenfor registerets kontroll som registeret ikke med rimelighet kunne ventes å unngå eller overvinne følgene av.",
+                        "For annet økonomisk tap er verdipapirregisteret ansvarlig dersom tapet skyldes uaktsomhet fra registerets side eller hos noen registeret svarer for.",
+                        "Erstatningsansvar som nevnt i første ledd omfatter kun direkte tap, og slikt ansvar er i alle tilfelle begrenset til 500 millioner kroner for samme feil."
+                    ]
+                },
+                {
+                    "name": "§ 9-2",
+                    "title": "Sikkerhetsstillelse",
+                    "sections": [
+                        "Verdipapirregisterets erstatningsansvar etter § 9-1 skal til enhver tid være dekket av forsikring eller annen garantistillelse til fordel for tredjemann. Sikkerhetsstillelsen skal være godkjent av Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 9-3",
+                    "title": "Skadelidtes medvirkning",
+                    "sections": [
+                        "Har skadelidte selv forsettlig eller uaktsomt forårsaket eller medvirket til skaden, kan erstatningen nedsettes eller bortfalle."
+                    ]
+                },
+                {
+                    "name": "§ 9-4",
+                    "title": "Behandling av erstatningskrav",
+                    "sections": [
+                        "Krav om erstatning skal behandles etter reglene i § 9-5. Erstatningskrav skal fremsettes overfor verdipapirregisteret. Oppnås det ikke enighet mellom partene om kravet, bringes saken inn for klagenemnden."
+                    ]
+                },
+                {
+                    "name": "§ 9-5",
+                    "title": "Klage",
+                    "sections": [
+                        "Verdipapirregisteret skal opprette en uavhengig klagenemnd som behandler klager over avgjørelser som er truffet av verdipapirregisteret eller en representant for registeret. Klagen skal fremsettes overfor verdipapirregisteret. Verdipapirregisteret kan selv ta klagen til følge eller fremsette forslag til løsning overfor klageren.",
+                        "Regler om klagenemndens oppnevning og sammensetning skal fastsettes av verdipapirregisteret.",
+                        "Klagenemnden skal avvise klagen dersom saken klagen gjelder er brakt inn for domstolene.",
+                        "Enhver med rettslig klageinteresse kan klage. Klagenemnden kan beslutte at en klage ikke skal tas under behandling, dersom den finner at det spørsmålet klagen reiser bør fremmes til avgjørelse for domstolene.",
+                        "Klagen må fremsettes innen tre uker fra den dag klageren har eller burde ha fått kjennskap til det forhold klagen gjelder.",
+                        "Klagenemnden kan etter begjæring fra klageren beslutte at klagen skal registreres på samme måte som en begrenset rettighet.",
+                        "Dersom noen har opptrådt som motpart eller kan betraktes som motpart i klagesaken, skal vedkommende så vidt mulig gis anledning til innen rimelig tid å uttale seg før klagenemnden treffer avgjørelse i klagesaken.",
+                        "Melding om at en avgjørelse er påklaget skal sendes til alle med registrerte rettigheter i de finansielle instrumentene klagen gjelder dersom klagen kan ha betydning for vedkommendes rettigheter. Tilsvarende melding skal sendes registrerte rettighetshavere og de som har opptrådt som part i klagesaken når denne er avgjort.",
+                        "Bringes klagenemndens avgjørelse inn for domstolene skal megling i forliksrådet ikke finne sted."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10. Tilsyn og straff",
+            "paragraphs": [
+                {
+                    "name": "§ 10-1",
+                    "title": "Tilsyn",
+                    "sections": [
+                        "Foretak som driver verdipapirregister er underlagt tilsyn av Kredittilsynet etter lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel mv."
+                    ]
+                },
+                {
+                    "name": "§ 10-2",
+                    "title": "Opplysningsplikt overfor Kredittilsynet",
+                    "sections": [
+                        "Verdipapirregister og selskap i samme konsern har plikt til å gi de opplysninger som Kredittilsynet krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Kredittilsynet dokumentasjon som angår virksomheten. Tilsvarende gjelder overfor den som handler på vegne av verdipapirregisteret."
+                    ]
+                },
+                {
+                    "name": "§ 10-3",
+                    "title": "Pålegg fra Kredittilsynet",
+                    "sections": [
+                        "Kredittilsynet kan gi verdipapirregister pålegg om retting dersom foretaket opptrer i strid med lov, bestemmelser gitt med hjemmel i lov eller egne regler og forretningsvilkår. Tilsvarende gjelder overfor den som handler på vegne av verdipapirregisteret. Tilsvarende gjelder også dersom foretakets ledelse eller styremedlemmer ikke oppfyller kravene til hederlig vandel og erfaring som fastsatt i § 4-1."
+                    ]
+                },
+                {
+                    "name": "§ 10-4",
+                    "title": "Straff",
+                    "sections": [
+                        "Tillitsvalgte, ansatte og revisor i foretak som driver verdipapirregister og som forsettlig eller uaktsomt overtrer bestemmelsene i denne lov eller i forskrifter gitt med hjemmel i loven, eller som medvirker til slik overtredelse, straffes med bøter og under særlig skjerpende omstendigheter med fengsel inntil tre måneder, hvis handlingen ikke går under noen strengere straffebestemmelse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11. Avvikling mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 11-1",
+                    "title": "Avvikling",
+                    "sections": [
+                        "Vedtak om å oppløse eller avvikle virksomheten i et verdipapirregister treffes av generalforsamlingen med flertall som for vedtektsendring, med mindre noe annet følger av lov. Vedtaket skal godkjennes av departementet, som kan sette vilkår for godkjennelsen.",
+                        "Vedtak om oppløsning eller avvikling av et verdipapirregister skal offentliggjøres i Norsk lysingsblad og minst to riksdekkende aviser."
+                    ]
+                },
+                {
+                    "name": "§ 11-2",
+                    "title": "Meldeplikt",
+                    "sections": [
+                        "Styret og daglig leder i et verdipapirregister har hver for seg plikt til å melde fra til Kredittilsynet hvis det er grunn til å frykte at:",
+                        "1.det vil kunne oppstå svikt i verdipapirregisterets evne til å oppfylle sine forpliktelser etterhvert som de forfaller,",
+                        "2.det er inntrådt forhold som kan medføre alvorlig tillitssvikt eller tap som vesentlig vil svekke eller true soliditeten,",
+                        "3.verdipapirregisteret ikke vil være i stand til å utføre konsesjonspliktige registreringsfunksjoner.",
+                        "Hvis verdipapirregisterets revisor blir kjent med forhold nevnt i første ledd, skal denne gi slik melding til Kredittilsynet som nevnt i første ledd, med mindre vedkommende har fått bekreftelse fra Kredittilsynet på at slik melding allerede er gitt.",
+                        "Meldingen skal inneholde opplysninger om institusjonens likviditets- og kapitalsituasjon, og gjøre rede for grunnen til vanskelighetene."
+                    ]
+                },
+                {
+                    "name": "§ 11-3",
+                    "title": "Offentlig administrasjon",
+                    "sections": [
+                        "Reglene i lov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner kapittel 4 gjelder så langt de passer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 12. Ikrafttredelses- og overgangsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 12-1",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer. På samme tid oppheves lov 14. juni 1985 nr. 62 om Verdipapirsentral. Verdipapirsentralen må innen ett år fra lovens ikrafttredelse søke om tillatelse etter denne lovs kapittel 3. Departementet kan gi nærmere overgangsregler."
+                    ]
+                },
+                {
+                    "name": "§ 12-2",
+                    "title": "Omdannelse av Verdipapirsentralen",
+                    "sections": [
+                        "Verdipapirsentralen skal innen to år fra ikrafttredelsen av loven her omdannes til allmennaksjeselskap, jf. lov 13. juni 1997 nr. 45 om allmennaksjeselskaper.",
+                        "Omdannelse skal skje ved at Verdipapirsentralens eiendeler og forpliktelser overdras til et nystiftet allmennaksjeselskap mot at Verdipapirsentralen får aksjene i selskapet som vederlag. Kreditorer etter de overførte forpliktelser kan ikke kreve dekning på grunn av omdannelsen eller motsette seg omdannelsen.",
+                        "Aksjene i det nystiftede selskapet eller i foretak som nevnt i § 5-2 tredje ledd, skal selges. Den del av vederlaget ved salget som svarer til bokført egenkapital i Verdipapirsentralen skal overføres til et finansmarkedsfond. Den overskytende del av vederlaget overføres til staten. Verdipapirsentralen skal deretter avvikles.",
+                        "Bokført egenkapital som nevnt i tredje ledd skal fremgå av en avslutningsbalanse utarbeidet av Verdipapirsentralen tidligst fire uker før overdragelse som nevnt i annet ledd. Avslutningsbalansen skal utarbeides etter de samme prinsipper som siste årsregnskap til Verdipapirsentralen, og være godkjent av en revisor. I tillegg skal avslutningsbalansen godkjennes av departementet.",
+                        "Verdipapirsentralen skal utarbeide en plan for omdannelsen som skal godkjennes av departementet. Departementet kan i forskrift gi nærmere bestemmelser om omdannelsen og salg av aksjene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 13. Endringer i andre lover",
+            "paragraphs": [
+                {
+                    "name": "§ 13-1",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven trår i kraft gjøres følgende endringer i andre lover:",
+                        "1. I lov 17. juli 1953 nr. 2 om erstatning for krigsskade på eiendom og interesse skal § 3 tredje ledd tredje punktum lyde:",
+                        "Departementet kan også gi samtykke til at det for lånet utstedes ihendehaverobligasjoner eller obligasjoner registrert i et verdipapirregister.",
+                        "2. I lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven) gjøres følgende endringer:",
+                        "Ny § 1 første ledd nr. 11 skal lyde:",
+                        "verdipapirregistre",
+                        "§ 1 første ledd nr. 11 til 15 blir ny nr. 12 til 16.",
+                        "§ 7 første ledd tredje punktum skal lyde:",
+                        "Taushetsplikten etter denne bestemmelse og forvaltningslovens bestemmelser gjelder ikke overfor Norges Bank eller tilsynsmyndigheter i andre EØS-land som fører tilsyn som nevnt i § 1 første ledd nr. 1-6 eller nr. 14, eller tilsyn med forvaltningsselskap for verdipapirfond.",
+                        "§ 7 første ledd fjerde punktum skal lyde:",
+                        "Taushetsplikten er heller ikke til hinder for at Kredittilsynet gir opplysninger til børs med tillatelse etter børsloven § 1-2, et verdipapirregister eller oppgjørssentral som nevnt i verdipapirhandelloven §§ 2-3 eller 4-8, om forhold som er nødvendig for utførelsen av disse institusjonenes lovbestemte oppgaver.",
+                        "§ 9 annet ledd skal lyde:",
+                        "Fordelingen innen de gruppene som er nevnt i § 1 første ledd nr. 1, 2, 6, 8 og 15 skjer på grunnlag av størrelsen av institusjonenes forvaltningskapital ved begynnelsen av året eller på det tidspunkt institusjonen kommer under tilsyn, likevel slik at departementet for hvert år fastsetter et minste og et høyeste beløp som kan utliknes på den enkelte institusjon innen hver gruppe. For en forretningsbank som er stiftet etter forretningsbankloven § 4 tredje ledd, kan det fastsettes et særskilt beløp etter omfanget av tilsynsarbeidet. Fordelingen innen de gruppene som er nevnt under § 1 første ledd nr. 3, 4 og 12 skjer på grunnlag av størrelsen av premieinntekt for direkte forsikring avsluttet i Norge. Departementet kan likevel for hvert år fastsette et minste og et høyeste beløp som kan utliknes på den enkelte institusjon innen hver gruppe. Fordelingen innen de grupper som omfattes av § 1 første ledd nr. 5, 7, 9, 10, 11, 13 og 14 skjer etter regler som fastsettes av departementet. Når tilsynet følger av § 1 annet ledd eller annen særskilt lovhjemmel, jf § 1 første ledd nr. 16, skjer fordelingen innen den enkelte gruppe etter regler som fastsettes av departementet. Utlikningen skal utføres av tilsynet, men skal godkjennes av departementet.",
+                        "3. I lov 25. juni 1965 nr. 2 om adgang til regulering av penge- og kredittforholdene skal § 15 lyde:",
+                        "Kongen kan ved forskrift bestemme at lån mot utstedelse av ihendehaverobligasjoner eller obligasjoner registrert i et verdipapirregister, eller lån som ellers gis av flere långivere sammen, ikke skal kunne tas opp uten etter samtykke fra Kongen.",
+                        "4. I lov 18. mai 1979 nr. 18 om foreldelse av fordringer skal § 5 nr. 1 lyde:",
+                        "1.Når det er utstedt gjeldsbrev for en fordring, eller fordringen er registrert i et verdipapirregister, er foreldelsesfristen 10 år, bortsett fra senere forfalt rente eller selskapsutbytte og senere forfalte terminytelser som omhandlet i § 6.",
+                        "5. I lov 8. februar 1980 nr. 2 om pant gjøres følgende endringer:",
+                        "§ 1-1 fjerde ledd annet punktum skal lyde:",
+                        "Verdipapirregistre og Løsøreregisterets motorvognregister regnes ikke som realregistre.",
+                        "§ 1-6 annet ledd første punktum skal lyde:",
+                        "Den som har pant i verdipapirer, finansielle instrumenter registrert i et verdipapirregister, innløsningspapirer eller enkle pengekrav, kan kreve og motta renter, utbytte og avdrag som forfaller mens panteretten består.",
+                        "Overskriften til kapittel 4 skal lyde:",
+                        "Kap. 4. Avtalepant i verdipapirer, finansielle instrumenter registrert i et verdipapirregister, aksjer, enkle pengekrav m.m.",
+                        "Overskriften til § 4-1 skal lyde:",
+                        "Verdipapir og finansielle instrumenter registrert i et verdipapirregister",
+                        "§ 4-1 tredje ledd skal lyde:",
+                        "(3) Finansielle instrumenter registrert i et verdipapirregister kan pantsettes ved registrering i verdipapirregisteret, jf verdipapirregisterloven.",
+                        "Overskriften til § 4-2a skal lyde:",
+                        "Aksjer som ikke er registrert i et verdipapirregister",
+                        "§ 4-2a første ledd skal lyde:",
+                        "(1) Aksjer som ikke er registrert i et verdipapirregister, kan pantsettes med mindre noe annet er fastsatt i selskapets vedtekter.",
+                        "§ 4-4 annet ledd skal lyde:",
+                        "(2) Som enkelt pengekrav regnes pengekrav som ikke er knyttet til verdipapir, finansielle instrumenter registrert i et verdipapirregister eller innløsningspapir.",
+                        "Overskriften til § 5-7 skal lyde:",
+                        "Utlegg i verdipapir, finansielle instrumenter registrert i et verdipapirregister, innløsningspapir, aksjer eller enkle krav",
+                        "§ 5-7 tredje ledd skal lyde:",
+                        "(3) Utleggspant i aksjer som ikke er registrert i et verdipapirregister, får rettsvern etter reglene i § 4-2a annet ledd.",
+                        "§ 5-7 sjette ledd skal lyde:",
+                        "(6) Utleggspant i finansielle instrumenter registrert i et verdipapirregister får rettsvern ved registrering i verdipapirregisteret, jf verdipapirregisterloven.",
+                        "6. I lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) gjøres følgende endringer:",
+                        "§ 6-5 nr. 1 skal lyde:",
+                        "1.Verdipapirregistre skal ukrevet gi ligningsmyndighetene oppgave som viser den enkelte investors samlede beholdning av finansielle instrumenter pr 1. januar og 31. desember siste år, eller ved opprettelsen eller oppgjør av kontoen i løpet av året. Oppgaven skal også vise årlig avkastning på finansielle instrumenter.",
+                        "§ 6-5 nr. 2 skal lyde:",
+                        "2.Departementet kan ved forskrift bestemme at verdipapirregistre ukrevet eller etter ligningsmyndighetenes anmodning skal gi oppgave som viser registrerte transaksjoner på en eller flere av investors verdipapirkonti i en bestemt periode.",
+                        "I § 6-16 bokstav c skal «Verdipapirsentralen» endres til «verdipapirregistre».",
+                        "7. I lov 12. juni 1981 nr. 52 om verdipapirfond gjøres følgende endringer:",
+                        "§ 1-2 første ledd nr. 4 skal lyde:",
+                        "depotmottaker: foretak under offentlig tilsyn som oppbevarer verdiene som inngår i et verdipapirfond og mottar innbetalinger og forestår utbetalinger for fondets regning.",
+                        "§ 5-1 første ledd første punktum skal lyde:",
+                        "Alle finansielle instrumenter, likvider og andre aktiva som inngår i et verdipapirfond, skal oppbevares eller føres på konti i et verdipapirregister av én depotmottaker.",
+                        "§ 6-4 nytt fjerde ledd skal lyde:",
+                        "En forvalter kan føres inn i den fortegnelse som er nevnt i første ledd i stedet for andelseier etter nærmere regler gitt av Kongen.",
+                        "8. I lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) gjøres følgende endringer:",
+                        "§ 36 første ledd nr. 3 skal lyde:",
+                        "3)et verdipapirregister, dersom det er registrert rettigheter der som gjeldsnemnda mener tilhører skyldneren, og",
+                        "§ 79 tredje ledd nr. 2 skal lyde:",
+                        "2)et verdipapirregister, dersom det er registrert rettigheter der som bostyreren mener er omfattet av boets beslagsrett.",
+                        "9. I lov 21. juni 1985 nr. 78 om registrering av foretak skal § 5-3 tredje punktum lyde:",
+                        "Gjelder registerførerens vedtak emisjon av finansielle instrumenter, skal også verdipapirregisteret underrettes.",
+                        "10. I lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner skal § 2-15 første ledd bokstav b lyde:",
+                        "b)pant i bankinnskudd, ihendehaverobligasjoner eller obligasjoner registrert i et verdipapirregister,",
+                        "11. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven) gjøres følgende endringer:",
+                        "§ 1-8 første ledd annet punktum skal lyde:",
+                        "Verdipapirregistre og Løsøreregisterets motorvognregister regnes ikke som realregistre.",
+                        "§ 7-13 første ledd annet punktum skal lyde:",
+                        "Det samme gjelder realregistrerte formuesgoder, finansielle instrumenter registrert i et verdipapirregister, aksjer og adkomstdokumenter til leierett til husrom som saksøkte er registrert eller meldt som eier av.",
+                        "§ 7-14 annet punktum skal lyde:",
+                        "Det samme gjelder realregistrerte formuesgoder, finansielle instrumenter registrert i et verdipapirregister, aksjer og adkomstdokumenter til leierett til husrom som en tredjeperson er registrert eller meldt som eier av.",
+                        "§ 7-20 fjerde ledd skal lyde:",
+                        "Ved utlegg i finansielle instrumenter som er registrert i et verdipapirregister, registrerer namsmannen omgående at bare namsmannen kan disponere kontoen.",
+                        "§ 7-20 femte ledd første punktum skal lyde:",
+                        "Ved utlegg i aksjer som ikke er registrert i et verdipapirregister, underretter namsmannen snarest selskapet og forbyr selskapet å betale eller yte til saksøkte.",
+                        "Overskrift til kapittel 10 skal lyde:",
+                        "Tvangsdekning i finansielle instrumenter, pengekrav m m",
+                        "§ 10-3 første ledd tredje punktum skal lyde:",
+                        "Ved begjæring om dekning i finansielle instrumenter som er registrert i et verdipapirregister eller immaterialrettigheter som kan registreres i særskilt register, skal utskrift fra vedkommende register legges ved begjæringen istedenfor utskrift fra Løsøreregisteret.",
+                        "Overskrift til kapittel 10 II skal lyde:",
+                        "Tvangsdekning i finansielle instrumenter",
+                        "§ 10-4 første ledd første punktum skal lyde:",
+                        "Tvangsdekning i omsettelige verdipapirer som nevnt i verdipapirhandelloven § 1-2 tredje ledd og i finansielle instrumenter som er registrert i et verdipapirregister, skjer ved salg av formuesgodet gjennom medhjelper.",
+                        "§ 10-5 første ledd skal lyde:",
+                        "Når tvangssalg av finansielle instrumenter er besluttet, skal namsmannen registrere at bare namsmannen kan disponere kontoen hvis dette ikke allerede er gjort.",
+                        "§ 15-9 fjerde ledd annet punktum skal lyde:",
+                        "Tilsvarende gjelder for rettigheter registrert i et verdipapirregister eller i et særskilt register for immaterialrettigheter.",
+                        "12. ......",
+                        "13. I lov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner skal § 4-5 tredje ledd annet punktum lyde:",
+                        "Vedtaket skal meldes til Foretaksregistret, registreres i et verdipapirregister og tinglyses i de rettskretser der institusjonen har fast eiendom.",
+                        "14. I lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) gjøres følgende endringer:",
+                        "§ 2-2 første ledd nr. 9 skal lyde:",
+                        "9.om selskapets aksjer skal registreres i et verdipapirregister.",
+                        "Overskriften til § 4-4 skal lyde:",
+                        "Registrering av aksjer i et verdipapirregister",
+                        "§ 4-4 skal lyde:",
+                        "Er selskapets aksjer registrert i et verdipapirregister, gjelder reglene i lov om allmennaksjeselskaper om slik registrering for aksjene.",
+                        "Overskriften til § 4-11 skal lyde:",
+                        "Overgang fra aksjeeierbok til aksjeeierregistrering i et verdipapirregister og omvendt",
+                        "§ 4-11 første ledd første punktum skal lyde:",
+                        "Dersom et aksjeselskap har besluttet at selskapets aksjer skal registreres i et verdipapirregister, skal selskapet varsle om at den som aksjeeierboken angir som aksjeeier, vil bli registrert som eier for det antall aksjer aksjeeierboken viser, med mindre det godtgjøres at en annen er aksjeeier.",
+                        "§ 4-11 tredje ledd første punktum skal lyde:",
+                        "Dersom et aksjeselskap har besluttet at selskapets aksjer ikke lenger skal være registrert i et verdipapirregister, skal selskapet varsle om at den som er angitt som aksjeeier i aksjeeierregisteret, vil bli innført i aksjeeierboken som eier for det antall aksjer aksjeeierregisteret viser, med mindre det godtgjøres at en annen er aksjeeier.",
+                        "§ 4-11 tredje ledd fjerde punktum skal lyde:",
+                        "Rettigheter i en aksje som er registrert i et verdipapirregister, anses ved overgangen til aksjeeierboken som meldt til selskapet med den prioritet rettighetene har etter registreringen i verdipapirregisteret.",
+                        "§ 4-11 fjerde ledd skal lyde:",
+                        "Kongen kan gi forskrift om fremgangsmåten ved overgang fra aksjeeierbok til aksjeeierregister i et verdipapirregister og ved overgang fra aksjeeierregister i et verdipapirregister til aksjeeierbok.",
+                        "15. I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven) gjøres følgende endringer:",
+                        "§ 4-4 første ledd skal lyde:",
+                        "Når et allmennaksjeselskap er stiftet, skal styret uten opphold sørge for at det opprettes et aksjeeierregister for selskapet i et verdipapirregister. Opprettes aksjeeierregisteret før selskapet er registrert i Foretaksregisteret, skal dette angis. Når registrering i Foretaksregisteret er foretatt, skal styret straks melde dette til verdipapirregisteret.",
+                        "§ 4-7 skal lyde:",
+                        "Tidligere eier skal sørge for at det straks etter eierskifte sendes melding til verdipapirregisteret om dette.",
+                        "§ 4-8 annet ledd annet punktum skal lyde:",
+                        "Når registrering i Foretaksregisteret er foretatt, skal styret straks melde dette til verdipapirregisteret.",
+                        "§ 4-10 første ledd nye tredje og fjerde punktum skal lyde:",
+                        "Et annet norsk verdipapirregister kan etter forskrift gitt av Kongen opprette et delregister som føres inn i aksjeeierregisteret på vegne av aksjeeier. § 4-5 gjelder tilsvarende for delregisteret.",
+                        "§ 4-11 første ledd skal lyde:",
+                        "(1) Selskapet skal ha et tegningsrettsregister i det verdipapirregisteret selskapets aksjer er registrert i.",
+                        "§ 4-11 tredje ledd første punktum skal lyde:",
+                        "Tegningsrett som nevnt skal også registreres på konto som rettighetshaveren har i et verdipapirregister.",
+                        "§ 4-13 første ledd skal lyde:",
+                        "Om rettsvirkninger av registrering i et verdipapirregister gjelder reglene i verdipapirregisterloven §§ 7-1, 7-2 og 7-4.",
+                        "§ 4-13 annet ledd annet punktum skal lyde:",
+                        "Annen utdeling enn utbytte er likevel bare frigjørende i forhold til en senere godtroende erverver dersom den er registrert på aksjeeierens konto i et verdipapirregister.",
+                        "§ 4-13 tredje ledd annet punktum nr. 2 skal lyde:",
+                        "2.unnlatt registrering skyldes feil i et verdipapirregister.",
+                        "§ 4-16 første ledd annet punktum skal lyde:",
+                        "Styret skal snarest mulig etter at ervervet er meldt til verdipapirregisteret, avgjøre om samtykke skal gis.",
+                        "§ 4-16 fjerde ledd skal lyde:",
+                        "(4) Er erververen ikke underrettet om at samtykke er nektet innen to måneder etter at melding om ervervet kom inn til verdipapirregisteret, anses samtykke å være gitt.",
+                        "§ 4-20 første punktum skal lyde:",
+                        "Når verdipapirregisteret mottar melding etter § 4-7, skal det straks varsle selskapet.",
+                        "§ 4-23 første ledd annet punktum skal lyde:",
+                        "Meldingen må være kommet frem til selskapet senest to måneder etter at verdipapirregisteret eller i tilfelle selskapet fikk melding om eierskiftet som nevnt i § 4-20.",
+                        "§ 10-6 skal lyde:",
+                        "Fortrinnsrett til å tegne nye aksjer skal innføres i tegningsrettsregisteret i verdipapirregisteret etter reglene i § 4-11.",
+                        "§ 12-6 nr. 4 annet punktum skal lyde:",
+                        "Utdelinger som skjer i forbindelse med kapitalnedsettingen, skal registreres på aksjeeierens konto i verdipapirregisteret.",
+                        "§ 13-18 tredje ledd skal lyde:",
+                        "(3) Utbetaling av vederlag i annet enn aksjer til aksjeeiere i selskap som er registrert i et verdipapirregister, skal registreres på aksjeeierens konto i verdipapirregisteret.",
+                        "§ 13-18 fjerde ledd tredje punktum skal lyde:",
+                        "Har det eller de overdragende selskapenes aksjer vært registrert i et verdipapirregister, skal det overtakende selskapet også oppbevare en utskrift av aksjeeierregisteret, slik dette er ved registreringen av fusjonen i Foretaksregisteret.",
+                        "§ 16-9 tredje ledd skal lyde:",
+                        "(3) Utdelingen skal registreres på aksjeeierens konto i verdipapirregisteret.",
+                        "16. I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:",
+                        "Overskriften til § 9-6 skal lyde:",
+                        "Handel i finansielle instrumenter som er registrert i et verdipapirregister",
+                        "§ 9-6 skal lyde:",
+                        "Verdipapirforetak skal registrere handler med registrerte finansielle instrumenter i et verdipapirregister samme dag som avtale inngås.",
+                        "§ 12-2 fjerde ledd skal lyde:",
+                        "Kredittilsynet kan uten hinder av taushetsplikt kreve å få de opplysninger det finner påkrevet i sin kontrollvirksomhet fra et verdipapirregister på den måten Kredittilsynet finner hensiktsmessig.",
+                        "17. I lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) skal § 2-4 annet ledd nr. 4 lyde:",
+                        "4.oppgaver fra et verdipapirregister over verdipapirbeholdning.",
+                        "18. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
+                        "Overskriften til § 4-14 skal lyde:",
+                        "Ihendehaverobligasjon, obligasjon registrert i et verdipapirregister og lignende verdipapir",
+                        "§ 4-14 skal lyde:",
+                        "Ihendehaverobligasjon, obligasjon registrert i et verdipapirregister og lignende verdipapir verdsettes til kursverdien, eller til antatt omsetningsverdi dersom kursen ikke er notert.",
+                        "§ 10-34 fjerde ledd annet punktum skal lyde:",
+                        "Er selskapet registrert i et verdipapirregister, jf verdipapirregisterloven §§ 2-1 og 2-2, kan melding sendes av verdipapirregisteret.",
+                        "19. I lov 17. desember 1999 nr. 95 om betalingssystemer m.v. gjøres følgende endringer:",
+                        "§ 4-4 annet ledd skal lyde:",
+                        "Dersom finansielle instrumenter som nevnt i verdipapirhandelloven § 1-2 annet ledd er stilt som sikkerhet etter første ledd, og retten til de finansielle instrumentene er registrert i et register, en konto eller i et verdipapirregister i en EØS-stat, skal lovgivningen i dette landet være bestemmende for rettighetene til innehaver av sikkerhetsstillelsen.",
+                        "20. I lov 17. november 2000 nr. 80 om børsvirksomhet m.m. (børsloven) gjøres følgende endringer:",
+                        "§ 3-6 fjerde ledd skal lyde:",
+                        "Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra taushetsplikten overfor annen børs, verdipapirregister, oppgjørssentral, autorisert markedsplass og utenlandske tilsynsmyndigheter.",
+                        "§ 5-11 annet ledd første punktum skal lyde:",
+                        "Børs kan kreve at verdipapirregistre og oppgjørssentral uten hinder av taushetsplikt gir slike opplysninger som er nødvendige for at børsen skal kunne oppfylle sine plikter etter første ledd.",
+                        "I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:",
+                        "§ 1-5 skal lyde:",
+                        "Med oppgjørsvirksomhet menes yrkesmessig virksomhet som består i å tre inn som part eller på annen måte garantere for oppfyllelse av avtaler som gjelder handel med finansielle instrumenter som nevnt i § 1-2 annet ledd og forpliktelser vedrørende lån av finansielle instrumenter.",
+                        "§ 3-2 første ledd skal lyde:",
+                        "Fører et erverv til at erververens andel av aksjer og/eller rettigheter til aksjer som er notert på norsk børs når opp til eller passerer 1/20, 1/10, 1/5, 1/3, 1/2, 2/3 eller 9/10 av aksjekapitalen eller en tilsvarende andel av stemmene i selskapet, skal erververen melde ervervet til børsen.",
+                        "§ 3-2 nytt sjuende ledd skal lyde:",
+                        "Første til sjette ledd gjelder tilsvarende for grunnfondsbevis.",
+                        "§ 3-2 nytt åttende ledd skal lyde:",
+                        "Departementet kan i forskrift gjøre unntak fra reglene i denne paragrafen for verdipapirforetak.",
+                        "§ 9-4 tredje ledd annet punktum skal lyde:",
+                        "Denne bestemmelsen gjelder ikke for tegningsretter eller kjøpsretter som utstedes på like vilkår, samtidig og i en gitt mengde dersom utsteder eier de underliggende verdipapirene, eller der utstedelse av kjøpsretter eller salgsretter oppfyller nærmere vilkår fastsatt i forskrift av departementet.",
+                        "I lov 17. desember 1999 nr. 95 om betalingssystemer mv. gjøres følgende endringer:",
+                        "§ 4-2 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 4-2",
+                    "title": "Rettsvern for avtaler om avregning og oppgjør",
+                    "sections": [
+                        "Avtaler om avregning og oppgjør kan gjøres gjeldende etter sitt innhold selv om det innledes insolvensbehandling hos en deltaker i systemet når oppdraget er lagt inn i systemet før det er innledet insolvensbehandling.",
+                        "Tidspunktet for når et oppdrag skal anses lagt inn i systemet skal avtales mellom deltakerne i systemet. Det samme gjelder tidspunktet for når retten til å tilbakekalle ordrer er bortfalt. Norges Bank kan for interbanksystemer fastsette nærmere regler om når oppdrag skal anses lagt inn i systemet etter første ledd. Kredittilsynet kan fastsette slike regler for verdipapiroppgjørssystemer.",
+                        "Dersom et oppdrag blir lagt inn i systemet etter at det er innledet insolvensbehandling etter første ledd, og oppdraget gjennomføres samme dag som insolvensbehandling innledes, gjelder første ledd tilsvarende dersom avregningssentralen, sentral motpart eller oppgjørsbanken etter oppgjørstidspunktet kan godtgjøre at de ikke hadde eller burde hatt kunnskap om at insolvensbehandling var innledet da oppdraget ble lagt inn i systemet.",
+                        "Endringene under II og III trer i kraft fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid. Kongen kan gi overgangsbestemmelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

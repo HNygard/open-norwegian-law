@@ -1,0 +1,350 @@
+{
+    "lawId": "LOV-2014-06-20-42",
+    "lawName": "Lov om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven)",
+    "shortName": "Pasientjournalloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1 Generelle bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Formålet med loven er at behandling av helseopplysninger skal skje på en måte som",
+                        "a)gir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og",
+                        "b)sikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I denne loven forstås med:",
+                        "a)helseopplysninger: taushetsbelagte opplysninger etter helsepersonelloven § 21, og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,",
+                        "b)behandling av helseopplysninger: enhver bruk av helseopplysninger, som for eksempel innsamling, registrering, sammenstilling, lagring og utlevering, eller en kombinasjon av slike bruksmåter,",
+                        "c)helsehjelp: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. helsepersonelloven § 3 første ledd,",
+                        "d)behandlingsrettet helseregister: pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner,",
+                        "e)databehandlingsansvarlig: den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, og den som i eller i medhold av lov er pålagt et databehandlingsansvar."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Saklig virkeområde",
+                    "sections": [
+                        "Loven gjelder all behandling av helseopplysninger som er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp til enkeltpersoner.",
+                        "Kongen i statsråd kan i forskrift eller enkeltvedtak bestemme at loven helt eller delvis skal gjelde for behandling av helseopplysninger til andre formål enn helsehjelp."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Geografisk virkeområde",
+                    "sections": [
+                        "Loven gjelder for databehandlingsansvarlige som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler om behandling av helseopplysninger for disse områdene.",
+                        "Loven gjelder også for databehandlingsansvarlige som er etablert i stater utenfor EØS-området, dersom den databehandlingsansvarlige benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre personopplysninger via Norge. Databehandlingsansvarlige skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den databehandlingsansvarlige, gjelder også for representanten."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Forholdet til personopplysningsloven",
+                    "sections": [
+                        "Personopplysningsloven gjelder så langt ikke annet følger av denne loven."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Pasientjournaler og andre behandlingsrettede helseregistre",
+            "paragraphs": [
+                {
+                    "name": "§ 6",
+                    "title": "Rett til å behandle helseopplysninger",
+                    "sections": [
+                        "Behandlingsrettede helseregistre må ha hjemmel i lov. Konsesjonsplikt etter personopplysningsloven § 33 gjelder ikke for behandling av helseopplysninger som skjer med hjemmel i denne loven.",
+                        "Helseopplysninger i behandlingsrettede helseregistre kan bare behandles når det er nødvendig for å kunne gi helsehjelp, eller for administrasjon, internkontroll eller kvalitetssikring av helsehjelpen.",
+                        "Ved behandling av helseopplysninger til internkontroll eller kvalitetssikring skal opplysningene så langt som mulig behandles uten at den registrertes navn og fødselsnummer fremgår."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Krav til behandlingsrettede helseregistre",
+                    "sections": [
+                        "Behandlingsrettede helseregistre skal understøtte pasientforløp i klinisk praksis og være lett å bruke og å finne frem i.",
+                        "Behandlingsrettede helseregistre skal være utformet og organisert slik at krav fastsatt i eller i medhold av lov kan oppfylles. Dette gjelder blant annet regler om:",
+                        "a)taushetsplikt, jf. § 15,",
+                        "b)forbud mot urettmessig tilegnelse av helseopplysninger, jf. § 16,",
+                        "c)retten til å motsette seg behandling av helseopplysninger, jf. § 17,",
+                        "d)retten til informasjon og innsyn, jf. § 18,",
+                        "e)helsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39,",
+                        "f)tilgjengeliggjøring av helseopplysninger, jf. §§ 19 og 20 og",
+                        "g)informasjonssikkerhet og internkontroll, jf. §§ 22 og 23.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om plikt til å ha elektroniske systemer, om godkjenning av programvare og sertifisering og om bruk av standarder, standardsystemer, kodeverk og klassifikasjonssystemer."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Virksomheters plikt til å sørge for behandlingsrettede helseregistre",
+                    "sections": [
+                        "Virksomheter som yter helsehjelp skal sørge for å ha behandlingsrettede helseregistre for gjennomføring av helsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Samarbeid mellom virksomheter om behandlingsrettede helseregistre",
+                    "sections": [
+                        "To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. § 8. Virksomhetene skal da inngå skriftlig avtale om",
+                        "a)hva samarbeidet omfatter,",
+                        "b)hvordan pasientens eller brukerens rettigheter skal ivaretas,",
+                        "c)hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og",
+                        "d)databehandlingsansvar.",
+                        "Departementet kan i forskrift eller enkeltvedtak fastsette vilkår for slikt samarbeid."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Etablering av nasjonale behandlingsrettede helseregistre",
+                    "sections": [
+                        "Kongen i statsråd kan gi forskrift om etablering av nasjonale behandlingsrettede helseregistre som på bestemte områder kommer i stedet for registre etter §§ 8 og 9.",
+                        "Forskriften skal gi nærmere bestemmelser om drift, behandling og sikring av helseopplysningene, om databehandlingsansvar, om tilgangskontroll og om hvordan rettighetene til pasienten eller brukeren skal ivaretas."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Systemer for saksbehandling, administrasjon mv. av helsehjelp",
+                    "sections": [
+                        "Kongen i statsråd kan gi forskrift om behandling av helseopplysninger for saksbehandling, administrasjon, oppgjør og gjennomføring av helsehjelp til enkeltpersoner.",
+                        "Taushetsplikt er ikke til hinder for behandlingen av opplysningene. Helseopplysningene kan behandles uten hensyn til samtykke fra pasienten. Graden av personidentifikasjon skal ikke være større enn nødvendig for det aktuelle formålet. Opplysninger om diagnose eller sykdom kan bare behandles når det er nødvendig for å nå formålet med behandlingen av opplysningen.",
+                        "Forskriften skal gi nærmere bestemmelser om behandlingen av opplysningene, om hvilke opplysninger som kan behandles, om den enkeltes rett til å motsette seg behandling av opplysningene og om databehandlingsansvar."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Reseptformidleren",
+                    "sections": [
+                        "Kongen i statsråd kan gi forskrift med nærmere bestemmelser om behandling av helseopplysninger i nasjonal database for resepter (Reseptformidleren).",
+                        "Opplysningene kan behandles uten samtykke fra pasienten.",
+                        "Forskriften skal gi nærmere bestemmelser om formålet med behandlingen av opplysningene, hvilke opplysninger som skal behandles og hvem som er databehandlingsansvarlig for opplysningene."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Nasjonal kjernejournal",
+                    "sections": [
+                        "Kongen i statsråd kan gi forskrift om behandling av helseopplysninger i nasjonal kjernejournal.",
+                        "Nasjonal kjernejournal er et sentralt virksomhetsovergripende behandlingsrettet helseregister. Journalen skal inneholde et begrenset sett relevante helseopplysninger som er nødvendig for å yte forsvarlig helsehjelp.",
+                        "Opplysninger kan registreres og på annen måte behandles uten samtykke fra pasienten. Den registrerte har rett til å motsette seg at helseopplysninger behandles i registeret.",
+                        "Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar at det gis slik tilgang. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder helsepersonelloven § 45 første ledd første punktum tilsvarende.",
+                        "Kongen i statsråd kan i forskrift gi nærmere bestemmelser om drift og behandling av helseopplysninger, for eksempel hvilke opplysninger som skal behandles, hvem som er databehandlingsansvarlig, regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Registrering og melding av helseopplysninger",
+                    "sections": [
+                        "Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, plikter uten hinder av taushetsplikt å registrere eller melde opplysninger som bestemt i forskrifter etter §§ 11 til 13.",
+                        "Kongen kan i forskrift gi nærmere bestemmelser om innhenting av helseopplysninger til registre som omfattes av §§ 11 til 13, blant annet om frister, formkrav, bruk av meldingsskjemaer og standarder.",
+                        "Mottaker av opplysningene skal varsle den som har registrert eller meldt opplysningene dersom opplysningene er mangelfulle."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Taushetsplikt, innsynsrett og rett til å motsette seg behandling av helseopplysninger",
+            "paragraphs": [
+                {
+                    "name": "§ 15",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "Enhver som behandler helseopplysninger etter denne lov, har taushetsplikt etter helsepersonelloven §§ 21 flg. Andre som får adgang eller kjennskap til helseopplysninger fra et behandlingsrettet helseregister, har samme taushetsplikt."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Forbud mot urettmessig tilegnelse av helseopplysninger",
+                    "sections": [
+                        "Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte helseopplysninger fra behandlingsrettede helseregistre uten at det er begrunnet i helsehjelp til den enkelte, administrasjon av slike tjenester eller har særskilt hjemmel i lov eller forskrift."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Rett til å motsette seg behandling av helseopplysninger",
+                    "sections": [
+                        "Pasienten eller brukeren kan motsette seg at",
+                        "a)helseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i §§ 8 til 10 gjøres tilgjengelige for helsepersonell etter § 19, jf. helsepersonelloven §§ 25 og 45 og pasient- og brukerrettighetsloven § 5-3,",
+                        "b)opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i § 11, og",
+                        "c)helseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i § 13.",
+                        "Reglene om samtykkekompetanse i pasient- og brukerrettighetsloven §§ 4-3 til 4-7 gjelder tilsvarende for retten til å motsette seg behandling av opplysningene."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Informasjon og innsyn",
+                    "sections": [
+                        "Pasienten eller brukeren har rett til informasjon og innsyn i behandlingsrettede helseregistre etter pasient- og brukerrettighetsloven § 5-1, helsepersonelloven § 41 og personopplysningsloven §§ 18 flg. Dette omfatter også innsyn i hvem som har hatt tilgang til eller fått utlevert helseopplysninger som er knyttet til pasientens eller brukerens navn eller fødselsnummer.",
+                        "Når det er nødvendig for å gi innsyn, kan den databehandlingsansvarlige innhente personopplysninger fra Det sentrale folkeregisteret. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter folkeregisterloven.",
+                        "Kongen kan i forskrift gi nærmere bestemmelser om retten til innsyn i behandlingsrettede helseregistre."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Virksomhetens plikter ved behandling av helseopplysninger",
+            "paragraphs": [
+                {
+                    "name": "§ 19",
+                    "title": "Helseopplysninger ved helsehjelp",
+                    "sections": [
+                        "Innenfor rammen av taushetsplikten skal den databehandlingsansvarlige sørge for at relevante og nødvendige helseopplysninger er tilgjengelige for helsepersonell og annet samarbeidende personell når dette er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp til den enkelte.",
+                        "Den databehandlingsansvarlige bestemmer på hvilken måte opplysningene skal gjøres tilgjengelige. Opplysningene skal gjøres tilgjengelige på en måte som ivaretar informasjonssikkerheten.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om hvordan helseopplysninger i behandlingsrettede helseregistre kan gjøres tilgjengelige."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Helseopplysninger til andre formål enn helsehjelp",
+                    "sections": [
+                        "Den databehandlingsansvarlige kan gjøre helseopplysninger tilgjengelige for andre formål enn helsehjelp når den enkelte samtykker eller dette er fastsatt i lov eller i medhold av lov. Med samtykke menes en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar at opplysningene gjøres tilgjengelige."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Personopplysninger fra Det sentrale folkeregisteret",
+                    "sections": [
+                        "Den databehandlingsansvarlige kan innhente personopplysninger fra Det sentrale folkeregisteret når dette er nødvendig for å oppfylle den databehandlingsansvarliges plikter etter loven. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter folkeregisterloven."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Sikring av konfidensialitet, integritet og tilgjengelighet",
+                    "sections": [
+                        "Den databehandlingsansvarlige og databehandleren skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av helseopplysninger. Dette omfatter blant annet å sørge for tilgangsstyring, logging og etterfølgende kontroll.",
+                        "For å oppnå tilfredsstillende informasjonssikkerhet skal den databehandlingsansvarlige og databehandleren dokumentere informasjonssystemet og sikkerhetstiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den databehandlingsansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.",
+                        "En databehandlingsansvarlig som lar andre få tilgang til helseopplysninger, for eksempel en databehandler eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal påse at disse oppfyller kravene i første og andre ledd.",
+                        "Departementet kan i forskrift fastsette nærmere krav til informasjonssikkerhet ved behandling av helseopplysninger, blant annet om organisatoriske og tekniske tiltak."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Internkontroll",
+                    "sections": [
+                        "Den databehandlingsansvarlige skal etablere og holde ved like planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven.",
+                        "Den databehandlingsansvarlige skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den databehandlingsansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om internkontroll."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Overdragelse eller opphør av virksomhet",
+                    "sections": [
+                        "Ved overdragelse eller opphør av virksomhet kan behandlingsrettet helseregister overføres til en annen virksomhet. Den enkelte pasient eller bruker kan motsette seg overføring av sin journal og i stedet kreve at registeret overføres til en annen bestemt virksomhet. Dersom det er praktisk mulig, skal pasienten eller brukeren gjøres kjent med denne retten.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om overføring av helseopplysninger ved opphør eller overdragelse av virksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Plikt til bevaring eller sletting",
+                    "sections": [
+                        "Helseopplysninger skal oppbevares til det av hensyn til helsehjelpens karakter ikke lenger antas å bli bruk for dem. Det samme gjelder opplysninger om hvem som har hatt tilgang til eller fått utlevert helseopplysninger som er knyttet til pasientens eller brukerens navn eller fødselsnummer.",
+                        "Hvis ikke opplysningene deretter skal bevares etter arkivloven eller annen lovgivning, skal de slettes.",
+                        "Kongen kan i forskrift gi nærmere bestemmelser om bevaring eller sletting av opplysninger som nevnt i første ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Tilsyn og sanksjoner",
+            "paragraphs": [
+                {
+                    "name": "§ 26",
+                    "title": "Tilsynsmyndighetene",
+                    "sections": [
+                        "Datatilsynet fører tilsyn med at bestemmelsene i loven blir fulgt og at feil eller mangler blir rettet, jf. personopplysningsloven § 42. Dette gjelder ikke for tilsynsoppgaver som påligger Statens helsetilsyn eller Fylkesmannen etter helsetilsynsloven.",
+                        "Tilsynsmyndighetene kan kreve de opplysninger som trengs for at de kan gjennomføre sine oppgaver.",
+                        "Tilsynsmyndighetene kan, som ledd i sin kontroll med at lovens regler etterleves, kreve adgang til steder hvor det finnes helseregistre, helseopplysninger som behandles elektronisk og hjelpemidler for slik behandling av opplysninger. Tilsynsmyndighetene kan gjennomføre de prøver eller kontroller som de finner nødvendig, og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.",
+                        "Retten til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i medhold av andre og tredje ledd gjelder uten hinder av taushetsplikt.",
+                        "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 15. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
+                        "Avgjørelser som Datatilsynet fatter etter denne bestemmelsen eller etter §§ 27, 28 eller 29, kan påklages til Personvernnemnda.",
+                        "Kongen kan gi forskrift om unntak fra første til fjerde ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll. Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Adgang til å gi pålegg",
+                    "sections": [
+                        "Datatilsynet kan gi pålegg om at behandling av helseopplysninger i strid med bestemmelser i eller i medhold av denne loven skal opphøre, eller stille vilkår som må oppfylles for at behandlingen av helseopplysningene skal være i samsvar med loven. Statens helsetilsyn kan gi pålegg dersom det i tillegg må antas at behandlingen av helseopplysningene kan ha skadelige følger for pasienter eller brukere.",
+                        "Når Datatilsynet har gitt et pålegg, skal Statens helsetilsyn informeres om dette. Når Statens helsetilsyn har gitt et pålegg, skal Datatilsynet informeres om dette.",
+                        "Det skal settes en frist for å rette seg etter pålegget."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "Ved pålegg etter § 27 kan Datatilsynet fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.",
+                        "Tvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkt før klageinstansen har bestemt det.",
+                        "Datatilsynet kan frafalle påløpt tvangsmulkt."
+                    ]
+                },
+                {
+                    "name": "§ 29",
+                    "title": "Overtredelsesgebyr",
+                    "sections": [
+                        "Datatilsynet kan pålegge den som har overtrådt denne loven eller forskrifter i medhold av den, å betale et pengebeløp til statskassen (overtredelsesgebyr) på inntil ti ganger grunnbeløpet i folketrygden. Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Et foretak kan ikke ilegges overtredelsesgebyr dersom overtredelsen skyldes forhold utenfor foretakets kontroll.",
+                        "Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på",
+                        "a)hvor alvorlig overtredelsen har krenket de interesser loven verner,",
+                        "b)graden av skyld,",
+                        "c)om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,",
+                        "d)om overtredelsen er begått for å fremme overtrederens interesser,",
+                        "e)om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,",
+                        "f)om det foreligger gjentakelse,",
+                        "g)om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff, og",
+                        "h)overtrederens økonomiske evne.",
+                        "Oppfyllelsesfristen er fire uker etter at vedtaket om overtredelsesgebyr er endelig. Dersom et vedtak om overtredelsesgebyr bringes inn for en domstol, kan den prøve alle sider av saken."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Straff",
+                    "sections": [
+                        "Den som forsettlig eller grovt uaktsomt overtrer § 15 om taushetsplikt eller § 16 om forbud mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil tre måneder.",
+                        "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt",
+                        "a)behandler helseopplysninger i strid med § 22,",
+                        "b)unnlater å informere den registrerte etter § 18, jf. personopplysningsloven §§ 19 eller 20,",
+                        "c)unnlater å gi opplysninger til tilsynsmyndighetene etter § 26, eller",
+                        "d)unnlater å etterkomme pålegg eller overtrer vilkår fra tilsynsmyndighetene etter § 27.",
+                        "Ved særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for pasienten eller brukeren, den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om den databehandlingsansvarlige tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.",
+                        "Medvirkning straffes på samme måte.",
+                        "I forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter eller fengsel inntil ett år eller begge deler."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Erstatning",
+                    "sections": [
+                        "Den databehandlingsansvarlige skal erstatte skade som er oppstått som følge av at helseopplysninger er behandlet i strid med bestemmelser i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den databehandlingsansvarliges side.",
+                        "Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen av helseopplysningene. Virksomheten kan også pålegges å betale slik erstatning for skade av ikke-økonomisk art (oppreisning) som synes rimelig."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6 Ikraftsetting mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 32",
+                    "title": "Ikraftsetting",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Videreføring av forskrifter",
+                    "sections": [
+                        "Forskrifter gitt i medhold av lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger, gjelder også etter at loven her har trådt i kraft."
+                    ]
+                }
+            ]
+        }
+    ]
+}

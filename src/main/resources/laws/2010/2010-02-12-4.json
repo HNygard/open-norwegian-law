@@ -1,0 +1,75 @@
+{
+    "lawId": "LOV-2010-02-12-4",
+    "lawName": "Lov om pensjonsordning for oppdragstaker i statlig beredskaps- eller familiehjem",
+    "shortName": "Lov om pensjon for oppdragstaker i barnevernet",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Hvem loven gjelder for",
+                    "sections": [
+                        "Loven gjelder for oppdragstaker i beredskaps- eller familiehjem som har inngått oppdragskontrakt med staten som oppdragsgiver.",
+                        "Loven gjelder bare for oppdragstaker som mottar godtgjørelse som utgjør 35 prosent eller mer av godtgjørelse for et heltidsoppdrag."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Pensjonsordning",
+                    "sections": [
+                        "Med mindre annet er bestemt med hjemmel i loven her, har oppdragstakeren samme rettigheter og plikter som et medlem i Statens Pensjonskasse, og oppdragsgiver har samme rettigheter og plikter som arbeidsgiver i lov 28. juli 1949 nr. 26 om Statens Pensjonskasse.",
+                        "Departementet kan i forskrift gi nærmere regler om hvilke bestemmelser etter lov om Statens Pensjonskasse som ikke skal gjelde for oppdragsgiver og oppdragstaker."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Vilkår for pensjon. Annet arbeid",
+                    "sections": [
+                        "Skal oppdragstakeren ha rett til medlemskap i pensjonsordningen, må oppdragstakeren i kontrakt forplikte seg til ikke å utføre annet arbeid i oppdragsperioden.",
+                        "Annet arbeid kan likevel avtales skriftlig med oppdragsgiveren dersom det ikke er til hinder for at oppdraget kan ivaretas på en god måte. En oppdragstaker som utfører annet arbeid som tilsvarer 20 prosent eller mer av en heltidsstilling, mister uansett retten til pensjonsordning etter loven her.",
+                        "Departementet kan i forskrift fastsette nærmere regler om vilkår for pensjon og hva som skal anses som arbeid etter denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Pensjonsgrunnlag",
+                    "sections": [
+                        "Oppdragstakers pensjonsgrunnlag er den faste godtgjørelse for det oppdragsforholdet som gir rett til medlemskap i pensjonsordningen.",
+                        "Departementet kan i forskrift fastsette hvilke andre tillegg som skal inngå i pensjonsgrunnlaget."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Aldersgrense",
+                    "sections": [
+                        "Aldersgrensen for oppdragstakere etter loven her er lik den alminnelige aldersgrensen som til enhver tid følger av lov av 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl. Denne loven gjelder så langt den passer."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Tidligpensjon",
+                    "sections": [
+                        "Med mindre annet er bestemt med hjemmel i loven her, har oppdragstaker rett til tidligpensjon tilsvarende avtalefestet pensjon i det statlige tariffområdet.",
+                        "Departementet kan i forskrift fastsette egne vilkår om tidligpensjon for oppdragstakere etter loven her."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Administrasjon",
+                    "sections": [
+                        "Pensjonsordningen skal administreres av Statens Pensjonskasse.",
+                        "Departementet kan i forskrift fastsette regler for administrasjon av ordningen og regler om innsyn i kontraktene til hver enkelt oppdragstaker."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "lawId": "LOV-2016-06-17-30",
+    "lawName": "Lov om EØS-finanstilsyn",
+    "shortName": "Lov om EØS-finanstilsyn",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "EØS-regler om Den europeiske banktilsynsmyndighet",
+                    "sections": [
+                        "EØS-avtalen vedlegg IX nr. 31g (forordning (EU) nr. 1093/2010) om opprettelse av en europeisk tilsynsmyndighet (Den europeiske banktilsynsmyndighet) som endret ved forordning (EU) nr. 1022/2013, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "EØS-regler om Den europeiske tilsynsmyndighet for forsikring og tjenestepensjoner",
+                    "sections": [
+                        "EØS-avtalen vedlegg IX nr. 31h (forordning (EU) nr. 1094/2010) om opprettelse av en europeisk tilsynsmyndighet (Den europeiske tilsynsmyndighet for forsikring og tjenestepensjoner) gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "EØS-regler om Den europeiske verdipapir- og markedstilsynsmyndighet",
+                    "sections": [
+                        "EØS-avtalen vedlegg IX nr. 31i (forordning (EU) nr. 1095/2010) om opprettelse av en europeisk tilsynsmyndighet (Den europeiske verdipapir- og markedstilsynsmyndighet), som endret ved direktiv 2011/61/EU, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "EØS-regler om Det europeiske råd for systemrisiko",
+                    "sections": [
+                        "EØS-avtalen vedlegg IX nr. 31f (forordning (EU) nr. 1092/2010) om makrotilsyn med finanssystemet i Den europeiske union og om opprettelse av et europeisk råd for systemrisiko (Det europeiske råd for systemrisiko) gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Utfyllende bestemmelser",
+                    "sections": [
+                        "Departementet kan i forskrift fastsette nærmere regler til gjennomføring av denne lov."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Ikrafttredelse og overgangsregler",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid. Kongen kan gi overgangsregler."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "1. I lov 29. juni 2007 nr. 75 om verdipapirhandel gjøres følgende endringer:",
+                        "Ny § 3-14a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-14a",
+                    "title": "Salg av finansielle instrumenter som selgeren ikke eier",
+                    "sections": [
+                        "EØS-avtalen vedlegg IX nr. 29f (forordning (EU) nr. 236/2012) om shortsalg og visse sider ved kredittbytteavtaler (shortsalgforordningen) gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig. Departementet kan i forskrift fastsette nærmere regler til gjennomføring av denne bestemmelsen.",
+                        "Ny § 13-6a skal lyde:",
+                        "EØS-avtalen vedlegg IX nr. 29bc (forordning (EU) nr. 648/2012) om OTC-derivater, sentrale motparter og transaksjonsregistre (EMIR) gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig. Departementet kan i forskrift fastsette nærmere regler til gjennomføring av denne bestemmelsen.",
+                        "2. I lov 20. juni 2014 nr. 30 om kredittvurderingsbyråer gjøres følgende endring:",
+                        "§ 1 skal lyde:",
+                        "EØS-avtalen vedlegg IX nr. 31eb (forordning (EF) nr. 1060/2009) om kredittvurderingsbyråer (kredittvurderingsbyråforordningen) som endret ved forordning (EU) nr. 513/2011, direktiv 2011/61/EU og forordning (EU) nr. 462/2013, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig."
+                    ]
+                }
+            ]
+        }
+    ]
+}

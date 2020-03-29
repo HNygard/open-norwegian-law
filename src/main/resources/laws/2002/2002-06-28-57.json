@@ -1,0 +1,962 @@
+{
+    "lawId": "LOV-2002-06-28-57",
+    "lawName": "Lov om valg til fylkesting og kommunestyrer (valgloven)",
+    "shortName": "Valgloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1 Lovens formål og virkeområde",
+            "paragraphs": [
+                {
+                    "name": "§ 1-1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Formålet med loven er å legge forholdene til rette slik at borgerne ved frie, direkte og hemmelige valg skal kunne velge sine representanter til fylkesting og kommunestyrer."
+                    ]
+                },
+                {
+                    "name": "§ 1-2",
+                    "title": "Lovens virkeområde",
+                    "sections": [
+                        "(1) Denne loven gjelder ved",
+                        "a)(forbeholdes regler om stortingsvalg)",
+                        "b)valg av representanter til fylkesting og",
+                        "c)valg av representanter til kommunestyrer.",
+                        "(2) Det fremgår av det enkelte kapittel eller den enkelte bestemmelse hvilket virkeområde reglene har."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Stemmerett og manntall",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Stemmerett ved fylkestingsvalg og kommunestyrevalg",
+                    "sections": [
+                        "(1) Stemmerett ved fylkestingsvalg og kommunestyrevalg har norske statsborgere som oppfyller følgende vilkår:",
+                        "a)vedkommende vil ha fylt 18 år innen utgangen av valgåret,",
+                        "b)vedkommende har ikke mistet stemmeretten etter Grunnloven § 53 og",
+                        "c)vedkommende er, eller har noen gang vært, folkeregisterført som bosatt i Norge.",
+                        "Ansatte i diplomatiet eller konsulatvesenet og deres husstand har stemmerett uavhengig av vilkåret i bokstav c.",
+                        "(2) I tillegg har personer som ikke er norske statsborgere, men som for øvrig fyller vilkårene i første ledd, stemmerett dersom de",
+                        "a)har stått innført i folkeregisteret som bosatt i Norge de tre siste årene før valgdagen, eller",
+                        "b)er statsborger i et annet nordisk land og er blitt folkeregisterført som bosatt i Norge senest 31. mai i valgåret.",
+                        "(3) For å utøve stemmeretten må velgeren være innført i manntallet i en kommune på valgdagen."
+                    ]
+                },
+                {
+                    "name": "§ 2-3",
+                    "title": "Valgstyrets ansvar for å føre manntall",
+                    "sections": [
+                        "(1) Valgstyret er ansvarlig for at det blir ført et manntall over alle personer med stemmerett i kommunen.",
+                        "(2) Valgstyret fører et felles manntall for fylkestingsvalg og kommunestyrevalg."
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "I hvilke kommuner velgerne skal manntallsføres",
+                    "sections": [
+                        "(1) Stemmeberettigede som er registrert med bostedsadresse i Norge, skal føres inn i manntallet i den kommunen der de var folkeregisterført som bosatt den 31. mai i valgåret.",
+                        "(2) Stemmeberettigede på Svalbard og Jan Mayen skal manntallsføres i den kommunen der de sist var folkeregisterført som bosatt.",
+                        "(3) Stemmeberettigede som er bosatt utenfor Norge, skal føres inn i manntallet i den kommunen der de sist var folkeregisterført som bosatt. Utenlandsboende som ikke har vært folkeregisterført som bosatt i Norge noen gang i løpet av de 10 siste år før valgdagen, må likevel søke valgstyret om å bli innført i manntallet. Søknaden må inneholde forsikring om at vedkommende fortsatt er norsk statsborger.",
+                        "(4) Utenlandsboende som er ansatt i diplomatiet eller konsulatvesenet og deres husstand, skal manntallsføres i den kommunen der de sist var registrert som bosatt. Manntallsføringen skjer uavhengig av utenlandsoppholdets lengde. Dersom de ikke noen gang har vært folkeregisterført som bosatt i Norge, skal de manntallsføres i Oslo kommune."
+                    ]
+                },
+                {
+                    "name": "§ 2-5",
+                    "title": "Folkeregistermyndighetens ansvar",
+                    "sections": [
+                        "Folkeregistermyndigheten skal på hensiktsmessig måte stille til disposisjon for valgmyndighetene opplysninger om hvem som skal innføres i manntallet i kommunen."
+                    ]
+                },
+                {
+                    "name": "§ 2-6",
+                    "title": "Utlegging av manntallet til offentlig ettersyn",
+                    "sections": [
+                        "(1) Valgstyret skal legge manntallet ut til offentlig ettersyn så snart det lar seg gjøre. Manntallet skal ligge ute til og med valgdagen.",
+                        "(2) Valgstyret kunngjør tid og sted for utleggingen og opplyser også om adgangen til og fremgangsmåten for å kreve feil rettet."
+                    ]
+                },
+                {
+                    "name": "§ 2-7",
+                    "title": "Krav om retting. Oppdatering",
+                    "sections": [
+                        "(1) Den som mener at vedkommende selv eller noen annen uriktig er blitt innført eller utelatt fra manntallet i kommunen, kan kreve at valgstyret retter opp feilen.",
+                        "(2) Kravet skal være skiftlig og begrunnet.",
+                        "(3) Valgstyret kan oppdatere manntallet så lenge det er praktisk mulig."
+                    ]
+                },
+                {
+                    "name": "§ 2-8",
+                    "title": "Underretning om endringer i manntallet",
+                    "sections": [
+                        "Valgstyret skal snarest sende melding til den som berøres av oppdateringer i manntallet som er foretatt på grunnlag av søknad om innføring, krav om retting eller at valgstyret er blitt oppmerksom på feil."
+                    ]
+                },
+                {
+                    "name": "§ 2-9",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan i forskrift gi bestemmelser om",
+                        "a)manntallsføringen og valgstyrets behandling og oppdatering av manntallet og",
+                        "b)tilgang til og bruk av manntallseksemplarer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Valgbarhet. Plikt til å ta imot valg",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Valgbarhet ved fylkestingsvalg og kommunestyrevalg",
+                    "sections": [
+                        "(1) Valgbar til fylkestinget og pliktig til å ta imot valg er alle som har stemmerett ved valget og som står innført i folkeregisteret som bosatt i en av kommunene i fylket på valgdagen, og som ikke er utelukket eller fritatt.",
+                        "(2) Valgbar til kommunestyret og pliktig til å ta imot valg er alle som har stemmerett ved valget og som står innført i folkeregisteret som bosatt i kommunen på valgdagen, og som ikke er utelukket eller fritatt.",
+                        "(3) Utelukket fra valg til fylkestinget eller kommunestyret er:",
+                        "a)fylkesmannen og assisterende fylkesmann og",
+                        "b)den som i vedkommende kommune eller fylkeskommune er",
+                        "-administrasjonssjef eller dennes stedfortreder,",
+                        "-leder av forvaltningsgren; dette gjelder likevel ikke",
+                        "-leder av enkeltstående virksomheter,",
+                        "-sekretær for kommunestyret eller fylkestinget,",
+                        "-ansvarlig for regnskapsfunksjonen, eller",
+                        "-ansvarlig for revisjonen.",
+                        "(4) I fylkeskommuner eller kommuner som har parlamentarisk styreform, er ansatte i sekretariatet til rådet som har fått myndighet delegert fra rådet, ikke valgbare.",
+                        "(5) Om en person skal utelukkes fra valg avhenger av om vedkommende innehar stillingen når fylkestinget eller kommunestyret trer i funksjon."
+                    ]
+                },
+                {
+                    "name": "§ 3-4",
+                    "title": "Rett til å kreve fritak fra fylkestingsvalg og kommunestyrevalg",
+                    "sections": [
+                        "(1) Rett til å kreve seg fritatt fra valg til fylkesting eller kommunestyre har",
+                        "a)den som har gjort tjeneste som medlem av henholdsvis fylkestinget eller kommunestyret de siste fire år,",
+                        "b)den som har rett til fritak etter andre lover,",
+                        "c)den som er ført opp som kandidat på et listeforslag som er satt frem av noen andre enn et registrert politisk parti vedkommende er medlem av, og",
+                        "d)den som ikke uten uforholdsmessig vanskelighet vil kunne skjøtte sine plikter i vervet.",
+                        "(2) Kandidater som er satt opp på listeforslag må søke om fritak innen den frist fylkesvalgstyret eller valgstyret setter, ellers tapes retten til å strykes fra listeforslaget. Den som har fritaksgrunn, men som unnlater å påberope seg retten til fritak fra å stå på liste, kan ikke påberope seg dette forhold som fritaksgrunn etter å ha blitt valgt.",
+                        "(3) En valgt representant eller vararepresentant som ikke plikter å motta valget, må sende skriftlig melding om valget mottas eller ikke, innen tre dager etter å ha mottatt melding om valget. Ellers anses valget mottatt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Valgorganene",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Valgstyret",
+                    "sections": [
+                        "I hver kommune skal det være et valgstyre som velges av kommunestyret selv."
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Stemmestyrer",
+                    "sections": [
+                        "Foregår stemmegivningen på flere steder i kommunen, skal et stemmestyre med minst tre medlemmer administrere stemmegivningen på hvert sted. Kommunestyret kan delegere oppnevningen av stemmestyrer til valgstyret."
+                    ]
+                },
+                {
+                    "name": "§ 4-3",
+                    "title": "Fylkesvalgstyret",
+                    "sections": [
+                        "I hvert fylke skal det ved stortingsvalg og fylkestingsvalg være et fylkesvalgstyre som velges av fylkestinget selv."
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Registrering av politiske partier",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Registreringsmyndigheten. Virkninger av registreringen",
+                    "sections": [
+                        "(1) Et politisk parti som oppfyller vilkårene i § 5-2, kan søke om registrering av partinavnet i Partiregisteret som føres av Registerenheten i Brønnøysund.",
+                        "(2) Før partiet kan bli registrert i Partiregisteret, må det registreres i Enhetsregisteret og tildeles et eget organisasjonsnummer, jf enhetsregisterloven § 5. Når partiet er registrert i Enhetsregisteret legges de opplysninger som der er registrert, til grunn for Partiregisteret.",
+                        "(3) Registrering i Partiregisteret innebærer at partiet får enerett til å stille valglister under det registrerte navnet."
+                    ]
+                },
+                {
+                    "name": "§ 5-2",
+                    "title": "Vilkår for registrering av partinavn i Partiregisteret",
+                    "sections": [
+                        "(1) For at et partinavn skal kunne bli registrert i Partiregisteret, må det ikke kunne forveksles med navnet på",
+                        "a)annet parti registrert i Partiregisteret eller",
+                        "b)samepolitisk enhet registrert hos Sametinget.",
+                        "Når særlige grunner foreligger, kan registreringsmyndigheten også ellers nekte å registrere partinavn.",
+                        "(2) Sammen med søknaden skal partiet legge ved følgende dokumentasjon:",
+                        "a)stiftelsesprotokoll for partiet,",
+                        "b)opplysning om hvem som er valgt til medlemmer i partiets hovedstyre og som har fullmakt til å representere partiet sentralt i saker etter denne loven,",
+                        "c)vedtekt som fastsetter hvilket organ i partiet som velger hovedstyre og",
+                        "d)erklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.",
+                        "(3) Søknaden må ha blitt journalført hos registreringsmyndigheten innen 2. januar i valgåret, for at registreringen skal kunne få virkning ved valget."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Endring av registrert partinavn. Sammenslåing av partier under nytt navn",
+                    "sections": [
+                        "(1) Et registrert politisk parti kan søke om å få endre det registrerte partinavnet. Bestemmelsene i § 5-2 gjelder tilsvarende. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å endre navnet på partiet. Hvis partiet fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i § 5-2 annet ledd bokstav d.",
+                        "(2) Hvis to eller flere registrerte partier slår seg sammen og søker registrering under et nytt navn, anses det for søknad om navneendring. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å slå partiene sammen og søke registrering under et nytt navn. Hvis ett av partiene fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i § 5-2 annet ledd bokstav d."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Avregistrering. Når et partinavn blir fritt",
+                    "sections": [
+                        "(1) Virkningen av registreringen opphører og partinavnet blir fritt når partiet ikke har stilt liste i noe valgdistrikt ved to påfølgende stortingsvalg. Partinavnet skal da strykes fra Partiregisteret.",
+                        "(2) Det samme gjelder fire år etter at partiet er oppløst eller har skiftet navn."
+                    ]
+                },
+                {
+                    "name": "§ 5-5",
+                    "title": "Opplysning om hvem som sitter i partiets hovedstyre",
+                    "sections": [
+                        "(1) Registrerte partier skal ved endring av tidligere registrerte opplysninger, sende melding til Registerenheten i Brønnøysund om hvem som er medlemmer av partiets hovedstyre.",
+                        "(2) Partiene skal innen 2. januar i valgåret sende inn oppdaterte opplysninger eller bekreftelse på de opplysninger som er registrert i Enhetsregisteret, om hvem som er medlemmer i partiets hovedstyre med virkning for valget. Registreringsmyndigheten skal i god tid innen fristen informere partiene om de opplysninger som er registrert i Enhetsregisteret."
+                    ]
+                },
+                {
+                    "name": "§ 5-6",
+                    "title": "Kunngjøring av vedtak",
+                    "sections": [
+                        "Registreringsmyndigheten skal kunngjøre vedtak om registrering av nye partinavn eller sletting av navn fra Partiregisteret."
+                    ]
+                },
+                {
+                    "name": "§ 5-7",
+                    "title": "Klage",
+                    "sections": [
+                        "(1) Registreringsmyndighetens vedtak etter denne lov kan påklages til en nemnd oppnevnt av departementet. Fristen for klage er tre uker. Nemndas vedtak kan bringes inn for domstolene. Søksmål må i tilfelle reises innen to uker fra det tidspunktet melding om nemndas vedtak med opplysning om søksmålsfristen kom frem til vedkommende part. En rettsavgjørelse har bare virkning for et forestående valg dersom den er rettskraftig senest 31. mars i valgåret.",
+                        "(2) Nemndas vedtak i klagesaker skal kunngjøres."
+                    ]
+                },
+                {
+                    "name": "§ 5-8",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan i forskrift gi utfyllende bestemmelser om registreringsordningen og om registreringsmyndighetens og klagenemndas virksomhet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6 Krav til og behandling av listeforslag",
+            "paragraphs": [
+                {
+                    "name": "§ 6-1",
+                    "title": "Krav til listeforslaget",
+                    "sections": [
+                        "(1) Fristen for innlevering av listeforslag er 31. mars i valgåret. Listeforslaget anses for innlevert når det er kommet inn til kommunen ved kommunestyrevalg og til fylkeskommunen ved fylkestingsvalg. Samme parti eller gruppe kan bare stille én liste i hvert valgdistrikt.",
+                        "(2) Listeforslaget må oppfylle følgende vilkår:",
+                        "a)Det må angi hvilket valg det gjelder.",
+                        "b)Det må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag i valgdistriktet.",
+                        "c)Det må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder samme valg i samme valgdistrikt. Antallet kandidater skal oppfylle kravene i § 6-2. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen.",
+                        "d)Listeforslaget må være underskrevet av et visst antall personer, jf § 6-3.",
+                        "e)Det må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med fylkesvalgstyret eller valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.",
+                        "(3) Listeforslaget må ha vedlegg som nevnt i § 6-4.",
+                        "(4) Listeforslaget skal ikke inneholde annen type informasjon til velgerne enn det som fremgår av denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 6-2",
+                    "title": "Antall kandidatnavn på listeforslaget",
+                    "sections": [
+                        "(1) (forbeholdes regler om stortingsvalg)",
+                        "(2) Ved fylkestingsvalg og kommunestyrevalg skal listeforslaget være utfylt i rekkefølge med minimum sju kandidater. Forslaget kan maksimalt inneholde et antall kandidatnavn som tilsvarer det antall representanter som skal velges til fylkestinget eller kommunestyret, med et tillegg av inntil seks andre navn.",
+                        "(3) Ved kommunestyrevalg kan et visst antall av de øverste kandidatene på listeforslaget gis et stemmetillegg. Kandidatene får i så fall et tillegg i sitt personlige stemmetall som tilsvarer 25 prosent av det totale antall stemmer listen mottar ved valget. Avhengig av det antall kommunestyremedlemmer som skal velges, kan forslagstillerne gi stemmetillegg til følgende antall kandidater:",
+                        "11-23 medlemmer: inntil 4",
+                        "25-53 medlemmer: inntil 6",
+                        "55 medlemmer eller flere: inntil 10",
+                        "Disse kandidatnavnene skal stå først på listeforslaget og med uthevet skrift."
+                    ]
+                },
+                {
+                    "name": "§ 6-3",
+                    "title": "Antall underskrifter på listeforslaget",
+                    "sections": [
+                        "(1) For partier registrert i Partiregisteret som ved forrige stortingsvalg fikk en oppslutning på minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i partiets lokalavdeling i det fylket eller den kommunen listen gjelder. Det samme gjelder for partier som er blitt registrert i Partiregisteret etter forrige stortingsvalg. Underskriverne må ha stemmerett i valgdistriktet. Hvis et registrert politisk parti stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel bestemmelsene i annet ledd.",
+                        "(2) For øvrige forslagstillere gjelder følgende regler:",
+                        "a)Ved fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i fylket ved det aktuelle valget.",
+                        "b)Ved kommunestyrevalg skal listeforslaget være underskrevet av et antall personer med stemmerett i kommunen som tilsvarer 2 prosent av antall stemmeberettigede innbyggere ved siste kommunestyrevalg. Listeforslaget skal likevel som et minimum være underskrevet av like mange stemmeberettigede personer i kommunen som det skal velges medlemmer til kommunestyret. Underskrift fra 300 personer er i alle tilfeller tilstrekkelig."
+                    ]
+                },
+                {
+                    "name": "§ 6-4",
+                    "title": "Vedlegg til listeforslaget",
+                    "sections": [
+                        "Listeforslaget skal ha følgende vedlegg:",
+                        "a)En oversikt over kandidatenes fødselsdato.",
+                        "b)En oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget.",
+                        "c)Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er innført i folkeregisteret som bosatt i fylket eller i kommunen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.",
+                        "d)Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når fylkestinget eller kommunestyret trer i funksjon."
+                    ]
+                },
+                {
+                    "name": "§ 6-5",
+                    "title": "Tilbakekalling av listeforslaget",
+                    "sections": [
+                        "Innlevert listeforslag kan kalles tilbake av tillitsutvalget. Erklæring om tilbakekalling må være innlevert senest 20. april i valgåret."
+                    ]
+                },
+                {
+                    "name": "§ 6-6",
+                    "title": "Valgmyndighetenes behandling av listeforslagene",
+                    "sections": [
+                        "(1) Listeforslagene skal legges ut til ettersyn etter hvert som de kommer inn.",
+                        "(2) Vedkommende valgmyndighet avgjør innen 1. juni i valgåret om forslag til valglister og tilbakekallinger av listeforslag kan godkjennes.",
+                        "(3) Dersom et listeforslag ved innleveringen ikke oppfyller lovens krav, skal valgmyndighetene gjennom forhandlinger med listeforslagets tillitsvalgte forsøke å bringe forslaget i samsvar med loven. Det samme gjelder erklæring om tilbakekalling av listeforslag.",
+                        "(4) Valgmyndighetene skal underrette samtlige kandidater på listeforslagene om at de er satt opp på listeforslag og opplyse om adgangen til å søke om fritak. En underskriver eller en kandidat som står på flere listeforslag for samme valg, skal gis pålegg om å melde fra innen en bestemt frist hvilket forslag vedkommende vil stå på. Ellers settes vedkommende opp på det listeforslaget som ble innlevert først."
+                    ]
+                },
+                {
+                    "name": "§ 6-7",
+                    "title": "Offentliggjøring av godkjente valglister",
+                    "sections": [
+                        "Når listeforslagene er godkjent, skal valgmyndighetene legge de offisielle valglistene ut til gjennomsyn. Valgmyndighetene kunngjør overskriftene på de godkjente valglistene og opplyser om hvor de er lagt ut."
+                    ]
+                },
+                {
+                    "name": "§ 6-8",
+                    "title": "Klage",
+                    "sections": [
+                        "Klage med krav om endring av valgstyrets eller fylkesvalgstyrets vedtak om å godkjenne eller forkaste et listeforslag, må fremsettes innen sju dager etter offentliggjøringen av overskriftene på de godkjente valglistene. Dersom klagen er begrunnet i at enerett til partinavn er krenket, har også et registrert politisk parti klagerett. For øvrig gjelder bestemmelsene om klage i kapittel 13."
+                    ]
+                },
+                {
+                    "name": "§ 6-9",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan gi forskrift om behandlingen av listeforslagene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7 Stemmesedler. Velgernes adgang til å endre på stemmesedler",
+            "paragraphs": [
+                {
+                    "name": "§ 7-1",
+                    "title": "Trykking av stemmesedler",
+                    "sections": [
+                        "(1) Ved fylkestingsvalg sørger fylkesvalgstyret for at det blir trykt stemmesedler for alle godkjente valglister i fylket før forhåndsstemmegivningen starter innenriks.",
+                        "(2) Ved kommunestyrevalg sørger valgstyret for at det blir trykt stemmesedler for alle godkjente valglister i kommunen før forhåndsstemmegivningen starter innenriks."
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Endringer på stemmeseddelen",
+                    "sections": [
+                        "(1) Velgeren kan ved fylkestingsvalg og kommunestyrevalg gi kandidater på stemmeseddelen én personstemme. Dette gjøres ved å sette et merke ved kandidatens navn.",
+                        "(2) Velgeren kan ved kommunestyrevalg også gi én personstemme til en eller flere kandidater på andre valglister. Dette gjøres ved å føre disse kandidatnavnene opp på stemmeseddelen. Andre endringer på stemmeseddelen teller ikke med ved kandidatkåringen."
+                    ]
+                },
+                {
+                    "name": "§ 7-3",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan gi forskrift om utføring, trykking og utsending av stemmesedler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8 Forhåndsstemmegivningen",
+            "paragraphs": [
+                {
+                    "name": "§ 8-1",
+                    "title": "Perioden for forhåndsstemmegivningen",
+                    "sections": [
+                        "(1) Velgere som ønsker det, kan avgi forhåndsstemme fra 10. august i valgåret innenriks og fra 1. juli i valgåret utenriks og på Svalbard og Jan Mayen.",
+                        "(2) Forhåndsstemmegivningen må ikke foregå senere enn siste fredag før valgdagen.",
+                        "(3) Velgeren er selv ansvarlig for å avgi forhåndsstemme på et tidspunkt som gjør at forhåndsstemmegivningen kommer inn til valgstyret innen valgdagen kl. 20."
+                    ]
+                },
+                {
+                    "name": "§ 8-2",
+                    "title": "Hvem kan motta forhåndsstemmer",
+                    "sections": [
+                        "(1) Som stemmemottaker innenriks fungerer",
+                        "a)stemmemottakere oppnevnt av valgstyret.",
+                        "b)sysselmannen på Svalbard. Sysselmannen kan oppnevne andre stemmemottakere.",
+                        "c)på Jan Mayen den departementet bestemmer.",
+                        "(2) Som stemmemottaker utenriks fungerer",
+                        "a)utenrikstjenestemann ved lønnet norsk utenriksstasjon. Etter særskilt bemyndigelse fra Utenriksdepartementet kan stemmegivning også foregå hos utenrikstjenestemann ved ulønnet norsk utenriksstasjon. Stasjonssjefen kan når det finnes påkrevd, oppnevne en eller flere av stasjonens funksjonærer til å motta forhåndsstemmer.",
+                        "b)stemmemottakere oppnevnt av departementet dersom stemmegivningen foregår andre steder enn det som fremgår av bokstav a.",
+                        "(3) Dersom en velger som oppholder seg utenfor riket ikke har mulighet til å oppsøke en stemmemottaker, kan vedkommende avgi stemme ved brevpost uten at en stemmemottaker er til stede ved stemmegivningen."
+                    ]
+                },
+                {
+                    "name": "§ 8-3",
+                    "title": "På hvilke steder kan det mottas forhåndsstemmer",
+                    "sections": [
+                        "(1) Stemmegivningen skal foregå i egnet lokale.",
+                        "(2) Hos stemmemottaker oppnevnt av valgstyret foregår stemmegivning",
+                        "a)på helse- og sosialinstitusjoner, og",
+                        "b)der valgstyret ellers beslutter at det skal mottas forhåndsstemmer.",
+                        "(3) Hos stemmemottaker på Svalbard foregår stemmegivning der sysselmannen bestemmer.",
+                        "(4) Hos utenrikstjenestemann ved norsk utenriksstasjon foregår stemmegivning på stasjonen. Stasjonssjefen kan bestemme at stemmemottak kan foregå utenfor stasjonens område.",
+                        "(5) Hos oppnevnt stemmemottaker på Jan Mayen og utenfor riket, foregår stemmegivning der departementet bestemmer.",
+                        "(6) Velgere som oppholder seg innenriks, unntatt på Svalbard og Jan Mayen, og som på grunn av sykdom eller uførhet ikke kan avgi stemme etter annet ledd, kan etter søknad til valgstyret avgi forhåndsstemme der de oppholder seg. Valgstyret fastsetter selv fristen for når søknaden må være kommet inn til kommunen. Fristen må fastsettes til et tidspunkt innenfor perioden mellom tirsdag og fredag siste uke før valget. Søknadsfristen skal kunngjøres."
+                    ]
+                },
+                {
+                    "name": "§ 8-4",
+                    "title": "Fremgangsmåten ved stemmegivningen",
+                    "sections": [
+                        "(1) Stemmegivningen skal foregå i enerom og usett. Stemmeseddelen skal legges i en egen stemmeseddelkonvolutt. Velger som har behov for det, kan selv be stemmemottaker om å få hjelp ved stemmegivningen. Velgeren peker selv ut en hjelper blant de personer som er tilstede. Stemmemottaker skal gjøre hjelperen oppmerksom på at vedkommende har taushetsplikt.",
+                        "(2) Stemmemottaker skal påse at det fremgår av stemmegivningen hvem velgeren er, slik at det er mulig for valgstyret å identifisere vedkommende og krysse av ved rett navn i manntallet.",
+                        "(3) Stemmemottaker kan forlange at velgeren legitimerer seg.",
+                        "(4) Ved ambulerende stemmegivning og stemmegivning på institusjon skal det være minst to stemmemottakere til stede."
+                    ]
+                },
+                {
+                    "name": "§ 8-5",
+                    "title": "Valgagitasjon m.m.",
+                    "sections": [
+                        "(1) Valgagitasjon er ikke tillatt i det rommet der forhåndsstemmegivningen foregår.",
+                        "(2) Uvedkommende må ikke få kunnskap om forbruket av de forskjellige valglistenes stemmesedler."
+                    ]
+                },
+                {
+                    "name": "§ 8-6",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan gi forskrift om",
+                        "a)gjennomføringen av forhåndsstemmegivningen og",
+                        "b)utforming og bruk av valgkort."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9 Tidspunktet for valg. Stemmegivningen på valgtinget",
+            "paragraphs": [
+                {
+                    "name": "§ 9-1",
+                    "title": "Tidspunktet for valgene",
+                    "sections": [
+                        "(1) (forbeholdes regler om stortingsvalg)",
+                        "(2) Valg av representanter til fylkesting og kommunestyrer skal holdes i alle kommuner på en og samme dag i september måned hvert fjerde år."
+                    ]
+                },
+                {
+                    "name": "§ 9-2",
+                    "title": "Fastsetting av valgdag",
+                    "sections": [
+                        "(1) Kongen fastsetter før hvert valg valgdagen til en mandag.",
+                        "(2) Kommunestyret kan selv vedta at det på ett eller flere steder i kommunen skal holdes valg også søndagen før den offisielle valgdagen."
+                    ]
+                },
+                {
+                    "name": "§ 9-3",
+                    "title": "Tid og sted for stemmegivningen",
+                    "sections": [
+                        "(1) Kommunestyret, eller valgstyret etter delegering, avgjør hvor mange stemmekretser kommunen skal deles inn i. Folkeregistermyndigheten skal orienteres om endringer i stemmekretsinndelingen innen 31. mars i valgåret.",
+                        "(2) Valgstyret bestemmer hvor stemmegivningen skal foregå og fastsetter tiden for stemmegivningen. Stemmegivningen mandag må ikke foregå senere enn kl. 20.",
+                        "(3) Valgstyret kunngjør tid og sted for stemmegivningen."
+                    ]
+                },
+                {
+                    "name": "§ 9-4",
+                    "title": "Ordensregler",
+                    "sections": [
+                        "(1) I valglokalet og i de rom som velgeren må passere for å komme frem til valglokalet, er det ikke tillatt å drive valgagitasjon eller å utføre handlinger som kan forstyrre eller hindre en normal gjennomføring av valghandlingen. Det er ikke tillatt for uvedkommende å føre kontroll med hvem som møter frem og avgir stemme, eller å foreta velgerundersøkelser eller liknende utspørring av velgerne.",
+                        "(2) Uvedkommende må ikke få kunnskap om forbruket av de forskjellige valglistenes stemmesedler.",
+                        "(3) Stemmestyrets leder eller nestleder kan om nødvendig bortvise den som opptrer i strid med reglene i denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 9-5",
+                    "title": "Stemmegivning i valglokalet",
+                    "sections": [
+                        "(1) Når valgtinget åpner skal velgere som er innført i manntallet i kommunen gis adgang til å avgi stemme etter hvert som de møter frem.",
+                        "(2) Stemmestyret setter et kryss i manntallet ved velgerens navn. Stemmestyret kan kreve at en ukjent velger legitimerer seg.",
+                        "(3) Velgeren skal i enerom og usett brette sammen stemmeseddelen slik at det ikke er synlig hvilken valgliste velgeren stemmer på. Velgeren leverer stemmeseddelen til stemmestyret, som stempler den med et offisielt stempel. Velgeren legger selv stemmeseddelen ned i en urne.",
+                        "(4) Velgere som ikke er innført i vedkommende del av manntallet, skal ikke legge stemmeseddelen i urnen. Etter at stemmeseddelen er blitt stemplet, skal velgeren selv legge den i en stemmeseddelkonvolutt og gi denne til stemmestyret. Stemmestyret legger stemmeseddelkonvolutten i en omslagskonvolutt, kleber den igjen og påfører den velgerens navn, bostedsadresse og fødselsdato.",
+                        "(5) Velger som har behov for det, kan selv be stemmestyret om å få nødvendig hjelp ved stemmegivningen. Velgeren peker selv ut en hjelper blant de personer som er tilstede i valglokalet. Stemmestyret skal gjøre hjelperen oppmerksom på at vedkommende har taushetsplikt."
+                    ]
+                },
+                {
+                    "name": "§ 9-6",
+                    "title": "Stemmegivning utenfor valglokalet",
+                    "sections": [
+                        "Er velgeren ikke i stand til å bevege seg inn i valglokalet, kan vedkommende avgi stemme til to stemmemottakere umiddelbart utenfor valglokalet."
+                    ]
+                },
+                {
+                    "name": "§ 9-7",
+                    "title": "Avslutning av stemmegivningen",
+                    "sections": [
+                        "Stemmelokalet stenges på det tidspunkt som er fastsatt. De velgere som da er til stede i valglokalet skal få avgi stemme."
+                    ]
+                },
+                {
+                    "name": "§ 9-8",
+                    "title": "Oppbevaring og transport av valgmateriell",
+                    "sections": [
+                        "Alt valgmateriell skal oppbevares og transporteres på betryggende måte."
+                    ]
+                },
+                {
+                    "name": "§ 9-9",
+                    "title": "Offentliggjøring av valgresultater og prognoser",
+                    "sections": [
+                        "Valgresultater og prognoser som er laget på grunnlag av undersøkelser foretatt den dag eller de dager valget foregår, kan ikke offentliggjøres før tidligst kl. 20 på valgdagen mandag."
+                    ]
+                },
+                {
+                    "name": "§ 9-10",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan gi forskrift om organiseringen og gjennomføringen av stemmegivningen på valgtinget, og om oppbevaring og transport av valgmateriell."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10 Prøving av stemmegivninger og stemmesedler, opptelling, protokollering m.m.",
+            "paragraphs": [
+                {
+                    "name": "§ 10-1",
+                    "title": "Godkjenning av stemmegivning avgitt på forhånd",
+                    "sections": [
+                        "(1) En forhåndsstemmegivning skal godkjennes dersom",
+                        "a)velgeren er innført i manntallet i kommunen,",
+                        "b)stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,",
+                        "c)stemmegivningen er avgitt til rett tid,",
+                        "d)stemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,",
+                        "e)omslagskonvolutten ikke er åpnet eller forsøkt åpnet,",
+                        "f)velgeren ikke har avgitt godkjent stemmegivning og",
+                        "g)stemmegivningen er kommet inn til valgstyret innen kl. 20 på valgdagen.",
+                        "(2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i manntallet.",
+                        "(3) Forhåndsstemmegivningene skal godkjennes før valgdagen i den utstrekning det er mulig."
+                    ]
+                },
+                {
+                    "name": "§ 10-2",
+                    "title": "Godkjenning av stemmegivning avgitt på valgtinget",
+                    "sections": [
+                        "(1) En stemmegivning avgitt på valgtinget skal godkjennes dersom",
+                        "a)velgeren er innført i manntallet i kommunen,",
+                        "b)velgeren har fått anledning til å avgi stemme, og",
+                        "c)velgeren ikke allerede har avgitt godkjent stemmegivning.",
+                        "(2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i manntallet."
+                    ]
+                },
+                {
+                    "name": "§ 10-3",
+                    "title": "Godkjenning av stemmesedler",
+                    "sections": [
+                        "(1) En stemmeseddel skal godkjennes dersom",
+                        "a)den har offentlig stempel når den er avgitt på valgtinget,",
+                        "b)det fremgår hvilket valg stemmeseddelen gjelder,",
+                        "c)det fremgår hvilket parti eller gruppe velgeren har stemt på, og",
+                        "d)partiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder et registrert politisk parti.",
+                        "(2) En avgitt stemmeseddel anses å være enslydende med den offisielle valglisten.",
+                        "(3) Dersom velgeren har benyttet en trykt stemmeseddel som ikke er enslydende med den offisielle valglisten, skal det ses bort fra eventuelle endringer foretatt av velgeren."
+                    ]
+                },
+                {
+                    "name": "§ 10-4",
+                    "title": "Prinsipper for opptelling av stemmesedler",
+                    "sections": [
+                        "(1) Valgstyret er ansvarlig for opptelling av stemmesedler. Opptellingen foretas av de personer og på den måten valgstyret har bestemt.",
+                        "(2) Særskilt opptelling av stemmesedler kan bare foretas dersom den delen eller de delene av manntallet opptellingen gjelder, inneholder minst 100 navn.",
+                        "(3) Ved fylkestingsvalg og kommunestyrevalg skal stemmesedlene telles opp hver for seg. Stemmesedlene kan telles opp samtidig, forutsatt at dette ikke fører til forsinkelse av valgoppgjøret ved fylkestingsvalget.",
+                        "(4) Stemmesedler avgitt på forhånd og stemmesedler avgitt på valgtinget skal telles hver for seg.",
+                        "(5) Stemmesedlene skal telles opp i to omganger, ved en foreløpig og en endelig opptelling."
+                    ]
+                },
+                {
+                    "name": "§ 10-5",
+                    "title": "Foreløpig opptelling",
+                    "sections": [
+                        "(1) Foreløpig opptelling av stemmesedler avgitt på forhånd skal starte senest fire timer før stemmegivningen er avsluttet ved samtlige valglokaler i kommunen, dersom dette kan skje uten å stride mot prinsippet om hemmelig valg. I motsatt fall skal den starte så snart samtlige forhåndsstemmegivninger er godkjent.",
+                        "(2) Foreløpig opptelling av stemmesedler avgitt på valgtinget skal starte så snart som mulig etter at stemmegivningen på valgtinget er avsluttet.",
+                        "(3) Dersom det foretas foreløpig opptelling hos valgstyret, bør valgtingsstemmegivninger avgitt ved andre stemmesteder i kommunen enn der velgeren er manntallsført, behandles før den foreløpige opptellingen starter. Godkjente stemmesedler blant disse skal telles sammen med de øvrige stemmesedlene. Forutsetningen er at dette kan skje uten særlig forsinkelse for opptellingen.",
+                        "(4) Stemmesedler det er tvil om kan godkjennes, legges til side og holdes utenfor opptellingen.",
+                        "(5) Hver listes stemmetall finnes ved å telle hvor mange stemmesedler som er avgitt til hver liste."
+                    ]
+                },
+                {
+                    "name": "§ 10-6",
+                    "title": "Endelig opptelling. Registrering av rettinger på stemmesedlene",
+                    "sections": [
+                        "(1) Endelig opptelling tar til umiddelbart etter at foreløpig opptelling er avsluttet og alle stemmene er kommet inn til valgstyret. Den endelige opptellingen skal foretas under valgstyrets tilsyn.",
+                        "(2) Stemmesedlene fra den foreløpige opptellingen skal telles på nytt. Valgstyret avgjør om stemmesedler som ikke ble tatt med i den foreløpige opptellingen og stemmegivninger som stemmestyrene har lagt i særskilt omslag, skal godkjennes. Godkjente stemmesedler blant disse skal telles sammen med de øvrige stemmesedlene.",
+                        "(3) Ved endelig opptelling av stemmesedler til kommunestyrevalget registrerer valgstyret også rettinger velgerne har gjort på stemmesedlene.",
+                        "(4) Ved fylkestingsvalget skal fylkesvalgstyrene i forbindelse med valgoppgjøret registrere rettinger velgerne har gjort på stemmesedlene."
+                    ]
+                },
+                {
+                    "name": "§ 10-7",
+                    "title": "Protokollering av valg",
+                    "sections": [
+                        "(1) Stemmestyret skal føre protokoll i forbindelse med gjennomføringen av valgtinget.",
+                        "(2) Valgstyret skal føre protokoll i forbindelse med forberedelser og gjennomføring av valg.",
+                        "(3) Fylkesvalgstyret skal føre protokoll i forbindelse med kontrollen med valgstyrets gjennomføring av fylkestingsvalg, samt valgoppgjøret."
+                    ]
+                },
+                {
+                    "name": "§ 10-8",
+                    "title": "Oversending av materiell ved fylkestingsvalg",
+                    "sections": [
+                        "(1) Ved fylkestingsvalg skal valgstyret så snart som mulig sende følgende materiell til fylkesvalgstyret:",
+                        "a)alle godkjente stemmesedler, sortert på urettede og rettede, de som er avgitt på valgtinget og de som er avgitt på forhånd hver for seg,",
+                        "b)alle stemmegivninger og stemmesedler valgstyret har forkastet,",
+                        "c)alle valgkort fra forhåndsstemmegivningen,",
+                        "d)alle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayen,",
+                        "e)bekreftet avskrift av det som er protokollert i forbindelse med valget, og",
+                        "f)kopi av innkomne klager.",
+                        "(2) (forbeholdes regler om stortingsvalg)",
+                        "(3) Materiellet skal pakkes i god orden i forsvarlig forseglet emballasje, og sendes på hurtigst betryggende måte."
+                    ]
+                },
+                {
+                    "name": "§ 10-9",
+                    "title": "Fylkesvalgstyrets kontroll ved fylkestingsvalg",
+                    "sections": [
+                        "(1) Fylkesvalgstyret skal kontrollere gjennomføringen av fylkestingsvalg i kommunene med grunnlag i det materiell det får tilsendt etter § 10-8. Dersom fylkesvalgstyret finner feil ved valgstyrets avgjørelser om å godkjenne eller forkaste stemmegivninger eller stemmesedler, eller feil i valgstyrets opptelling, skal feilene rettes.",
+                        "(2) (forbeholdes regler om stortingsvalg)"
+                    ]
+                },
+                {
+                    "name": "§ 10-10",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan gi forskrift om prøving av stemmegivninger og stemmesedler, om opptelling av stemmesedler og om protokollering av valg."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11 Mandatfordelingen og kandidatkåringen",
+            "paragraphs": [
+                {
+                    "name": "§ 11-1",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-2",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-3",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-4",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-5",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-6",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-7",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-8",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-9",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 11-10",
+                    "title": "Mandatfordeling og kandidatkåring ved fylkestingsvalg",
+                    "sections": [
+                        "(1) Fylkesvalgstyret skal foreta valgoppgjør ved fylkestingsvalg. Valglistenes stemmetall i alle kommunene i fylket legges sammen og mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter Grunnloven § 59 fjerde ledd.",
+                        "(2) Når det er avgjort hvor mange mandater en valgliste skal ha, fordeler fylkesvalgstyret representantplassene til kandidatene på listen. Kandidater som ikke er valgbare settes ut av betraktning. Kandidater på listen som har oppnådd et personlig stemmetall på minst åtte prosent av listens totale stemmetall, kåres i rekkefølge etter antall mottatte personlige stemmer. Øvrige kandidater kåres på grunnlag av deres rekkefølge på listen.",
+                        "(3) Hver liste skal så vidt mulig tildeles så mange vararepresentanter som den får representanter, med tillegg av tre. Kandidatene til vararepresentantplassene fordeles på samme måte som representantene etter annet ledd.",
+                        "(4) Dersom en valgliste får flere mandater enn det er valgbare kandidater på listen, fordeles det overskytende antall mandater mellom de øvrige listene i henhold til regelen i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 11-11",
+                    "title": "Underretning til de valgte fylkestingsrepresentantene",
+                    "sections": [
+                        "Fylkesvalgstyret skal underrette de valgte representantene og vararepresentantene om valget og opplyse om retten til å søke om fritak fra valg."
+                    ]
+                },
+                {
+                    "name": "§ 11-12",
+                    "title": "Mandatfordeling og kandidatkåring ved kommunestyrevalg",
+                    "sections": [
+                        "(1) Valgstyret skal foreta valgoppgjør ved kommunestyrevalg. Mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter Grunnloven § 59 fjerde ledd.",
+                        "(2) Når det er avgjort hvor mange mandater en valgliste skal ha, fordeler valgstyret representantplassene til kandidatene på listen. Kandidater som ikke er valgbare, settes ut av betraktning. Kandidater på listen som er satt opp med uthevet skrift, gis et antall personlige stemmer som tilsvarer 25 prosent av listens totale stemmetall, før de personlige stemmer velgerne har gitt til kandidatene telles opp. Deretter kåres kandidatene i rekkefølge etter antall mottatte personlige stemmer. Har flere kandidater fått like mange stemmer, eller ingen stemmer, er rekkefølgen på listen avgjørende.",
+                        "(3) Hver liste skal så vidt mulig tildeles så mange vararepresentanter som den får representanter, med tillegg av tre. Kandidatene til vararepresentantplassene fordeles på samme måte som representantene etter annet ledd.",
+                        "(4) Dersom en valgliste får flere mandater enn det er valgbare kandidater på listen, fordeles det overskytende antall mandater mellom de øvrige listene i henhold til regelen i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 11-13",
+                    "title": "Underretning til de valgte kommunestyrerepresentantene",
+                    "sections": [
+                        "Valgstyret skal underrette de valgte representantene og vararepresentantene om valget og opplyse om retten til å søke om fritak fra valg."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 12 Flertallsvalg ved kommunestyrevalg",
+            "paragraphs": [
+                {
+                    "name": "§ 12-1",
+                    "title": "Vilkårene for flertallsvalg",
+                    "sections": [
+                        "(1) Kommunestyrevalget holdes som flertallsvalg dersom det i en kommune ikke foreligger mer enn ett godkjent listeforslag.",
+                        "(2) Valgstyret kunngjør at valget holdes som flertallsvalg og informerer om hvilke regler som gjelder for valget."
+                    ]
+                },
+                {
+                    "name": "§ 12-2",
+                    "title": "Fremgangsmåten ved flertallsvalg",
+                    "sections": [
+                        "(1) Velgerne stemmer med samme stemmeseddel på representanter og vararepresentanter.",
+                        "(2) Stemmeseddelen kan inneholde høyst så mange navn som det skal velges representanter i kommunestyret, og like mange vararepresentanter."
+                    ]
+                },
+                {
+                    "name": "§ 12-3",
+                    "title": "Valgoppgjøret ved flertallsvalg",
+                    "sections": [
+                        "(1) Ved valgoppgjøret telles først de stemmer som er avgitt på representanter. Er det på stemmeseddelen ikke skilt mellom representanter og vararepresentanter, anses de først oppførte som representanter i det tillatte antall, og de følgende som vararepresentanter i det tillatte antall. Inneholder stemmeseddelen flere navn som representanter eller vararepresentanter enn tillatt, settes de overskytende navnene som står sist i rekkefølgen ut av betraktning.",
+                        "(2) Et navn kan bare føres opp én gang på hver stemmeseddel.",
+                        "(3) De som får flest stemmer er valgt.",
+                        "(4) De som får flest stemmer når representantstemmer og vararepresentantstemmer telles under ett, blir valgt til vararepresentanter i den rekkefølgen stemmetallet viser og i et antall som svarer til representantenes.",
+                        "(5) Hvis flere kandidater får like mange stemmer, avgjøres utfallet ved loddtrekning."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 13 Prøving av valgets gyldighet. Klage",
+            "paragraphs": [
+                {
+                    "name": "§ 13-1",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 13-2",
+                    "title": "Klage ved fylkestingsvalg og kommunestyrevalg",
+                    "sections": [
+                        "(1) Alle som har stemmerett, kan klage over forhold i forbindelse med forberedelsen og gjennomføringen av fylkestingsvalget i det fylket vedkommende er manntallsført, og ved kommunestyrevalget i den kommunen vedkommende er manntallsført. Gjelder klagen spørsmål om stemmerett eller om adgangen til å avgi stemme, har også den som ikke er blitt manntallsført, klagerett.",
+                        "(2) Klage må fremmes innen sju dager etter valgdagen. Klage over valgoppgjøret må fremmes innen sju dager etter at valgoppgjøret er godkjent i fylkestinget eller kommunestyret.",
+                        "(3) Klagen skal være skriftlig og skal fremsettes for valgstyret i kommunen ved kommunestyrevalg og for fylkesvalgstyret ved fylkestingsvalg. Gjelder klagen forhold av betydning for begge valg, anses den å gjelde begge og kan fremsettes enten for valgstyret eller fylkesvalgstyret.",
+                        "(4) Departementet er klageinstans. Departementets vedtak i klagesaker etter denne paragraf er endelige og kan ikke bringes inn for domstolene."
+                    ]
+                },
+                {
+                    "name": "§ 13-3",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 13-4",
+                    "title": "Kontroll av fylkestingsvalg og kommunestyrevalg. Ugyldig valg – omvalg",
+                    "sections": [
+                        "(1) Det nyvalgte fylkestinget treffer vedtak om fylkestingsvalget er gyldig. Det nyvalgte kommunestyret treffer vedtak om kommunestyrevalget er gyldig.",
+                        "(2) Fylkestinget skal kjenne fylkestingsvalget i en kommune eller i hele fylket ugyldig hvis det er begått feil som antas å ha hatt innflytelse på fordelingen av mandatene mellom listene og som det ikke er mulig å rette.",
+                        "(3) Kommunestyret skal kjenne kommunestyrevalget i kommunen ugyldig hvis det er begått feil som antas å ha hatt innflytelse på fordelingen av mandatene mellom listene og som det ikke er mulig å rette.",
+                        "(4) Hvis fylkestinget eller kommunestyret kjenner et valg ugyldig, skal det sendes melding til departementet, som påbyr omvalg. Ved fylkestingsvalg kan departementet i særlige tilfeller påby omvalg i hele fylket, selv om feilen ikke gjelder alle kommunene i fylket.",
+                        "(5) Bestemmelsen i kommuneloven § 59 om lovlighetskontroll gjelder tilsvarende. Fristen for å fremsette begjæring om lovlighetskontroll er likevel sju dager etter at fylkestinget eller kommunestyret har truffet vedtak etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 13-5",
+                    "title": "Gjennomføring av omvalg",
+                    "sections": [
+                        "(1) Ved omvalg benyttes manntallet fra det opprinnelige valget. Manntallet skal oppdateres og feil rettes.",
+                        "(2) Dersom det er nødvendig av hensyn til en hensiktsmessig gjennomføring av omvalget, kan departementet gjøre unntak fra bestemmelser i denne lov."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 14 Nytt valgoppgjør i perioden. Suppleringsvalg",
+            "paragraphs": [
+                {
+                    "name": "§ 14-1",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                },
+                {
+                    "name": "§ 14-2",
+                    "title": "Nytt valgoppgjør og suppleringsvalg til fylkestinget eller kommunestyret",
+                    "sections": [
+                        "(1) Fylkesordføreren eller ordføreren skal sørge for at fylkesvalgstyret eller valgstyret foretar nytt valgoppgjør dersom en representantplass i fylkestinget eller kommunestyret blir stående ubesatt.",
+                        "(2) Det skal også foretas nytt valgoppgjør når en vararepresentantplass er blitt ledig, dersom fylkesordføreren eller ordføreren finner dette nødvendig.",
+                        "(3) Er antallet av vararepresentanter eller av en gruppes vararepresentanter blitt utilstrekkelig, og forholdet ikke kan avhjelpes ved nytt valgoppgjør etter annet ledd, kan vedkommende gruppe selv utpeke den som skal rykke inn på den ledige vararepresentantplassen. Gruppen underretter deretter fylkesvalgstyret eller valgstyret, som velger vedkommende som vararepresentant dersom valgbarhetsvilkårene er oppfylt.",
+                        "(4) Er kommunestyrevalget holdt som flertallsvalg, utpekes kandidaten til den ledige plassen av kommunestyret. Tredje ledd annet punktum gjelder tilsvarende.",
+                        "(5) For øvrig gjelder §§ 11-11 og 11-13 tilsvarende."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 15 Forskjellige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 15-1",
+                    "title": "Forsøk",
+                    "sections": [
+                        "(1) Kongen kan etter søknad gi samtykke til:",
+                        "a)forsøk der valg etter denne lov gjennomføres på andre måter enn det som følger av denne lov, og",
+                        "b)forsøk med direkte valg av andre folkevalgte organer enn dem denne lov gjelder.",
+                        "(2) Kongen fastsetter nærmere vilkår for forsøket og bestemmer herunder hvilke lovbestemmelser det kan gjøres avvik fra."
+                    ]
+                },
+                {
+                    "name": "§ 15-2",
+                    "title": "Oppbevaring, avhending og tilintetgjøring av valgmateriell",
+                    "sections": [
+                        "Oppbevaring, avhending og tilintetgjøring av valgmateriell etter at valget er over, skal skje i henhold til arkivlovens bestemmelser og forskrift gitt i medhold av denne."
+                    ]
+                },
+                {
+                    "name": "§ 15-3",
+                    "title": "Tilgang til manntallet og det øvrige materiellet – offentlighet",
+                    "sections": [
+                        "(1) Om ikke annet følger av bestemmelser i denne lov eller i forskrift, kan tilgang til eller avskrift av manntallseksemplarer, herunder det som er brukt til avkryssing, bare gis eller utleveres",
+                        "a)til offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller",
+                        "b)til forskere i vitenskapelig øyemed når det foreligger samtykke fra folkeregistermyndigheten.",
+                        "(2) Tilgang til det øvrige valgmateriellet kan bare gis til forskere i vitenskapelig øyemed og etter samtykke fra vedkommende myndighet."
+                    ]
+                },
+                {
+                    "name": "§ 15-4",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "(1) Forvaltningslovens bestemmelser om taushetsplikt gjelder tilsvarende ved valg.",
+                        "(2) En person som assisterer en velger ved stemmegivningen og får kjennskap til hvordan vedkommende har stemt, har taushetsplikt om dette."
+                    ]
+                },
+                {
+                    "name": "§ 15-5",
+                    "title": "Beregning av frister. Oppreisning for oversittet frist",
+                    "sections": [
+                        "(1) Hvis en dato som er utgangspunktet for en frist faller på en helligdag, begynner fristen å løpe nærmest påfølgende hverdag.",
+                        "(2) Hvis en dato for avslutningen av en frist faller på en helligdag, løper fristen ut den nærmest påfølgende hverdag.",
+                        "(3) Bestemmelsene i første og annet ledd gjelder tilsvarende i de tilfeller hvor en dato som er det tidligste eller seneste tidspunktet for noen handling etter denne lov, faller på en helligdag.",
+                        "(4) Oppreisning for oversittet frist etter denne lov kan bare gis hvis fristoversittingen skyldes forhold den som plikter å overholde fristen ikke hadde herredømme over, og heller ikke kunne forutse."
+                    ]
+                },
+                {
+                    "name": "§ 15-6",
+                    "title": "Opplysningsplikt",
+                    "sections": [
+                        "Alle offentlig ansatte plikter så langt det er mulig å gi valgmyndighetene de opplysninger de måtte kreve til bruk ved forberedelse og gjennomføring av valg."
+                    ]
+                },
+                {
+                    "name": "§ 15-7",
+                    "title": "Oppgaver til valgstatistikk",
+                    "sections": [
+                        "Fylkesvalgstyrene og valgstyrene plikter å gi de oppgaver som departementet eller Statistisk sentralbyrå finner er nødvendige for å publisere valgresultater eller utarbeide offisiell valgstatistikk."
+                    ]
+                },
+                {
+                    "name": "§ 15-8",
+                    "title": "Kommuner som utgjør et eget fylke",
+                    "sections": [
+                        "(1) Denne lovs bestemmelser om fylkestingsvalg gjelder ikke i de tilfeller hvor en kommune utgjør et eget fylke og hvor det derfor ikke avholdes fylkestingsvalg.",
+                        "(2) Det skal likevel også i disse kommuner være adgang til å avgi forhåndsstemme til fylkestingsvalg for velgere som har stemmerett i en kommune som utgjør en del av et annet fylke."
+                    ]
+                },
+                {
+                    "name": "§ 15-9",
+                    "title": "(forbeholdes regler om stortingsvalg)",
+                    "sections": []
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 16 Ikrafttredelses- og overgangsregler. Endringer i andre lover",
+            "paragraphs": [
+                {
+                    "name": "§ 16-1",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "(1) Loven gjelder fra den tid Kongen bestemmer.",
+                        "(2) Fra samme tid oppheves lov 1. mars 1985 nr. 3 om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven) med unntak av § 83."
+                    ]
+                },
+                {
+                    "name": "§ 16-2",
+                    "title": "Overgangsregler",
+                    "sections": [
+                        "(1) § 5-2 annet ledd bokstav d gjelder ikke for partier som var registrert etter § 17 i lov 1. mars 1985 nr. 3, dersom disse søker om registrering i Partiregisteret innen 2. januar 2005. Partier som ikke har søkt om registrering innen denne fristen, mister eneretten til partinavnet etter stortingsvalget i 2005.",
+                        "(2) For å kunne stille listeforslag under det navn partiet var registrert med etter § 17 i lov 1. mars 1985 nr. 3, må partiet være registrert i Partiregisteret."
+                    ]
+                },
+                {
+                    "name": "§ 16-3",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven her trer i kraft, gjøres følgende endringer i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven):",
+                        "§ 12 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Kommunedelsutvalg",
+                    "sections": [
+                        "1.Kommunestyret kan selv opprette kommunedelsutvalg for deler av kommunen. Kommunestyret velger selv medlemmer og varamedlemmer til utvalget, og blant medlemmene leder og nestleder.",
+                        "2.Kommunestyret kan fatte vedtak om at medlemmene til ett eller flere kommunedelsutvalg i kommunen skal velges av innbyggerne i vedkommende kommunedel (direkte valg). Der medlemmene til kommunedelsutvalget er valgt ved direkte valg, velger utvalget selv leder og nestleder.",
+                        "3.Kommunestyret fastsetter selv kommunedelsutvalgenes arbeidsoppgaver. Kommunedelsutvalg kan tildeles avgjørelsesmyndighet i alle saker vedrørende kommunedelen hvor ikke annet følger av lov.",
+                        "4.Kommunedelsutvalget kan gi lederen eller et arbeidsutvalg myndighet til å treffe vedtak i enkeltsaker eller i typer av saker som ikke er av prinsipiell betydning, hvis ikke kommunestyret har bestemt noe annet.",
+                        "5.Kommunestyret kan selv når som helst omorganisere eller nedlegge kommunedelsutvalg. Dette gjelder ikke når kommunedelsutvalget er valgt ved direkte valg.",
+                        "6.For gjennomføringen av direkte valg til kommunedelsutvalg gjelder bestemmelsene i valgloven så langt de passer.",
+                        "7.Departementet kan i forskrift gi nærmere bestemmelser om direkte valg til kommunedelsutvalg.",
+                        "§ 14 nr. 1 bokstav b skal lyde:",
+                        "b)Utelukket fra valg er fylkesmannen, assisterende fylkesmann, og den som i vedkommende kommune eller fylkeskommune er administrasjonssjef eller dennes stedfortreder, er sekretær for kommunestyret eller fylkestinget, har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunen, eller foretar revisjon for kommunen eller fylkeskommunen. I kommuner og fylkeskommuner med parlamentarisk styreform er ansatte i sekretariatet til rådet som har fått myndighet delegert fra rådet, ikke valgbare.",
+                        "§ 14 nr. 1 bokstav c første punktum skal lyde:",
+                        "Rett til å kreve seg fritatt fra valg har den som har gjort tjeneste som medlem av vedkommende organ de siste fire år."
+                    ]
+                }
+            ]
+        }
+    ]
+}

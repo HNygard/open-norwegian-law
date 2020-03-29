@@ -1,0 +1,732 @@
+{
+    "lawId": "LOV-2002-06-21-34",
+    "lawName": "Lov om forbrukerkjøp (forbrukerkjøpsloven)",
+    "shortName": "Forbrukerkjøpsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1 Innledende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Alminnelig virkeområde",
+                    "sections": [
+                        "Loven gjelder forbrukerkjøp, hvis ikke noe annet er fastsatt i lov.",
+                        "Med forbrukerkjøp menes salg av ting til en forbruker når selgeren eller selgerens representant opptrer i næringsvirksomhet.",
+                        "Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.",
+                        "Representant som opptrer i næringsvirksomhet er solidarisk ansvarlig med selgeren for dennes forpliktelser dersom ikke forbrukeren blir gjort uttrykkelig oppmerksom på at representanten bare opptrer som mellommann og ikke er solidarisk ansvarlig med selgeren. Ansvaret gjelder ikke når selgeren selv opptrer i næringsvirksomhet.",
+                        "Loven gjelder bytte av ting så langt den passer."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Lovens anvendelse i noen særlige forhold",
+                    "sections": [
+                        "Loven gjelder for",
+                        "a)bestilling av ting som skal tilvirkes (tilvirkningskjøp)",
+                        "b)levering av vann",
+                        "c)kjøp av fordringer eller rettigheter.",
+                        "Loven gjelder ikke for",
+                        "a)kjøp av fast eiendom",
+                        "b)avtale om oppføring av bygning eller annet anlegg på fast eiendom",
+                        "c)levering av elektrisk strøm",
+                        "d)avtale som pålegger den part som skal levere tingen, også å utføre et arbeid eller annen tjeneste, dersom dette utgjør den overveiende del av hans eller hennes forpliktelser."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Ufravikelighet. Lovvalg",
+                    "sections": [
+                        "Det kan ikke avtales eller gjøres gjeldende vilkår som er ugunstigere for forbrukeren enn det som følger av loven her.",
+                        "Det kan ikke avtales at rettsreglene i en stat utenfor EØS skal anvendes på en kjøpsavtale som har nær tilknytning til EØS-statenes territorium, dersom forbrukeren ved dette får en dårligere beskyttelse enn etter loven her."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Risikoen for sending av meldinger",
+                    "sections": [
+                        "Dersom en part gir melding i samsvar med loven og sender den på en måte som er forsvarlig etter forholdene, og ikke annet fremgår, kan avsenderen gjøre gjeldende at meldingen er gitt i tide, selv om det oppstår forsinkelse eller feil under fremsendingen eller meldingen ikke når frem til den andre parten."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Leveringen mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 5",
+                    "title": "Leveringsstedet",
+                    "sections": [
+                        "Tingen skal holdes klar for henting på det stedet der selgeren hadde sitt forretningssted da kjøpet ble inngått. Hvis kjøpet ble inngått uten tilknytning til selgerens forretningssted, skal tingen leveres hos forbrukeren.",
+                        "Dersom selgeren har mer enn ett forretningssted, legges det forretningsstedet til grunn som har nærmest tilknytning til kjøpet, med hensyn til slike forhold som partene forutsatte på den tid da kjøpet ble inngått.",
+                        "Partene kan avtale et annet leveringssted."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Leveringstiden",
+                    "sections": [
+                        "Tingen skal leveres innen rimelig tid etter kjøpet, hvis ikke noe annet er avtalt.",
+                        "Er det avtalt et tidsrom for levering, har selgeren rett til å velge tidspunktet om forholdene ikke viser at valget er forbrukerens.",
+                        "Har selgeren ved hentekjøp rett til å velge tidspunktet for levering, skal han eller hun i tide gi forbrukeren melding om når tingen kan hentes."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Leveringen",
+                    "sections": [
+                        "Levering skjer når tingen overtas av forbrukeren."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Tilleggsplikter ved sendekjøp",
+                    "sections": [
+                        "Skal selgeren sørge for at tingen blir sendt, plikter han eller hun å inngå de avtaler som trengs for å få tingen transportert til bestemmelsesstedet på egnet måte og på vanlige vilkår for slik transport.",
+                        "Skal ikke selgeren tegne transportforsikring for tingen, må han eller hun når forbrukeren ber om det, gi de opplysninger som forbrukeren trenger for å kunne tegne forsikring.",
+                        "Dersom selgeren leverer tingen til en fraktfører uten at det ved merking, i transportdokument eller på annen måte tydelig fremgår at den skal til forbrukeren, må selgeren gi forbrukeren slik melding som gjør det klart hva forbrukeren skal motta."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Selgerens tilbakeholdsrett",
+                    "sections": [
+                        "Selgeren har ikke plikt til å overgi tingen, overlevere dokument, eller på annen måte overføre rådigheten over tingen, uten at kjøpesummen betales samtidig. Dette gjelder likevel ikke hvis selgeren har gitt forbrukeren kreditt.",
+                        "Skal selgeren sende tingen til et annet sted, kan han eller hun likevel ikke la være å sende den, men selgeren kan hindre at forbrukeren får rådigheten før kjøpesummen betales."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Ansvar for kostnader",
+                    "sections": [
+                        "Selgeren bærer kostnadene med tingen til den er levert. Denne paragrafen gjelder ikke kostnader ved at leveringen blir forsinket som følge av forhold på forbrukerens side.",
+                        "Når tingen skal sendes til forbrukeren, kan det avtales at kostnader som følger av sendingen, skal betales av forbrukeren i tillegg til kjøpesummen."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Avkastning av tingen",
+                    "sections": [
+                        "Avkastning som tingen gir før den avtalte leveringstiden tilfaller selgeren, når det ikke var grunn til å regne med at den ville falle senere. Avkastning som tingen gir etter den avtalte leveringstiden tilfaller forbrukeren, når det ikke var grunn til å regne med at den ville falle tidligere.",
+                        "Partene kan avtale en annen ordning."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Aksjer. Rentebærende fordringer",
+                    "sections": [
+                        "Kjøp av en aksje omfatter det utbyttet som ikke var forfalt før kjøpet. Det samme gjelder rett til å tegne nye aksjer når retten ikke kunne nyttes før kjøpet.",
+                        "Kjøp av en rentebærende fordring omfatter de renter som er påløpt, men ikke forfalt ved den avtalte leveringstiden. Motverdien av slike renter skal betales som tillegg til kjøpesummen når ikke fordringen er solgt som usikker.",
+                        "Partene kan avtale en annen ordning."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Risikoen for tingen",
+            "paragraphs": [
+                {
+                    "name": "§ 13",
+                    "title": "Hva risikoen innebærer",
+                    "sections": [
+                        "Når risikoen for tingen er gått over på forbrukeren, faller ikke forbrukerens plikt til å betale kjøpesummen bort ved at tingen deretter går tapt, skades eller minskes som følge av en hendelse som ikke beror på selgeren."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Risikoens overgang",
+                    "sections": [
+                        "Risikoen går over på forbrukeren når tingen er levert i samsvar med § 7. Hvis leveringstiden er kommet og forbrukeren unnlater å overta en ting som er stilt til hans eller hennes rådighet, har forbrukeren likevel risikoen for tap eller skade som skyldes egenskaper ved tingen selv, for eksempel forråtnelse.",
+                        "Skal forbrukeren hente tingen på et annet sted enn hos selgeren, går risikoen over når leveringstiden er inne og forbrukeren er kjent med at tingen er stilt til hans eller hennes rådighet på leveringsstedet.",
+                        "Risikoen går ikke over på forbrukeren før det ved merking, transportdokument eller på annen måte er gjort klart at tingen er tiltenkt forbrukeren.",
+                        "Er en ting kjøpt og levert på prøve eller for øvrig med rett til tilbakelevering, har forbrukeren risikoen for tingen inntil den igjen er overtatt av selgeren. Dette gjelder likevel ikke når forbrukeren har rett til å levere tingen tilbake etter angrerettloven eller tilsvarende angrefrist etter avtale om forbrukerkjøp."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Tingens egenskaper, mangler mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 15",
+                    "title": "Tingens egenskaper",
+                    "sections": [
+                        "Tingen skal være i samsvar med de krav til art, mengde, kvalitet, andre egenskaper og innpakning som følger av avtalen.",
+                        "Hvis det ikke følger noe annet av avtalen, skal tingen",
+                        "a)passe for de formål som tilsvarende ting vanligvis brukes til",
+                        "b)svare til det som forbrukeren har grunn til å forvente ved kjøp av en slik ting når det gjelder holdbarhet og andre egenskaper",
+                        "c)passe for et bestemt formål som selgeren var eller måtte være kjent med da kjøpet ble inngått, hvis selgeren har akseptert dette formålet eller forbrukeren ellers har hatt rimelig grunn til å bygge på selgerens sakkunnskap og vurdering",
+                        "d)ha egenskaper som selgeren har vist til ved å legge frem en prøve eller modell",
+                        "e)være pakket på vanlig eller annen forsvarlig måte som trengs for å bevare og beskytte tingen",
+                        "f)være i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlig vedtak i medhold av lov på den tid kjøpet inngås, hvis ikke forbrukeren har til hensikt å anvende tingen på en slik måte at kravet er uten betydning",
+                        "g)være fri tredjepersons rett i tingen, for eksempel eiendomsrett eller panterett. Likeså skal tingen være fri tredjepersons krav på å ha rett i tingen når dette bestrides, unntatt når kravet er klart ugrunnet."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Mangel",
+                    "sections": [
+                        "Tingen har en mangel dersom",
+                        "a)den ikke er i samsvar med ett eller flere av kravene i § 15",
+                        "b)selgeren ved kjøpet har forsømt å opplyse om forhold ved tingen eller dens bruk som han eller hun burde kjenne til, og som forbrukeren hadde grunn til å regne med å få, dersom unnlatelsen kan antas å ha virket inn på kjøpet",
+                        "c)den ikke svarer til opplysninger som selgeren i sin markedsføring eller ellers har gitt om tingen eller dens bruk, dersom selgeren ikke viser at opplysningene før kjøpet er rettet på en tydelig måte, eller at de ikke kan ha innvirket på kjøpet",
+                        "d)nødvendige opplysninger om installering, montering, bruk, stell og oppbevaring ikke følger med tingen.",
+                        "Første ledd bokstav c gjelder tilsvarende for opplysninger noen annen enn selgeren har gitt på tingens innpakning, i annonse eller annen markedsføring på vegne av selgeren eller tidligere salgsledd.",
+                        "Forbrukeren kan ikke gjøre gjeldende som en mangel noe han eller hun kjente eller måtte kjenne til ved kjøpet.",
+                        "Forbrukeren kan ikke gjøre gjeldende som en mangel noe som har sin årsak i materialer som er levert av forbrukeren. Dette gjelder likevel ikke dersom selgeren på grunn av materialenes uegnethet burde ha frarådet bruken av dem."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Ting solgt «som den er». Auksjonssalg",
+                    "sections": [
+                        "Selv om tingen er solgt «som den er» eller med lignende alminnelig forbehold, foreligger det en mangel",
+                        "a)når tingen er i dårligere stand enn forbrukeren med rimelighet hadde grunn til å forvente på bakgrunn av forbeholdet, kjøpesummens størrelse og forholdene ellers, eller",
+                        "b)når det foreligger forhold som nevnt i § 16 første ledd bokstav b eller c.",
+                        "Selges brukte ting på auksjon hvor forbrukeren har anledning til å være til stede, gjelder reglene i første ledd tilsvarende så langt de passer."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Tidspunktet for bedømmelsen av om det foreligger en mangel",
+                    "sections": [
+                        "Ved bedømmelse av om tingen har en mangel, skal det tidspunktet da risikoen går over på forbrukeren, legges til grunn, selv om mangelen først viser seg senere.",
+                        "Hvis ikke noe annet bevises, skal en mangel som viser seg innen seks måneder etter risikoens overgang, formodes å ha eksistert ved risikoens overgang. Dette gjelder likevel ikke dersom formodningen er uforenlig med varens eller mangelens art.",
+                        "Selgeren svarer også for en mangel som oppstår senere, dersom den skyldes kontraktsbrudd fra hans eller hennes side. Det samme gjelder dersom selgeren ved garanti eller på annen måte har påtatt seg ansvar for at tingen vil ha angitte egenskaper eller være egnet til vanlig bruk eller en særlig bruksmåte i et tidsrom etter leveringen. En garanti er rettslig bindende for garantigiveren på de vilkår som er fastsatt i garantierklæringen og i tilknyttet reklame."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Forsinkelse. Forbrukerens krav som følge av forsinket levering",
+            "paragraphs": [
+                {
+                    "name": "§ 19",
+                    "title": "Forbrukerens krav ved forsinkelse",
+                    "sections": [
+                        "Dersom tingen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukeren",
+                        "a)holde kjøpesummen tilbake etter § 20",
+                        "b)kreve oppfyllelse etter § 21",
+                        "c)kreve heving etter § 23",
+                        "d)kreve erstatning etter § 24.",
+                        "Forbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+                        "Dersom selgeren ikke i tide oppfyller sine plikter ellers etter kjøpet, gjelder bestemmelsene om forsinkelse tilsvarende så langt de passer, likevel ikke § 23 tredje og fjerde ledd. Partene kan avtale en annen løsning."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Tilbakeholdsrett",
+                    "sections": [
+                        "Forbrukeren kan holde tilbake betalingen for å dekke krav som følge av selgerens forsinkelse, men ikke åpenbart mer enn det som vil gi betryggende sikkerhet for kravet."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Rett til oppfyllelse",
+                    "sections": [
+                        "Er leveringstiden kommet uten at tingen er levert, kan forbrukeren likevel fastholde kjøpet og kreve oppfyllelse.",
+                        "Dette gjelder ikke om det foreligger en hindring som selgeren ikke kan overvinne, eller om en oppfyllelse vil medføre en så stor ulempe eller kostnad for selgeren at det står i vesentlig misforhold til forbrukerens interesse i at selgeren oppfyller. Faller vanskene bort innen rimelig tid, kan forbrukeren kreve oppfyllelse.",
+                        "Forbrukeren taper sin rett til å kreve oppfyllelse om han eller hun venter urimelig lenge med å fremme kravet."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Forespørsel",
+                    "sections": [
+                        "Dersom selgeren spør om forbrukeren vil motta levering tross forsinkelsen eller underretter forbrukeren om at tingen vil bli levert innen en angitt tid, men forbrukeren ikke svarer innen rimelig tid etter at han eller hun har fått meldingen, kan forbrukeren ikke heve om oppfyllelse skjer innen den tid som er angitt."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Heving",
+                    "sections": [
+                        "Forbrukeren kan heve kjøpet når forsinkelsen er vesentlig. Er tingen levert, må kravet om heving gjøres gjeldende innen rimelig tid etter at forbrukeren fikk vite om leveringen.",
+                        "Ved vurderingen av om forsinkelsen er vesentlig, skal det særlig legges vekt på forsinkelsens betydning for forbrukeren. Det skal blant annet tas hensyn til hvilken type ting kjøpet gjelder, og om levering skulle skje til en bestemt tid.",
+                        "Kjøpet kan også heves dersom selgeren ikke leverer innen en rimelig tilleggsfrist for oppfyllelse som forbrukeren har fastsatt. Mens tilleggsfristen løper, kan ikke forbrukeren heve, med mindre selgeren har sagt at han eller hun ikke vil oppfylle innen fristen.",
+                        "Gjelder kjøpet en ting som skal tilvirkes særskilt for forbrukeren etter forbrukerens oppgaver eller ønsker, og kan selgeren derfor ikke uten vesentlig tap disponere tingen på annen måte, kan forbrukeren bare heve dersom forsinkelsen medfører at formålet med kjøpet blir vesentlig forfeilet."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Erstatning",
+                    "sections": [
+                        "Forbrukeren kan kreve erstatning for tap han eller hun lider som følge av forsinkelse fra selgerens side.",
+                        "Dette gjelder likevel ikke så langt selgeren godtgjør at forsinkelsen skyldes hindring utenfor hans eller hennes kontroll, som selgeren ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av.",
+                        "Beror forsinkelsen på en tredjeperson som selgeren har gitt i oppdrag helt eller delvis å oppfylle kjøpet, er selgeren fri for ansvar bare om også tredjepersonen ville være fritatt etter regelen i annet ledd. Det samme gjelder om forsinkelsen beror på en leverandør som selgeren har brukt, eller på noen annen i tidligere salgsledd.",
+                        "Ansvarsfriheten gjelder så lenge hindringen er til stede. Faller hindringen bort, kan ansvar gjøres gjeldende dersom selgeren da plikter å oppfylle, men ikke gjør dette.",
+                        "Erstatningen utmåles etter reglene i kapittel 11."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Opplysningsplikt om hindring",
+                    "sections": [
+                        "Hindres selgeren i å oppfylle kjøpet til rett tid, skal forbrukeren gis melding om hindringen og dens virkning på muligheten for å oppfylle. Får forbrukeren ikke slik melding innen rimelig tid etter at selgeren fikk eller burde ha fått kjennskap til hindringen, kan forbrukeren kreve erstattet tap som kunne ha vært unngått om han eller hun hadde fått meldingen i tide."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6 Forbrukerens krav som følge av mangler ved salgsgjenstanden",
+            "paragraphs": [
+                {
+                    "name": "§ 26",
+                    "title": "Forbrukerens krav ved mangler",
+                    "sections": [
+                        "Dersom det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukeren",
+                        "a)holde kjøpesummen tilbake etter § 28",
+                        "b)velge mellom retting og omlevering i samsvar med §§ 29 og 30",
+                        "c)kreve prisavslag etter § 31",
+                        "d)kreve heving etter § 32",
+                        "e)kreve erstatning etter § 33.",
+                        "Forbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+                        "For andre feil ved selgerens oppfyllelse gjelder bestemmelsene om mangler så langt de passer. Partene kan avtale en annen løsning. Avtalefriheten gjelder likevel ikke for installeringsforpliktelser som inngår i salgsavtalen."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Reklamasjon",
+                    "sections": [
+                        "Dersom det foreligger en mangel ved tingen, må forbrukeren innen rimelig tid etter at han eller hun oppdaget eller burde ha oppdaget den, gi selgeren melding om at han eller hun vil påberope seg mangelen (reklamasjon). Denne fristen for å reklamere kan aldri være kortere enn to måneder fra det tidspunkt da forbrukeren oppdaget mangelen.",
+                        "Reklamasjon må senest skje to år etter at forbrukeren overtok tingen. Dersom tingen eller deler av den ved vanlig bruk er ment å vare vesentlig lengre, er fristen for å reklamere fem år. Dette gjelder ikke så langt selgeren ved garanti eller annen avtale har påtatt seg ansvar for mangler i lengre tid. Fristene etter første og annet punktum gjelder heller ikke dersom det foreligger en mangel etter § 15 annet ledd bokstav g.",
+                        "Reklamasjon kan i stedet fremsettes overfor den som etter avtale med selgeren har påtatt seg å avhjelpe mangler.",
+                        "Hvis forbrukeren ikke reklamerer i tide, tapes retten til å gjøre mangelen gjeldende. Dette gjelder ikke dersom selgeren har opptrådt grovt uaktsomt eller for øvrig i strid med redelighet og god tro."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Tilbakeholdsrett",
+                    "sections": [
+                        "Forbrukeren kan holde tilbake betalingen for å dekke krav som følge av mangelen, men ikke åpenbart mer enn det som vil gi betryggende sikkerhet for kravet."
+                    ]
+                },
+                {
+                    "name": "§ 29",
+                    "title": "Retting og omlevering (avhjelp)",
+                    "sections": [
+                        "Forbrukeren kan velge mellom å kreve at selgeren sørger for retting av mangelen eller leverer tilsvarende ting (omlevering). Dette gjelder ikke hvis gjennomføring av kravet er umulig eller volder selgeren urimelige kostnader.",
+                        "Ved avgjørelsen av om kostnadene er urimelige etter første ledd annet punktum, skal det særlig legges vekt på verdien av en mangelfri ting, mangelens betydning og om andre beføyelser kan gjennomføres uten vesentlig ulempe for forbrukeren.",
+                        "Selv om forbrukeren verken krever retting eller omlevering etter loven, kan selgeren tilby retting eller omlevering dersom dette skjer uten opphold. Dersom selgeren sørger for slik retting eller omlevering i samsvar med loven, kan forbrukeren ikke kreve prisavslag eller heving."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Gjennomføring av avhjelp",
+                    "sections": [
+                        "Avhjelp skal skje uten kostnad og uten vesentlig ulempe for forbrukeren innen rimelig tid og uten risiko for at forbrukeren ikke får dekket sine utlegg av selgeren.",
+                        "Selgeren har ikke rett til å foreta mer enn to avhjelpsforsøk for samme mangel, med mindre det foreligger særlige grunner som gjør at ytterligere avhjelp er rimelig.",
+                        "Hvis selgerens avhjelp vil medføre at forbrukeren i mer enn en uke vil bli avskåret fra å bruke tingen, kan forbrukeren kreve å få stilt en erstatningsgjenstand til rådighet for selgerens regning. Dette gjelder likevel bare hvis kravet fremstår som rimelig sett i forhold til forbrukerens behov og den kostnad eller ulempe som selgeren påføres.",
+                        "Dersom det ikke foreligger en mangel, kan selgeren bare kreve betaling for undersøkelser som har vært nødvendige for å avgjøre om det foreligger en mangel, og betaling for reparasjon av tingen, dersom selgeren har gjort forbrukeren uttrykkelig oppmerksom på at han eller hun selv må dekke slike kostnader."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Prisavslag",
+                    "sections": [
+                        "Dersom mangelen ikke rettes eller tingen omleveres i samsvar med §§ 29 til 30, kan forbrukeren kreve et passende prisavslag slik at forholdet mellom nedsatt og avtalt pris svarer til forholdet mellom tingens verdi i mangelfull og kontraktsmessig stand på leveringstiden.",
+                        "Dersom særlige grunner taler for det, kan prisavslaget i stedet settes lik mangelens betydning for forbrukeren.",
+                        "Forbrukeren kan ikke kreve prisavslag ved salg av brukte ting på auksjon hvor han eller hun har anledning til å være til stede."
+                    ]
+                },
+                {
+                    "name": "§ 32",
+                    "title": "Heving",
+                    "sections": [
+                        "I stedet for prisavslag etter § 31 kan forbrukeren heve avtalen, unntatt når mangelen er uvesentlig."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Erstatning",
+                    "sections": [
+                        "Forbrukeren kan kreve erstatning for tap han eller hun lider som følge av at tingen har en mangel.",
+                        "Erstatningen utmåles etter reglene i kapittel 11."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Produktskader",
+                    "sections": [
+                        "Selgerens erstatningsansvar for tap som følge av en mangel omfatter, foruten skade på salgstingen selv, også skade på gjenstander som salgstingen brukes til fremstilling av, eller som har nær og direkte sammenheng med salgstingens forutsatte bruk.",
+                        "For andre produktskader enn dem som er nevnt i første ledd, kan forbrukeren kreve erstatning med mindre selgeren godtgjør at tapet ikke skyldes feil eller forsømmelse på selgerens side.",
+                        "Når selgeren betaler erstatning for skade på annet enn salgstingen selv, trer selgeren inn i forbrukerens eventuelle krav mot produsenten etter lov 23. desember 1988 nr. 104 om produktansvar."
+                    ]
+                },
+                {
+                    "name": "§ 35",
+                    "title": "Krav mot tidligere salgsledd mv.",
+                    "sections": [
+                        "Forbrukeren kan gjøre sitt mangelskrav mot selgeren gjeldende mot et tidligere yrkessalgsledd for så vidt tilsvarende krav på grunn av mangelen kan gjøres gjeldende av selgeren eller en annen som ervervet tingen fra det tidligere leddet.",
+                        "Avtale i tidligere salgsledd som innskrenker selgerens eller en annen erververs krav, kan ikke gjøres gjeldende overfor forbrukerens krav etter første ledd i større utstrekning enn det som kunne vært avtalt mellom forbrukeren og selgeren.",
+                        "Reklamasjonsreglene i § 27 gjelder tilsvarende for krav etter denne paragrafen.",
+                        "Forbrukeren kan på samme vilkår som i første til tredje ledd gjøre sitt krav som følge av en mangel gjeldende mot en yrkesutøver som etter avtale med selgeren eller tidligere ledd har utført arbeid på tingen.",
+                        "Forbrukeren kan også gjøre krav gjeldende etter reglene i lov 13. mai 1988 nr. 27 om kjøp § 84 første ledd, hvis dette gir forbrukeren større rettigheter enn det som følger av paragrafen her.",
+                        "Tidligere salgsledd kan ikke motregne overfor forbrukeren med krav mot selgeren."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Ansvar for opplysninger etter § 16 annet ledd",
+                    "sections": [
+                        "Når en tilvirker eller en annen person i tidligere salgsledd har gitt opplysning som nevnt i § 16 annet ledd, er han eller hun solidarisk ansvarlig med selgeren for tap forbrukeren lider på grunn av opplysningen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7 Forbrukerens plikter",
+            "paragraphs": [
+                {
+                    "name": "§ 37",
+                    "title": "Kjøpesummens størrelse",
+                    "sections": [
+                        "Er kjøp inngått uten at prisen følger av avtalen eller av opplysninger selgeren har gitt i annonser, utstillingstilbud e.l., skal forbrukeren betale gjengs pris på avtaletiden for samme slags ting solgt under tilsvarende forhold, for så vidt prisen ikke er urimelig. Er det ingen slik gjengs pris, må forbrukeren betale det som er rimelig under hensyn til tingens art og godhet og forholdene ellers.",
+                        "Skal kjøpesummen fastsettes etter tall, mål eller vekt, legges til grunn mengden på det tidspunktet da risikoen for tingen går over på forbrukeren. Er prisen fastsatt etter vekt, trekkes først vekten av innpakningen fra.",
+                        "Selgeren kan ikke i tillegg til kjøpesummen kreve gebyr for utstedelse og sending av regning hvis ikke dette klart følger av avtalen."
+                    ]
+                },
+                {
+                    "name": "§ 38",
+                    "title": "Tidspunktet for betaling. Tilbakeholdsrett",
+                    "sections": [
+                        "Følger ikke betalingstiden av avtalen, skal forbrukeren betale når selgeren krever det.",
+                        "Hvis ikke noe annet er avtalt, har forbrukeren ikke plikt til å betale kjøpesummen uten at tingen blir overlevert eller stilt til hans eller hennes rådighet i samsvar med avtalen og loven.",
+                        "Forbrukeren er ikke bundet av en forhåndsavtale om plikt til å betale på et bestemt tidspunkt uavhengig av om selgeren oppfyller til rett tid.",
+                        "Før forbrukeren betaler, har han eller hun rett til å få undersøke tingen på vanlig måte, når dette ikke er uforenlig med den avtalte fremgangsmåten for levering og betaling av kjøpesummen."
+                    ]
+                },
+                {
+                    "name": "§ 39",
+                    "title": "Sted for betaling",
+                    "sections": [
+                        "Kjøpesummen skal betales på selgerens forretningssted. Dersom selgeren har mer enn ett forretningssted, legges det forretningsstedet til grunn som har nærmest tilknytning til kjøpet, med hensyn til slike forhold som partene forutsatte på den tid da kjøpet ble inngått. Dersom selgeren ikke har forretningssted med tilknytning til kjøpet, legges selgerens bosted til grunn. Dersom betaling skal skje mot overlevering av tingen eller et dokument, skal det gjøres på det stedet der overleveringen skjer.",
+                        "Selgeren svarer for økte kostnader i forbindelse med betalingen som skyldes at forretningsstedet er flyttet etter at kjøpet ble inngått."
+                    ]
+                },
+                {
+                    "name": "§ 40",
+                    "title": "Forbrukerens medvirkning ved oppfyllelse av kjøpet",
+                    "sections": [
+                        "Forbrukeren skal",
+                        "a)yte slik medvirkning som det er rimelig å vente av ham eller henne for at selgeren skal kunne oppfylle kjøpet, og",
+                        "b)overta tingen ved å hente eller motta den."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8 Avbestilling og retur",
+            "paragraphs": [
+                {
+                    "name": "§ 41",
+                    "title": "Avbestilling før levering",
+                    "sections": [
+                        "Avbestiller forbrukeren tingen før levering, kan selgeren ikke fastholde kjøpet og kreve betaling. Hvis ikke noe annet følger av avtalen, kan selgeren i stedet kreve erstatning for tap som er en følge av avbestillingen.",
+                        "Partene kan avtale en normalerstatning ved avbestilling (avbestillingsgebyr). Normalerstatningen kan ikke settes høyere enn det erstatning etter kapittel 11 normalt kan forventes å utgjøre.",
+                        "Hvis det ikke er avtalt avbestillingsgebyr, utmåles erstatningen etter reglene i kapittel 11."
+                    ]
+                },
+                {
+                    "name": "§ 42",
+                    "title": "Retur etter levering",
+                    "sections": [
+                        "Etter at tingen er levert, blir forbrukeren ikke fritatt for å betale kjøpesummen selv om tingen leveres tilbake til selgeren.",
+                        "Betalingsplikten bortfaller likevel",
+                        "a)ved heving",
+                        "b)hvis vilkårene for angrerett etter angrerettloven er oppfylt, eller",
+                        "c)hvis en rett til tilbakelevering følger av avtalen, for eksempel ved at tingen er kjøpt på prøve (hjemlån, deponering).",
+                        "Forbrukeren kan bytte tingen hvis bytterett må anses avtalt eller følger av alminnelige rettsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9 Selgerens krav ved kontraktsbrudd fra forbrukerens side",
+            "paragraphs": [
+                {
+                    "name": "§ 43",
+                    "title": "Selgerens krav",
+                    "sections": [
+                        "Dersom forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven, og dette ikke skyldes selgeren eller forhold på selgerens side, kan selgeren",
+                        "a)kreve oppfyllelse etter § 44",
+                        "b)kreve heving etter § 45",
+                        "c)kreve erstatning og rente etter § 46",
+                        "d)holde ytelsen tilbake etter § 9.",
+                        "Selgerens rett til erstatning og rente faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende."
+                    ]
+                },
+                {
+                    "name": "§ 44",
+                    "title": "Rett til å kreve oppfyllelse",
+                    "sections": [
+                        "Selgeren kan fastholde kjøpet og kreve at forbrukeren betaler kjøpesummen. Dette gjelder likevel ikke så lenge betalingen hindres av stans i samferdselen eller betalingsformidlingen eller annet forhold utenfor forbrukerens kontroll og som forbrukeren ikke kan overvinne.",
+                        "Er tingen ennå ikke levert, taper selgeren sin rett til å kreve oppfyllelse om han venter urimelig lenge med å fremme kravet.",
+                        "§ 21 gjelder tilsvarende for selgerens rett til å kreve oppfyllelse av forbrukerens plikt til å medvirke til kjøpet (jf. § 40)."
+                    ]
+                },
+                {
+                    "name": "§ 45",
+                    "title": "Heving",
+                    "sections": [
+                        "Selgeren kan heve kjøpet på grunn av forsinket betaling eller annet kontraktsbrudd fra forbrukerens side dersom forbrukerens kontraktsbrudd er vesentlig. Selgeren kan ikke heve etter at hele kjøpesummen er betalt.",
+                        "Kjøpet kan også heves dersom forbrukeren ikke betaler kjøpesummen innen en rimelig tilleggsfrist for oppfyllelse som selgeren har fastsatt. Mens tilleggsfristen løper, kan selgeren ikke heve, med mindre forbrukeren har sagt at han eller hun ikke vil oppfylle innen fristen.",
+                        "Er tingen allerede overtatt av forbrukeren, kan selgeren bare heve dersom det er tatt forbehold om det eller forbrukeren avviser tingen."
+                    ]
+                },
+                {
+                    "name": "§ 46",
+                    "title": "Erstatning. Rente",
+                    "sections": [
+                        "Betales ikke kjøpesummen i tide, kan selgeren kreve rente av kjøpesummen etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.",
+                        "Selgeren kan også kreve erstatning for det tapet han eller hun lider som følge av kontraktsbrudd fra forbrukerens side. Dette gjelder likevel ikke så langt forbrukeren godtgjør at kontraktsbruddet skyldes stans i samferdselen eller betalingsformidlingen eller annen hindring utenfor forbrukerens kontroll som han eller hun ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av. Reglene ellers i § 24 tredje og fjerde ledd gjelder tilsvarende. Erstatningen utmåles etter reglene i kapittel 11."
+                    ]
+                },
+                {
+                    "name": "§ 47",
+                    "title": "Opplysningsplikt om hindring",
+                    "sections": [
+                        "Hindres forbrukeren i å oppfylle kjøpet til rett tid, skal selgeren gis melding om hindringen og dens virkning på muligheten for å oppfylle. Får selgeren ikke slik melding innen rimelig tid etter at forbrukeren fikk eller burde ha fått kjennskap til hindringen, kan selgeren kreve erstattet tap som kunne ha vært unngått om han eller hun hadde fått meldingen i tide."
+                    ]
+                },
+                {
+                    "name": "§ 48",
+                    "title": "Spesifikasjon",
+                    "sections": [
+                        "Skal forbrukeren bestemme tingens form, mål eller andre egenskaper og dette ikke gjøres til avtalt tid eller innen rimelig tid etter at selgeren har oppfordret til det, kan selgeren selv gjøre det i samsvar med hva han eller hun må anta er forbrukerens interesse. Dette hindrer ikke selgeren i å gjøre gjeldende andre krav som han eller hun har.",
+                        "Selgeren må opplyse forbrukeren om de spesifikasjoner han eller hun vil bruke og gi forbrukeren en rimelig frist til å endre spesifikasjonene. Gjør ikke forbrukeren dette i tide etter å ha fått selgerens melding, blir selgerens spesifikasjoner bindende."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10 Fellesregler om heving og omlevering",
+            "paragraphs": [
+                {
+                    "name": "§ 49",
+                    "title": "Virkninger av heving og omlevering",
+                    "sections": [
+                        "Når kjøpet heves, faller partenes plikt til å oppfylle kjøpet bort.",
+                        "Er kjøpet helt eller delvis oppfylt fra noen av sidene, kan det mottatte kreves tilbakeført. En part kan likevel holde tilbake det som er mottatt, inntil den andre gir tilbake det han eller hun har fått. Tilsvarende gjelder når parten har krav på erstatning eller rente, og betryggende sikkerhet ikke blir stilt.",
+                        "Skal selgeren omlevere, kan forbrukeren holde tilbake det han eller hun har mottatt, inntil omlevering skjer.",
+                        "Hevingen har ingen betydning for avtalevilkår om forretningshemmeligheter, om løsning av tvister eller om partenes rettigheter og plikter som følge av hevingen."
+                    ]
+                },
+                {
+                    "name": "§ 50",
+                    "title": "Avkastning og rente ved tilbakeføring",
+                    "sections": [
+                        "Heves kjøpet, skal forbrukeren godskrive selgeren avkastning som han eller hun har hatt av tingen, og gi rimelig vederlag for vesentlig nytte han eller hun ellers har hatt av den.",
+                        "Dersom selgeren skal betale kjøpesummen tilbake, plikter selgeren å betale renter etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. fra den dag forbrukeren reklamerte på mangelen. Dersom forbrukeren avkreves vederlag for nytten av gjenstanden etter første ledd, plikter selgeren likevel å betale slik rente fra den dag selgeren mottok betalingen."
+                    ]
+                },
+                {
+                    "name": "§ 51",
+                    "title": "Tap av krav på heving og omlevering",
+                    "sections": [
+                        "Forbrukeren kan heve kjøpet eller kreve omlevering bare dersom tingen leveres tilbake i vesentlig samme stand og mengde som han eller hun mottok den. Forbrukeren taper likevel ikke retten til å heve eller kreve omlevering dersom",
+                        "a)årsaken til at det er umulig å tilbakelevere tingen i vesentlig samme stand og mengde, er tingens egen beskaffenhet eller annet forhold som ikke beror på forbrukeren",
+                        "b)tingen helt eller delvis er gått til grunne eller forringet som følge av en handling som trengs for å undersøke om tingen har en mangel, eller",
+                        "c)tingen helt eller delvis er forbrukt eller forandret av forbrukeren under forutsatt bruk før han eller hun oppdaget eller burde ha oppdaget den mangelen som er årsak til avvisningen.",
+                        "Forbrukeren taper heller ikke retten til å heve kjøpet eller kreve omlevering dersom han eller hun ved tilbakeleveringen erstatter den verdireduksjonen tingen har hatt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11 Fellesregler om erstatning",
+            "paragraphs": [
+                {
+                    "name": "§ 52",
+                    "title": "Erstatningens omfang",
+                    "sections": [
+                        "Erstatning for kontraktsbrudd fra den ene parts side skal svare til det økonomiske tapet, herunder utlegg, prisforskjell og tapt fortjeneste, som den annen part er påført ved kontraktsbruddet. Dette gjelder likevel bare tap som en med rimelighet kunne ha forutsett som en mulig følge av kontraktsbruddet.",
+                        "Erstatningen omfatter ikke",
+                        "a)tap som følge av personskade",
+                        "b)tap i forbrukerens næringsvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 53",
+                    "title": "Beregning av prisforskjell ved heving",
+                    "sections": [
+                        "Dersom kjøpet heves og forbrukeren foretar dekningskjøp eller selgeren foretar dekningssalg på forsvarlig måte og innen rimelig tid etter hevingen, legges kjøpesummen og prisen etter dekningstransaksjonen til grunn når prisforskjellen skal regnes ut.",
+                        "Er kjøpet hevet uten at det foretas dekning i samsvar med første ledd, og det er gjengs pris for tingen, legges kjøpesummen og den gjengse prisen på hevingstidspunktet til grunn når prisforskjellen skal regnes ut.",
+                        "Som gjengs pris anses prisen på leveringsstedet for ting av samme slag eller, om det ikke gjelder noen gjengs pris der, på et annet sted som med rimelighet kan likestilles med dette, likevel slik at hensyn tas til forskjell i transportkostnader."
+                    ]
+                },
+                {
+                    "name": "§ 54",
+                    "title": "Plikt til å begrense tapet. Lemping av ansvaret",
+                    "sections": [
+                        "En part som påberoper seg kontraktsbrudd fra den andre partens side, skal ved rimelige tiltak begrense sitt tap. Forsømmes dette, må han eller hun selv bære den tilsvarende delen av tapet.",
+                        "Erstatningen kan settes ned dersom den vil virke urimelig for den ansvarlige parten ut fra tapets størrelse i forhold til det tap som vanligvis oppstår i lignende tilfeller, og forholdene ellers."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 12 Forskjellige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 55",
+                    "title": "Forventet kontraktsbrudd",
+                    "sections": [
+                        "For forventet kontraktsbrudd gjelder reglene i lov 13. mai 1988 nr. 27 om kjøp §§ 61 og 62."
+                    ]
+                },
+                {
+                    "name": "§ 56",
+                    "title": "Insolvensbehandling",
+                    "sections": [
+                        "Kommer en av partene under insolvensbehandling, gjelder bestemmelsene i dekningsloven kapittel 7."
+                    ]
+                },
+                {
+                    "name": "§ 57",
+                    "title": "Kontraktsbrudd ved del av tingen",
+                    "sections": [
+                        "Omfatter selgerens kontraktsbrudd bare en del av det solgte, gjelder reglene om mangler og forsinkelse i kapittel 5 og 6 i loven for denne delen. Forbrukeren kan heve kjøpet i sin helhet når kontraktsbruddet er vesentlig for hele kjøpet.",
+                        "Må selgeren etter forholdene antas å ha avsluttet sin levering enda ikke alt er levert, gjelder reglene om mangler."
+                    ]
+                },
+                {
+                    "name": "§ 58",
+                    "title": "Forbrukerens hevingsrett når det skal leveres etter hvert",
+                    "sections": [
+                        "Skal selgeren levere etter hvert, og det er kontraktsbrudd ved en enkelt dellevering, kan forbrukeren heve for denne leveringen etter reglene om heving.",
+                        "Gir kontraktsbruddet forbrukeren god grunn til å regne med at det vil inntre kontraktsbrudd som vil gi hevingsrett ved senere leveringer, kan han eller hun på dette grunnlaget heve for slike leveringer dersom det skjer innen rimelig tid.",
+                        "Dersom forbrukeren hever for en enkelt levering, kan han eller hun samtidig heve kjøpet for tidligere eller senere leveringer som på grunn av sammenhengen mellom leveringene ikke vil kunne brukes til formål som partene forutsatte på avtaletiden."
+                    ]
+                },
+                {
+                    "name": "§ 59",
+                    "title": "Selgerens hevingsrett når det skal leveres etter hvert",
+                    "sections": [
+                        "Skal selgeren levere etter hvert og forbrukeren betale eller medvirke i tilsvarende poster, og det er kontraktsbrudd fra forbrukerens side ved en enkelt levering, kan selgeren heve for denne leveringen etter reglene i § 45.",
+                        "Gir kontraktsbruddet selgeren god grunn til å regne med at det vil inntre kontraktsbrudd som vil gi hevingsrett ved senere leveringer, kan han eller hun på dette grunnlaget heve for slike leveringer dersom det skjer innen rimelig tid."
+                    ]
+                },
+                {
+                    "name": "§ 60",
+                    "title": "Omsorg for tingen",
+                    "sections": [
+                        "Dersom forbrukeren ikke henter eller tar imot tingen i rett tid eller forhold ellers på forbrukerens side har medført at den ikke er overgitt til ham eller henne, skal selgeren for forbrukerens regning dra slik omsorg for tingen som er rimelig etter forholdene, dersom selgeren har tingen i sin varetekt eller for øvrig kan ta vare på den.",
+                        "Vil forbrukeren avvise en ting som han eller hun har overtatt, skal forbrukeren for selgerens regning dra slik omsorg for den som er rimelig etter forholdene. Vil forbrukeren avvise en ting som er sendt til ham eller henne og stilt til hans eller hennes rådighet på bestemmelsesstedet, skal forbrukeren ta vare på den for selgerens regning, dersom forbrukeren kan gjøre dette uten å betale kjøpesummen eller pådra seg urimelig kostnad eller ulempe. Dette gjelder likevel ikke dersom selgeren eller noen på selgerens vegne kan ta seg av tingen på bestemmelsesstedet.",
+                        "En part som plikter å dra omsorg for tingen, kan la en tredjeperson forvare den etter reglene i lov 13. mai 1988 nr. 27 om kjøp § 74. §§ 75, 76, 77 og 78 i samme lov om en parts rett til erstatning og tilbakeholdsrett, om salg av eller annen disposisjon over tingen og om regnskap og godskriving av utbytte gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 61",
+                    "title": "Særlig forbrukerbegrep i visse internasjonale kjøp",
+                    "sections": [
+                        "For avtaler om kjøp av ting mellom parter som har forretningssted eller bopel i ulike stater utenfor EØS, gjelder loven kjøp av ting til personlig bruk for kjøperen, kjøperens familie eller husstand, med mindre selgeren før eller på avtaletiden verken visste eller burde ha visst at tingen ble kjøpt til noe slikt formål."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 13 Ikrafttredelse og endringer i andre lover",
+            "paragraphs": [
+                {
+                    "name": "§ 62",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra 1. juli 2002.",
+                        "Loven gjelder bare for avtaler som sluttes etter at den er trådt i kraft."
+                    ]
+                },
+                {
+                    "name": "§ 63",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
+                        "1. I lov 30. juni 1916 nr. 1 om kommisjon (kommisjonsloven) skal § 56 første ledd nytt annet punktum lyde:",
+                        "Lovregler om krav mot tidligere salgsledd gjelder likevel tilsvarende for krav mot en kommittent.",
+                        "2. I lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) skal § 2 tredje ledd annet punktum lyde:",
+                        "Med forbrukertjenester menes tjenester som tilbys fysiske personer hovedsakelig utenfor næringsvirksomhet.",
+                        "3. I lov 28. april 1978 nr. 18 om behandling av forbrukertvister skal § 1 tredje ledd lyde:",
+                        "Med forbrukerkjøp menes kjøp av ting til forbruker. Med forbruker menes fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.",
+                        "4. I lov 18. desember 1981 nr. 90 om merking av forbruksvarer m.v. skal § 2 annet punktum lyde:",
+                        "Med forbruksvarer menes varer som tilbys fysiske personer som ikke hovedsakelig handler som ledd i næringsvirksomhet.",
+                        "5. I lov 21. juni 1985 nr. 82 om kredittkjøp m.m. gjøres følgende endringer:",
+                        "§ 3 nr. 3 skal lyde:",
+                        "forbrukerkredittkjøp: kredittkjøp av løsøre til forbruker, når kreditten ytes eller formidles som ledd i næringsvirksomhet",
+                        "§ 3 nr. 4 skal lyde:",
+                        "ytelse av forbrukertjenester på kreditt:",
+                        "-tjenesteytelse til forbruker,",
+                        "-når det enten er avtalt utsettelse med betaling av vederlaget eller noen del av dette, eller vederlaget helt eller delvis dekkes ved lån og kreditten gis av tjenesteyteren eller av en annen på grunnlag av avtale med tjenesteyteren, og",
+                        "-kreditten ytes eller formidles som ledd i næringsvirksomhet",
+                        "§ 3 nr. 5 skal lyde:",
+                        "forbrukerleie: leie av løsøre til forbruker, når utleien skjer eller formidles som ledd i næringsvirksomhet",
+                        "§ 3 nytt nr. 7 skal lyde:",
+                        "forbruker: fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.",
+                        "6. I lov 13. mai 1988 nr. 27 om kjøp gjøres følgende endringer:",
+                        "§ 1 første ledd nytt annet punktum skal lyde:",
+                        "For forbrukerkjøp gjelder forbrukerkjøpsloven.",
+                        "Nåværende annet punktum blir tredje punktum.",
+                        "§ 4 oppheves.",
+                        "§ 7 fjerde ledd oppheves.",
+                        "§ 11 annet ledd oppheves.",
+                        "§ 13 annet ledd annet punktum oppheves.",
+                        "§ 15 annet ledd oppheves.",
+                        "§ 16 annet punktum oppheves.",
+                        "§ 17 tredje ledd oppheves. Nåværende fjerde ledd blir tredje ledd.",
+                        "§ 18 annet ledd annet punktum skal lyde:",
+                        "Dette gjelder ikke om selgeren verken visste eller burde ha visst at opplysningen var gitt.",
+                        "§ 22 annet ledd annet punktum oppheves.",
+                        "§ 30 annet ledd annet punktum oppheves.",
+                        "§ 31 fjerde ledd oppheves.",
+                        "§ 32 tredje ledd oppheves.",
+                        "§ 35 annet ledd oppheves.",
+                        "§ 41 fjerde ledd annet punktum oppheves.",
+                        "§ 45 annet ledd oppheves.",
+                        "§ 67 tredje ledd skal lyde:",
+                        "(3) Reglene i andre ledd gjelder ikke",
+                        "a)kostnader ved vanlige tiltak som kompenserer at salgstingen er forsinket eller har mangler,",
+                        "b)kostnader ved tiltak som begrenser annet tap enn det som andre ledd omfatter, eller",
+                        "c)erstatning utbetalt til en forbrukerkjøper etter reglene i forbrukerkjøpsloven § 34.",
+                        "§ 67 fjerde ledd oppheves.",
+                        "§ 79 tredje punktum oppheves.",
+                        "§ 84 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 84",
+                    "title": "Vilkår for krav mot tidligere salgsledd",
+                    "sections": [
+                        "(1) Kjøperen kan gjøre krav som følge av mangel gjeldende mot et tidligere salgsledd, for så vidt tilsvarende krav på grunn av mangelen kan gjøres gjeldende av selgeren.",
+                        "(2) Ved salg mellom enkeltpersoner når kjøpet ikke hovedsakelig er knyttet til deres næringsvirksomhet, kan kjøperen uansett avtale også gjøre krav gjeldende mot tidligere yrkessalgsledd etter forbrukerkjøpsloven § 35.",
+                        "§ 85 annet ledd oppheves. Nåværende tredje og fjerde ledd blir henholdsvis annet og tredje ledd.",
+                        "Tredje ledd første punktum skal lyde:",
+                        "(3) I den grad kjøperen i forbrukerkjøp gjør gjeldende krav mot selgeren som også kunne ha vært gjort gjeldende mot et tidligere yrkessalgsledd, gjelder reklamasjonsfristen i forbrukerkjøpsloven § 27 annet ledd for videre mangelskrav fra selgeren mot det tidligere yrkessalgsleddet.",
+                        "§ 99 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 99",
+                    "title": "Erstatning",
+                    "sections": [
+                        "§ 27 (2) annet punktum gjelder ikke i internasjonale kjøp.",
+                        "Nåværende § 99 blir § 100.",
+                        "7. I lov 16. juni 1989 nr. 63 om håndverkertjenester m.m. for forbrukere skal § 1 første til tredje ledd lyde:",
+                        "(1) Loven gjelder avtaler eller oppdrag om bestemte tjenester (reparasjoner, vedlikehold, installasjoner, ombygging m.m.) som inngås mellom tjenesteytere i deres næringsvirksomhet og forbrukere.",
+                        "(2) Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.",
+                        "(3) Også organisasjoner eller offentlig virksomhet som yter tjenester mot godtgjøring anses for å yte tjenester i næringsvirksomhet.",
+                        "Nåværende tredje ledd blir nytt fjerde ledd.",
+                        "8. I lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) skal § 1-2 tredje ledd lyde:",
+                        "(3) Med forbrukarkjøp er meint kjøp av eigedom når kjøparen er ein fysisk person som ikkje hovudsakleg handlar som ledd i næringsverksemd.",
+                        "9. I lov 13. juni 1997 nr. 43 om avtalar med forbrukar om oppføring av ny bustad m.m. (bustadoppføringslova) gjøres følgende endringer:",
+                        "§ 1 første ledd første punktum skal lyde:",
+                        "Lova gjeld avtalar mellom entreprenør og ein forbrukar om oppføring av ny eigarbustad.",
+                        "§ 2 første ledd skal lyde:",
+                        "Som forbrukar vert rekna ein fysisk person som ikkje hovudsakleg handlar som ledd i næringsverksemd.",
+                        "§ 61 annet ledd skal lyde:",
+                        "Med konsulentavtale er det meint ein avtale mellom ein sjølvstendig oppdragstakar (konsulenten) og ein oppdragsgjevar (forbrukaren, jf § 2) om planlegging av oppføring av bygning til bustadføremål eller planlegging av arbeid som vert utført direkte som ledd i slik oppføring.",
+                        "Tredje ledd oppheves. Nåværende fjerde ledd blir tredje ledd.",
+                        "10. I lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett mv. ved fjernsalg og salg utenfor fast utsalgssted (angrerettloven) oppheves § 6 bokstav e annet punktum."
+                    ]
+                }
+            ]
+        }
+    ]
+}

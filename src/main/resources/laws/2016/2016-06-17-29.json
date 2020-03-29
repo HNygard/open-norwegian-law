@@ -1,0 +1,456 @@
+{
+    "lawId": "LOV-2016-06-17-29",
+    "lawName": "Lov om klageorganer for forbrukersaker (gjennomføring av direktiv 2013/11/EU og forordning (EU) nr. 524/2013)",
+    "shortName": "Lov om klageorganer for forbrukersaker (gjennomføring av direktiv 2013/11/EU og forordning (EU) nr. 524/2013)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1. Innledende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Virkeområde",
+                    "sections": [
+                        "Loven gjelder klageorganer som behandler forbrukersaker, og som søker om godkjenning eller som er godkjent i medhold av denne loven. Loven gjelder også Forbrukerrådet, med mindre annet er bestemt i eller i medhold av loven.",
+                        "Loven § 27 gjelder også klageorganer som er opprettet med hjemmel i annen lov og som tilfredsstiller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker.",
+                        "Loven gjelder ikke saker om",
+                        "a)helsetjenester som ytes av helsepersonell, jf. helsepersonelloven § 3,",
+                        "b)offentlig tilbud om videregående eller høyere utdanning,",
+                        "c)ikke-økonomiske tjenester av allmenn interesse,",
+                        "d)kjøp og salg av fast eiendom.",
+                        "Loven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kongen kan gjøre unntak fra loven og fastsette slike særlige regler som de stedlige forholdene tilsier."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I loven menes med",
+                        "a)forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,",
+                        "b)klageorgan: nemnd og meklingsorgan som definert i bokstav c og d,",
+                        "c)nemnd: kollegialt organ som gir rådgivende uttalelse eller treffer bindende avgjørelse,",
+                        "d)meklingsorgan: organ som bistår med å oppnå en minnelig løsning,",
+                        "e)forbrukersak: sak om vare- og tjenestekontrakter mellom næringsdrivende og forbruker,",
+                        "f)innmeldt klageorgan: klageorgan som etter § 27 er meldt til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Godkjenning av klageorgan mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 3",
+                    "title": "Søknad om å bli godkjent som klageorgan mv.",
+                    "sections": [
+                        "Et klageorgan kan godkjennes etter søknad dersom det oppfyller kravene i loven. Forbrukerrådet skal ikke søke om godkjenning. Departementet er godkjenningsmyndighet.",
+                        "Departementet kan i forskrift gi bestemmelser om hvilke opplysninger som skal gis i søknaden om godkjenning og om hvordan opplysningene skal gis."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Endringer av krav",
+                    "sections": [
+                        "Dersom krav i eller gitt i medhold av denne loven endres, gjelder endringene også klageorganer som er godkjent. Det samme skal gjelde dersom nye krav gis i eller i medhold av denne loven."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Stiftelsesgrunnlag og vedtekter",
+                    "sections": [
+                        "Klageorganet skal være etablert ved lov eller avtale mellom en eller flere bransjer og Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde. Kravet gjelder ikke for Forbrukerrådet.",
+                        "Klageorganet skal ha vedtekter. Departementet kan i forskrift gi bestemmelser om vedtektenes innhold."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Klageorganets saksområde. Beløpsgrenser",
+                    "sections": [
+                        "Klageorganet skal ha et klart definert saksområde.",
+                        "Klageorganet kan fastsette at det bare skal behandle tvister om krav som overstiger en viss sum. Summen må ikke settes så høy at den i vesentlig grad svekker forbrukerens adgang til å få saker behandlet. Klageorganet kan også sette en øvre grense for tvistesummen.",
+                        "Klageorganet skal ikke behandle saker om inndrivelse av krav som klagerens motpart har erkjent.",
+                        "Klageorganet skal behandle saker mellom næringsdrivende etablert i Norge og forbruker bosatt i Norge eller i andre EØS-stater.",
+                        "Klageorganet skal behandle klage fra forbruker som har et reelt behov for å få avgjort kravet mot den næringsdrivende. Klageorganet kan gi næringsdrivende klageadgang på tilsvarende vilkår."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Klagefrist. Gebyr",
+                    "sections": [
+                        "Klageorganet kan fastsette frist for å bringe saker inn for klageorganet. Fristen kan ikke settes kortere enn ett år etter at klageren har inngitt skriftlig klage til motparten.",
+                        "Klageorganet kan kreve saksbehandlingsgebyr. For forbrukere kan gebyret bare utgjøre et mindre beløp."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Krav til leder, nemndmedlemmer, meklere og saksbehandlere",
+                    "sections": [
+                        "Ledere, nemndmedlemmer, meklere og saksbehandlere i klageorganet skal ved ansettelsen eller oppnevnelsen opplyse om ethvert forhold som kan påvirke deres upartiskhet. Personer nevnt i første punktum skal ikke være underlagt instrukser fra partene eller deres representanter, og ansettelsen eller oppnevnelsen skal være av en slik varighet at kravet til upartiskhet sikres. Godtgjørelse skal være uavhengig av resultatet i saken.",
+                        "Departementet kan i forskrift gi bestemmelser om krav til kompetanse og upartiskhet for klageorganers ledere, nemndmedlemmer, meklere og saksbehandlere."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Klageorganets rapporterings- og opplysningsplikt",
+                    "sections": [
+                        "Klageorganet plikter til enhver tid å gi departementet de opplysningene som departementet krever for å kunne ivareta sin godkjenningsmyndighet. Klageorganet skal uten unødig opphold opplyse departementet om endringer i forhold til hva som ble opplyst i søknaden om godkjenning.",
+                        "Klageorganet skal utarbeide årsrapport. Departementet kan i forskrift gi bestemmelser om rapportens innhold, formidling til departementet og offentliggjøring."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Tilbakekallelse av godkjenning",
+                    "sections": [
+                        "Godkjente klageorganer skal følge kravene i eller gitt i medhold av loven for å opprettholde godkjenningen.",
+                        "Finner departementet at klageorganets virksomhet ikke lenger oppfyller kravene i loven, skal klageorganet gis en frist på tre måneder til å rette forholdet. Blir forholdet ikke rettet innen fristen, skal departementet tilbakekalle godkjenningen.",
+                        "Et klageorgan som får godkjenningen tilbakekalt, skal straks informere partene i saker som er til behandling om tilbakekallelsen og hvilke virkninger den får for deres sak. Klageorganet skal informere partene om muligheten til å trekke saken og om adgangen til å få saken meklet av Forbrukerrådet, jf. § 23. Informasjonen skal gis skriftlig."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Krav til saksbehandlingen i godkjent klageorgan",
+            "paragraphs": [
+                {
+                    "name": "§ 11",
+                    "title": "Upartiskhet, habilitet og taushetsplikt",
+                    "sections": [
+                        "Klageorganet skal opptre upartisk.",
+                        "Forvaltningslovens regler om habilitet og taushetsplikt får anvendelse for leder, nemndmedlemmer, meklere og andre saksbehandlere."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Klagen",
+                    "sections": [
+                        "Klageorganet skal legge til rette for at forbrukeren kan inngi klage både elektronisk og på papir. Etter anmodning skal klageorganet gi forbrukeren bistand med å sette opp klagen.",
+                        "Klageorganet skal kunne motta og behandle klager gjennom EUs nettbaserte klageportal i henhold til kravene i forordning om nettbasert tvisteløsning i forbrukersaker, jf. § 28."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Bistand fra tredjepart",
+                    "sections": [
+                        "Klagebehandling skal tilbys også i de tilfeller partene får juridisk bistand av en tredjepart. Klageorganet skal informere partene om dette før klagebehandlingen begynner."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Avvisning",
+                    "sections": [
+                        "Klageorganet kan avvise en sak dersom",
+                        "a)klageren ikke har forsøkt å løse saken direkte med motparten,",
+                        "b)klagen er useriøs eller grunnløs,",
+                        "c)saken er under behandling eller har blitt behandlet av et innmeldt klageorgan, eller av domstol,",
+                        "d)tvistesummen er under eller over fastsatt grense, jf. § 6 annet ledd,",
+                        "e)fristen for å klage er oversittet, jf. § 7 første ledd,",
+                        "f)saken ikke lar seg behandle uten at dette i særlig grad går utover klageorganets effektivitet.",
+                        "Vedtak om avvisning skal være begrunnet. Vedtaket skal meddeles partene innen tre uker fra klageorganet mottok klagen, eller fra det tidspunkt klageorganet mottok nødvendig dokumentasjon for å kunne ta stilling til om saken kan avvises.",
+                        "Forbrukerrådets vedtak om avvisning av en sak kan ikke påklages."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Utveksling av informasjon",
+                    "sections": [
+                        "Klageorganet skal oversende partene klagen, saksdokumenter, argumenter, bevis og fakta som den andre parten har framlagt, samt eventuelle erklæringer og uttalelser fra sakkyndige. Partene skal samtidig gis anledning til å uttale seg om faktiske og rettslige sider ved saken. Klageorganet skal sette rimelige frister for uttalelser og sluttbemerkninger.",
+                        "Klageorganet skal sørge for at partene kan utveksle informasjon om saken elektronisk eller per post."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Saksbehandlingsfrist og krav til begrunnelse",
+                    "sections": [
+                        "Klageorganet skal informere partene så snart det har mottatt nødvendige og relevante dokumenter fra begge parter og saksbehandlingen kan begynne. Resultatet av klagebehandlingen skal gjøres tilgjengelig for partene innen 90 dager fra dette tidspunktet. I særlig komplekse saker kan fristen forlenges. Partene skal informeres om forlengelsen og om ny frist.",
+                        "Partene skal informeres skriftlig eller på varig medium om resultatet og begrunnelsen. Med varig medium menes enhver innretning som gjør partene i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelig i uendret form.",
+                        "Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal klageorganet gi partene rimelig betenkningstid for å vurdere resultatet."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Informasjon om klagebehandling",
+                    "sections": [
+                        "Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal partene informeres om:",
+                        "a)at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av klageorganets tilbud om klagebehandling,",
+                        "b)at klageorganets løsning kan avvike fra domstolsavgjørelse,",
+                        "c)at de kan velge om de vil følge klageorganets løsning,",
+                        "d)rettsvirkningen av å akseptere eller følge klageorganets løsning.",
+                        "Departementet kan i forskrift gi bestemmelser om klageorganets plikt til å informere om klagebehandlingen, og om på hvilken måte informasjonen skal gis."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Særlige krav til klageorgan organisert som nemnd",
+            "paragraphs": [
+                {
+                    "name": "§ 18",
+                    "title": "Organisering",
+                    "sections": [
+                        "Nemnda skal ha et sekretariat som skal veilede partene og bidra til å finne en minnelig løsning i samsvar med gjeldende rett og nemndas praksis, og utføre saksforberedelse for nemnda. Sekretariatet kan gi en vurdering av saken på bakgrunn av vedtak om tilsvarende saker.",
+                        "Departementet kan i forskrift gi utfyllende bestemmelser om organisering av nemnda, herunder om sekretariat og styre."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Partenes adgang til å trekke saken fra nemndsbehandling mv.",
+                    "sections": [
+                        "Hver av partene skal på ethvert stadium gis adgang til å trekke saken fra klagebehandlingen i nemnd som treffer rådgivende uttalelser.",
+                        "Dersom den næringsdrivende er rettslig forpliktet til å delta i nemndsbehandlingen, skal kun forbrukeren gis adgang til å trekke saken.",
+                        "Partene skal informeres om sin adgang til å trekke saken før klagebehandlingen begynner."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Saksbehandling i nemndmøter",
+                    "sections": [
+                        "Nemndas saksbehandling skal være skriftlig. Saken skal behandles i møte for lukkede dører.",
+                        "Nemnda skal behandle saken på grunnlag av de opplysningene som er fremkommet under saksforberedelsen. Dersom motparten ikke har kommet med uttalelse, kan nemnda avgjøre saken på grunnlag av saksfremstillingen i klagen."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Avgjørelser",
+                    "sections": [
+                        "Nemnda skal ha et likt antall medlemmer fra næringen og fra Forbrukerrådet eller medlemmer oppnevnt av Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde. Nemnda er beslutningsdyktig når minst to medlemmer og leder er til stede. Avgjørelse skal treffes ved alminnelig flertall. Ved stemmelikhet skal nemndas leder ha dobbeltstemme.",
+                        "Nemndas avgjørelse skal begrunnes. I begrunnelsen skal det fremgå om avgjørelsen er enstemmig. Det skal opplyses om partstilhørigheten til medlemmene som eventuelt dissenterer. Mindretallets syn skal også begrunnes."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Delegering av avgjørelsesmyndighet",
+                    "sections": [
+                        "Nemnda kan beslutte at nemndas leder eller sekretariat kan treffe avgjørelse om å avvise saker, samt treffe realitetsavgjørelse der det foreligger fast praksis eller prinsipiell avgjørelse fra nemnda i tilsvarende saker.",
+                        "Avgjørelse truffet av nemndas leder eller sekretariat kan klages inn for nemnda. Partene skal informeres om klageadgangen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Særlig om Forbrukerrådet og Forbrukertvistutvalget",
+            "paragraphs": [
+                {
+                    "name": "§ 23",
+                    "title": "Forbrukerrådets mekling",
+                    "sections": [
+                        "Forbrukerrådet skal etter klage fra forbruker eller næringsdrivende mekle i",
+                        "a)saker som kan klages inn for Forbrukertvistutvalget, jf. forbrukertvistloven §§ 1 og 4,",
+                        "b)øvrige forbrukersaker som ikke er omfattet av annet innmeldt klageorgans saksområde,",
+                        "c)forbrukersaker som er omfattet av annet innmeldt klageorgans saksområde, men som klageorganet ikke behandler fordi den næringsdrivende ikke er tilsluttet klageorganet.",
+                        "Forbrukerrådet avgjør med endelig virkning om en sak omfattes av første ledd.",
+                        "Departementet kan i forskrift gi utfyllende bestemmelser om Forbrukerrådets mekling, saksområde og adgangen til å kreve gebyr."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Saker som kan behandles av Forbrukertvistutvalget",
+                    "sections": [
+                        "Dersom minnelig løsning ikke oppnås ved mekling etter § 23 første ledd bokstav a, kan hver av partene bringe saken inn for Forbrukertvistutvalget til avgjørelse. Forbrukerrådet skal skriftlig opplyse partene om dette, og om fristen for innbringelse for Forbrukertvistutvalget."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Bistand til forbruker ved handel over landegrensene",
+                    "sections": [
+                        "Forbrukerrådet skal bistå forbrukere i å få kontakt med et innmeldt klageorgan i en annen EØS-stat i saker mellom forbruker og næringsdrivende ved handel over landegrenser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Forskjellige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 26",
+                    "title": "Forholdet til de alminnelige domstolene",
+                    "sections": [
+                        "Så lenge en sak er til behandling i en innmeldt nemnd, kan en part ikke bringe saken inn for de alminnelige domstolene. En sak anses for å være til behandling fra det tidspunktet nemnda mottok klagen.",
+                        "Om en part begjærer en sak som er til behandling hos de alminnelige domstolene avgjort av et godkjent klageorgan, kan domstolen stanse saken etter begjæring av vedkommende part. Reglene i tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av klageorganets avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing.",
+                        "En sak som har vært behandlet i en innmeldt nemnd, kan bringes inn for tingretten uten forutgående behandling i forliksrådet."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Innmelding til EU-kommisjonens liste over klageorganer",
+                    "sections": [
+                        "Forbrukerrådet og klageorganer som er godkjent etter loven her skal meldes til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker. Også klageorganer som er opprettet med hjemmel i annen lov som tilfredsstiller kravene i direktivet kan på samme måte meldes inn.",
+                        "Innmeldingen etter første ledd foretas av departementet. Departementet skal på sine hjemmesider ha en lett tilgjengelig elektronisk lenke til EU-kommisjonens liste over klageorganer."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Forordning om nettbasert tvisteløsning i forbrukersaker",
+                    "sections": [
+                        "EØS-avtalen vedlegg XIX nr. 7j (rådsforordning (EU) nr. 524/2013) av 21. mai 2013 om nettbasert tvisteløsning i forbrukersaker og om endring av forordning (EF) nr. 2006/2004 og direktiv 2009/22/EF gjelder som lov med tilpasninger som følger av vedlegget selv, protokoll 1 til avtalen og avtalen for øvrig.",
+                        "Kongen kan gi forskrift om utfyllende bestemmelser for å gjennomføre bestemmelser som fastsettes i medhold av forordningen.",
+                        "Departementet skal ivareta funksjonen som vedkommende myndighet etter forordningen.",
+                        "Forbrukerrådet skal ivareta funksjonen som kontaktpunkt etter forordningen. I saker oppstått ved handel over landegrenser skal Forbrukerrådet utføre oppgaver som følger av forordningen artikkel 7 punkt 2."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Ikraftsettings- og overgangsregler. Endringer i andre lover.",
+            "paragraphs": [
+                {
+                    "name": "§ 29",
+                    "title": "Ikraftsettings- og overgangsregler",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "De partementet kan gi nærmere overgangsregler."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "1. I lov 16. juni 1989 nr. 69 om forsikringsavtaler gjøres følgende endringer:",
+                        "§ 2-1 fjerde ledd skal lyde:",
+                        "Selskapet skal også opplyse om reglene for å bringe tvister om forsikringsavtalen inn for utenrettslige tvisteløsningsordninger.",
+                        "§ 3-5 annet ledd skal lyde:",
+                        "Selskapet kan bare unnlate å fornye en forsikring etter første ledd når det foreligger særlige grunner som gjør det rimelig å avbryte forsikringsforholdet. Selskapet skal i varslet orientere om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd om selskapet har rett til å unnlate fornyelse.",
+                        "§ 3-7 annet ledd fjerde punktum skal lyde:",
+                        "Selskapet skal i oppsigelsen gi orientering om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd om oppsigelsen er lovlig.",
+                        "§ 3-10 femte ledd skal lyde:",
+                        "Underretningen om avslag skal inneholde opplysninger om reglene for å bringe tvister om forsikringsavtalen inn for utenrettslige tvisteløsningsordninger, samt opplysning om tidsfristen i sjette ledd.",
+                        "§ 4-14 første ledd tredje punktum skal lyde:",
+                        "I denne forbindelse skal selskapet også gi orientering om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd saken utenfor domstolene.",
+                        "§ 11-1 femte ledd skal lyde:",
+                        "Selskapet skal også opplyse om reglene for å bringe tvister om forsikringsavtalen inn for utenrettslige tvisteløsningsordninger.",
+                        "§ 11-2 annet ledd bokstav d skal lyde:",
+                        "d)retten til å benytte utenrettslige tvisteløsningsordninger, eller andre liknende ordninger som er etablert for å løse tvister.",
+                        "§ 12-4 tredje ledd fjerde punktum skal lyde:",
+                        "Selskapet skal i oppsigelsen gi orientering om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd lovligheten av oppsigelsen.",
+                        "§ 12-9 annet ledd skal lyde:",
+                        "Selskapet kan bare unnlate å fornye en forsikring etter første ledd når det foreligger særlige grunner som gjør det rimelig å avbryte forsikringsforholdet. Selskapet skal i varslet orientere om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd om selskapet har rett til å unnlate fornyelse.",
+                        "§ 12-12 femte ledd skal lyde:",
+                        "Underretningen om avslag skal inneholde opplysninger om reglene for å bringe tvister om forsikringsavtalen inn for utenrettslige tvisteløsningsordninger, samt opplysning om tidsfristen i sjette ledd.",
+                        "§ 13-13 første ledd tredje punktum skal lyde:",
+                        "I denne forbindelse skal selskapet også gi orientering om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd saken utenfor domstolene.",
+                        "§ 18-5 annet ledd første punktum skal lyde:",
+                        "Avslår selskapet i ulykkes- eller sykeforsikring et krav om erstatning helt eller delvis, mister vedkommende retten til erstatning dersom ikke sak er anlagt, eller behandling i utenrettslig tvisteløsningsorgan godkjent i medhold av lov er krevd, innen seks måneder etter at han eller hun fikk skriftlig melding om avslaget.",
+                        "§ 20-1 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 20-1",
+                    "title": "(behandling av tvister i klageorgan)",
+                    "sections": [
+                        "Kongen kan godkjenne klageorgan for behandling av tvister når organet er opprettet ved avtale mellom en finansinstitusjon eller en lignende institusjon eller en organisasjon for slike institusjoner på den ene siden, og på den annen side én eller flere organisasjoner som representerer institusjonenes kunder. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder om:",
+                        "a)hvem som kan bringe saker inn for klageorganet,",
+                        "b)vilkår for behandling av saker hos klageorganet,",
+                        "c)behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser,",
+                        "d)forholdet til annen lovgivning om utenrettslig tvisteløsning, og",
+                        "e)opplysningsplikt overfor institusjonenes kunder.",
+                        "2. I lov 25. august 1995 nr. 57 om pakkereiser og reisegaranti gjøres følgende endringer:",
+                        "Ny § 2-4 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "Forbruker",
+                    "sections": [
+                        "Som forbruker anses en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.",
+                        "§ 10-1 nytt annet ledd skal lyde:",
+                        "Nemnd etablert etter første ledd og som behandler tvister mellom arrangør eller formidler og forbruker, skal søke godkjenning etter lov om klageorganer for forbrukersaker.",
+                        "§ 10-5 oppheves.",
+                        "3. I lov 13. juni 1997 nr. 43 om avtalar med forbrukar om oppføring av ny bustad m.m. gjøres følgende endringer:",
+                        "§ 64 annet ledd oppheves. Nåværende tredje ledd blir annet ledd og skal lyde:",
+                        "Dersom det på grunnlag av avtale mellom entreprenørane eller konsulentane sine organisasjonar og Forbrukarrådet er skipa ei nemnd for tvistar om avtalar som går inn under lova her, og som er godkjend etter lov om klageorganer for forbrukersaker, kan kvar av partane leggje fram for nemnda ein tvist der nemnda er kompetent. Så lenge tvisten er til førehaving i nemnda, kan ikkje entreprenøren reise søksmål om same tvisteemnet.",
+                        "4. I lov 26. mars 1999 nr. 17 om husleieavtaler gjøres følgende endringer:",
+                        "§ 12-5 annet og tredje ledd skal lyde:",
+                        "I områder der det er opprettet husleietvistutvalg, må tvister om leie av bolig behandles der før de kan bringes inn for tingretten hvis det følger av rettergangslovgivningen at behandling i forliksrådet ellers ville vært nødvendig. Forliksrådet kan ikke behandle tvister om leie av bolig i områder der det er opprettet husleietvistutvalg.",
+                        "Husleietvistutvalget kan behandle tvister om leie av bolig fra hele landet når saken gjelder klage fra en forbruker mot næringsdrivende utleier. I områder der det ikke er opprettet husleietvistutvalg, kan slike saker alternativt bringes inn for forliksrådet.",
+                        "Nåværende § 12-5 tredje ledd blir fjerde ledd.",
+                        "5. I lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag gjøres følgende endringer:",
+                        "§ 4 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Behandling av tvister i klageorgan",
+                    "sections": [
+                        "Kongen kan godkjenne klageorgan for behandling av tvister når organet er opprettet ved avtale mellom en finansinstitusjon eller en lignende institusjon eller en organisasjon for slike institusjoner på den ene siden, og på den annen side én eller flere organisasjoner som representerer institusjonenes kunder. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder om:",
+                        "a)hvem som kan bringe saker inn for klageorganet,",
+                        "b)vilkår for behandling av saker hos klageorganet,",
+                        "c)behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser,",
+                        "d)forholdet til annen lovgivning om utenrettslig tvisteløsning, og",
+                        "e)opplysningsplikt overfor institusjonenes kunder.",
+                        "§ 5 oppheves.",
+                        "§ 14 annet ledd skal lyde:",
+                        "(2) Kunden skal underrettes om avslag uten ugrunnet opphold når ikke annet er bestemt i eller i medhold av lov. Underretningen om avslag skal inneholde opplysning om utenrettslige tvisteløsningsordninger.",
+                        "§ 15 annet ledd bokstav g nr. 2 skal lyde:",
+                        "2.utenrettslige tvisteløsningsordninger og muligheten for å klage til tilsynsmyndigheten",
+                        "§ 33 a sjette ledd første punktum skal lyde:",
+                        "(6) Innen ti dager etter å ha mottatt et krav om tilbakebetaling skal institusjonen enten tilbakeføre det fulle beløpet for betalingstransaksjonen eller gi et begrunnet avslag på kravet med opplysning om utenrettslige tvisteløsningsordninger.",
+                        "§ 37 annet ledd bokstav b skal lyde:",
+                        "b)institusjonen innen fire uker fra mottakelse av skriftlig innsigelse fra kunden har anlagt søksmål eller brakt saken inn for en utenrettslig tvisteløsningsordning godkjent i medhold av lov.",
+                        "§ 61 annet ledd annet punktum skal lyde:",
+                        "En kausjonsavtale med en forbruker skal dessuten inneholde opplysninger som nevnt i § 59 første ledd bokstav b, e og f og opplysninger om utenrettslige tvisteløsningsordninger.",
+                        "6. I lov 21. juni 2002 nr. 34 om forbrukerkjøp gjøres følgende endringer:",
+                        "§ 2 annet ledd bokstav c skal lyde:",
+                        "c)avtale med en kraftleverandør om levering av elektrisk energi. Kapittel 5 om forsinkelse gjelder likevel ved forsinket oppstart av levering av elektrisk energi.",
+                        "§ 61 a oppheves.",
+                        "7. I lov 29. juni 2007 nr. 73 om eiendomsmegling gjøres følgende endringer:",
+                        "§ 2-10 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-10",
+                    "title": "Tilslutning til utenrettslig tvisteløsningsordning",
+                    "sections": [
+                        "Foretak og advokat som driver eiendomsmegling, jf. § 2-1, skal være tilsluttet utenrettslig tvisteløsningsordning godkjent i medhold av lov.",
+                        "§ 6-4 første ledd nr. 10 skal lyde:",
+                        "10.adgangen til å benytte utenrettslige tvisteløsningsordninger,",
+                        "§ 8-2 første ledd nr. 8 skal lyde:",
+                        "8.ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.",
+                        "§ 8-3 første ledd nr. 6 skal lyde:",
+                        "6.ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.",
+                        "§ 8-8 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-8",
+                    "title": "Behandling av tvister i klageorgan",
+                    "sections": [
+                        "Kongen kan godkjenne klageorgan for behandling av tvister mellom foretak eller advokat som driver eiendomsmegling og selger, kjøper eller øvrige interessenter til objekt som nevnt i § 1-2, når organet er opprettet ved avtale mellom én eller flere organisasjoner som representerer foretak eller advokater som driver eiendomsmegling på den ene siden, og på den annen side én eller flere organisasjoner som representerer aktører i eiendomsmarkedet. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder om:",
+                        "a)hvem som kan bringe saker inn for klageorganet,",
+                        "b)vilkår for behandling av saker hos klageorganet,",
+                        "c)behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser,",
+                        "d)forholdet til annen lovgivning om utenrettslig tvisteløsning, og",
+                        "e)opplysningsplikt overfor foretakets og advokatens kunder og øvrige interessenter.",
+                        "8. I lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. skal ny § 10a lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 10a",
+                    "title": "Informasjon om klageorgan og om plattform for nettbasert tvisteløsning mv.",
+                    "sections": [
+                        "Næringsdrivende skal på en klar og forståelig måte gi informasjon til forbrukere om klageorgan som kan behandle en sak mellom partene, og som er innmeldt i henhold til lov om klageorganer for forbrukersaker § 27. Informasjonen skal vise til klageorganenes hjemmesider på Internett. Informasjonen skal som et minimum gis i de generelle avtalevilkårene, hvor slike foreligger, og på den næringsdrivendes hjemmeside på Internett, hvor slik finnes. Informasjonen skal være lett tilgjengelig på hjemmesiden.",
+                        "Næringsdrivende skal informere forbrukeren i henhold til første ledd når det oppstår sak mellom partene, og det er klart at partene selv ikke kommer til en minnelig løsning. Informasjonen skal gis skriftlig eller på annet varig medium. Med varig medium forstås enhver innretning som gjør forbrukerne i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelig i uendret form.",
+                        "Næringsdrivende som inngår avtaler med forbruker på Internett, eller nettbaserte markedsplasser, skal på sine hjemmesider ha en lett tilgjengelig elektronisk lenke til plattformen for nettbasert tvisteløsning, som etableres ved gjennomføring av forordning (EU) nr. 524/2013 om nettbasert tvisteløsning i forbrukersaker, jf. lov om klageorganer for forbrukersaker § 28. Informasjonen om plattformen skal også fremgå i de generelle avtalevilkårene, hvor slike foreligger. Den næringsdrivende skal også informere forbrukere om at plattformen kan anvendes ved behandling av sak mellom partene. Der tilbudet til forbruker fremsettes ved bruk av e-post, skal e-posten inneholde en elektronisk lenke til plattformen. Den næringsdrivende skal på sine hjemmesider på Internett også opplyse om sin e-postadresse.",
+                        "9. I lov 25. november 2011 nr. 44 om verdipapirfond skal § 2-13 annet ledd lyde:",
+                        "(2) Departementet kan i forskrift fastsette nærmere regler om klagebehandling, herunder at forvaltningsselskap skal være tilknyttet utenrettslig tvisteløsningsordning godkjent i medhold av lov.",
+                        "10. I lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond skal § 7-1 syvende ledd lyde:",
+                        "(7) Departementet kan i forskrift gi regler om klagebehandling, herunder at forvalter skal være tilsluttet utenrettslig tvisteløsningsordning godkjent i medhold av lov.",
+                        "11. I lov 10. april 2015 nr. 17 om finansforetak og finanskonsern gjøres følgende endringer:",
+                        "§ 2-10 fjerde ledd første punktum skal lyde:",
+                        "(4) Departementet kan fastsette nærmere regler om betalingsforetak og foretak med begrenset tillatelse etter tredje ledd, herunder gjøre unntak fra reglene som gjelder for finansforetak, og fastsette regler om organisering, virksomhet, kapitalkrav, eierforhold, sikring av midler, bruk av agenter og oppdragstakere, vilkår for tillatelse, tilbakekall av tillatelse, utenrettslig tvisteløsningsordning og tilsyn.",
+                        "§ 2-11 tredje ledd skal lyde:",
+                        "(3) Departementet kan gi forskrift om e-pengeforetak, herunder gjøre unntak fra reglene som gjelder for finansforetak, og fastsette regler om organisering, virksomhet, kapitalkrav, eierforhold, sikring av midler, innløsning av elektroniske penger, bruk av agenter og oppdragstakere, vilkår for tillatelse, tilbakekall av tillatelse, utenrettslig tvisteløsningsordning og tilsyn.",
+                        "§ 16-3 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 16-3",
+                    "title": "Behandling av tvister i klageorgan",
+                    "sections": [
+                        "(1) Kongen kan ved forskrift bestemme at finansforetak skal være tilsluttet utenrettslig tvisteløsningsordning godkjent i medhold av lov.",
+                        "(2) Et finansforetak skal, dersom det ikke følger en uttalelse fra en tvisteløsningsordning som nevnt i første ledd i tvist med en kunde som er forbruker, dekke egne og motpartens nødvendige sakskostnader ved domstolsbehandling i første instans av samme tvist mellom de samme partene. Første punktum gjelder tilsvarende for behandling i høyere rettsinstanser dersom finansforetaket er den ankende part. Reglene i tvisteloven § 10-5 om sakskostnader i småkravprosess kommer ikke til anvendelse ved beregning av nødvendige sakskostnader.",
+                        "(3) Departementet kan gi forskrift om utenrettslig tvisteløsningsordning etter annet ledd, herunder om ansvar for kostnader ved tvistebehandlingen."
+                    ]
+                }
+            ]
+        }
+    ]
+}

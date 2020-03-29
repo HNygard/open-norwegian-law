@@ -1,0 +1,37 @@
+{
+    "lawId": "LOV-2002-12-13-79",
+    "lawName": "Lov om endringar i lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi (forbod mot terapeutisk kloning m.m.)",
+    "shortName": "Endringslov til bioteknologiloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "Forbud mot forskning på befruktede egg m.m.",
+                    "sections": [
+                        "Det er forbudt å forske på befruktede egg, menneskeembryoer og cellelinjer som er dyrket ut fra befruktede egg eller menneskeembryoer.",
+                        "Ny § 3-2 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "Forbud mot framstilling av menneskeembryoer ved kloning m.m.",
+                    "sections": [
+                        "Det er forbudt:",
+                        "a)å framstille menneskeembryoer ved kloning,",
+                        "b)å forske på cellelinjer som er dyrket ut fra menneskeembryoer framstilt ved kloning og",
+                        "c)å framstille embryoer ved kloning ved at arvematerial fra menneske settes inn i en eggcelle fra dyr.",
+                        "Med kloning menes teknikker for å framstille arvemessig like kopier.",
+                        "Lova tek til å gjelde frå den tid Kongen fastset."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

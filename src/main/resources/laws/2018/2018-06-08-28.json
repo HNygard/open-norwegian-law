@@ -1,0 +1,504 @@
+{
+    "lawId": "LOV-2018-06-08-28",
+    "lawName": "Lov om høyere yrkesfaglig utdanning (fagskoleloven)",
+    "shortName": "Fagskoleloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1 Formål og virkeområde",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Lovens formål er å legge til rette for fagskoleutdanning av høy kvalitet og for at fagskolestudentene får gode utdanningsvilkår."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Lovens virkeområde",
+                    "sections": [
+                        "Loven gjelder for akkreditert fagskoleutdanning og fagskolevirksomhet i riket. Loven gjelder for Svalbard og Jan Mayen for så vidt ikke annet fastsettes av Kongen. Kongen kan gi forskrift om fagskoleutdanning av hensyn til de stedlige forhold. Kongen kan bestemme at loven skal gjelde helt eller delvis for fagskoleutdanning utenfor Norge."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Fylkeskommunalt ansvar for fagskoleutdanning",
+                    "sections": [
+                        "Fylkeskommunen skal sørge for at det tilbys akkreditert fagskoleutdanning i samsvar med behovet for kompetanse lokalt, regionalt og nasjonalt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Akkreditering og godkjenning av fagskoleutdanning",
+            "paragraphs": [
+                {
+                    "name": "§ 4",
+                    "title": "Definisjon og kvalitetssikring av fagskoleutdanning",
+                    "sections": [
+                        "Fagskoleutdanning er høyere yrkesfaglig utdanning og ligger på nivå over videregående opplæring. Fagskoleutdanning gir kompetanse som kan tas i bruk i arbeidslivet uten ytterligere opplæringstiltak.",
+                        "Fagskoleutdanning skal ha et innhold og omfang som tilsvarer et halvt år til to års utdanning på fulltid. Departementet kan, etter søknad fra styret for fagskolen, vedta at det kan gis fagskoleutdanning som i innhold og omfang tilsvarer tre års utdanning på fulltid. Departementet kan gi forskrift om krav til innhold og omfang for treårige fagskoleutdanninger.",
+                        "Fagskoler skal ha tilfredsstillende interne systemer for kvalitetssikring. Studentevalueringer skal inngå i disse systemene. Departementet gir forskrift om krav til kvalitetssikringssystemer og kvalitetsarbeid."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Akkreditering av fagskoleutdanning",
+                    "sections": [
+                        "Nasjonalt organ for kvalitet i utdanningen (NOKUT) fører tilsyn med kvaliteten i høyere yrkesfaglig utdanning og akkrediterer fagskoleutdanning, jf. lov 1. april 2005 nr. 15 om universiteter og høyskoler kapittel 2.",
+                        "Akkreditering er en faglig vurdering av om en fagskole eller en fagskoleutdanning oppfyller vilkår gitt av departementet og NOKUT. Akkreditering er et vilkår for å kunne tilby fagskoleutdanning. Akkreditert fagskoleutdanning skal være i samsvar med Nasjonalt kvalifikasjonsrammeverk.",
+                        "Fagskoler kan på bestemte vilkår få akkreditering for fagområde. Fagskoler som får akkreditering for fagområde, har fullmakt til selv å opprette og legge ned fagskoleutdanninger innenfor disse fagområdene.",
+                        "Hvis en fagskoleutdanning ikke lenger oppfyller vilkårene for akkreditering, eller en fagskole ikke lenger oppfyller vilkårene for fagområdeakkreditering, kan NOKUT trekke den tilbake. Dersom akkrediteringen trekkes tilbake, har fagskolens styre ansvaret for å sikre at de berørte studentene får gjennomført påbegynt utdanning på en tilfredsstillende måte.",
+                        "Departementet kan gi forskrift om",
+                        "a)vilkår for akkreditering av fagskoleutdanning",
+                        "b)vilkår for akkreditering av fagområde",
+                        "c)saksbehandlingsregler for NOKUTs akkrediteringsarbeid."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Beskyttelse av betegnelsene fagskoleutdanning og fagskole",
+                    "sections": [
+                        "Betegnelsene fagskoleutdanning og fagskole kan bare brukes om utdanninger og skoler som har akkreditering etter § 5. Bare utdanninger og skoler som har akkreditering etter § 5 kan markedsføres på en måte som gir inntrykk av at de har en slik akkreditering.",
+                        "Departementet kan ved enkeltvedtak forby bruk av betegnelse eller navn som uriktig gir inntrykk av at en virksomhet har akkreditering for å gi fagskoleutdanning, eller som kan forveksles med en betegnelse som nevnt i første ledd.",
+                        "Departementet kan etter søknad tillate bruk av etablerte sammensatte betegnelser selv om de kan forveksles med betegnelsene fagskole eller fagskoleutdanning.",
+                        "Departementet kan ilegge overtredelsesgebyr til virksomheter som forsettlig eller uaktsomt",
+                        "a)bruker betegnelsen fagskole eller fagskoleutdanning uten at det foreligger nødvendig akkreditering",
+                        "b)markedsfører en skole eller utdanning på en måte som gir et uriktig inntrykk av at det foreligger en akkreditering som fagskole eller fagskoleutdanning",
+                        "c)bryter et forbud som nevnt i annet ledd mot bruk av betegnelser eller navn.",
+                        "Departementet kan gi forskrift om overtredelsesgebyr. Et endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Generell godkjenning av utenlandsk fagskoleutdanning",
+                    "sections": [
+                        "NOKUT avgjør etter søknad fra enkeltpersoner om utdanning fra en utenlandsk fagskole eller en annen yrkesfaglig utdanning fra utlandet på tilsvarende nivå, skal gis en generell godkjenning slik at den ut fra nivå og omfang godkjennes som sidestilt med akkreditert fagskoleutdanning. Klageinstansen kan ikke overprøve NOKUTs vurdering av den avlagte utdanningens nivå og omfang. Departementet kan gi forskrift om saksbehandling og klageadgang i saker om godkjenning av utenlandsk fagskoleutdanning."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Godskriving og fritak",
+                    "sections": [
+                        "Fagskoler skal godskrive beståtte emner fra andre akkrediterte fagskoleutdanninger som oppfyller de faglige kravene for emnene det søkes om godkjenning for, dersom de aktuelle fagskoleutdanningene ligger innenfor det samme fagområdet eller nært beslektede fagområder. Det skal ikke gis dobbel uttelling for det samme faginnholdet. Departementet kan gi forskrift om godskriving av emner fra andre fagskoleutdanninger.",
+                        "Fagskoler kan etter en faglig vurdering også gi fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse. Det kan gis et slikt fritak på grunnlag av dokumentert realkompetanse. Departementet kan gi forskrift om vurderingen av fritak.",
+                        "Et vedtak om godskriving av eller fritak for emner kan påklages. Klagen behandles i samsvar med § 20."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Organiseringen av fagskoler",
+            "paragraphs": [
+                {
+                    "name": "§ 9",
+                    "title": "Styrets ansvar",
+                    "sections": [
+                        "Alle fagskoler skal ha et eget styre. Offentlige fagskoler og fagskoler organisert som studieforbund skal ha et styre som øverste ansvarlige styringsorgan.",
+                        "Styret selv skal fatte vedtak om at det etter styrets skjønn er forsvarlig å ta opp nye studenter. Vedtaket skal fattes før studiestart.",
+                        "Styret skal for øvrig",
+                        "a)sørge for at studentene får den utdanningen som fagskolen har akkreditering for",
+                        "b)sørge for at alle vilkår for eventuelle offentlige tilskudd er oppfylt",
+                        "c)sørge for at opplysninger som blir gitt til NOKUT, studenter og dem som søker utdanning er korrekte og fullstendige",
+                        "d)sørge for at det blir gitt nødvendig informasjon og veiledning til søkere til og studenter ved fagskolen, blant annet om skolepenger, studietilbud, søknadsfrister og opptakskrav",
+                        "e)fastsette krav til lærerkompetanse, instruktørkompetanse og ledelse ved fagskolen",
+                        "f)sørge for at virksomheten drives i samsvar med gjeldende lover og regler, og etablere og sørge for gjennomføring av systematiske kontrolltiltak (internkontroll) for å sikre dette. Departementet kan gi forskrift om krav til internkontroll etter første punktum.",
+                        "Styret kan delegere sin avgjørelsesmyndighet til andre ved fagskolen hvis det ikke følger av denne loven at styret selv skal fatte vedtak."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Styrets sammensetning",
+                    "sections": [
+                        "Styret skal ha minst sju medlemmer. Minst to medlemmer skal ha bakgrunn fra relevant arbeids- eller næringsliv. Minst ett medlem skal være valgt av og blant de ansatte, og minst ett medlem skal være valgt av og blant studentene. Hvis styret har mer enn ti medlemmer, skal minst to medlemmer være valgt av og blant studentene og minst to av og blant de ansatte. Det skal velges personlig varamedlem for medlemmene valgt av de ansatte og studentene. Det skal være minst ett varamedlem for medlemmene fra arbeids- eller næringsliv, og minst ett varamedlem for de øvrige medlemmene. Eier utpeker selv, eller fastsetter hvem som skal utpeke, styrets leder.",
+                        "Ved valg av styremedlemmer gjelder likestillings- og diskrimineringsloven § 28 innen den enkelte valgkrets.",
+                        "Styremedlemmene og varamedlemmene velges for inntil fire år. Styremedlemmer og varamedlemmer som velges av og blant studentene, velges for ett år. Styremedlemmer og varamedlemmer kan gjenvelges."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Vedtaksførhet og gjennomføring av styremøter",
+                    "sections": [
+                        "Styret kan fatte vedtak når mer enn halvparten av medlemmene eller tilsvarende mange varamedlemmer er til stede og avgir stemme.",
+                        "Vedtak fattes med et alminnelig flertall av de avgitte stemmene hvis ikke noe annet er fastsatt i denne loven. Hvis det er like mange stemmer for og imot et forslag, har møtelederen dobbeltstemme.",
+                        "Styremøtene ledes av styrelederen. Hvis styrelederen ikke er til stede, utpeker styret en møteleder."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Rektor",
+                    "sections": [
+                        "En fagskole skal ha en rektor. Styret selv skal ansette rektoren. Rektor skal ha nødvendig fag- og lederkompetanse. Studentene og de ansatte skal bli hørt før en rektor ansettes. Departementet kan gi forskrift om kravene til rektors kompetanse og ansettelsesprosessen ved ansettelse av rektor.",
+                        "Hvis avgjørelsen av en sak ikke kan vente til styret kan komme sammen i møte, avgjør rektor saken. Styret kan også gi rektor fullmakt til å avgjøre saker som ikke bør utsettes til neste styremøte."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Organisering",
+                    "sections": [
+                        "Private fagskoler skal organiseres som stiftelser etter stiftelsesloven, eller aksjeselskap etter aksjeloven.",
+                        "Fagskoler som per 1. januar 2017 var organisert i et studieforbund etter lov om voksenopplæring, kan videreføres som studieforbund.",
+                        "Fagskoler skal være registrert i Enhetsregisteret."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Studentorgan og studentrepresentasjon",
+                    "sections": [
+                        "Studentene ved en fagskole kan opprette studentorgan som skal ivareta deres interesser og fremme deres synspunkter. Studenter ved den enkelte avdeling ved en fagskole kan opprette studentorganer på tilsvarende måte.",
+                        "Styret skal legge forholdene til rette slik at studentorganene kan drive sitt arbeid på en tilfredsstillende måte.",
+                        "Studentorganene skal høres i alle saker som angår studentene.",
+                        "Studenter skal være representert i alle kollegiale organer som tildeles beslutningsmyndighet ved en fagskole."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Fagskolens virksomhet",
+            "paragraphs": [
+                {
+                    "name": "§ 15",
+                    "title": "Læringsmiljø",
+                    "sections": [
+                        "Styret har det overordnede ansvaret for studentenes læringsmiljø. Styret skal, i samarbeid med studentorganene, legge forholdene til rette for et godt og inkluderende læringsmiljø.",
+                        "Hvis fagskolen er tilknyttet en studentsamskipnad, skal styret i samarbeid med studentsamskipnaden legge til rette for et godt og inkluderende læringsmiljø og arbeide for å bedre studentvelferden på lærestedet.",
+                        "Styret har ansvaret for at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge for",
+                        "a)at lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drives",
+                        "b)at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet",
+                        "c)at lokalene blir vedlikeholdt og er rene og ryddige",
+                        "d)at lokalene er innredet slik at studentene unngår uheldige fysiske belastninger",
+                        "e)at virksomheten er planlagt slik at skader og ulykker forebygges",
+                        "f)at tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykker",
+                        "g)at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolen",
+                        "h)at læringsmiljøet er innrettet for studenter av ulike kjønn",
+                        "i)at læringsmiljøet er utformet etter prinsippet om universell utforming.",
+                        "Departementet kan gi forskrift om kravene til læringsmiljøet.",
+                        "Fagskolen skal, så langt det er rimelig, legge studiesituasjonen til rette for studenter med særskilte behov. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene som stilles i den enkelte utdanningen.",
+                        "Arbeidstilsynet fører tilsyn med at kravene i tredje ledd er oppfylt. Arbeidsmiljøloven kapittel 18 gjelder så langt det passer. Departementet kan gi forskrift om tilsyn med læringsmiljøet."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Opptak",
+                    "sections": [
+                        "Opptaksgrunnlaget til fagskoleutdanning er fullført og bestått videregående opplæring.",
+                        "Søkere som er 23 år eller eldre i opptaksåret, kan tas opp på grunnlag av tilsvarende realkompetanse. Til kunstfaglige fagskoleutdanninger kan søkere som fyller spesielle faglige krav bestemt av fagskolen, tas opp på grunnlag av realkompetanse og opptaksprøve hvis søkerne er 19 år eller eldre i opptaksåret. Departementet fastsetter i forskrift hvilke kunstfaglige utdanninger som kan omfattes av unntaket fra krav om 23 år for opptak på grunnlag av realkompetanse og kan også fastsette nærmere faglige krav, herunder fastsette en øvre grense for hvor mange som kan tas opp gjennom bruk av unntaksordningen over en bestemt periode.",
+                        "Departementet kan gi forskrift om nasjonal samordning av opptaket og nasjonale opptaksregler, blant annet om opptaksgrunnlag, rangering av søkerne og klagebehandling.",
+                        "Styret selv skal gi utfyllende forskrift om opptak til den enkelte fagskolen, med krav til formell utdanning eller tilsvarende realkompetanse."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Innholdet i utdanningen",
+                    "sections": [
+                        "Styret skal fastsette en plan for innholdet i utdanningen og bestemme hvordan planen skal gjennomføres. Det skal blant annet fastsettes bestemmelser om obligatoriske kurs, praksisstudier, vurderingsformer og lignende.",
+                        "Studiepoeng er en betegnelse på læringsutbytte og normert studietid. Et fullt studieår er normert til 60 studiepoeng.",
+                        "Departementet kan gi forskrift om",
+                        "a)nasjonalt kvalifikasjonsrammeverk",
+                        "b)et felles vurderingsuttrykk ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Grader",
+                    "sections": [
+                        "Departementet kan i forskrift bestemme hvilke grader en fagskole kan gi."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Vitnemål",
+                    "sections": [
+                        "Fagskolen skal utstede vitnemål for fullført fagskoleutdanning. NOKUT kan gi forskrift om krav til vitnemålets utforming og innhold. En student som ikke har fullført fagskoleutdanning, kan be om en karakterutskrift som viser beståtte emner og prøver og andre vurderinger studenten har fått.",
+                        "Ved overgangen fra betegnelsen fagskolepoeng til studiepoeng skal fagskolene skrive ut nye vitnemål til de tidligere studentene som ønsker det. Fagskolen kan kreve at disse dekker utgiftene til utstedelse av det nye vitnemålet."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Klageorganer",
+                    "sections": [
+                        "En fagskole skal opprette en lokal klagenemnd som skal behandle klager over enkeltvedtak. Styret kan bestemme at klagenemnda også skal behandle andre klagesaker fra studentene og saker etter §§ 23 til 27. Myndigheten til å treffe vedtak etter §§ 23 til 27 kan ikke delegeres til andre organer ved fagskolen.",
+                        "Den lokale klagenemnda skal ha fem medlemmer med personlige varamedlemmer. Lederen og dennes varamedlem skal oppfylle lovens krav til lagdommere og skal ikke være ansatt ved fagskolen. To av medlemmene i klagenemda skal være studenter.",
+                        "Klagenemnda er vedtaksfør når lederen eller varamedlemmet for lederen og minst to andre medlemmer eller varamedlemmer er til stede.",
+                        "Den lokale klagenemndas vedtak i saker som gjelder klage på fagskolens enkeltvedtak, kan ikke påklages.",
+                        "Departementet kan gi forskrift om et nasjonalt klageorgan for fagskoleutdanning som skal behandle klager på enkeltvedtak på bestemte områder og om saksbehandlingen i klagesaker."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Studentenes rettigheter og plikter",
+            "paragraphs": [
+                {
+                    "name": "§ 21",
+                    "title": "Avsluttende vurdering, eksamen og sensur",
+                    "sections": [
+                        "Styret skal sørge for at studentenes kunnskap, ferdigheter og generelle kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte. Vurderingen skal sikre det faglige nivået ved den aktuelle utdanningen. Det skal være en ekstern evaluering av vurderingen eller vurderingsordningene.",
+                        "Styret oppnevner sensor ved eksamener, prøver, bedømmelser av oppgaver eller annet arbeid når resultatet inngår i vitnemålet eller innregnes i karakter for utdanningen.",
+                        "Sensuren skal være klar innen tre uker etter at en eksamen, prøve eller oppgave eller et annet arbeid er gjennomført, hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Hvis sensuren ikke kan gis innen tre uker, skal studenten varsles om det og samtidig få vite når sensuren kan ventes. Styret selv kan gjøre unntak for enkelteksamener og fastsette en lengre frist når det ikke er mulig å skaffe det antallet kvalifiserte sensorer som er nødvendig for å gjennomføre sensuren på tre uker.",
+                        "Ved ny sensur etter §§ 22 og 23 benyttes én eller flere sensorer. Minst én sensor skal være ekstern. Karakteren kan endres både til gunst og ugunst for klageren. Hvis en karakter er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, skal det holdes ny muntlig prøve for å få fastsatt endelig karakter.",
+                        "Styret selv gir forskrift om gjennomføring av eksamener, prøver og annet arbeid. Dette omfatter vilkår for å gå opp til en eksamen eller prøve på nytt, adgangen til en ny praksisperiode og oppmelding. Styret kan delegere til en avdeling ved fagskolen å gi utfyllende forskrift om forhold som er særegne for den enkelte eksamen."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Rett til begrunnelse og klage på karakterfastsetting",
+                    "sections": [
+                        "En student har rett til å få en begrunnelse for karakterfastsettingen. Hvis karakteren er gitt for en muntlig eksamen eller en bedømmelse av praktiske ferdigheter, må studenten kreve en slik begrunnelse umiddelbart etter at karakteren er formidlet. Hvis karakteren kunngjøres elektronisk, og studenten kan kreve begrunnelsen elektronisk, må studenten kreve begrunnelse innen én uke etter at karakteren blir kunngjort. Hvis karakteren kunngjøres på en annen måte, må studenten kreve begrunnelse innen én uke etter at studenten fikk kjennskap til karakteren, men likevel ikke senere enn tre uker etter at karakteren ble kunngjort.",
+                        "Begrunnelsen skal gis innen to uker etter at studenten har bedt om den. Dersom begrunnelsen ikke kan gis innen to uker, skal studenten varsles om det og samtidig få vite når begrunnelsen kan ventes. I begrunnelsen skal det gjøres rede for de generelle prinsippene som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen kan gis muntlig eller skriftlig.",
+                        "Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal studentene ha tilgang til dem etter at karakteren er fastsatt.",
+                        "En student kan klage skriftlig over karakteren innen tre uker etter at eksamensresultatet er kunngjort. Det skal da gjennomføres en ny sensur. Ved den nye sensuren skal sensorene ikke få kjennskap til den opprinnelige karakteren, sensors begrunnelse for karakteren eller studentens begrunnelse for klagen. Hvis studenten har bedt om begrunnelse for eller klaget over formelle feil, løper klagefristen fra studenten har fått begrunnelsen, eller til klagen på formelle feil er endelig avgjort. Hvis det brukes en løpende vurdering med karakter, kan fagskolen bestemme om studenten skal kunne klage etter hver enkelt vurdering, eller først når resultatet er kunngjort.",
+                        "En student kan ikke klage på en bedømmelse av en muntlig prestasjon, en vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve.",
+                        "En student kan ikke klage på karakterfastsettingen etter en ny sensur."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Klage på formelle feil ved eksamen",
+                    "sections": [
+                        "En student som har vært oppe til en eksamen, en prøve eller et annet arbeid som bedømmes med karakterer, kan klage på formelle feil innen tre uker etter at studenten er blitt eller burde være kjent med feilen. Klagen skal rettes til fagskolen. Styret er klageinstans.",
+                        "Et sensurvedtak skal oppheves hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av prestasjonen. Hvis feilen kan rettes opp gjennom en ny sensur, skal dette gjennomføres. Hvis feilen ikke kan rettes opp gjennom en ny sensur, skal det holdes en ny eksamen, prøve eller lignende med nye sensorer. En student kan klage etter § 22 på karakterfastsettingen ved sensuren.",
+                        "Hvis en student har krevd begrunnelse for eller klaget over karakterfastsettingen, løper klagefristen fra studenten har fått begrunnelsen, eller til klagen på karakterfastsettingen er endelig avgjort.",
+                        "Fagskolen eller klageinstansen kan bestemme at det skal foretas en ny sensur eller holdes en ny eksamen, prøve eller lignende hvis det er begått formelle feil som kan ha hatt innvirkning på én eller flere studenters prestasjoner eller bedømmelsen av disse."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Annullering av eksamen eller prøve",
+                    "sections": [
+                        "Hvis en student har brukt et falskt vitnemål eller andre falske dokumenter eller har opptrådt uredelig på annen måte og dermed fått adgang til å avlegge en eksamen, en prøve eller et annet arbeid som bedømmes med karakterer, kan styret annullere resultatet. Styret kan også annullere godkjenningen av emner hvis en student på tilsvarende urettmessig grunnlag har fått rett til å studere.",
+                        "Styret kan annullere resultatet av en eksamen, prøve eller lignende eller godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamenen, prøven eller lignende eller under gjennomføringen av emnet.",
+                        "Hvis en student har fått fritak eller godskriving etter § 8 ved å benytte et falskt vitnemål eller andre falske dokumenter, eller ved å opptre uredelig på annen måte, kan styret annullere fritaket eller godskrivingen.",
+                        "En student kan klage på et vedtak om annullering. Departementet eller nasjonalt klageorgan for fagskoleutdanning er klageinstans, jf. § 20 femte ledd.",
+                        "Adgangen til å annullere foreldes ikke.",
+                        "Når styret har fattet et vedtak om annullering, skal studenten levere eventuelle vitnemål eller karakterutskrifter tilbake til fagskolen. Et endelig vedtak om annullering etter første eller annet ledd er et særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Bortvisning og utestenging",
+                    "sections": [
+                        "Hvis en student, til tross for en skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende på medstudenters arbeid eller virksomheten ved fagskolen ellers, kan styret fatte vedtak om at studenten skal bortvises i inntil ett år. Rektoren ved skolen kan fatte vedtak om bortvisning dersom vilkårene i § 12 annet ledd er til stede. Et slikt vedtak gjelder inntil styret kan fatte et endelig vedtak i saken. Bortvisningen innebærer ikke at studenten fratas retten til å gå opp til eksamen.",
+                        "Hvis en student, til tross for en skriftlig advarsel fra fagskolen, ikke retter seg etter et vedtak om bortvisning, kan styret vedta å utestenge studenten fra utdanningen i inntil ett år. Utestenging fra studiet innebærer at studenten fratas retten til å gå opp til eksamen.",
+                        "Hvis en student har skapt fare for liv eller helse, eller har opptrådt grovt usømmelig overfor noen som studenten har møtt i forbindelse med undervisning eller praksisstudier, kan styret vedta at studenten skal utestenges fra fagskoleutdanning med klinisk undervisning og praksisstudier i inntil tre år. Tilsvarende gjelder hvis en student har brutt lovfestet taushetsplikt.",
+                        "Hvis en student har benyttet et falskt vitnemål, andre falske dokumenter eller på annen måte har opptrådt uredelig, jf. § 24 første og tredje ledd, eller har fusket eller forsøkt å fuske, jf. § 24 annet ledd, kan styret vedta at studenten skal utestenges fra all utdanning ved fagskolen i inntil ett år. Tilsvarende gjelder for en student som forsettlig har medvirket til fusk.",
+                        "Et vedtak om å bortvise eller utestenge en student skal fattes med minst to tredels flertall. Studenten har rett til å uttale seg før det fattes vedtak i en sak om bortvisning eller utestenging og kan klage på vedtaket. Departementet eller nasjonalt klageorgan for fagskoleutdanning er klageinstans, jf. § 20 femte ledd."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Vurdering av skikkethet",
+                    "sections": [
+                        "Departementet kan gi forskrift om at fagskolene skal vurdere om de enkelte studentene i bestemte utdanninger er skikket for yrket. Studentenes skikkethet skal vurderes gjennom hele utdanningen.",
+                        "Et vitnemål for fullført og bestått utdanning innebærer at kandidaten er vurdert som skikket for yrket.",
+                        "Styret kan vedta at en student ikke er skikket for yrket. Blir det fattet et slikt vedtak, kan styret også vedta at studenten skal utestenges fra utdanningen i inntil fem år.",
+                        "Et vedtak om at en student ikke er skikket for et yrke og et vedtak om å utestenge en student fra en fagskoleutdanning fordi studenten ikke er skikket for yrket skal fattes med minst to tredels flertall. En student har rett til å uttale seg før det fattes vedtak i en sak om skikkethet eller utestenging. Studenten kan klage på vedtaket. Departementet eller det nasjonale klageorganet for fagskoleutdanning er klageinstans, jf. § 20 femte ledd.",
+                        "Departementet kan gi forskrift om vurderingskriterier og saksbehandlingen i saker om skikkethet og klage på vedtak om vurdering av skikkethet."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Krav om politiattest",
+                    "sections": [
+                        "I utdanninger der studenter kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisstudier, kan fagskolen bestemme at studentene skal legge frem politiattest som omtalt i politiregisterloven § 39 første ledd. Fagskolen kan kreve politiattest ved opptak eller underveis i slike utdanninger.",
+                        "Hvis det er gitt særlige regler om politiattest for bestemte typer arbeid, gjelder disse reglene tilsvarende for studenter som deltar i praksisstudier eller klinisk undervisning.",
+                        "En student som er dømt eller har vedtatt et forelegg for et straffbart forhold som omtalt i politiregisterloven § 39 første ledd eller i regler om krav til politiattester som nevnt i annet ledd, kan utestenges fra praksisstudier eller klinisk undervisning. Studenten kan bare utestenges hvis deltakelse i praksisstudier eller klinisk undervisning må regnes som uforsvarlig på grunn av den kontakten studenten da får med mennesker.",
+                        "En student som er siktet eller tiltalt for et straffbart forhold som omtalt i politiregisterloven § 39 første ledd eller i regler om krav til politiattester som nevnt i annet ledd, kan utestenges fra praksisstudier eller klinisk undervisning inntil en rettskraftig dom foreligger, eller til saken er henlagt. Studenten kan bare utestenges hvis deltakelse i praksisstudier eller klinisk undervisning må regnes som uforsvarlig på grunn av den kontakten studenten da får med mennesker.",
+                        "Styret avgjør om en student skal utestenges fra klinisk undervisning eller praksisstudier. Vedtaket skal fattes på grunnlag av uttalelse fra fagskolen. Et vedtak om å utestenge en student etter denne paragrafen skal fattes med minst to tredels flertall.",
+                        "En student kan klage på et vedtak om utestenging etter denne bestemmelsen. Departementet eller det nasjonale klageorganet for fagskoleutdanning er klageinstans, jf. § 20 femte ledd.",
+                        "Departementet kan gi forskrift om saksbehandlingen i saker om utestenging på grunn av straffbare forhold."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Rett til permisjon i forbindelse med fødsel og omsorg for barn",
+                    "sections": [
+                        "En student som får barn under studiene, har rett til permisjon fra studiene under svangerskapet og til omsorg for barn. I permisjonsperioden har studenten fortsatt status som student ved fagskolen og har rett til å gjenoppta utdanningen på samme nivå som før permisjonen. En gravid student har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før fastsatt termindato og seks uker etter fødsel. En student som blir far har rett til utsatt eksamen hvis eksamensdatoen er innenfor to uker etter fødselen. Departementet kan gi nærmere bestemmelser om rett til utsatt eksamen på grunn av fødsel. Bestemmelsene i arbeidsmiljøloven §§ 12-1 til 12-5 og § 12-7 gjelder så langt de passer.",
+                        "Fagskolen skal legge til rette for at studenter som er i permisjon etter første ledd, kan gjenoppta utdanningen så raskt som mulig etter endt permisjon.",
+                        "Retten til permisjon og til utsatt eksamen gjelder tilsvarende ved adopsjon."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6 Økonomi og tilsyn",
+            "paragraphs": [
+                {
+                    "name": "§ 29",
+                    "title": "Offentlig tilskudd og egenbetaling",
+                    "sections": [
+                        "Fagskoler kan søke om offentlig tilskudd fra fylkeskommunen.",
+                        "Fagskoler kan kreve egenbetaling fra studenter bare når det ikke ved tildeling av offentlige tilskudd er forutsatt at utdanningen skal være gratis. Departementet kan gi forskrift om fagskolens adgang til å kreve egenbetaling fra studenter.",
+                        "Alle private fagskoler skal benytte offentlig tilskudd og egenbetaling fra studentene til den akkrediterte utdanningen og innenfor lovens formål.",
+                        "Private fagskoler som mottar offentlig tilskudd, skal la tilskudd og egenbetaling komme studentene til gode. Private fagskoler som mottar offentlig tilskudd, kan ikke foreta utdelinger.",
+                        "Private fagskoler som ikke mottar offentlig tilskudd, kan ikke foreta utdelinger som medfører at egenkapitalen blir lavere enn 20 prosent av eiendelene.",
+                        "Departementet kan gi forskrift om disponering av offentlig tilskudd og egenbetaling, herunder ved avvikling."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Avtaler med nærstående",
+                    "sections": [
+                        "Private fagskoler kan ikke gjennomføre avtaler med nærstående eller overføre midler til nærstående på andre vilkår enn det som ville ha vært fastsatt mellom uavhengige parter.",
+                        "Fagskolen skal kunne dokumentere at det ikke er gjennomført avtaler i strid med første ledd.",
+                        "Hvis departementet ber om det, skal nærstående til private fagskoler gi departementet innsyn i dokumentasjon om avtaler som nevnt i første ledd.",
+                        "Departementet kan gi forskrift om avtaler med nærstående, herunder hvem som regnes som nærstående, og krav om dokumentasjon."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Tilsyn",
+                    "sections": [
+                        "Departementet fører tilsyn med private fagskoler.",
+                        "Private fagskoler plikter å bistå under tilsynet. De skal gi opplysninger som kan ha betydning for oppfyllelse av krav gitt i eller i medhold av denne loven. Tilsynsmyndigheten kan kreve at fagskolen dokumenterer og redegjør for slike opplysninger, for eksempel ved å utlevere eller sammenstille regnskapsmateriale med bilag, korrespondanse og styreprotokoller. Tilsynsmyndigheten skal få adgang til de lokalene fagskolen disponerer.",
+                        "Tilsynsmyndigheten kan kreve at revisor og regnskapsfører utleverer opplysninger etter andre ledd uten hinder av lovbestemt eller avtalt taushetsplikt.",
+                        "Departementet kan gi forskrift om fagskolens plikt til å bistå under tilsynet, blant annet om hvordan opplysninger skal gis, og om adgang til fagskolens lokaler."
+                    ]
+                },
+                {
+                    "name": "§ 32",
+                    "title": "Rapportering",
+                    "sections": [
+                        "Private fagskoler skal rapportere regnskapsinformasjon og sammenstilte data om studietilbud, studenter og personale til departementet.",
+                        "Private fagskoler må gi særskilt melding til departementet ved fusjon, fisjon, salg, omdanning eller avvikling av virksomheten. De skal melde fra før slike endringer gjennomføres.",
+                        "Departementet kan gi forskrift om private fagskolers rapporteringsplikt og meldeplikt, hva rapporter og meldinger skal inneholde og formkrav."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Regnskap og revisjon",
+                    "sections": [
+                        "Private fagskoler er regnskapspliktige etter regnskapsloven § 1-2 og i samsvar med kravet til organisasjonsform etter § 13. Regnskapslovens unntak for små foretak i § 3-1 andre ledd, jf. § 1-6, gjelder ikke for private fagskoler.",
+                        "Private fagskoler skal ha et økonomisk skille mellom de akkrediterte delene av virksomheten og de ikke-akkrediterte delene av virksomheten. Regnskapene skal kunne dokumentere at fagskolen opprettholder et slikt skille mellom delene av virksomheten.",
+                        "Regnskapene for private fagskoler skal revideres av statsautorisert eller registrert revisor, jf. revisorloven § 3-1.",
+                        "Departementet kan gi forskrift om krav til regnskapet, dokumentasjon og revisjon."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Pålegg om retting",
+                    "sections": [
+                        "Hvis departementet avdekker brudd på bestemmelser gitt i eller i medhold av denne loven eller i grunnlaget for tilskuddet, kan departementet pålegge fagskolen å rette dette innen en gitt frist."
+                    ]
+                },
+                {
+                    "name": "§ 35",
+                    "title": "Krav om tilbakebetaling av tilskudd",
+                    "sections": [
+                        "Hvis offentlig tilskudd disponeres i strid med bestemmelser gitt i eller i medhold av denne loven eller i grunnlaget for tilskuddet, kan departementet kreve tilskuddet tilbakebetalt. Vedtak om tilbakebetaling av offentlig tilskudd er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "For å sikre at pålegg som er gitt etter § 34 blir fulgt, kan departementet bestemme at den pålegget retter seg mot, skal betale en tvangsmulkt til staten. Tvangsmulkten fastsettes som løpende dagsmulkt fra utløpet av fristen som er satt i pålegget, og inntil forholdet er rettet.",
+                        "Departementet kan gi forskrift om tvangsmulkt, blant annet om utstedelse, størrelse, forfall, klage og lemping."
+                    ]
+                },
+                {
+                    "name": "§ 37",
+                    "title": "Overtredelsesgebyr",
+                    "sections": [
+                        "Hvis en privat fagskole overtrer bestemmelser gitt i eller i medhold av denne loven, kan departementet ilegge fagskolen et overtredelsesgebyr. Et foretak kan ilegges overtredelsesgebyr selv om ingen enkeltperson har utvist skyld.",
+                        "Størrelsen på overtredelsesgebyret fastsettes i hvert enkelt tilfelle. Et endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+                        "Departementet kan gi forskrift om overtredelsesgebyr, blant annet om utstedelse, størrelse av et fastsatt gebyr, forfall, klage over et vedtak om overtredelsesgebyr og lemping."
+                    ]
+                },
+                {
+                    "name": "§ 38",
+                    "title": "Tilbaketrekking av akkreditering",
+                    "sections": [
+                        "Hvis en privat fagskole ikke retter alvorlige forhold som er i strid med bestemmelser gitt i eller i medhold av denne loven innen fristen etter § 34, kan departementet trekke akkreditering av fagområdet eller fagskoleutdanningen tilbake.",
+                        "Departementet kan gi forskrift om saksbehandling ved tilbaketrekking av akkreditering etter første ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7 Diverse bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 39",
+                    "title": "Forholdet til forvaltningsloven",
+                    "sections": [
+                        "Når fagskolene behandler saker etter loven her, gjelder bestemmelsene i forvaltningsloven om habilitet i §§ 6 til 10 og om taushetsplikt i §§ 13 til 13 e.",
+                        "Hvis ikke noe annet er bestemt, gjelder forvaltningsloven kapittel III til VI og VIII for avgjørelser om opptak, avsluttende vurdering, annullering av eksamen, bortvisning, utestenging, skikkethetsvurdering, godskriving, og fritak etter loven her.",
+                        "Departementet kan gi forskrift om at forvaltningsloven kapittel VI ikke skal gjelde for vedtak fra NOKUT om akkreditering av fagskoleutdanning."
+                    ]
+                },
+                {
+                    "name": "§ 40",
+                    "title": "Forsøk",
+                    "sections": [
+                        "Departementet kan vedta at det kan gjøres unntak fra loven og forskriftene til loven i forbindelse med tidsavgrensede organisatoriske eller pedagogiske forsøk."
+                    ]
+                },
+                {
+                    "name": "§ 41",
+                    "title": "Nasjonal vitnemåls- og karakterportal",
+                    "sections": [
+                        "Nasjonal vitnemåls- og karakterportal skal sikre sannferdig informasjon om vitnemål og karakterer og forhindre bruk av forfalskede vitnemål og karakterutskrifter. Staten ved departementet eier portalen.",
+                        "En persons fødselsnummer, D-nummer og informasjon som kan identifisere de utdanningsinstitusjonene som i databasene sine har opplysninger om personens utdanningsresultater, innhentes automatisk til portalen, uavhengig av om portalen er tatt i bruk av den informasjonen gjelder. Vitnemål og karakterer skal kun innhentes fra utdanningsinstitusjonen når portalen er tatt i bruk av den informasjonen gjelder. Den personen som informasjonen gjelder for, bestemmer hvem som skal få tilgang til informasjonen i portalen, hvilken informasjon de skal få tilgang til, og for hvilket tidsrom.",
+                        "Forvaltningsorganet som er ansvarlig for Vitnemålsportalen, er også behandlingsansvarlig for personopplysningene i portalen. Departementet kan gi forskrift om portalen, blant annet om hvilke opplysninger som skal registreres, og hvordan opplysningene skal behandles."
+                    ]
+                },
+                {
+                    "name": "§ 42",
+                    "title": "Rapportering til database for statistikk om fagskoleutdanning",
+                    "sections": [
+                        "Personopplysninger som nevnt i annet og tredje ledd kan behandles i en database for statistikk om fagskoleutdanning for å legge til rette for å utarbeide statistikk og gjennomføre utredninger og forskning, og for departementets forvaltning og ansvar for fagskoleutdanning.",
+                        "For studenter ved fagskoler kan følgende personopplysninger behandles:",
+                        "a)fødselsnummer",
+                        "b)midlertidig fødselsnummer",
+                        "c)navn",
+                        "d)statsborgerskap",
+                        "e)opplysninger knyttet til utdanningen som studieprogresjon og karakterer.",
+                        "For ansatte ved fagskoler kan følgende personopplysninger behandles:",
+                        "a)fødselsnummer",
+                        "b)ID-type og ID-nummer",
+                        "c)navn",
+                        "d)statsborgerskap",
+                        "e)opplysninger knyttet til stillingsforhold og finansiering av stillingen.",
+                        "Departementet kan pålegge fagskoler å rapportere personopplysninger som nevnt i annet og tredje ledd til databasen for statistikk om fagskoleutdanning. Innhentingen av opplysningene kan skje elektronisk.",
+                        "Personopplysningene i databasen kan utleveres og sammenstilles til forskning og utredning i samsvar med formålet i første ledd. Opplysningene kan også utleveres til andre departementer og statlige organer som etter personopplysningsloven har adgang til å behandle slike opplysninger.",
+                        "Departementet er behandlingsansvarlig for databasen. Departementet kan gi forskrift om behandlingen av opplysninger i databasen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8 Ikrafttredelse og overgangsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 43",
+                    "title": "Ikrafttredelses- og overgangsregler",
+                    "sections": [
+                        "Loven trer i kraft fra det tidspunktet Kongen bestemmer.",
+                        "Fra samme tidspunkt oppheves lov 20. juni 2003 nr. 56 om fagskoleutdanning.",
+                        "Forskrifter gitt med hjemmel i lov 20. juni 2003 nr. 56 om fagskoleutdanning skal gjelde frem til 31. desember 2019 eller til forskriften blir opphevet.",
+                        "Retten til å få skrevet ut et nytt vitnemål for dem som har vitnemål som oppgir fagskolepoeng, oppheves 31. desember 2020."
+                    ]
+                },
+                {
+                    "name": "§ 44",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i lov 14. desember 2007 nr. 116 om studentsamskipnader:",
+                        "§ 1 første ledd skal lyde:",
+                        "Denne lov gjelder for studentsamskipnader, studenter og institusjoner som omfattes av universitets- og høyskoleloven, og fagskoler som er tilknyttet en studentsamskipnad og studenter ved disse fagskolene.",
+                        "§ 2 tredje ledd skal lyde:",
+                        "Departementet beslutter om studentsamskipnader skal opprettes, legges ned, deles eller slås sammen. Sammenslåing av studentsamskipnader kan gjennomføres ved at en eller flere studentsamskipnader overdrar sine eiendeler, rettigheter og forpliktelser som helhet til en annen studentsamskipnad med kontinuitet i rettighets- og forpliktelsesposisjoner. Aksjeloven §§ 13-13 til 13-16 gjelder tilsvarende så langt de passer for slik sammenslåing. Delinger av studentsamskipnader kan gjennomføres ved at studentsamskipnaden delvis overdrar sine eiendeler, rettigheter og forpliktelser til en eksisterende eller ny studentsamskipnad med kontinuitet i rettighets- og forpliktelsesposisjoner. Aksjeloven §§ 14-7 og 14-8 gjelder tilsvarende så langt de passer for slik deling.",
+                        "§ 3 tredje ledd skal lyde:",
+                        "Med student forstås i denne lov personer med studierett ved universitet, høyskole eller fagskole, som betaler semesteravgift. Studentgrupper som departementet i forskrift etter studentsamskipnadsloven § 10 kan gi fritak fra krav om betaling av semesteravgift, regnes også som studenter.",
+                        "Overskriften i § 4 skal lyde:",
+                        "Universiteter, høyskoler og fagskolers tilknytning til studentsamskipnad",
+                        "§ 4 nytt annet ledd skal lyde:",
+                        "Fagskoler som omfattes av fagskoleloven, har rett til å være tilknyttet en studentsamskipnad. Departementet avgjør hvilken studentsamskipnad den enkelte fagskole skal være tilknyttet."
+                    ]
+                }
+            ]
+        }
+    ]
+}

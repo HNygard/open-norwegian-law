@@ -1,0 +1,71 @@
+{
+    "lawId": "LOV-2017-06-16-64",
+    "lawName": "Lov om overføring av ansvar for kollektivtransport",
+    "shortName": "Lov om overføring av ansvar for kollektivtransport",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "Kollektivtransport etter denne loven omfatter rutetransport, jf. yrkestransportlova § 2, med motorvogn, fartøy, sporvei, tunnelbane, forstadsbane og lignende sporbundet transportmiddel. I tillegg omfatter kollektivtransport tilrettelagt transport for funksjonshemmede. Kollektivtransport omfatter ikke transport med ferger i fylkesvegsamband.",
+                        "Ansvar for kollektivtransport omfatter drift og kjøp av kollektivtransporttjenester og myndighet til å gi løyve etter yrkestransportlova §§ 6 og 7."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Overføring av ansvar for kollektivtransport og vilkår for overføringen",
+                    "sections": [
+                        "Kongen i statsråd kan vedta overføring av ansvar for kollektivtransport fra fylkeskommunen til kommunen dersom kommunen kan dokumentere at den:",
+                        "a)omfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,",
+                        "b)har et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og",
+                        "c)har et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.",
+                        "Ved overføring av ansvar for kollektivtransport etter første ledd overtar kommunen ansvaret for kollektivtransporttilbudet innenfor kommunens grenser. Kommunen bestemmer selv omfanget av kollektivtransporttilbudet."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Framgangsmåte for overføring av ansvar",
+                    "sections": [
+                        "Kommunestyret vedtar selv om kommunen skal søke om å få overført ansvar for kollektivtransport innen sitt område. Kommunen må på tidspunktet for innsending av søknad dokumentere at vilkårene i § 2 første ledd bokstav a og b er oppfylt.",
+                        "Før endelig søknad kan behandles av Kongen i statsråd, må kommunen også dokumentere at vilkåret om samarbeid med fylkeskommunen i § 2 første ledd bokstav c er oppfylt. Kommunestyret og fylkestinget vedtar selv at det skal inngås samarbeidsavtale mellom kommunen og fylkeskommunen."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Overføring av rettigheter og plikter knyttet til inngåtte kontrakter",
+                    "sections": [
+                        "Fra det tidspunktet et vedtak om overføring av ansvar for kollektivtransport trer i kraft, overtar kommunen fylkeskommunens rettigheter og plikter knyttet til inngåtte kontrakter om kjøp av transporttjenester, med frigjørende virkning for fylkeskommunen.",
+                        "Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at den utgjør en bortfallsgrunn for rettsforholdet.",
+                        "Ved uenighet mellom fylkeskommunen og kommunen om hvilke rettigheter eller plikter som er overtatt etter første ledd, kan hvert av organene bringe spørsmålet inn for Kongen til avgjørelse. Søksmål om spørsmål som nevnt i første punktum, kan bringes inn for de alminnelige domstolene først når muligheten til å få saken avgjort av Kongen er benyttet. Kongens avgjørelse etter første punktum har ingen virkning overfor private fordringshavere og rettighetshavere. Andre punktum gjelder ikke for søksmål mot eller fra private fordringshavere og rettighetshavere."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover:",
+                        "1. I lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. skal § 7 andre ledd lyde:",
+                        "Når fylkeskommunen eller kommunen gir tilskudd til lokal jernbane innen et fylke eller en kommune, fastsetter fylkeskommunen eller kommunen transportvilkår. Fylkeskommunens eller kommunens vedtak i saker om godkjenning av ruteplan, takster og tilskudd kan ikke påklages til departementet.",
+                        "2. I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy gjøres følgende endringer:",
+                        "§ 13 andre ledd skal lyde:",
+                        "(2) Med den avgrensinga som følgjer av første ledd, gjev fylkeskommunen løyve til rutetransport etter §§ 6 og 7. Kommunen gjev likevel løyve innanfor kommunegrensa når ansvar for kollektivtransport er overført til kommunen i samsvar med lov om overføring av ansvar for kollektivtransport.",
+                        "§ 22 nytt sjette ledd skal lyde:",
+                        "(6) Dersom kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport, gjeld første til femte ledd tilsvarande for kommunen.",
+                        "§ 23 nytt andre ledd skal lyde:",
+                        "(2) Første ledd gjeld òg for kommunen der kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport."
+                    ]
+                }
+            ]
+        }
+    ]
+}

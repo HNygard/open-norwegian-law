@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2014-08-15-60",
+    "lawName": "Lov om endringar i EØS-høringsloven (europeisk standardisering)",
+    "shortName": "Endringslov til EØS-høringsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 15 a",
+                    "title": "Forskrifter om europeisk standardisering",
+                    "sections": [
+                        "Departementet kan ved forskrift gi nærmere regler om europeisk standardisering.",
+                        "Lova gjeld frå det tidspunktet Kongen fastset."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "lawId": "LOV-2017-03-31-14",
+    "lawName": "Lov om endringer i tinglysingsloven, inkassoloven og tvangsfullbyrdelsesloven mv. (teknologinøytralitet)",
+    "shortName": "Endringslov til tinglysingsloven mv. (teknologinøytralitet)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel I. Område, definisjoner, fravikelighet m.m",
+            "paragraphs": [
+                {
+                    "name": "§ 3 a",
+                    "title": "Elektronisk kommunikasjon",
+                    "sections": [
+                        "Krav i eller i medhold av denne loven om at meddelelser til skyldneren skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon dersom meddelelsen er sendt på en betryggende måte. Kongen kan i forskrift gi nærmere bestemmelser om hva som kan anses for en betryggende måte.",
+                        "§ 9 første ledd bokstav a skal lyde:",
+                        "a)etter kravets forfall ha sendt skyldneren skriftlig varsel om at inkasso vil bli satt i verk, og",
+                        "§ 10 første ledd første punktum skal lyde:",
+                        "Når et krav er mottatt til inkasso og betalingsfristen i inkassovarsel etter § 9 er løpt ut, skal inkassatoren sende skyldneren en skriftlig oppfordring (betalingsoppfordring) om enten å betale eller å komme med innsigelser mot kravet innen en frist på minst 14 dager.",
+                        "I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse gjøres følgende endringer:",
+                        "§ 1-3 tredje ledd første punktum skal lyde:",
+                        "Når et foretak med rett til å drive finansieringsvirksomhet etter finansforetaksloven § 2-1, låner ut penger mot håndpant i løsøre ved at pantet overleveres til foretaket, kan det inngås forhåndsavtale om at panthaveren selv kan selge løsøret til dekning av pantekravet dersom pantsetteren ikke har innfridd pantekravet innen en frist på minst en måned som panthaveren har fastsatt i et skriftlig varsel som er sendt skyldneren etter forfall.",
+                        "Ny § 1-10 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": [
+                {
+                    "name": "§ 1-10",
+                    "title": "Elektronisk kommunikasjon",
+                    "sections": [
+                        "For elektronisk kommunikasjon med namsmyndighetene gjelder domstolloven § 197 a tilsvarende.",
+                        "Krav i eller i medhold av denne loven om at varsler og meddelelser mellom saksøker og saksøkte skal gis skriftlig, er ikke til hinder for elektronisk kommunikasjon dersom meddelelsen er sendt på en betryggende måte. Kongen kan i forskrift gi nærmere bestemmelser om hva som kan anses for en betryggende måte.",
+                        "Annet ledd gjelder tilsvarende for varsel etter § 1-3 tredje ledd første punktum og melding etter § 11-58 første ledd annet punktum.",
+                        "§ 2-13 oppheves.",
+                        "§ 2-17 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2-17",
+                    "title": "Frister",
+                    "sections": [
+                        "§ 2-7 gjelder tilsvarende for Statens innkrevingssentrals tvangsfullbyrdelse.",
+                        "§ 3-4 første ledd bokstav b første punktum skal lyde:",
+                        "Selvskyldnergaranti fra norsk bank eller annet foretak med rett til å drive finansieringsvirksomhet etter finansforetaksloven § 2-1.",
+                        "§ 4-18 annet ledd skal lyde:",
+                        "Varsel kan unnlates dersom",
+                        "a)saksøkte ikke har kjent oppholdssted,",
+                        "b)saksøkte ikke har kjent fullmektig med kjent oppholdssted som kan motta varsel på saksøktes vegne, og",
+                        "c)saksøkte og fullmektig heller ikke har kjent kontaktinformasjon for elektronisk varsling som nevnt i § 1-10 annet ledd.",
+                        "Namsmyndigheten kan frita saksøkeren for varslingsplikten dersom det er grunn til å frykte at fullbyrdelsen ellers ville bli vanskeliggjort. Er det urimelig å kreve at saksøker skal varsle elektronisk, har kjent kontaktinformasjon som nevnt i første punktum bokstav c ikke betydning.",
+                        "§ 7-2 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Tvangsgrunnlag",
+                    "sections": [
+                        "Tvangsgrunnlag for utlegg er foruten de alminnelige tvangsgrunnlagene:",
+                        "a)Gjeldsbrev som lyder på en bestemt pengesum og som inneholder vedtakelse av at gjelden kan inndrives uten søksmål. Gjeldsbrevet er tvangsgrunnlag overfor utstederen når vedkommendes underskrift er bekreftet av to myndige vitner eller i samsvar med forskrift gitt av Kongen. Gjeldsbrevet er også tvangsgrunnlag overfor enhver som ved påskrift på gjeldsbrevet har påtatt seg selvskyldneransvar ved en overdragelse eller stilt seg som selvskyldnerkausjonist eller som kausjonist på forfallsvilkår som nevnt i finansavtaleloven § 71, forutsatt at påskriften inneholder vedtakelse av inndriving uten søksmål, og at vedkommendes underskrift er bekreftet som nevnt ovenfor.",
+                        "b)Veksler for krav som nevnt i vekselloven §§ 47 til 49 jf § 77.",
+                        "c)Sjekker for krav som nevnt i sjekkloven §§ 44 til 46.",
+                        "d)Beslutning om tvangsmulkt eller disiplinærstraff truffet av offentlig myndighet med hjemmel i lov.",
+                        "e)Krav som etter særlig lovbestemmelse er tvangsgrunnlag for utlegg.",
+                        "f)Skriftlig meddelelse som fordringshaveren selv har sendt skyldneren og som viser kravets grunnlag og omfang.",
+                        "g)Elektronisk gjeldserklæring som lyder på en bestemt pengesum, når erklæringen er avgitt til foretak med rett til å drive finansieringsvirksomhet etter finansforetaksloven § 2-1 eller til institusjon som nevnt i finansforetaksloven § 1-6 første ledd, og erklæringen inneholder vedtakelse av at gjelden kan inndrives uten søksmål, samt elektronisk erklæring om kausjonsansvar som selvskyldner eller på forfallsvilkår som nevnt i finansavtaleloven § 71 for en slik forpliktelse når kausjonserklæringen er avgitt til foretak eller institusjon som nevnt og inneholder vedtakelse av inndrivelse uten søksmål.",
+                        "Tvangsgrunnlag som nevnt i første ledd er også tvangsgrunnlag for utenrettslige inndrivingskostnader og renter med mindre annet følger av lov eller tvangsgrunnlaget.",
+                        "§ 9-2 første ledd skal lyde:",
+                        "Grunnlag for tilbakelevering er foruten de alminnelige tvangsgrunnlag avtale om salgspant når panteretten har rettsvern etter panteloven § 3-17 og avtalen inneholder opplysninger som nevnt i finansavtaleloven § 46 a første ledd bokstav f til h og k til o.",
+                        "§ 11-3 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 11-3",
+                    "title": "Kompetent namsmyndighet",
+                    "sections": [
+                        "Begjæring om tvangsdekning i fast eiendom, og begjæring om tvangssalg av borettslagsandel som er registrert i grunnboken, skal settes fram for tingretten i den krets der eiendommen eller boligen ligger.",
+                        "Begjæring om tvangsdekning i skip og luftfartøy skal settes fram for tingretten i den krets der skipet eller luftfartøyet er eller ventes å komme i nær fremtid. Dersom begjæringen gjelder tvangsbruk av norsk skip eller luftfartøy, skal begjæringen isteden settes fram for tingretten ved det alminnelige vernetinget til den som er registrert som eier, eller til en representant som kan motta søksmål på vedkommendes vegne.",
+                        "Begjæring om tvangsdekning i akvakulturtillatelsen skal settes fram for tingretten ved det alminnelige vernetinget til den som er registrert som innehaver. Dersom innehaveren av tillatelsen ikke har alminnelig verneting i Norge, settes begjæringen fram for tingretten for den kommunen som tillatelsen er knyttet til i akvakulturregisteret.",
+                        "Begjæring om tvangsdekning i kraftledninger skal settes fram for tingretten i en krets der ledningen går. For kraftledninger som opprinnelig ble registrert av en tingrett, settes begjæringen fram for denne tingretten.",
+                        "Begjæring om tvangsdekning i andre realregistrerte formuesgoder skal settes fram for tingretten i den krets der formuesgodet er registrert.",
+                        "§ 13-2 annet ledd bokstav a skal lyde:",
+                        "a)Skriftlig avtale om leie som inneholder vedtagelse av at utlevering kan kreves når leien ikke blir betalt. Det skal gå fram av varselet etter § 4-18 at utlevering kan unngås dersom leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt før fullbyrdelsen gjennomføres.",
+                        "§ 13-2 tredje ledd bokstav a skal lyde:",
+                        "a)Skriftlig avtale om leie som inneholder vedtagelse av at tvangsfravikelse kan kreves når leien ikke blir betalt. Det skal gå fram av varselet etter § 4-18 at tvangsfullbyrdelse kan unngås dersom leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt før fullbyrdelsen gjennomføres.",
+                        "§ 13-2 tredje ledd bokstav c skal lyde:",
+                        "c)Oppsigelse i leieforhold etter husleieloven, når oppsigelsen fyller vilkårene i husleieloven § 9-7 og leieren ikke har protestert skriftlig til utleieren mot oppsigelsen på en måte som fyller vilkårene i husleieloven § 9-8 innen fristen på én måned, eller når utleieren har reist sak mot leieren og retten ikke har satt oppsigelsen til side.",
+                        "§ 13-2 nytt fjerde ledd skal lyde:",
+                        "Skriftlig avtale som nevnt i annet ledd og tredje ledd kan inngås elektronisk.",
+                        "§ 13-6 første ledd tredje punktum skal lyde:",
+                        "Det skal opplyses at fullbyrdelsen kan unngås ved at kravet blir oppfylt innen fristen etter første punktum, eller når fullbyrdelsen er begjært etter § 13-2 annet ledd bokstav a eller tredje ledd bokstav a, ved at leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt innen fristen.",
+                        "I lov 16. juli 1999 nr. 66 om Schengen informasjonssystem gjøres følgende endringer:",
+                        "§ 7 første ledd nr. 2 skal lyde:",
+                        "2.opplysninger om personer som ikke skal gis tillatelse til innreise fordi det i forbindelse med utvisning etter utlendingsloven § 66 første ledd bokstav a, b, c, e eller f eller annet ledd, §§ 67, 68 eller 126 annet ledd er truffet vedtak om innreiseforbud, og vedtaket fortsatt er gjeldende",
+                        "I lov 6. juni 2003 nr. 39 om burettslag gjøres følgende endringer:",
+                        "§ 6-7 første ledd skal lyde:",
+                        "For panterett som ikkje er tinglyst elektronisk, gjeld ikkje føresegnene i § 6-5 for avhending av panteretten til eige eller pant eller for utlegg i panterett.",
+                        "I lov 12. september 2003 nr. 93 om endringer i lov 7. juni 1935 nr. 2 om tinglysing m.m. oppheves endringen i del II i lov 7. juni 1935 nr. 2 om tinglysing § 1 første ledd.",
+                        "I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her gjøres følgende endringer:",
+                        "§ 105 første ledd bokstav d og e skal lyde:",
+                        "d)det eneste grunnlag for opphold i riket er vernet mot utsendelse etter § 73,",
+                        "e)utlendingens søknad om beskyttelse har blitt eller mest sannsynlig vil bli nektet realitetsbehandlet i medhold av § 32 første ledd bokstav a eller d eller femte ledd, eller",
+                        "§ 106 første ledd bokstav f og g skal lyde:",
+                        "f)utlendingen er i transitt i norsk lufthavn, med sikte på utsendelse,",
+                        "g)utlendingens søknad om beskyttelse mest sannsynlig vil bli nektet realitetsbehandlet i medhold av § 32 første ledd bokstav a eller d eller femte ledd. Dette gjelder ikke hvis utlendingen er mindreårig eller har mindreårige barn som også har søkt beskyttelse, eller",
+                        "§ 106 a første ledd bokstav j og k skal lyde:",
+                        "j)utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser,",
+                        "k)utlendingens søknad om beskyttelse er nektet realitetsbehandlet etter § 32 første ledd bokstav a eller d eller femte ledd, eller",
+                        "I lov 20. juni 2014 nr. 45 om endringer i tinglysingsloven mv. (elektronisk tinglysing) skal del IV nr. 1 lyde:",
+                        "1.Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid, og sette i kraft bestemmelser til forskjellig tid for ulike registre.",
+                        "I lov 27. mai 2016 nr. 15 om endringer i forvaltningsloven mv. (administrative sanksjoner mv.) del III skal endringen i lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 7-2 bokstav d lyde:",
+                        "d)Beslutning om tvangsmulkt, administrativ sanksjon eller disiplinærstraff truffet av offentlig myndighet med hjemmel i lov.",
+                        "1.Loven gjelder fra den tid Kongen fastsetter. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid, og sette i kraft bestemmelser til forskjellig tid for ulike registre.",
+                        "2.For tvangsgrunnlag som nevnt i tvangsfullbyrdelsesloven § 7-2 første ledd bokstav a som foreligger på tidspunktet for ikrafttredelsen, er gjeldsbrevet tvangsgrunnlag for utenrettslige inndrivingskostnader og renter bare i den grad det inneholder vedtakelse av at også renter og slike kostnader kan drives inn uten søksmål.",
+                        "3.Departementet kan gi nærmere overgangsbestemmelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        },
+        {
+            "name": "VII",
+            "paragraphs": []
+        },
+        {
+            "name": "VIII",
+            "paragraphs": []
+        },
+        {
+            "name": "IX",
+            "paragraphs": []
+        },
+        {
+            "name": "X",
+            "paragraphs": []
+        },
+        {
+            "name": "XI",
+            "paragraphs": []
+        }
+    ]
+}

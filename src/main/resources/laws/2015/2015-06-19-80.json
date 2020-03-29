@@ -1,0 +1,34 @@
+{
+    "lawId": "LOV-2015-06-19-80",
+    "lawName": "Lov om endringer i jernbaneloven (sikring mot tilsiktede uønskede handlinger)",
+    "shortName": "Endringslov til jernbaneloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 6 a",
+                    "title": "(Sikring mot tilsiktede uønskede handlinger)",
+                    "sections": [
+                        "Departementet kan fastsette forskrift om sikring mot tilsiktede uønskede handlinger, herunder bestemmelser om kriseledelse, om taushetsplikt og om hvilke virksomheter som skal omfattes av forskriften.",
+                        "§ 11 overskriften skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "(Tilsyn mv.)",
+                    "sections": [
+                        "§ 11 nytt sjette ledd skal lyde:",
+                        "Uten hinder av lovbestemt taushetsplikt kan tilsynsmyndigheten og politiet, Nasjonal sikkerhetsmyndighet, Direktoratet for samfunnssikkerhet og beredskap eller tilsvarende myndigheter gjensidig og etter forespørsel utveksle de opplysninger som er nødvendige for å sikre jernbanen mot tilsiktede uønskede handlinger.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

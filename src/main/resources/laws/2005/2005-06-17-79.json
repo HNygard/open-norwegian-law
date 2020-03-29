@@ -1,0 +1,434 @@
+{
+    "lawId": "LOV-2005-06-17-79",
+    "lawName": "Lov om akvakultur (akvakulturloven)",
+    "shortName": "Akvakulturloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel I Formål og virkeområde",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Loven skal fremme akvakulturnæringens lønnsomhet og konkurransekraft innenfor rammene av en bærekraftig utvikling, og bidra til verdiskaping på kysten."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Saklig virkeområde",
+                    "sections": [
+                        "Loven gjelder produksjon av akvatiske organismer (akvakultur). Med akvatiske organismer forstås vannlevende dyr og planter. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet. I tvilstilfeller kan departementet i enkeltvedtak eller forskrift bestemme hva som anses som akvakultur.",
+                        "Lovens § 12 og kapittel VI til VIII gjelder også for vare- og tjenesteproduksjon til akvakulturnæringen.",
+                        "Departementet kan i forskrift bestemme at aktiviteter som nevnt i første og annet ledd ikke skal omfattes av hele eller deler av loven.",
+                        "Produksjon av anadrome laksefisk og innlandsfisk til kultiveringsformål reguleres av lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Geografisk virkeområde",
+                    "sections": [
+                        "Denne loven gjelder:",
+                        "a)på landterritoriet og i territorialfarvannet,",
+                        "b)i jurisdiksjonsområder etablert i medhold av lov 17. desember 1976 nr. 91 om Norges økonomiske sone, og",
+                        "c)på kontinentalsokkelen.",
+                        "Loven gjelder ikke på Svalbard og Jan Mayen. Kongen kan gi forskrift om at loven helt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette nærmere bestemmelser av hensyn til de stedlige forhold, herunder bestemmelser som fraviker bestemmelser i denne lov."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel II Akvakulturtillatelse",
+            "paragraphs": [
+                {
+                    "name": "§ 4",
+                    "title": "Krav om akvakulturtillatelse",
+                    "sections": [
+                        "Departementet kan gi tillatelse til å drive akvakultur (akvakulturtillatelse) etter §§ 6 og 7. Slik tillatelse kan også erverves ved overføring etter § 19.",
+                        "Ingen kan drive akvakultur uten å være registrert som innehaver av akvakulturtillatelse i akvakulturregisteret, jf. § 18 første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Akvakulturtillatelsens innhold",
+                    "sections": [
+                        "Akvakulturtillatelsen gir rett til produksjon av bestemte arter på avgrensede geografiske områder (lokaliteter), med de til enhver tid fastsatte begrensninger av tillatelsens omfang.",
+                        "Departementet kan i enkeltvedtak eller forskrift gi nærmere bestemmelser om innholdet i akvakulturtillatelser, herunder omfang, avgrensing i tid mv."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Generelle vilkår for tildeling av akvakulturtillatelse",
+                    "sections": [
+                        "Departementet kan etter søknad gi tillatelse til akvakultur dersom:",
+                        "a)det er miljømessig forsvarlig,",
+                        "b)kravene i § 15 om forholdet til arealplaner og vernetiltak er oppfylt,",
+                        "c)avveiningen av arealinteresser etter § 16 er foretatt, og",
+                        "d)det er gitt tillatelser som kreves etter:",
+                        "-lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet m.v.,",
+                        "-lov 13. mars 1981 nr. 6 om vern mot forurensning og om avfall,",
+                        "-lov 8. juni 1984 nr. 51 om havner og farvann m.v., og",
+                        "-lov 24. november 2000 nr. 82 om vassdrag og grunnvann.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om tildeling av akvakulturtillatelse, herunder om krav til søknad og kriterier for innvilgelse av søknad."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Særlig om akvakulturtillatelse til laks, ørret og regnbueørret",
+                    "sections": [
+                        "For tildeling av tillatelse til produksjon av laks, ørret og regnbueørret kan departementet gi forskrift om:",
+                        "a)antall tillatelser som skal tildeles,",
+                        "b)geografisk fordeling av tillatelser,",
+                        "c)prioriteringskriterier,",
+                        "d)utvelgelse av kvalifiserte søkere i henhold til prioriteringskriteriene i bokstav c, herunder trekning mv., og",
+                        "e)vederlag for tildeling av tillatelser.",
+                        "Kongen kan i forskrift gi bestemmelser om tilpasning av produksjonen av laks, ørret og regnbueørret."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Samordning i saker om etablering av akvakultur",
+                    "sections": [
+                        "Myndighetene etter denne lov, lovene nevnt i § 6 første ledd bokstav d og kommunen, herunder som plan- og bygningsmyndighet, plikter å foreta en effektiv og samordnet søknadsbehandling.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om samordning av søknadsbehandlingen, herunder fastsette tidsfrister for behandling av søknader."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Endring og tilbaketrekking av akvakulturtillatelse",
+                    "sections": [
+                        "Departementet kan endre eller trekke tilbake akvakulturtillatelsen:",
+                        "a)dersom dette er nødvendig ut fra hensynet til miljøet,",
+                        "b)dersom vesentlige forutsetninger som ligger til grunn for tillatelsen er endret,",
+                        "c)ved grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven,",
+                        "d)dersom tillatelsen ikke benyttes eller bare benyttes i begrenset grad, eller",
+                        "e)dersom en eller flere nødvendige tillatelser gitt i medhold av lovene nevnt i § 6 første ledd bokstav d er bortfalt.",
+                        "Endring og tilbaketrekking av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbaketrekking kan gjøres betinget av at bestemte forhold utbedres eller endres.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbaketrekking av akvakulturtillatelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel III Miljøhensyn",
+            "paragraphs": [
+                {
+                    "name": "§ 10",
+                    "title": "Miljønorm",
+                    "sections": [
+                        "Akvakultur skal etableres, drives og avvikles på en miljømessig forsvarlig måte.",
+                        "Departementet kan i enkeltvedtak eller forskrift gi nærmere bestemmelser for å sikre miljømessig forsvarlig akvakultur, herunder forby utsetting av fremmede organismer."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Miljøovervåking",
+                    "sections": [
+                        "Departementet kan i enkeltvedtak eller forskrift kreve at den som har eller søker om akvakulturtillatelse skal foreta nødvendige miljøundersøkelser og dokumentere miljøtilstanden på lokaliteten ved etablering, drift og avvikling av akvakultur."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Krav til innretninger og utstyr mv.",
+                    "sections": [
+                        "Innretninger og utstyr som nyttes til aktiviteter som omfattes av denne lov skal være forsvarlig utformet, ha forsvarlige egenskaper og brukes med nødvendig aktsomhet.",
+                        "Departementet kan gi forskrift om krav til tilvirkning, bruk og egenskaper ved innretninger og utstyr som nevnt i første ledd, herunder fastsette godkjennings- og sertifiseringsordninger."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Oppryddings- og gjenfangstplikt",
+                    "sections": [
+                        "Den som driver akvakultur skal ved helt eller delvis opphør av produksjonen foreta opprydding på lokaliteten og tilstøtende områder, herunder fjerning av organismer, innretninger og utstyr mv.",
+                        "Departementet kan i enkeltvedtak eller forskrift gi bestemmelser om at den som driver akvakultur har plikt til gjenfangst av den utsatte art.",
+                        "Departementet kan gi forskrift om plikt til å stille sikkerhet for oppryddings- og gjenfangstplikten etter første og annet ledd.",
+                        "Departementet kan gi forskrift om avgiftsordning for å sikre gjennomføring av oppryddings- og gjenfangstplikten. Fastsatt avgift er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Beskyttelse av bestemte områder",
+                    "sections": [
+                        "Departementet kan fastsette forbud mot, pålegge flytting av eller sette andre vilkår for akvakultur dersom dette er nødvendig for å bevare områder med særlig verdi for akvatiske organismer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel IV Arealutnyttelse",
+            "paragraphs": [
+                {
+                    "name": "§ 15",
+                    "title": "Forholdet til arealplaner og vernetiltak",
+                    "sections": [
+                        "Tillatelse til akvakultur kan ikke gis i strid med:",
+                        "a)vedtatte arealplaner etter plan- og bygningsloven 14. juni 1985 nr. 77,",
+                        "b)vedtatte vernetiltak etter lov 19. juni 1970 nr. 63 om naturvern, eller",
+                        "c)vedtatte vernetiltak etter lov 9. juni 1978 nr. 50 om kulturminner.",
+                        "Tillatelse til akvakultur kan likevel gis dersom det foreligger samtykke fra vedkommende plan- eller vernemyndighet."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Interesseavveining ved arealbruk til akvakultur",
+                    "sections": [
+                        "Departementet skal foreta en avveining av arealinteresser ved plassering av lokaliteter til akvakultur. Det skal særlig legge vekt på:",
+                        "a)søkers behov for areal til planlagt akvakulturproduksjon,",
+                        "b)alternativ bruk av området til annen akvakultur,",
+                        "c)annen bruk av området, og",
+                        "d)verneinteresser som ikke omfattes av § 15 bokstav b og c.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om bruk og plassering av lokaliteter til akvakultur."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Utnytting og bruk av lokaliteter mv.",
+                    "sections": [
+                        "Den som har akvakulturtillatelse har enerett til uttak og gjenfangst av den utsatte arten på lokaliteten.",
+                        "Departementet kan i enkeltvedtak eller forskrift regulere uttak og gjenfangst av den enkelte art på lokaliteten uavhengig av bestemmelsene i lov 3. juni 1983 nr. 40 om saltvannsfiske.",
+                        "Departementet kan i forskrift avgrense eller forby ferdsel og annen bruk av lokaliteter samt tilstøtende områder, herunder fiske etter andre arter enn den utsatte art, dersom dette er nødvendig av hensyn til akvakulturproduksjonen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel V Registrering, overføring og pantsettelse av akvakulturtillatelse",
+            "paragraphs": [
+                {
+                    "name": "§ 18",
+                    "title": "Registrering av akvakulturtillatelse",
+                    "sections": [
+                        "Det skal føres et register over akvakulturtillatelser (akvakulturregisteret). I registeret gis den enkelte tillatelse et eget blad.",
+                        "Det skal føres dagbok over de rettsstiftelser som skal registreres.",
+                        "Departementet kan gi forskrift om registreringsordningen, herunder om registreringsmyndighet, erstatningsordning, føring av dagbok mv.",
+                        "Reglene i lov 7. juni 1935 nr. 2 om tinglysing kapittel 2 og 3 og § 35 gjelder tilsvarende så langt de passer og ikke annet følger av bestemmelser gitt i eller i medhold av denne lov."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Overføring av akvakulturtillatelse",
+                    "sections": [
+                        "Akvakulturtillatelse kan overføres.",
+                        "Overføring av akvakulturtillatelse har ikke betydning for myndighetenes bruk av virkemidler etter denne lov.",
+                        "Utleie av akvakulturtillatelser er ikke tillatt. Departementet kan i særlige tilfeller gjøre unntak fra forbudet mot utleie.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om overføring av akvakulturtillatelser."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Pantsettelse av akvakulturtillatelse",
+                    "sections": [
+                        "Akvakulturtillatelse kan pantsettes.",
+                        "Panteretten får rettsvern ved tinglysing på tillatelsens blad i akvakulturregisteret.",
+                        "Pantsettelse av akvakulturtillatelse har ikke betydning for myndighetenes bruk av virkemidler etter denne lov.",
+                        "Staten har panterett foran alle andre heftelser i tillatelsen for krav på tvangsmulkt etter § 28, krav om dekning av utgifter til iverksetting etter § 29 og for overtredelsesgebyr etter § 30.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om pantsettelse av akvakulturtillatelser, herunder om beløpsmessig begrensning av statens panterett etter fjerde ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel VI Generelle krav og forpliktelser",
+            "paragraphs": [
+                {
+                    "name": "§ 21",
+                    "title": "Tilsyn",
+                    "sections": [
+                        "Departementet bestemmer hvem som er tilsynsmyndighet etter denne lov. Tilsynsmyndigheten skal føre tilsyn med at bestemmelsene i og i medhold av denne lov blir overholdt."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Faglig kompetanse",
+                    "sections": [
+                        "Enhver som deltar i aktiviteter som omfattes av denne lov skal ha nødvendig faglig kompetanse for slik aktivitet.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om krav til faglig kompetanse for aktiviteter som omfattes av denne lov."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Systematiske kontrolltiltak",
+                    "sections": [
+                        "For å sikre at krav i eller i medhold av loven overholdes kan departementet i forskrift bestemme at den som driver aktiviteter som omfattes av denne lov har plikt til å etablere og gjennomføre systematiske kontrolltiltak."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Opplysnings- og undersøkelsesplikt",
+                    "sections": [
+                        "Etter pålegg fra tilsynsmyndigheten plikter enhver som driver aktiviteter som omfattes av denne lov, å gi opplysninger, dokumenter, prøvemateriale eller annet materiale som er nødvendig for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.",
+                        "Etter pålegg fra tilsynsmyndigheten plikter enhver som driver aktiviteter som omfattes av denne lov å gjennomføre undersøkelser som er nødvendige for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om opplysnings- og undersøkelsesplikten i første og annet ledd, herunder om at pliktene skal utføres jevnlig."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Bistandsplikt",
+                    "sections": [
+                        "Enhver som driver aktiviteter som omfattes av denne lov plikter å gi tilsynsmyndighetene adgang til områder, innretning og utstyr i tilknytning til aktiviteten, for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.",
+                        "Enhver som driver aktiviteter som omfattes av denne lov skal stille nødvendige lokaler, utstyr, materiell, organismer og arbeidshjelp til disposisjon for utøvelse av tilsynet og ellers yte bistand for gjennomføring av tilsynsarbeidet."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Gebyr",
+                    "sections": [
+                        "Departementet kan gi forskrift om gebyr for behandling av søknader og for utførelse av tilsynsarbeid i henhold til bestemmelser i eller i medhold av denne lov.",
+                        "Skyldig gebyr er tvangsgrunnlag for utlegg."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel VII Reaksjoner ved overtredelse",
+            "paragraphs": [
+                {
+                    "name": "§ 27",
+                    "title": "Pålegg om tiltak",
+                    "sections": [
+                        "Ved overtredelse av bestemmelser gitt i eller i medhold av loven kan tilsynsmyndigheten gi pålegg om tiltak for å bringe de ulovlige forhold til opphør. Det kan fastsettes frist for gjennomføring av slike tiltak."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "For å sikre at bestemmelser gitt i eller i medhold av denne lov blir gjennomført, kan tilsynsmyndigheten fatte vedtak om løpende tvangsmulkt overfor den ansvarlige. Det kan også vedtas tvangsmulkt som forfaller for hver overtredelse. Tvangsmulkt kan vedtas samtidig med pålegg etter § 27 eller senere.",
+                        "Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som tilsynsmyndigheten har fastsatt i vedtaket om tvangsmulkt, og den løper så lenge det ulovlige forholdet varer. Den løper likevel ikke så langt etterlevelse er umulig på grunn av forhold som ikke skyldes den ansvarlige.",
+                        "Der flere er ansvarlige etter vedtak om tvangsmulkt, hefter de ansvarlige solidarisk for betaling av tvangsmulkten. Tvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan frafalle påløpt tvangsmulkt.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om tvangsmulkt, herunder om tvangsmulktens størrelse og varighet, fastsettelse av tvangsmulkt og frafall av påløpt tvangsmulkt."
+                    ]
+                },
+                {
+                    "name": "§ 29",
+                    "title": "Iverksetting av tiltak for den ansvarliges regning",
+                    "sections": [
+                        "Dersom fristen for å etterkomme pålegg etter § 27 er utløpt, kan tilsynsmyndigheten sørge for iverksetting av tiltakene.",
+                        "Selv om det ikke er gitt pålegg etter § 27 kan tilsynsmyndigheten, dersom det er nødvendig å iverksette tiltaket straks eller det foreligger andre særlige grunner, sørge for iverksetting av tiltak for å bringe ulovlige forhold til opphør.",
+                        "Utgifter til iverksetting etter første og annet ledd kan kreves dekket av den ansvarlige. Der flere er ansvarlige, hefter de ansvarlige solidarisk for utgiftene. Krav om utgifter til iverksetting er tvangsgrunnlag for utlegg.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om iverksetting av tiltak, herunder om innkreving av utgiftene til iverksetting."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Overtredelsesgebyr",
+                    "sections": [
+                        "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, kan ilegges et overtredelsesgebyr av tilsynsmyndigheten. Gebyret skal stå i forhold til den fortjeneste som den ansvarlige har hatt ved overtredelsen. Det kan videre tas hensyn til tilsynsmyndighetens kostnader i tilknytning til kontrolltiltak og behandling av saken.",
+                        "Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser om overtredelsesgebyr, herunder bestemmelser om rente og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Straff",
+                    "sections": [
+                        "Den som forsettlig eller grovt uaktsomt overtrer bestemmelser gitt i eller i medhold av loven, straffes med bøter eller fengsel i inntil 1 år eller begge deler, dersom forholdet ikke rammes av strengere straffebestemmelse.",
+                        "Foreligger særlig skjerpende omstendigheter, kan fengsel i inntil 2 år anvendes, om ikke strengere straffebestemmelse får anvendelse.",
+                        "Medvirkning og forsøk straffes på samme måte.",
+                        "I forskrift gitt i medhold av denne lov kan det fastsettes at overtredelse av forskriften ikke er straffbar."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel VIII Avsluttende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 32",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft 1. januar 2006."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Overgangsbestemmelser",
+                    "sections": [
+                        "Enkeltvedtak og forskrifter gitt i medhold av lov 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. og lov 21. desember 2000 nr. 118 om havbeite videreføres."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Videreføring av forskrift om eierkontroll i matfiskoppdrett",
+                    "sections": [
+                        "Forskrift 22. desember 2004 nr. 1800 om kontroll med eiermessige endringer i selskaper mv. som innehar tillatelse til oppdrett av matfisk av laks og ørret i sjø videreføres, selv om hjemmelsgrunnlaget i lov 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. oppheves."
+                    ]
+                },
+                {
+                    "name": "§ 35",
+                    "title": "Oppheving av andre lover",
+                    "sections": [
+                        "Fra den tid loven her trer i kraft, oppheves lov 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. og lov 21. desember 2000 nr. 118 om havbeite."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover:",
+                        "1. I lov 14. desember 1951 nr. 3 om omsetning av råfisk skal § 7 første ledd annet punktum lyde:",
+                        "Kontrollen omfatter også råfisk som blir landet, herunder overført fra fiskefartøyet til annet fartøy eller overført til akvakultur, uten at omsetning finner sted.",
+                        "2. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal § 2 nr. 28 skal lyde:",
+                        "28.Fiske, fangst av sjødyr, akvakultur og verksemd i samband med slikt, medrekna undervisning, forskning og utvikling.",
+                        "3. I lov 8. februar 1980 nr. 2 om pant gjøres følgende endringer:",
+                        "§ 3-9 annet ledd bokstav b skal lyde:",
+                        "b)merder og annet liknende utstyr som brukes eller er bestemt til bruk i akvakultur.",
+                        "§ 3-9 annet ledd bokstav d skal lyde:",
+                        "d)dyr, herunder tamrein, pelsdyr, fjærfe, bier, muslinger og akvatiske organismer i akvakultur.",
+                        "§ 5-3 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Utlegg i realregistrerbart løsøre og andre realregistrerte formuesgoder enn fast eiendom.",
+                    "sections": [
+                        "(1) Utleggspant i løsøre som kan registreres i et realregister og tilbehør til slikt løsøre, får rettsvern ved registrering i vedkommende register. Utleggspant i andre realregistrerte formuesgoder som ikke er fast eiendom, får rettsvern ved registrering i vedkommende register.",
+                        "(2) Første ledd første punktum gjør ingen endring i sjøloven § 41 tredje ledd.",
+                        "4. I lov 3. juni 1983 nr. 40 om saltvannsfiske m.v. skal § 28 lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Fiske ved lokaliteter til akvakultur.",
+                    "sections": [
+                        "Om fiske- og ferdselsforbud i nærheten av lokaliteter til akvakultur gjelder reglene i akvakulturloven.",
+                        "5. I lov 8. juni 1984 nr. 51 om havner og farvann m.v. skal § 5, femte ledd første punktum lyde:",
+                        "I saker som faller inn under akvakulturloven, kan departementet delegere myndighet etter loven her til fiskeridirektoratets regionkontorer.",
+                        "6. I lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. gjøres følgende endringer:",
+                        "§ 5 første ledd bokstav a annet ledd skal lyde:",
+                        "Rømt eller utsatt oppdrettet laksefisk som kan vandre fra sjø til ferskvann regnes som anadrom laksefisk når de lever fritt i sjø eller vassdrag, med de begrensninger som følger av akvakulturloven §§ 13 og 17 og bestemmelser gitt i medhold av disse paragrafene.",
+                        "§ 10 tredje ledd skal lyde:",
+                        "Departementet kan gi forskrift om etablering og drift av kultiveringsanlegg for anadrome laksefisk og innlandsfisk.",
+                        "7. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring gjøres følgende endringer:",
+                        "§ 11-1 nytt fjerde ledd skal lyde:",
+                        "Tvangsbruk kan ikke begjæres for akvakulturtillatelser.",
+                        "§ 11-2 første ledd bokstav c skal lyde:",
+                        "c)lovbestemt panterett for skatt eller avgifter til stat eller kommune eller for sameiets krav etter sameieforholdet i seksjonssameier, lovbestemt pant etter akvakulturloven § 20, fjerde ledd, og",
+                        "§ 11-3 nytt tredje ledd skal lyde:",
+                        "Begjæring om tvangsdekning i akvakulturtillatelsen skal settes fram for tingretten ved hjemtinget til den som er registrert som innehaver, eller ved den rettskrets hvor akvakulturtillatelsen er registrert dersom innehaver av tillatelsen ikke har hjemting i Norge.",
+                        "§ 11-31 nytt femte ledd skal lyde:",
+                        "Når kjøper av akvakulturtillatelse har betalt kjøpesummen, eventuelt med tillegg av renter, skal retten sørge for at kjøper straks blir innført i akvakulturregisteret.",
+                        "8. I lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer (genteknologiloven) skal § 9, annet ledd bokstav c lyde:",
+                        "c)bruk av genmodifiserte organismer i veksthus, akvakulturinnretning, dyrestaller o.l., med mindre slike er godkjent for innesluttet bruk som en del av et godkjent laboratorium eller annet anlegg",
+                        "9. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjøres følgende endringer:",
+                        "§ 3-3 nr. 2 bokstav g skal lyde:",
+                        "g)Fiskevær, akvakulturinnretning, opplagsinnretning for hummer o.l.,",
+                        "§ 8-1 nr. 1 bokstav a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-1",
+                    "title": "Jordbruk, fiske, akvakultur m.v.",
+                    "sections": [
+                        "(1) Som inntekt regnes ikke",
+                        "a)tilvekst i beholdning av fisk, akvatiske organismer i akvakultur, pelsdyr og rein,",
+                        "§ 8-1 nr. 4 skal lyde:",
+                        "4.Dyr som inngår i buskap på gårdsbruk, reinflokk i reindriftsnæringen eller bestand i pelsdyrnæringen, anses som omløpsmidler i virksomhet. Det samme gjelder akvatiske organismer i akvakultur.",
+                        "§ 14-70 nr. 6 bokstav d skal lyde:",
+                        "d)akvatiske organismer i akvakultur."
+                    ]
+                }
+            ]
+        }
+    ]
+}

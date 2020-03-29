@@ -1,0 +1,46 @@
+{
+    "lawId": "LOV-2016-06-17-62",
+    "lawName": "Lov om endringar i valgloven (personval ved stortingsval, frist for godkjenning av førehandsstemmer mv.)",
+    "shortName": "Endringslov til valgloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 9-5 a",
+                    "title": "Elektronisk avkryssing i manntallet på valgdagen",
+                    "sections": [
+                        "(1) Kommunene kan selv vedta å ta i bruk en ordning med elektronisk avkryssing i manntallet. § 9-5 fjerde ledd gjelder da ikke.",
+                        "(2) Dersom det er tatt i bruk elektronisk avkryssing etter første ledd, skal stemmestyret krysse av i det elektroniske manntallet både for velgere som er manntallsført i vedkommende krets, og for velgere som er manntallsført i andre kretser i kommunen.",
+                        "(3) Ved bruk av elektronisk avkryssing skal velgere som ikke er innført i manntallet i den kretsen stemmen avgis, levere stemmeseddelen til stemmestyret, som stempler den med offisielt stempel. Velgeren legger selv stemmeseddelen ned i en urne. Stemmesedler fra velgere som er manntallsført i annen krets enn der stemmene er avgitt, skal telles opp i den kretsen stemmene er avgitt.",
+                        "(4) Ved strømbrudd eller kommunikasjonsbrudd mot manntallet i en kommune hvor elektronisk avkryssing er tatt i bruk, skal senere avgitte stemmesedler ikke legges i urnen. Slike stemmesedler skal behandles som beredskapsstemmer. Etter at stemmeseddelen er stemplet, skal velgeren selv legge den i en stemmeseddelkonvolutt og lime konvolutten igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten i en beredskapskonvolutt sammen med valgkortet. I kommuner med todagersvalg skal eventuelle beredskapsstemmer mottatt på søndag behandles og krysses av i det elektroniske manntallet før valglokalene åpner på mandag.",
+                        "§ 10-1 første ledd bokstav g skal lyde:",
+                        "g)stemmegivningen er kommet inn til valgstyret innen kl. 17 dagen etter valgdagen.",
+                        "§ 11-11 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 11-11",
+                    "title": "Underretning til de valgte fylkestingsrepresentantene",
+                    "sections": [
+                        "Fylkesvalgstyret skal underrette de valgte representantene og vararepresentantene om valget.",
+                        "§ 11-13 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 11-13",
+                    "title": "Underretning til de valgte kommunestyrerepresentantene",
+                    "sections": [
+                        "Valgstyret skal underrette de valgte representantene og vararepresentantene om valget.",
+                        "Lova tek til å gjelde straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

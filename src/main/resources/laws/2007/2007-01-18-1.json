@@ -1,0 +1,53 @@
+{
+    "lawId": "LOV-2007-01-18-1",
+    "lawName": "Lov om endringer i ekteskapsloven og straffeprosessloven mv. (tiltak for å forhindre tvangsekteskap mv.)",
+    "shortName": "Endringslov til ekteskapsl. og strpl.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 18a",
+                    "title": "Anerkjennelse av ekteskap inngått i utlandet",
+                    "sections": [
+                        "Et ekteskap som er inngått i utlandet, anerkjennes her i riket dersom ekteskapet er gyldig inngått i vigselslandet. Et ekteskap anerkjennes likevel ikke dersom dette åpenbart ville virke støtende på norsk rettsorden (ordre public).",
+                        "Et ekteskap som er inngått i utlandet, anerkjennes ikke her i riket dersom minst en av partene var norsk statsborger eller fast bosatt her i riket på vigselstidspunktet, og:",
+                        "a)ekteskapet er inngått uten at begge parter var til stede under vigselen,",
+                        "b)en av partene var under 18 år, eller",
+                        "c)en av partene allerede var gift.",
+                        "Departementet kan likevel etter begjæring fra begge parter anerkjenne ekteskapet dersom sterke grunner taler for det.",
+                        "Overskriften til § 23 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Skilsmisse på grunn av overgrep og tvangsekteskap",
+                    "sections": [
+                        "§ 23 annet ledd skal lyde:",
+                        "Krav om skilsmisse etter første ledd må være reist innen seks måneder etter at ektefellen fikk kjennskap til handlingen, og senest to år etter at den fant sted.",
+                        "§ 23 nytt tredje ledd skal lyde:",
+                        "En ektefelle kan også kreve skilsmisse dersom han eller hun har blitt tvunget til å inngå ekteskapet ved rettsstridig atferd. Dette gjelder uavhengig av hvem som har utøvd tvangen. § 16 fjerde ledd gjelder tilsvarende.",
+                        "I lov 30. april 1993 nr. 40 om registrert partnerskap gjøres følgende endring:",
+                        "§ 2 første ledd første punktum skal lyde:",
+                        "Ekteskapslovens kapittel 1 som gjelder vilkår for å inngå ekteskap og ekteskapsloven § 18a får tilsvarende anvendelse ved registrering eller anerkjennelse av partnerskap.",
+                        "1.Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.",
+                        "2.Departementet kan gi nærmere overgangsregler i forskrift."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

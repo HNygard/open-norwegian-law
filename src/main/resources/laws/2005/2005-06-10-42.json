@@ -1,0 +1,278 @@
+{
+    "lawId": "LOV-2005-06-10-42",
+    "lawName": "Lov om endringer i verdipapirhandelloven mv. (gjennomføring av prospektdirektivet)",
+    "shortName": "Endringslov til verdipapirhandelloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 5 Prospektkrav ved offentlige tilbud og opptak til notering",
+            "paragraphs": []
+        },
+        {
+            "name": "I Definisjoner",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "Med ikke-aksjerelaterte verdipapirer menes i dette kapittelet andre omsettelige verdipapirer enn:",
+                        "1.aksjer og andre verdipapirer som kan sidestilles med aksjer som nevnt i § 1-2 tredje ledd nr. 1, og",
+                        "2.omsettelige verdipapirer som gir rett til å erverve verdipapirer som nevnt i punkt 1, dersom rettighetene er utstedt av utstedere av det underliggende verdipapiret eller av et selskap i samme konsern."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II Prospektplikt",
+            "paragraphs": [
+                {
+                    "name": "§ 5-2",
+                    "title": "Prospektplikt ved tilbud om tegning eller kjøp",
+                    "sections": [
+                        "Ved tilbud om tegning eller kjøp av omsettelige verdipapirer som rettes til 100 personer eller flere i det norske verdipapirmarkedet og gjelder et beløp på minst 100 000 euro beregnet over en periode på 12 måneder, skal det utarbeides prospekt etter reglene i dette kapittelet. Det samme gjelder der en tilbyder hjemmehørende i Norge fremsetter tilbud i en annen EØS-stat og prospektet skal godkjennes etter bestemmelsene i § 5-7."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Prospektplikt ved opptak til notering",
+                    "sections": [
+                        "Ved opptak til notering av omsettelige verdipapirer på norsk børs eller autorisert markedsplass, herunder kapitalforhøyelser i selskap med noterte aksjer, skal det utarbeides prospekt etter reglene i dette kapittelet. Det samme gjelder der en utsteder hjemmehørende i Norge søker opptak til notering på regulert marked i annen EØS-stat og prospektet skal godkjennes etter bestemmelsene i § 5-7."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Unntak fra prospektplikt ved tilbud",
+                    "sections": [
+                        "Bestemmelsen i § 5-2 kommer ikke til anvendelse dersom:",
+                        "1.tilbudet gjelder ikke-aksjerelaterte verdipapirer utstedt av en EØS-stat, EØS-sentralbank eller Den europeiske sentralbanken,",
+                        "2.tilbudet gjelder verdipapirer garantert av en EØS-stat,",
+                        "3.tilbudet gjelder ikke-aksjerelaterte verdipapirer som utstedes fortløpende eller gjentatte ganger av kredittinstitusjoner, dersom verdipapirene er dekket av en innskuddsgarantiordning og oppfyller nærmere krav fastsatt av departementet i forskrift,",
+                        "4.tilbudet fremsettes i forbindelse med fusjon, forutsatt at det foreligger et dokument som gir tilsvarende opplysninger som det som følger av § 5-13,",
+                        "5.tilbudet gjelder bytte av aksjer i samme selskap, forutsatt at byttet ikke innebærer en forhøyelse av selskapets aksjekapital,",
+                        "6.tilbudet gjelder verdipapirer som tilbys som vederlag ved oppkjøp, forutsatt at det foreligger et dokument som gir tilsvarende opplysninger som det som følger av § 5-13,",
+                        "7.tilbudet gjelder aksjer som tilbys vederlagsfritt til eksisterende aksjeeiere, forutsatt at det foreligger et dokument med opplysninger om aksjeklasse, antall aksjer samt bakgrunn og vilkår for tilbudet,",
+                        "8.tilbudet rettes til profesjonelle investorer etter nærmere regler fastsatt av departementet i forskrift,",
+                        "9.tilbudet rettes til nåværende eller tidligere ansatte eller styremedlemmer fra arbeidsgiveren eller fra annet selskap i samme konsern, forutsatt at vedkommende selskap har verdipapirer som er notert på et regulert marked og at det foreligger et dokument som inneholder opplysninger om type og antall verdipapirer samt bakgrunn og vilkår for tilbudet,",
+                        "10.tilbudet gjelder verdipapirer som legges ut i enkeltstørrelser med pålydende eller krav på vederlag på minst 50 000 euro."
+                    ]
+                },
+                {
+                    "name": "§ 5-5",
+                    "title": "Unntak fra prospektplikt ved opptak til notering",
+                    "sections": [
+                        "Bestemmelsen i § 5-3 kommer ikke til anvendelse ved opptak til notering som gjelder:",
+                        "1.kapitalforhøyelser der antall aksjer som utstedes i forbindelse med kapitalforhøyelsen utgjør mindre enn 10 prosent av antall aksjer i samme klasse som allerede er notert, beregnet over en periode på 12 måneder,",
+                        "2.ikke-aksjerelaterte verdipapirer utstedt av en EØS-stat, EØS-sentralbank eller Den europeiske sentralbanken,",
+                        "3.verdipapirer garantert av en EØS-stat,",
+                        "4.ikke-aksjerelaterte verdipapirer som utstedes fortløpende eller gjentatte ganger av kredittinstitusjoner, dersom verdipapirene dekkes av en innskuddsgarantiordning og oppfyller nærmere krav fastsatt av departementet i forskrift,",
+                        "5.verdipapirer som noteres i forbindelse med fusjon, forutsatt at det foreligger et dokument som gir tilsvarende opplysninger som det som følger av § 5-13,",
+                        "6.bytte av aksjer i allerede noterte aksjer i samme selskap, forutsatt at byttet ikke innebærer en forhøyelse av selskapets aksjekapital,",
+                        "7.verdipapirer som tilbys som vederlag ved oppkjøp, forutsatt at det foreligger et dokument som gir tilsvarende opplysninger som det som følger av § 5-13,",
+                        "8.aksjer i samme klasse som allerede noterte aksjer, når aksjene tilbys vederlagsfritt til eksisterende aksjeeiere, forutsatt at det foreligger et dokument med opplysninger om aksjeklasse, antall aksjer samt bakgrunn og vilkår for tilbudet,",
+                        "9.verdipapirer som tilbys nåværende eller tidligere ansatte eller styremedlemmer fra arbeidsgiver eller fra annet selskap i samme konsern, forutsatt at verdipapirer av samme klasse er notert på regulert marked og at det foreligger et dokument med opplysninger om type og antall verdipapirer samt bakgrunn og vilkår for tilbudet,",
+                        "10.aksjer som utstedes ved bruk av rettigheter som nevnt i § 1-2 tredje ledd nr. 3, der aksjer i samme klasse er notert på regulert marked,",
+                        "11.verdipapirer som er notert på et annet regulert marked og oppfyller nærmere krav fastsatt av departementet i forskrift."
+                    ]
+                },
+                {
+                    "name": "§ 5-6",
+                    "title": "Dispensasjon",
+                    "sections": [
+                        "Prospektmyndigheten kan i forskrift eller ved enkeltvedtak gjøre unntak fra reglene i dette kapittelet for tilbud om og opptak til notering av",
+                        "1.verdipapirer utstedt av ideelle organisasjoner med sikte på å innhente midler til allmennyttige formål,",
+                        "2.obligasjoner utstedt av fylkeskommune eller kommune eller tilsvarende myndigheter i en annen EØS-stat,",
+                        "3.verdipapirer garantert av fylkeskommune eller kommune, eller tilsvarende myndigheter i en annen EØS-stat,",
+                        "4.ikke-aksjerelaterte verdipapirer utstedt av offentlige internasjonale organer der én eller flere EØS-stater er medlem,",
+                        "5.obligasjoner og pengemarkedsinstrumenter med løpetid på under 12 måneder.",
+                        "Prospektmyndigheten kan i forskrift eller ved enkeltvedtak gjøre unntak fra reglene i dette kapittelet for tilbud om ikke-aksjerelaterte verdipapirer som utstedes fortløpende eller gjentatte ganger av kredittinstitusjoner, og som gjelder et totalbeløp på mindre enn 50 000 000 euro beregnet over en periode på 12 måneder."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III Godkjenning, kontroll, registrering og gjensidig anerkjennelse",
+            "paragraphs": [
+                {
+                    "name": "§ 5-7",
+                    "title": "Godkjenning av EØS-prospekt",
+                    "sections": [
+                        "Med EØS-prospekt menes i dette kapittelet prospekt som gjelder:",
+                        "1.opptak til notering på børs eller autorisert markedsplass,",
+                        "2.tilbud som gjelder beløp på minst 2 500 000 euro beregnet over en periode på 12 måneder,",
+                        "3.tilbud eller opptak til notering som nevnt i § 5-4 nr. 1 og 2 og § 5-5 nr. 2 og 3, forutsatt at det er utarbeidet prospekt etter bestemmelsene i medhold av § 5-13 annet ledd og §§ 5-14 til 5-21,",
+                        "4.tilbud eller opptak til notering av bostadsobligasjoner etter nærmere bestemmelse fastsatt i forskrift, forutsatt at det er utarbeidet prospekt etter bestemmelsene i medhold av § 5-13 annet ledd og §§ 5-14 til 5-21, og",
+                        "5.tilbud som gjelder beløp under 2 500 000 euro, forutsatt at det er utarbeidet prospekt etter bestemmelsene i medhold av § 5-13 annet ledd og §§ 5-14 til 5-21.",
+                        "EØS-prospekt skal være godkjent før prospektet offentliggjøres.",
+                        "EØS-prospekt som gjelder tilbud rettet mot det norske markedet eller opptak til notering på norsk børs eller autorisert markedsplass, skal godkjennes av prospektmyndigheten, med mindre annet følger av denne paragraf eller av § 5-9 om gjensidig anerkjennelse av prospekt.",
+                        "EØS-prospekt utarbeidet av en utsteder med registrert forretningskontor i Norge skal godkjennes av prospektmyndigheten selv om tilbudet bare rettes mot markeder i en annen EØS-stat eller bare gjelder opptak til notering på regulert marked i en annen EØS-stat. En tilbyder eller utsteder kan likevel velge at myndighetene i den EØS-stat hvor tilbudet fremsettes eller opptak til notering søkes, skal godkjenne prospektet dersom prospektet gjelder ikke-aksjerelaterte verdipapirer som:",
+                        "1.har minste pålydende på 1 000 euro eller mer, eller",
+                        "2.gir rett til å kjøpe underliggende verdipapirer eller gir rett til kontantoppgjør.",
+                        "Prospektmyndigheten kan godkjenne prospekt utarbeidet av utstedere med registrert hovedkontor i land utenfor EØS etter de regler som gjelder i dette landet, forutsatt at prospektet er utarbeidet etter internasjonale standarder og opplysningene i prospektet tilsvarer de opplysninger som etter bestemmelsene i dette kapittlet skal gis i EØS-prospekt."
+                    ]
+                },
+                {
+                    "name": "§ 5-8",
+                    "title": "Kontroll av prospekt mv.",
+                    "sections": [
+                        "Prospektmyndigheten skal ved godkjenning av EØS-prospekt påse at prospektet inneholder de opplysninger som kreves etter lov eller forskrift.",
+                        "Departementet kan i forskrift fastsette at prospekter ved tilbud som ikke faller inn under § 5-7 skal sendes prospektmyndigheten for kontroll før prospektet offentliggjøres.",
+                        "Kontrollen av prospekt som gjelder verdipapirer av samme klasse som verdipapirer som er notert på et regulert marked skal avsluttes senest fem arbeidsdager etter at fullstendig prospekt er mottatt av prospektmyndigheten. Det samme gjelder kontrollen av prospekt som gjelder verdipapirer der det tidligere er utarbeidet prospekt etter reglene om tilbud. I andre tilfeller skal kontrollen avsluttes senest ti arbeidsdager etter at fullstendig prospekt er mottatt av prospektmyndigheten.",
+                        "Dersom prospektmyndigheten anser det ulovlig å gjennomføre tilbudet etter annen lov eller forskrift, kan den nedlegge forbud mot at tilbudet gjennomføres.",
+                        "Departementet kan i forskrift fastsette nærmere regler om gjennomføring av prospektkontrollen.",
+                        "Kredittilsynet er prospektmyndighet. Departementet kan bestemme at hele eller deler av Kredittilsynets myndighet etter dette kapittelet skal utøves av en børs."
+                    ]
+                },
+                {
+                    "name": "§ 5-9",
+                    "title": "Gjensidig anerkjennelse av EØS-prospekt",
+                    "sections": [
+                        "EØS-prospekt som er godkjent av kontrollmyndigheten i en annen EØS-stat, skal anses godkjent fra det tidspunktet det foreligger melding fra EØS-staten om at prospektet er utarbeidet i samsvar med direktivet og godkjent av hjemlandets myndighet.",
+                        "Tilbydere med EØS-prospekt godkjent av prospektmyndigheten som skal rette tilbud mot markeder i annen EØS-stat, kan be prospektmyndigheten om å gi melding som nevnt i første ledd til den aktuelle staten. Det samme gjelder i forhold til opptak til notering i en annen EØS-stat. Slik melding skal gis innen tre dager etter at anmodning er mottatt.",
+                        "Bestemmelsene i denne paragrafen gjelder ikke for obligasjoner og pengemarkedsinstrumenter med løpetid på under 12 måneder."
+                    ]
+                },
+                {
+                    "name": "§ 5-10",
+                    "title": "Registrering av prospekt",
+                    "sections": [
+                        "Prospekt som ikke skal godkjennes etter § 5-7 skal sendes Foretaksregisteret for registrering før det offentliggjøres."
+                    ]
+                },
+                {
+                    "name": "§ 5-11",
+                    "title": "Gebyr",
+                    "sections": [
+                        "Prospektmyndigheten kan kreve gebyr til dekning av utgifter ved kontroll som nevnt i § 5-7 og § 5-8 fra den som utarbeider prospekt.",
+                        "Foretaksregisteret kan kreve gebyr av tilbyderen til dekning av utgifter ved registrering som nevnt i § 5-10.",
+                        "Departementet kan i forskrift fastsette nærmere regler om beregning og innkreving av gebyr."
+                    ]
+                },
+                {
+                    "name": "§ 5-12",
+                    "title": "Gyldighet",
+                    "sections": [
+                        "Et godkjent prospekt kan benyttes i 12 måneder etter offentliggjøringen, forutsatt at det utarbeides tillegg i samsvar med § 5-15.",
+                        "Et godkjent grunnprospekt kan benyttes i inntil 12 måneder, eller til perioden for utstedelse av verdipapirene er utløpt, etter nærmere regler fastsatt av departementet i forskrift.",
+                        "Et registreringsdokument kan benyttes i 12 måneder etter at det er godkjent, forutsatt at det er utarbeidet en oversikt over offentliggjort informasjon i samsvar med børsforskriften § 5-2 siste ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV Utforming av prospekt",
+            "paragraphs": [
+                {
+                    "name": "§ 5-13",
+                    "title": "Opplysninger i prospekt",
+                    "sections": [
+                        "Et prospekt skal inneholde de opplysninger som, blant annet med hensyn til særlige forhold hos tilbyderen og arten av de verdipapirene som tilbys, er nødvendige for at investorene skal kunne foreta en velfundert vurdering av utsteders og eventuelle garantisters økonomiske stilling og utsikter og av rettigheter knyttet til de nevnte verdipapirene. Opplysningene i prospekt skal fremstilles i en lett forståelig og analyserbar form. Departementet kan i forskrift fastsette nærmere regler om opplysninger i prospekt.",
+                        "Departementet kan i forskrift fastsette regler for innholdet i EØS-prospekter."
+                    ]
+                },
+                {
+                    "name": "§ 5-14",
+                    "title": "Utforming av prospekt",
+                    "sections": [
+                        "Et prospekt kan utformes som ett eller flere dokumenter. Dersom prospektet utformes som flere separate dokumenter, skal disse benevnes som registreringsdokument, verdipapirdokument og sammendrag. Etter nærmere regler fastsatt i forskrift av departementet, kan et prospekt ved låneprogram utformes som et grunnprospekt.",
+                        "Opplysninger som er offentliggjort og kontrollert etter § 5-7 eller registrert etter § 5-10, kan anses som del av prospektet ved at det henvises til disse. I så fall må det foreligge en referanseliste som viser hvor de relevante opplysningene fremgår. Henvisninger kan ikke gjøres i prospektets sammendrag.",
+                        "Departementet kan i forskrift fastsette nærmere regler om utforming av prospekt."
+                    ]
+                },
+                {
+                    "name": "§ 5-15",
+                    "title": "Tillegg til prospekt",
+                    "sections": [
+                        "Enhver ny omstendighet, vesentlig feil, eller unøyaktighet som kan få betydning for vurderingen av verdipapirene, og som fremkommer mellom tidspunktet for offentliggjøringen av prospektet og tidspunktet for akseptperiodens utløp eller opptaket til notering, skal fremgå av et tillegg til prospektet. Tillegget skal godkjennes i samsvar med § 5-7 og offentliggjøres uten ugrunnet opphold i samsvar med § 5-19."
+                    ]
+                },
+                {
+                    "name": "§ 5-16",
+                    "title": "Utelatelse av visse opplysninger",
+                    "sections": [
+                        "Prospektmyndigheten kan tillate at enkelte opplysninger utelates i et prospekt",
+                        "1.dersom offentliggjøring av opplysningene er i strid med allmenne hensyn,",
+                        "2.dersom offentliggjøring av opplysningene fører til at utstederen blir alvorlig skadelidende, forutsatt at utelatelsen ikke vil kunne virke villedende på offentligheten med hensyn til forhold som er av vesentlig betydning for vurderingen av utstederen, tilbyderen, eventuelle garantister eller verdipapirene,",
+                        "3.dersom opplysningene har liten betydning og ikke kan innvirke på vurderingen av utstederens, tilbyderens og eventuelle garantisters økonomiske stilling og utsikter,",
+                        "4.dersom informasjonen ikke er relevant på bakgrunn av utstederens virksomhet eller juridiske form, eller de aktuelle verdipapirene, og det ikke finnes tilsvarende opplysninger som kan anses relevante på bakgrunn av virksomheten mv."
+                    ]
+                },
+                {
+                    "name": "§ 5-17",
+                    "title": "Språk",
+                    "sections": [
+                        "Prospekt skal utarbeides på norsk, engelsk, svensk eller dansk. Prospektmyndigheten kan kreve at sammendraget oversettes til norsk."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "V Ansvar og offentliggjøring mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 5-18",
+                    "title": "Ansvar",
+                    "sections": [
+                        "Ved tilbud om tegning eller kjøp av aksjer som fremsettes av det selskapet som har utstedt aksjene, er selskapets styre ansvarlig for at prospektet fyller de krav som er fastsatt. Tilsvarende gjelder ved opptak til notering på børs eller autorisert markedsplass.",
+                        "Det skal fremgå av prospektet hvem som er ansvarlig for dette.",
+                        "De som er ansvarlige for prospektet, skal avgi en erklæring om at opplysningene i prospektet så langt de kjenner til er i samsvar med de faktiske forhold, og om at prospektet ikke inneholder villedende eller ufullstendige opplysninger om forhold som er av betydning ved bedømmelsen av spørsmålet om å akseptere tilbudet eller at det i prospektet ikke forekommer utelatelser som er av en slik art at de kan endre prospektets betydningsinnhold."
+                    ]
+                },
+                {
+                    "name": "§ 5-19",
+                    "title": "Offentliggjøring av prospekt mv.",
+                    "sections": [
+                        "Prospekt skal offentliggjøres senest når tilbudsperioden starter eller notering foretas. Ved tilbud om tegning av aksjer i en aksjeklasse som søkes notert for første gang, skal prospektet offentliggjøres senest seks arbeidsdager før tilbudsperiodens utløp.",
+                        "Prospekt kan offentliggjøres ved at det:",
+                        "1.innrykkes i minst én riksdekkende avis,",
+                        "2.stilles vederlagsfritt til disposisjon for allmennheten på tilbyderens forretningskontor eller på markedsplassens forretningskontor og hos verdipapirforetak som plasserer tilbudet,",
+                        "3.gjøres tilgjengelig elektronisk på tilbyderens eller markedsplassens hjemmeside og på hjemmesiden til eventuelle verdipapirforetak som plasserer tilbudet, eller",
+                        "4.gjøres tilgjengelig på prospektmyndighetens hjemmeside.",
+                        "Ved offentliggjøring etter annet ledd nr. 2 til 4, skal det opplyses i en riksdekkende avis hvor prospektet er tilgjengelig.",
+                        "Prospekt i papirformat skal kunne innhentes vederlagsfritt.",
+                        "Akseptblankett kan bare gis ut sammen med fullstendig prospekt.",
+                        "Departementet kan i forskrift fastsette nærmere regler om offentliggjøring av prospekt."
+                    ]
+                },
+                {
+                    "name": "§ 5-20",
+                    "title": "Annonser mv.",
+                    "sections": [
+                        "Dersom det orienteres om tilbud i annonser eller på annen måte, skal det samtidig opplyses at nærmere opplysninger fremgår av prospektet, samt hvor prospektet kan innhentes. Opplysningene skal være i overensstemmelse med opplysningene i prospektet."
+                    ]
+                },
+                {
+                    "name": "§ 5-21",
+                    "title": "Tilbakekall av aksept",
+                    "sections": [
+                        "Dersom prospektet ikke inneholder opplysninger om pris eller fremgangsmåten for prisfastsettelsen, kan aksept av tilbudet tilbakekalles innen to dager etter at endelig pris og antall verdipapirer som tilbys er registrert hos prospektmyndigheten eller i Foretaksregisteret. Departementet kan i forskrift fastsette regler om slik registrering.",
+                        "Dersom det offentliggjøres tillegg som nevnt i § 5-15, kan aksept av tilbudet gjort før tillegget ble offentliggjort tilbakekalles innen to dager etter slik offentliggjøring.",
+                        "§ 14-1 nytt fjerde ledd skal lyde:",
+                        "Ved overtredelse av plikter etter kapittel 5 eller forskrifter fastsatt i medhold av kapittel 5, kan prospektmyndigheten pålegge overtredelsesgebyr eller daglig mulkt etter nærmere regler fastsatt av departementet.",
+                        "§ 14-3 annet ledd nr. 1 skal lyde:",
+                        "1.overtrer § 2-4, § 2-5, § 2-7, § 2-11, §§ 2a-1 til 2a-7, § 3-1, § 5-2, § 5-7, § 5-10, § 6-1 første ledd, § 6-5, § 7-1, § 7-11, §§ 8-2 til 8-8, §§ 9-3 til 9-8, § 11-3, § 12-2, eller § 12-2a, jf. forskrifter gitt i medhold av disse bestemmelsene,",
+                        "§ 14-3 annet ledd nr. 3 skal lyde:",
+                        "3.gir villedende eller uriktige opplysninger i prospekt, annonser mv. som nevnt i § 5-13 og § 5-15,",
+                        "I lov 17. november 2000 nr. 80 om børsvirksomhet m.m. (børsloven) gjøres følgende endringer:",
+                        "§ 5-6 annet ledd oppheves.",
+                        "§ 6-7 annet ledd oppheves.",
+                        "Loven gjelder fra den tid Kongen bestemmer.",
+                        "Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "Departementet kan gi overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

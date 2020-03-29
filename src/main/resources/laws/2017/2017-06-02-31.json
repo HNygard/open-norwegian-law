@@ -1,0 +1,93 @@
+{
+    "lawId": "LOV-2017-06-02-31",
+    "lawName": "Lov om endringer i markedsføringsloven (telefonmarkedsføring mv.)",
+    "shortName": "Endringslov til markedsføringsloven (telefonmarkedsføring mv.)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Hva loven gjelder",
+                    "sections": [
+                        "Når ikke annet er bestemt, gjelder loven kontroll med markedsføring, handelspraksis og avtalevilkår i forbrukerforhold og stiller krav til god forretningsskikk mellom næringsdrivende.",
+                        "§ 12 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Forbud mot telefonmarkedsføring i strid med reservasjon",
+                    "sections": [
+                        "I næringsvirksomhet er det forbudt å rette telefonmarkedsføring mot forbrukere som har reservert seg mot slik markedsføring i Reservasjonsregisteret.",
+                        "I næringsvirksomhet er det forbudt å rette telefonmarkedsføring mot fysiske personer som har reservert seg mot slik markedsføring direkte hos den næringsdrivende.",
+                        "Det er likevel tillatt å rette telefonmarkedsføring mot fysiske personer som har reservert seg etter første eller annet ledd, dersom den fysiske personen har rettet en uttrykkelig anmodning til en bestemt næringsdrivende om å motta slik markedsføring fra den næringsdrivende. Anmodningen kan når som helst trekkes tilbake.",
+                        "Det er også tillatt å rette telefonmarkedsføring mot forbrukere som har reservert seg mot slik markedsføring i Reservasjonsregisteret, dersom det foreligger et eksisterende kunde- eller giverforhold og der den næringsdrivende har mottatt forbrukerens kontaktopplysninger i forbindelse med salg eller innsamling. Slik markedsføring kan bare gjelde næringsdrivendes egne ytelser tilsvarende dem som kunde- eller giverforholdet bygger på.",
+                        "For frivillige organisasjoner skal et eksisterende giverforhold også anses å foreligge dersom giveren etter første bidrag har samtykket til eller bedt om å bli kontaktet ved en senere anledning, eller giveren innenfor en treårsperiode har ytet sporadiske bidrag.",
+                        "§ 13 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Forbud mot markedsføring ved adressert post i strid med reservasjon",
+                    "sections": [
+                        "I næringsvirksomhet er det forbudt å rette markedsføring ved adressert post mot forbrukere som har reservert seg mot slik markedsføring i Reservasjonsregisteret.",
+                        "I næringsvirksomhet er det forbudt å rette markedsføring ved adressert post mot fysiske personer som har reservert seg mot slik markedsføring direkte hos den næringsdrivende.",
+                        "Det er likevel tillatt å rette markedsføring ved adressert post mot fysiske personer som har reservert seg etter første eller annet ledd, dersom den fysiske personen har rettet en uttrykkelig anmodning til næringsdrivende om å motta slik markedsføring fra den næringsdrivende. Anmodningen kan når som helst trekkes tilbake.",
+                        "Det er også tillatt å rette markedsføring ved adressert post mot forbrukere som har reservert seg mot slik markedsføring i Reservasjonsregisteret, dersom det foreligger et eksisterende kunde- eller giverforhold der den næringsdrivende har mottatt forbrukerens kontaktopplysninger i forbindelse med salg eller innsamling. Slik markedsføring kan bare gjelde næringsdrivendes egne ytelser tilsvarende dem som kunde- eller giverforholdet bygger på.",
+                        "Ny § 13 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 13 a",
+                    "title": "Felles regler for reservasjon mot telefonmarkedsføring og markedsføring ved adressert post",
+                    "sections": [
+                        "Reservasjonsregisteret skal legge til rette for at forbrukere skal kunne velge å reservere seg kun mot markedsføring fra andre enn frivillige organisasjoner.",
+                        "Næringsdrivende skal oppdatere sitt adresseregister mot Reservasjonsregisteret før første gangs henvendelse og før henvendelse den måned markedsføring utføres.",
+                        "Næringsdrivende skal sørge for at fysiske personer enkelt og gebyrfritt skal kunne reservere seg mot markedsføring direkte hos den næringsdrivende.",
+                        "Departementet kan ved forskrift gi nærmere regler om Reservasjonsregisteret og direkte reservasjon hos den næringsdrivende.",
+                        "§ 14 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Forbud mot telefonmarkedsføring på enkelte tidspunkter og å ringe fra skjult telefonnummer mv.",
+                    "sections": [
+                        "I næringsvirksomhet er det forbudt å rette telefonmarkedsføring til forbrukere på lørdager, helgedager eller dager som i lov er likestilt med helgedager, og på virkedager før kl. 09.00 og etter kl. 21.00.",
+                        "I næringsvirksomhet er det forbudt å rette telefonmarkedsføring til forbrukere fra skjult telefonnummer og fra telefonnummer som ikke er registrert og søkbart i nummeropplysningstjenestene.",
+                        "§ 16 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Opplysningsplikt ved uanmodet telefonmarkedsføring og markedsføring ved adressert post",
+                    "sections": [
+                        "Ved uanmodet telefonmarkedsføring eller markedsføring ved adressert post skal den næringsdrivende opplyse hvem som har gitt personopplysningene som ligger til grunn for henvendelsen. Der det er relevant, skal den næringsdrivende informere om retten til å reservere seg i Reservasjonsregisteret og direkte hos den næringsdrivende.",
+                        "Ved uanmodet telefonmarkedsføring til forbrukere skal den næringsdrivende straks presentere seg og opplyse om at henvendelsen skjer i markedsføringshensikt. Dersom henvendelsen skjer på vegne av en annen, skal dette opplyses.",
+                        "Ny § 16 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 16 a",
+                    "title": "Særskilt om frivillige organisasjoners virksomhet som ikke skjer i næring",
+                    "sections": [
+                        "Der frivillige organisasjoners virksomhet ikke reguleres av lovens alminnelige regler, gjelder følgende:",
+                        "a)Fysiske personer kan reservere seg mot frivillige organisasjoners innsamlinger. Reglene for telefonmarkedsføring og markedsføring ved adressert post i § 12, § 13, § 13 a annet til fjerde ledd, § 14 og § 16 gjelder tilsvarende for frivillige organisasjoners innsamlinger.",
+                        "b)Det er forbudt for frivillige organisasjoner å sende en forespørsel om økonomisk støtte til fysiske personer som er egnet til å bli oppfattet som et krav om betaling.",
+                        "Departementet kan ved forskrift gi nærmere regler om utformingen av forespørsler om å gi økonomisk støtte.",
+                        "§ 43 første ledd skal lyde:",
+                        "Ved forsettlig eller uaktsom overtredelse av forskrift gitt i medhold av § 6 femte ledd, § 10, forskrift gitt i medhold av § 10, § 11, § 12, § 13, § 13 a, § 14 første ledd, § 15, § 16, § 16 a første ledd bokstav a, § 17, § 18 første ledd eller § 20 annet ledd, som enten anses som vesentlig eller har skjedd gjentatte ganger, kan det fastsettes et overtredelsesgebyr som den som vedtaket retter seg mot, skal betale.",
+                        "§ 48 første ledd skal lyde:",
+                        "Den som vesentlig overtrer § 6 fjerde ledd jf. første ledd, forskrift gitt i medhold av § 6 femte ledd, § 11, § 12, § 13, § 15, § 16 a første ledd bokstav a, jf. § 12 og § 13, § 20 annet ledd, § 26, § 27, § 28, § 29 eller § 30, straffes med bøter, fengsel inntil 6 måneder eller begge deler dersom ikke strengere straffebestemmelse kommer til anvendelse.",
+                        "1.Loven gjelder fra den tid Kongen bestemmer.",
+                        "2.Departementet kan gi nærmere overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

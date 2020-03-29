@@ -1,0 +1,316 @@
+{
+    "lawId": "LOV-2015-05-07-25",
+    "lawName": "Lov om donasjon og transplantasjon av organ, celler og vev (transplantasjonslova)",
+    "shortName": "Transplantasjonslova",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1 Formål, verkeområde, definisjonar og ansvar",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med lova er å sikre best mogeleg tilgang på organ, celler og vev til behandling av andre menneske, respekt for vilja og integriteten til donor og at omsynet til dei pårørande blir varetatt."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Verkeområde",
+                    "sections": [
+                        "Lova gjeld for donasjon, testing, karakterisering, uttak, preservering, transport og transplantasjon av levande humane organ, celler og vev frå ein levande eller død donor med sikte på behandling av sjukdom eller skade hos eit anna menneske. Lova gjeld ikkje for blod, blodkomponentar, blodprodukt og vev som blir brukt i samband med forplanting (germinalt vev) og humane organ, celler og vev som berre blir brukt i forsking.",
+                        "Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde for Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Definisjonar",
+                    "sections": [
+                        "I denne lova meines med:",
+                        "a)uttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjon",
+                        "b)donor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er død",
+                        "c)fornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organ",
+                        "d)pårørande og næraste pårørande: pårørande og næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Ansvaret for donasjons- og transplantasjonsverksemdene",
+                    "sections": [
+                        "Dei regionale helseføretaka skal sørge for at alle potensielle donorar kan vurderast og gjevast mogelegheit for donasjon innan helseregionen, og for at krava i lova og forskriftene etter lova her blir oppfylte.",
+                        "Departementet kan gi forskrift om krav til verksemder som gjennomfører uttak eller transport av organ, celler og vev og transplantasjonar, mellom anna om godkjenning og rapporteringsplikt for verksemdene. Departementet kan gi forskrift om registrering og anna behandling av helseopplysingar og andre personopplysingar som er nødvendige for å gjennomføre uttak eller transport av organ, celler og vev og transplantasjonar."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Donasjon frå levande donor",
+            "paragraphs": [
+                {
+                    "name": "§ 5",
+                    "title": "Uttak frå levande donor",
+                    "sections": [
+                        "Uttak av organ, celler og vev kan berre finne stad dersom inngrepet ikkje fører til ein nærliggande fare for den fysiske eller psykiske helsa til donoren.",
+                        "Uttak av organ, celler og vev frå personar mellom 12 og 18 år kan berre finne stad når det ligg føre særlege grunnar. I vurderinga av om det ligg føre særlege grunnar skal det mellom anna leggjast vekt på om:",
+                        "a)transplantasjon er nødvendig for å redde livet til mottakaren,",
+                        "b)det finst nokon annan aktuell donor,",
+                        "c)donoren har sterk tilknyting til mottakar,",
+                        "d)uttaket inneber eit stort inngrep,",
+                        "e)uttaket berre gjeld fornybart vev, jf. § 3 bokstav c, og om",
+                        "f)donoren er moden nok til å skjønne kva inngrepet inneber.",
+                        "Uttak frå barn under 12 år og vaksne som ikkje har samtykkekompetanse, kan berre finne stad dersom:",
+                        "a)uttaket gjeld fornybart vev, jf. § 3 bokstav c,",
+                        "b)donasjonen er nødvendig for å redde livet til mottakaren,",
+                        "c)det ikkje finst ein donor med samtykkekompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), og",
+                        "d)mottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.",
+                        "Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har samtykkekompetanse."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Hovudregel om samtykke",
+                    "sections": [
+                        "Det blir kravd skriftleg samtykke til uttak av organ, celler og vev frå levande donor. Samtykket skal også omfatte behandling av helseopplysingar og andre personopplysingar som er nødvendige for å gjennomføre donasjonar og transplantasjonar.",
+                        "Samtykke kan trekkjast tilbake.",
+                        "Departementet kan gi forskrift om krav til samtykket."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Kven som har rett til å samtykke (samtykkekompetanse) til donasjon frå ein levande donor",
+                    "sections": [
+                        "Personar som har fylt 18 år, har rett til å samtykke til donasjon. Pasient- og brukerrettighetsloven § 4-3 andre til fjerde ledd om heilt eller delvis bortfall av samtykkekompetanse gjeld tilsvarande.",
+                        "For personar som ikkje har fylt 18 år, har foreldra, eller andre med foreldreansvaret etter barnelova, rett til å samtykke til donasjon. Donasjon kan ikkje finne stad dersom foreldra er usamde.",
+                        "For personar som har mista samtykkekompetansen etter pasient- og brukerrettighetsloven § 4-3 andre ledd, har næraste pårørande, jf. § 3 bokstav d, rett til å samtykke til donasjon.",
+                        "For personar som er fråtatt den rettslege handleevna etter vergemålsloven § 22 tredje ledd, gjeld pasient- og brukerrettighetsloven § 4-7 tilsvarande.",
+                        "Samtykke etter andre til fjerde ledd må godkjennast av fylkesmannen.",
+                        "For at samtykket skal vere gyldig, må donoren og den som har samtykkekompetansen ha fått informasjon om helsetilstanden til donoren og om inngrepet, under dette om omfanget og konsekvensane av det. Informasjonen skal vere tilpassa dei individuelle føresetnadene til mottakaren, som alder, kor moden donoren er, erfaring og kultur- og språkbakgrunn. Den som gir informasjonen skal forsikre seg om at donoren og den som har rett til å samtykke har forstått informasjonen."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Habilitet ved vurderinga av om ein levande donor er eigna",
+                    "sections": [
+                        "Den som har ansvaret for behandlinga av ein pasient som treng å få transplantert organ, celler eller vev, kan ikkje aleine gjennomføre vurderinga av om donoren er eigna."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Krav til utgreiing og oppfølging av levande donorar",
+                    "sections": [
+                        "Donoren har rett til å få nødvendig medisinsk og psykologisk utgreiing før det blir gitt samtykke til donasjon.",
+                        "Den som donerer organ, celler eller vev i eit omfang som gir, eller kan gi, konsekvensar for helsa av fysisk eller psykisk art, har rett til å få medisinsk oppfølging etter ein fastsett plan.",
+                        "Departementet kan gi forskrift om medisinsk oppfølging av donorar."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Donasjon frå død donor",
+            "paragraphs": [
+                {
+                    "name": "§ 10",
+                    "title": "Stadfesting av døden",
+                    "sections": [
+                        "Uttak, jf. § 3 bokstav a, frå ein død donor kan ikkje skje før døden er stadfesta av lege.",
+                        "Legar som stadfestar døden, skal ikkje vere involvert i uttaket av organ, celler eller vev eller i transplantasjonsinngrepet.",
+                        "Dersom døden blir stadfesta ved irreversibelt opphøyr av hjernefunksjonane, må diagnosen bekreftast av to legar. Den eine av legane skal vere relevant spesialist.",
+                        "Departementet kan gi forskrift om stadfesting av døden."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Vurdering av om ein pasient kan vere aktuell som donor",
+                    "sections": [
+                        "Når døden er konstatert, eller når det er svært sannsynleg at døden vil inntreffe innan kort tid og vidare livreddande behandling er formålslaus, skal det vurderast om pasienten kan vere aktuell som donor."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Behandling med sikte på donasjon",
+                    "sections": [
+                        "Når livreddande behandling er formålslaus, og det er svært sannsynleg at pasienten vil døy innan kort tid, kan legen som er ansvarleg for behandlinga av pasienten, ta avgjerd om at det skal gjevast behandling med sikte på donasjon. Behandling etter første punktum kan ikkje gjevast dersom ein av dei næraste pårørande, jf. § 3 bokstav d, nektar.",
+                        "Den behandlande legen skal, i samråd med næraste pårørande til pasienten, ta avgjerd om kor lenge det skal gjevast behandling med sikte på donasjon. Behandlinga må uansett avsluttast når det er avklart at vilkåra for donasjon ikkje er til stades.",
+                        "Departementet kan gi forskrift om behandling med sikte på donasjon."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Samtykke frå avdøde og næraste pårørande sin rett til å nekte donasjon",
+                    "sections": [
+                        "Personar som har fylt 16 år, har rett til å samtykke til at donasjon av organ, celler og vev kan gjennomførast etter at dei er døde. Når avdøde har gitt samtykke, kan pårørande ikkje nekte donasjon.",
+                        "Når den døde ikkje har gitt eit samtykke, kan donasjon gjennomførast dersom det ikkje ligg føre forhold som tilseier at den døde ville ha motsett seg. Dei pårørande til den døde skal spørjast om det ligg føre slike forhold. Donasjon kan likevel ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar. Donasjon kan heller ikkje gjennomførast dersom det ikkje er mogeleg å få kontakt med dei pårørande eller når avdøde ikkje har pårørande.",
+                        "For personar som ikkje har fylt 16 år, har foreldra, eller andre med foreldreansvaret etter barnelova, rett til å samtykke til donasjon etter at dei er døde. Donasjon kan ikkje finne stad dersom foreldra er usamde. Dersom ingen har foreldreansvaret, har verja, eller næraste pårørande til den døde dersom det ikkje er oppnemnd verje, rett til å samtykke til donasjon."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Informasjon til næraste pårørande",
+                    "sections": [
+                        "Næraste pårørande til den døde skal underrettast om dødsfallet, det planlagde uttaket, jf. § 3 bokstav a, og om retten til å nekte donasjon før donasjonen blir gjennomført.",
+                        "Næraste pårørande skal få tilpassa informasjon om kva donasjonen inneber."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Mogelegheit for å ta avskjed med donor",
+                    "sections": [
+                        "Pårørande skal, så sant det lar seg gjere, få tid til å ta avskjed med donor før uttaket, jf. § 3 bokstav a, startar."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4 Fellesreglar",
+            "paragraphs": [
+                {
+                    "name": "§ 16",
+                    "title": "Tildeling av organ, celler og vev",
+                    "sections": [
+                        "Tildeling av organ, celler og vev til transplantasjon skal byggje på medisinske kriterium. Ved donasjon frå levande donor kan det i tillegg leggjast vekt på at mottakar er donors nærståande."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Anonymitet mellom partane i donasjonsprosessen",
+                    "sections": [
+                        "Donor og dei pårørande til donor og mottakar av organ, celler eller vev som ikkje kjenner kvarandre frå før, skal ikkje gjerast kjent med identiteten til kvarandre.",
+                        "Departementet kan gi forskrift om korleis anonymiteten skal varetakast."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Kompensasjon for utgifter og tapte inntekter i samband med donasjon",
+                    "sections": [
+                        "Alle utgifter og tap av inntekter som ein levande donor eller næraste pårørande til ein død donor pådrar seg som følje av donasjonen, skal kompenserast av det regionale helseføretaket. Dette gjeld likevel ikkje dersom utgiftene blir dekt etter anna regelverk."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Forbod mot transplantasjon frå dyr til menneske (xenotransplantasjon)",
+                    "sections": [
+                        "Det er forbode å transplantere levande biologisk materiale frå dyr til menneske."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Forbod mot kommersiell utnytting",
+                    "sections": [
+                        "Alle handlingar som har til hensikt å oppnå økonomisk vinning som følgje av donasjon av organ, celler eller vev til transplantasjon, er forbode. Det same gjeld alle handlingar som medverkar til at nokon mottek slik økonomisk vinning."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Framtidsfullmakt",
+                    "sections": [
+                        "Framtidsfullmakter etter vergemålsloven kapittel 10 kan omfatte samtykke til og rett til å nekte donasjon av organ, celler og vev."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Forholdet til forvaltningsloven og klagereglane i pasient- og brukerrettighetsloven",
+                    "sections": [
+                        "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. For avgjerder etter §§ 9 og 18 gjeld pasient- og brukerettighetsloven kapittel 7."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Pålegg, sanksjonar og straff",
+                    "sections": [
+                        "Spesialisthelsetjenesteloven §§ 7-1 og 7-2 gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova.",
+                        "Den som forsettleg eller grovt aktlaust bryt eller medverkar til å bryte reglar i lova her eller i medhald av ho, straffast med bøter eller fengsel i inntil tre månader.",
+                        "Offentleg påtale finn stad dersom allmenne omsyn krev det, eller etter krav frå Statens helsetilsyn."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Sluttføresegner",
+            "paragraphs": [
+                {
+                    "name": "§ 24",
+                    "title": "Endringar i andre lover",
+                    "sections": [
+                        "Frå den tida lova tek til å gjelde, skal desse endringane gjerast:",
+                        "I lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. skal nytt kapittel 4A lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4A Bruk av fostervev",
+            "paragraphs": [
+                {
+                    "name": "§ 4A-1 ",
+                    "title": "§ 4A-1. Definisjon",
+                    "sections": [
+                        "Med fostervev forstås i denne lov celler og vev fra provosertaborterte fostre."
+                    ]
+                },
+                {
+                    "name": "§ 4A-2 ",
+                    "title": "§ 4A-2. Bruk av fostervev",
+                    "sections": [
+                        "Fostervev kan bare brukes til medisinsk forskning, diagnostikk, fremstilling av vaksine og behandling.",
+                        "Bruk av fostervev til behandling er bare tillatt i de tilfeller hvor det foreligger alvorlig sykdom eller skade og andre behandlingsformer har begrenset effekt. Bruk av fostervev til medisinsk forskning, diagnostikk og fremstilling av vaksine er bare tillatt dersom det ikke finnes andre likeverdige metoder.",
+                        "Det er forbudt å bruke eggstokkvev fra provosertaborterte fostre til transplantasjon.",
+                        "Kommersiell utnytting av celler og vev fra aborterte fostre er forbudt."
+                    ]
+                },
+                {
+                    "name": "§ 4A-3 ",
+                    "title": "§ 4A-3. Godkjenning",
+                    "sections": [
+                        "Bruk av fostervev til behandling og forskning skal godkjennes av departementet."
+                    ]
+                },
+                {
+                    "name": "§ 4A-4 ",
+                    "title": "§ 4A-4. Samtykke",
+                    "sections": [
+                        "Skriftlig samtykke fra kvinnen skal foreligge før fostervev kan avgis til en fostervevsbank.",
+                        "Først etter at beslutningen om svangerskapsavbrudd er tatt, kan kvinnen informeres om mulig bruk av fostervevet. Samtykke kan bare gyldig avgis etter at slik informasjon er gitt."
+                    ]
+                },
+                {
+                    "name": "§ 4A-5 ",
+                    "title": "§ 4A-5. Fostervevsbank",
+                    "sections": [
+                        "All innsamling, lagring og utlevering av fostervev skal foretas av en fostervevsbank. Fostervevsbanker skal godkjennes av departementet.",
+                        "Departementet kan i forskrift gi utfyllende regler om fostervevsbankers innsamling, lagring og utlevering av fostervev."
+                    ]
+                },
+                {
+                    "name": "§ 4A-6 ",
+                    "title": "§ 4A-6. Anonymitet",
+                    "sections": [
+                        "Kvinnen skal ikke gis opplysninger om identiteten til den som mottar fostervevet.",
+                        "Den som mottar fostervev skal ikke gis opplysninger om identiteten til kvinnen som har avgitt fostervevet."
+                    ]
+                },
+                {
+                    "name": "§ 4A-7 ",
+                    "title": "§ 4A-7. Informasjon",
+                    "sections": [
+                        "Enhver som mottar fostervev ved transplantasjon skal informeres om at vevet stammer fra provosertaborterte fostre."
+                    ]
+                },
+                {
+                    "name": "§ 4A-8 ",
+                    "title": "§ 4A-8. Reservasjonsrett",
+                    "sections": [
+                        "Helsepersonell som av samvittighetsgrunner ønsker det, kan reservere seg mot å delta i forskningsprosjekter hvor fostervev benyttes og å utføre eller assistere ved transplantasjon av fostervev.",
+                        "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. opphevast."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Iverksetjing",
+                    "sections": [
+                        "Lova gjeld frå den tida Kongen fastset. Kongen kan setje i verk dei einskilde føresegnene til ulik tid."
+                    ]
+                }
+            ]
+        }
+    ]
+}

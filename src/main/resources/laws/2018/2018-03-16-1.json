@@ -1,0 +1,32 @@
+{
+    "lawId": "LOV-2018-03-16-1",
+    "lawName": "Lov om endringer i barnehageloven (krav til norskspråklig kompetanse)",
+    "shortName": "Endringslov til barnehageloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 18 a",
+                    "title": "Krav om norskferdigheter for å bli ansatt i barnehage",
+                    "sections": [
+                        "For å bli fast eller midlertidig ansatt i barnehage må personer med et annet førstespråk enn norsk eller samisk ha avlagt en norskprøve og ha oppnådd nivå A2 på delprøven i skriftlig framstilling og nivå B1 på delprøvene i leseforståelse, lytteforståelse og muntlig kommunikasjon. Nivåene A2 og B1 skal tilsvare nivåene beskrevet i Det felles europeiske rammeverket for språk.",
+                        "Kravet om norskprøve etter første ledd gjelder ikke for",
+                        "a)stillinger som styrer eller pedagogisk leder",
+                        "b)stillinger i barnehager som gir et tilbud på et annet språk enn norsk",
+                        "c)personer som har gjennomført opplæring i norsk i grunnskolen eller på videregående skole og fått bestått karakter i faget",
+                        "d)personer som har minst fem års relevant arbeidserfaring fra en norskspråklig barnehage eller skole",
+                        "e)personer som har svensk eller dansk som førstespråk.",
+                        "Dersom det er pedagogisk forsvarlig, kan barnehageeier ansette personer som ikke oppfyller kravet til norskprøve.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

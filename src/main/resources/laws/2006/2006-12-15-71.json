@@ -1,0 +1,31 @@
+{
+    "lawId": "LOV-2006-12-15-71",
+    "lawName": "Lov om endringer i lov 21. november 1952 nr. 2 om betaling og innkreving av skatt",
+    "shortName": "Endringslov til skattebetalingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 21",
+                    "title": "Forskottsskatt kan innbetales med høyere beløp enn det som er utskrevet når den utskrevne forskottsskatt må antas å bli utilstrekkelig til dekning av den skatt som vil bli fastsatt ved likningen. Innbetaling som her nevnt kan foretas også etter utløpet av inntektsåret, men ikke senere enn 31. mai i det år ligningen foretas. For skattytere som får utskrevet forhåndsutfylt selvangivelse etter ligningsloven § 4-7 nr. 2, er fristen for betaling av tilleggsforskudd 30. april.",
+                    "sections": [
+                        "§ 27 nr. 4 skal lyde:",
+                        "4.Forhåndsskatt kan innen 31. mai innbetales med et høyere beløp enn det som er utskrevet når dette anses utilstrekkelig til å dekke den skatt som vil bli utliknet.",
+                        "Endringene under I trer i kraft straks.",
+                        "Endringene under II trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "lawId": "LOV-2003-04-11-22",
+    "lawName": "Lov om endring i samelova m.m",
+    "shortName": "Endringslov til sameloven og flaggingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 1-6",
+                    "title": "Det samiske flagget",
+                    "sections": [
+                        "Det samiske flagget er flagget godkjent av den 13. nordiske samekonferansen 15. august 1986.",
+                        "Sametinget kan ved forskrift gi nærmere bestemmelser om bruken av det samiske flagget.",
+                        "Denne lova trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "lawId": "LOV-2014-06-20-45",
+    "lawName": "Lov om endringer i tinglysingsloven mv. (elektronisk tinglysing)",
+    "shortName": "Endringslov til tinglysingsloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 6-4",
+                    "title": "Registreringstidspunktet",
+                    "sections": [
+                        "(1) Eit rettserverv skal registrerast når krav om registrering kjem inn. Departementet fastset i forskrift eit klokkeslett for når eit rettserverv som ikkje er sendt inn elektronisk, skal reknast som registrert etter lova her.",
+                        "§ 6-5 annet ledd skal lyde:",
+                        "(2) Kolliderer fleire registrerte rettserverv, blir rekkjefølgja avgjord etter tidspunktet for registreringa. Rettserverv som er registrerte samtidig, er likestilte.",
+                        "§ 6-5 nytt tredje ledd skal lyde:",
+                        "(3) Utlegg og arrest går framom andre rettsstiftingar som er registrerte same dagen. Er fleire utlegg registrerte same dagen, går det eldste først.",
+                        "§ 6-17 annet ledd oppheves.",
+                        "1.Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.",
+                        "2.For pantattest som er utstedt før lovens ikrafttredelse, gjelder reglene i tinglysingsloven § 35 og burettslagslova § 6-17 annet ledd slik bestemmelsene lød før ikrafttredelsen av loven her.",
+                        "3.Departementet kan gi nærmere overgangsbestemmelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

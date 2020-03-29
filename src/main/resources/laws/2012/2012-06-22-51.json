@@ -1,0 +1,54 @@
+{
+    "lawId": "LOV-2012-06-22-51",
+    "lawName": "Lov om endringer i utlendingsloven (innhenting av opplysninger fra offentlige organer mv.)",
+    "shortName": "Endringslov til utlendingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 84",
+                    "title": "Opplysningsplikt og unntak fra taushetsplikt for offentlige organer",
+                    "sections": [
+                        "Dersom det organet som behandler en sak etter loven her, anser det som nødvendig for opplysning av saken, kan organet, uten hinder av taushetsplikt, pålegge følgende organer å utlevere opplysninger om utlendinger eller andre loven gjelder for:",
+                        "a)barnevernsmyndighetene,",
+                        "b)kommunene i tilknytning til introduksjonsprogrammet,",
+                        "c)Statens lånekasse for utdanning,",
+                        "d)arbeids- og velferdsforvaltningen,",
+                        "e)ligningsmyndighetene, og",
+                        "f)politiet.",
+                        "Kongen skal i forskrift gi nærmere regler om hvilke organer som kan be om opplysninger etter første ledd, i hvilke sakstyper det kan innhentes opplysninger, hvem det kan innhentes opplysninger om og hvilke opplysninger som kan innhentes.",
+                        "Ny § 84 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 84 a",
+                    "title": "Behandling av opplysninger i saker om retur",
+                    "sections": [
+                        "Utlendingsmyndighetene kan registrere, sammenstille og lagre personopplysninger, herunder sensitive personopplysninger, jf. personopplysningsloven § 2 nr. 8, i saker om retur. Dette gjelder også opplysninger som myndighetene har fra tidligere saksbehandling.",
+                        "§ 85 overskriften skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 85",
+                    "title": "Vandelsopplysninger i sak om familieinnvandring, jf. § 40 femte ledd og § 48",
+                    "sections": [
+                        "§ 86 overskriften skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 86",
+                    "title": "Vandelsopplysninger i sak om visum, jf. § 10 fjerde ledd",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

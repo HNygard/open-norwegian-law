@@ -1,0 +1,95 @@
+{
+    "lawId": "LOV-2009-06-19-49",
+    "lawName": "Lov om endringer i ligningsloven mv. (tilleggsskatt)",
+    "shortName": "Endringslov til ligningsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 10-1",
+                    "title": "Forsinkelsesavgift",
+                    "sections": [
+                        "1.Skattyter som leverer selvangivelse, næringsoppgave eller pliktig selskapsoppgave med vedlegg etter leveringsfristen, men før tidspunktet for utlegg av skattelisten, skal svare en forsinkelsesavgift. Avgiften fastsettes på grunnlag av den samlede formue og inntekt ved ligningen. Avgiften skal være",
+                        "a)1 promille av nettoformuen og",
+                        "b)2 promille av nettoinntekten når forsinkelsen ikke er over én måned,",
+                        "c)1 prosent av nettoinntekten når forsinkelsen er over én måned eller",
+                        "d)2 prosent av nettoinntekten når forsinkelsen er over tre måneder regnet fra de leveringsfrister som følger av § 4-7 og svalbardskatteloven § 4-4.",
+                        "2.Avgiften skal ikke settes lavere enn 200 kroner og skal når forsinkelsen ikke er over én måned, begrenses oppad til 10 000 kroner. Er forsinkelsen over én måned, begrenses avgiften oppad til 15 000 kroner.",
+                        "3.Reglene under nr. 1 og nr. 2 kommer ikke til anvendelse når skattyterens forhold må anses unnskyldelig på grunn av sykdom, alderdom, uerfarenhet eller annen årsak.",
+                        "4.Avgiften tilfaller statskassen.",
+                        "§§ 10-2 til 10-5 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 10-2",
+                    "title": "Tilleggsskatt",
+                    "sections": [
+                        "1.Skattyter som har gitt ligningsmyndighetene uriktige eller ufullstendige opplysninger, eller som har unnlatt pliktig levering av selvangivelse eller næringsoppgave, ilegges tilleggsskatt når opplysningssvikten har ført til eller kunne ha ført til skattemessige fordeler. Som unnlatt levering av selvangivelse eller næringsoppgave, regnes levering etter tidspunktet for utlegg av skattelistene, jf. § 8-8.",
+                        "2.Før tilleggsskatt fastsettes, skal skattyter gis et varsel med minst tre ukers frist for å uttale seg.",
+                        "3.Tilleggsskatt kan fastsettes samtidig med utligningen av den skatt den skal beregnes av, eller ved en senere særskilt fastsetting. Tilleggsskatt kan ikke ilegges utenfor fristene i § 9-6."
+                    ]
+                },
+                {
+                    "name": "§ 10-3",
+                    "title": "Unntak fra tilleggsskatt",
+                    "sections": [
+                        "1.Tilleggsskatt fastsettes ikke når skattyters forhold må anses unnskyldelig på grunn av sykdom, alderdom, uerfarenhet eller annen årsak.",
+                        "2.Tilleggsskatt fastsettes heller ikke",
+                        "a)av riktige og fullstendige opplysninger som er forhåndsutfylt i selvangivelsen,",
+                        "b)når de uriktige eller ufullstendige opplysningene skyldes åpenbare regne- eller skrivefeil,",
+                        "c)når skattyter frivillig retter eller utfyller opplysninger som er gitt eller lagt til grunn tidligere, slik at det kan beregnes riktig skatt. Dette gjelder ikke hvis rettingen kan anses fremkalt ved kontrolltiltak som er eller vil bli satt i verk, eller ved opplysninger som ligningsmyndighetene har fått fra andre. Tidligere ilagt tilleggsskatt faller ikke bort.",
+                        "d)når tilleggsskatten i alt vil bli under 600 kroner, eller",
+                        "e)når skattyter er død."
+                    ]
+                },
+                {
+                    "name": "§ 10-4",
+                    "title": "Sats og beregningsgrunnlag for tilleggsskatt",
+                    "sections": [
+                        "1.Tilleggsskatt beregnes med 30 prosent av den skatt som er eller kunne vært unndratt.",
+                        "2.Formues- og inntektstillegg som gir grunn for å anvende tilleggsskatt, anses å utgjøre den øverste del av skattyters formue og inntekt.",
+                        "3.Har skattyter et skattemessig underskudd, beregnes tilleggsskatten av den skatt som ville blitt utlignet på grunnlag av den unndratte formue eller inntekt. Det samme gjelder når den utlignede skatt er lavere enn den skatt som ville blitt utlignet på grunnlag av den unndratte formue eller inntekt.",
+                        "4.Ved tidfestingsfeil beregnes tilleggsskatten av nettofordelen ved den utsatte beskatningen. Tidfestingsfeil foreligger i denne sammenheng når",
+                        "a)de uriktige eller ufullstendige opplysningene har ført til en skattebesparelse som uten at det er nødvendig med nye opplysninger fra skattyter, ville ha ført til en tilsvarende skattebyrde i senere inntektsår,",
+                        "b)skattyter selv har inntektsført inntekten eller unnlatt å fradragsføre kostnaden i senere inntektsår, før ligningsmyndighetene har tatt opp forholdet, eller",
+                        "c)ligningsmyndighetene har tatt opp forholdet, men skattyter sannsynliggjør at inntekten uansett ville blitt inntektsført eller kostnaden fradragsført i senere inntektsår."
+                    ]
+                },
+                {
+                    "name": "§ 10-5",
+                    "title": "Skjerpet tilleggsskatt",
+                    "sections": [
+                        "1.Skattyter som forsettlig eller grovt uaktsomt har gitt ligningsmyndighetene uriktige eller ufullstendige opplysninger, eller som har unnlatt pliktig levering av selvangivelse eller næringsoppgave, og som forsto eller burde forstått at dette kunne ha ført til skattemessige fordeler, ilegges skjerpet tilleggsskatt. Skjerpet tilleggsskatt kan bare ilegges i tillegg til tilleggsskatt etter § 10-2. § 10-3 nr. 2 gjelder tilsvarende.",
+                        "2.Skjerpet tilleggsskatt kan fastsettes i eget vedtak samtidig med eller etter fastsetting av tilleggsskatt. § 10-2 nr. 2 og nr. 3 annet punktum gjelder tilsvarende.",
+                        "3.Skjerpet tilleggsskatt beregnes med 30 eller 15 prosent av den skatt som er eller kunne vært unndratt. § 10-4 nr. 2 til 4 gjelder tilsvarende.",
+                        "4.Skal skattyter for samme år svare skjerpet tilleggsskatt etter forskjellige satser, fordeles den skatt som skjerpet tilleggsskatt skal beregnes av, forholdsmessig etter størrelsen på den formue eller inntekt som de ulike satser skal anvendes på.",
+                        "I lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) gjøres følgende endring:",
+                        "§ 24-4 tredje ledd annet punktum skal lyde:",
+                        "For et slikt vedtak gjelder ligningsloven kapittel 9 om saksbehandling, §§ 10-2 til 10-5 om tilleggsskatt, og § 11-2 om søksmål fra det offentlige.",
+                        "Endringene under I trer i kraft 1. januar 2010.",
+                        "Endringene under II trer i kraft 1. januar 2010, men likevel slik at reglene gjelder tilsvarende for enhver som i løpet av de siste ti år er ilagt tilleggsskatt etter § 10-4 nr. 1 annet punktum.",
+                        "Endringene under III og IV trer i kraft 1. januar 2010 med virkning for saker som er tatt opp ved varsel om tilleggsskatt etter utgangen av 2009. For saker med tidligere varsel gjelder de tidligere regler. Det samme gjelder saker der opplysningssvikten er begått før 2010, for så vidt samlet tilleggsskatt hadde blitt høyere etter de nye reglene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        }
+    ]
+}

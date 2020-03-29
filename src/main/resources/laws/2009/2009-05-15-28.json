@@ -1,0 +1,44 @@
+{
+    "lawId": "LOV-2009-05-15-28",
+    "lawName": "Lov om gjennomføring av Konvensjonen om klaseammunisjon",
+    "shortName": "Klaseammunisjonsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Det er forbudt å bruke, utvikle, produsere, erverve, lagre eller overføre klaseammunisjon i strid med Konvensjon av 30. mai 2008 om klaseammunisjon.",
+                    "sections": [
+                        "Kongen kan gi nærmere regler for å oppfylle Norges forpliktelser etter konvensjonen."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Denne loven gjelder også for Svalbard, Jan Mayen og de norske bilandene.",
+                    "sections": []
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Den som bryter denne loven eller forskrifter gitt med hjemmel i loven, straffes med bøter eller fengsel inntil 2 år. Uaktsomme handlinger straffes med bøter eller fengsel inntil 6 måneder. Medvirkning straffes på samme måte.",
+                    "sections": []
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Loven gjelder fra den tid Kongen bestemmer.",
+                    "sections": []
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Fra den tid denne lov trer i kraft, gjøres følgende endringer i Almindelig borgerlig Straffelov 22. mai 1902 nr. 10:",
+                    "sections": [
+                        "§ 12 første ledd nr. 3 g, h og ny bokstav i skal lyde:",
+                        "g)er straffbar etter lov 17. juli 1998 nr. 54 om gjennomføring av Konvensjonen om forbud mot bruk, lagring, produksjon og overføring av antipersonellminer og om ødeleggelse av slike miner § 5,",
+                        "h)er straffbar etter lov 15. desember 1995 nr. 74 om forbud mot kjønnslemlestelse, eller",
+                        "i)er straffbar etter lov 15. mai 2009 nr. 28 om gjennomføring av Konvensjonen om klaseammunisjon § 3."
+                    ]
+                }
+            ]
+        }
+    ]
+}

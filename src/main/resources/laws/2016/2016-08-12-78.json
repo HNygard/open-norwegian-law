@@ -1,0 +1,90 @@
+{
+    "lawId": "LOV-2016-08-12-78",
+    "lawName": "Lov om endringer i sikkerhetsloven (reduksjon av antall klareringsmyndigheter mv.)",
+    "shortName": "Endringslov til sikkerhetsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 5 a",
+                    "title": "Varslingsplikt og myndighet til å fatte vedtak ved risiko for sikkerhetstruende virksomhet",
+                    "sections": [
+                        "En virksomhet som får kunnskap om en planlagt eller pågående aktivitet som kan medføre en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført, skal varsle overordnet departement om dette. Dersom den varslingspliktige virksomheten ikke er underlagt noe departement, skal varselet gis til Forsvarsdepartementet. Varslingsplikten gjelder uten hinder av lovbestemt taushetsplikt. Ved behandling av varsel etter første og andre punktum bør det innhentes rådgivende uttalelser fra relevante organer med kompetanse innenfor det aktuelle fagområdet.",
+                        "Kongen i statsråd kan fatte nødvendige vedtak for å hindre en planlagt eller pågående aktivitet som nevnt i første ledd første punktum. Et slikt vedtak kan fattes uten hensyn til begrensningene i forvaltningsloven § 35, og uavhengig av om aktiviteten er tillatt etter annen lov eller annet vedtak. Vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.",
+                        "Kongen i statsråd kan gi forskrift om varslingsplikten i første ledd og om hvilke vedtak som kan fattes etter andre ledd.",
+                        "§ 9 første ledd bokstav e og f skal lyde",
+                        "e)drive en nasjonal responsfunksjon for alvorlige dataangrep mot kritisk infrastruktur og et nasjonalt varslingssystem for digital infrastruktur,",
+                        "f)gi informasjon, råd og veiledning til virksomheter.",
+                        "I kapittel 3 skal ny § 10 a lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 10 a",
+                    "title": "Behandling av personopplysninger",
+                    "sections": [
+                        "Når det er nødvendig for å utføre oppgavene etter § 9 første ledd bokstav e, kan Nasjonal sikkerhetsmyndighet behandle personopplysninger i form av",
+                        "a)metadata om IKT-trafikk til og fra virksomheter som er knyttet til det nasjonale varslingssystemet for digital infrastruktur",
+                        "b)informasjon som er nødvendig for å analysere utløste alarmer i varslingssystemet",
+                        "c)IP-adresser mottatt fra nasjonale og internasjonale samarbeidspartnere",
+                        "d)logger og infisert maskinvare, etter samtykke fra en virksomhet der dette er nødvendig i forbindelse med bistand til håndtering av alvorlige dataangrep.",
+                        "I andre tilfeller enn nevnt i første ledd, kan personopplysninger også behandles når dette er strengt nødvendig for å ivareta oppgavene etter § 9 første ledd bokstav e, og behandlingen etter en konkret vurdering framstår som både nødvendig og proporsjonal i forhold til det inngrepet den representerer i personvernet.",
+                        "Kongen kan gi forskrift om Nasjonal sikkerhetsmyndighets behandling av personopplysninger.",
+                        "Ny § 13 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 13 a",
+                    "title": "Sikkerhetsmessig overvåking av godkjente informasjonssystemer",
+                    "sections": [
+                        "Den enkelte virksomhet skal kontinuerlig overvåke et godkjent informasjonssystem for sikkerhetstruende hendelser mot informasjonssystemet eller informasjon i systemet, fortrinnsvis ved bruk av automatisert systemovervåking. Sikkerhetsrelevante hendelser skal registreres.",
+                        "Informasjon som utveksles mellom systemer, på tvers av autorisasjonsskiller eller til bærbare lagringsmedier, skal registreres og lagres.",
+                        "Flere virksomheter som er tilknyttet samme informasjonssystem, kan avtale at en av virksomhetene skal forestå overvåking og registrering etter første og andre ledd på vegne av den ansvarlige virksomheten.",
+                        "Informasjon registrert etter første og andre ledd skal lagres i fem år. Slik informasjon skal kun benyttes for å håndtere sikkerhetstruende hendelser.",
+                        "Den enkelte virksomhet skal påse at autoriserte brukere av informasjonssystemer som overvåkes i henhold til denne bestemmelse får informasjon om formålet med behandlingen, om de tiltak som er iverksatt, om informasjonen vil bli utlevert og eventuelt om hvem som er mottaker.",
+                        "Kongen kan gi forskrift om",
+                        "a)hvilke typer data som kan eller skal registreres og lagres",
+                        "b)hvem som skal ha tilgang til registrert og lagret data",
+                        "c)hvordan tilgang skal gis",
+                        "d)unntak fra lagringstid på fem år.",
+                        "§ 23 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Autorisasjonsansvarlig og klareringsmyndighet",
+                    "sections": [
+                        "Autorisasjon kan gis dersom autorisasjonsansvarlig ikke har opplysninger som gjør det tvilsomt om vedkommende sikkerhetsmessig er til å stole på. Autorisasjon gis normalt av virksomhetens leder. Autorisasjon skal ikke gis før det foreligger melding om sikkerhetsklarering, med unntak for de tilfeller som er beskrevet i § 19 tredje ledd, og en autorisasjonssamtale er avholdt. Nasjonal sikkerhetsmyndighet gir nærmere regler om autorisasjon og om hvem som er autorisasjonsansvarlig.",
+                        "Kongen utpeker en klareringsmyndighet for forsvarssektoren og en for den sivile sektoren. Kongen kan utpeke andre klareringsmyndigheter når særlige grunner taler for det. Etterretnings- og sikkerhetstjenestene klarerer eget personell.",
+                        "§ 28 første ledd andre punktum skal lyde:",
+                        "Kongen gir forskrift om gyldighetstiden for leverandørklareringer.",
+                        "Kapittel 7 overskriften skal lyde:",
+                        "I kapittel 7 skal ny § 29 a lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Sikkerhetsgraderte anskaffelser og anskaffelser til kritisk infrastruktur",
+            "paragraphs": [
+                {
+                    "name": "§ 29 a",
+                    "title": "Varslingsplikt og myndighet til å fatte vedtak ved anskaffelser til kritisk infrastruktur",
+                    "sections": [
+                        "Ved anskaffelser til kritisk infrastruktur skal det foretas en risikovurdering. I vurderingen skal det tas stilling til om anskaffelsen innebærer en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført mot eller ved bruk av infrastrukturen. Plikten til å foreta en risikovurdering gjelder ikke dersom det framstår som åpenbart at anskaffelsen ikke kan innebære noen slik risiko.",
+                        "En virksomhet som eier eller rår over kritisk infrastruktur, skal varsle overordnet departement dersom en risikovurdering som nevnt i første ledd konkluderer med at anskaffelsen kan innebære en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført. Virksomheter som ikke er underlagt noe departement, skal varsle Forsvarsdepartementet. Varslingsplikten gjelder uten hinder av lovbestemt taushetsplikt. Plikten gjelder ikke dersom virksomheten selv iverksetter risikoreduserende tiltak som fjerner risikoen, eller gjør den ubetydelig.",
+                        "Et departement som mottar varsel etter andre ledd, bør innhente en rådgivende uttalelse fra relevante organer om leveransens risikopotensial, og leverandørers sikkerhetsmessige pålitelighet.",
+                        "Dersom en anskaffelse til kritisk infrastruktur kan medføre en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført, kan Kongen i statsråd fatte vedtak om at anskaffelsen skal nektes gjennomført, eller om at det settes vilkår for gjennomføringen. Dette gjelder også dersom det allerede er inngått avtale om anskaffelsen. Dersom det ikke fattes vedtak etter første punktum, skal departementet underrette virksomheten om dette. Vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.",
+                        "Kongen i statsråd kan gi forskrift om anskaffelser til kritisk infrastruktur.",
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan bestemme at de forskjellige bestemmelsene skal tre i kraft til forskjellig tid."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

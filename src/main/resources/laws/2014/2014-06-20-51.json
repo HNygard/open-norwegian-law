@@ -1,0 +1,37 @@
+{
+    "lawId": "LOV-2014-06-20-51",
+    "lawName": "Lov om fiskeretten i Tanavassdraget (Tanaloven)",
+    "shortName": "Tanaloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 4. Tana og Neiden",
+            "paragraphs": [
+                {
+                    "name": "§ 28",
+                    "title": "Fisket i Neidenvassdraget",
+                    "sections": [
+                        "I Neidenvassdraget har lokalbefolkningen særskilte rettigheter til fiske på grunnlag av alders tids bruk og lokal sedvane.",
+                        "Kongen kan ved forskrift gi nærmere regler om forvaltningen og utøvelsen av fisket. Forskriften skal legge til rette for en lokal, rettighetsbasert forvaltning av fiskeressursene i samsvar med overenskomster med Finland om fisket i Neidenvassdraget.",
+                        "Utarbeidelsen av forskrifter og forhandlinger med Finland om fisket i Neidenvassdraget skal skje i samråd med Sametinget, berørte kommuner og de som har særskilte rettigheter til fisket i vassdraget."
+                    ]
+                },
+                {
+                    "name": "§ 28 a",
+                    "title": "Fisket i Tanavassdraget",
+                    "sections": [
+                        "For fiskerettigheter i Tanavassdraget gjelder Tanaloven.",
+                        "3. I lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. skal § 24 lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Særlige rettigheter i Finnmark",
+                    "sections": [
+                        "Denne lov medfører ingen endringer i de særlige regler som gjelder for den lokale befolknings rett til fiske i Finnmark etter kgl. res. av 27. mai 1775 angående Jorddelingen i Finnmarken samt Bopladses Udvisning og Skyldlægning sammesteds, finnmarksloven kapittel 4 og Tanaloven."
+                    ]
+                }
+            ]
+        }
+    ]
+}

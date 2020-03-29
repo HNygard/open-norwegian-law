@@ -1,0 +1,83 @@
+{
+    "lawId": "LOV-2017-12-15-106",
+    "lawName": "Lov om endringer i eiendomsmeglingsloven (forenklinger)",
+    "shortName": "Endringslov til eiendomsmeglingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 2-2",
+                    "title": "Melding om etablering av filial mv.",
+                    "sections": [
+                        "(1) Foretak og advokat som driver eiendomsmegling, jf. § 2-1, skal sende melding til Finanstilsynet senest 14 dager før etablering av filial i Norge. § 2-3 tredje ledd gjelder tilsvarende for meldingen.",
+                        "§ 2-9 fjerde ledd skal lyde:",
+                        "(4) Eiendomsmeglingsforetak skal innen 14 dager sende melding til Finanstilsynet ved skifte av styremedlem, daglig leder og fagansvarlig.",
+                        "Ny § 3-7 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-7",
+                    "title": "Bruk av elektronisk kommunikasjon, elektroniske medier mv.",
+                    "sections": [
+                        "(1) Krav i eller i medhold av denne loven om at opplysninger eller meldinger skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon dersom mottakeren ønsker det.",
+                        "(2) Krav i eller i medhold av denne loven om at en avtale skal inngås skriftlig, er ikke til hinder for at avtalen inngås ved hjelp av et elektronisk medium dersom avtalepartene ønsker dette, og",
+                        "a)avtalens innhold i sin helhet er tilgjengelig ved avtaleinngåelsen, og",
+                        "b)det er benyttet en betryggende metode for å autentisere avtaleinngåelsen.",
+                        "(3) Departementet kan i forskrift fastsette regler om elektronisk kommunikasjon og elektroniske medier.",
+                        "§ 4-5 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4-5",
+                    "title": "Tittel",
+                    "sections": [
+                        "(1) Tittelen «eiendomsmegler» kan bare benyttes av personer som har eiendomsmeglerbrev, jf. § 4-2, jurister med tillatelse etter § 4-3, advokater som driver eiendomsmegling, og personer med tillatelse etter forskrift fastsatt i medhold av § 9-1 annet ledd.",
+                        "(2) Tittelen «eiendomsmeglerfullmektig» kan bare benyttes av personer med eiendomsmeglereksamen, jf. § 4-2 første ledd nr. 2, og personer med norsk juridisk embetseksamen, som er ansatt i et eiendomsmeglingsforetak, jf. § 2-1, eller hos en advokat som driver eiendomsmegling etter § 2-1 første ledd nr. 2, og som arbeider under tilsyn av en ansvarlig megler.",
+                        "(3) Første og annet ledd gjelder tilsvarende for personer med tillatelse i medhold av §§ 4-2 fjerde ledd og 4-3 fjerde ledd.",
+                        "(4) Tittelen «statsautorisert eiendomsmegler» kan ikke benyttes.",
+                        "§ 6-1 annet ledd skal lyde:",
+                        "(2) Plikter som påhviler oppdragstakeren etter dette kapitlet, påhviler også den enkelte person med eiendomsmeglerbrev, jf. § 4-2, jurist med tillatelse etter § 4-3, eiendomsmeglerfullmektig, jf. § 4-5 annet ledd, og advokat som har rett til å drive eiendomsmegling, i deres virksomhetsutøvelse.",
+                        "§ 6-2 tredje ledd skal lyde:",
+                        "(3) Annet ledd er ikke til hinder for at oppdrag utføres av eiendomsmeglerfullmektig som nevnt i § 4-5 annet ledd under tilsyn av ansvarlig megler for oppdraget, eller at oppgjør utføres av medhjelper som har bestått eksamen i oppgjør, jf. § 4-4 andre ledd.",
+                        "§ 6-4 femte ledd oppheves.",
+                        "§ 8-2 paragrafoverskriften skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-2",
+                    "title": "Tilbakekall av tillatelse for foretak og vedtak om stans av virksomhet i filial",
+                    "sections": [
+                        "§ 8-2 annet ledd skal lyde:",
+                        "(2) Finanstilsynet kan stanse virksomheten i en filial, jf. § 2-2, dersom filialen ikke lenger oppfyller vilkårene i § 2-5 annet ledd eller § 2-9 annet ledd tredje punktum, eller ett eller flere av vilkårene i første ledd nr. 5 til 7 er oppfylt for filialen.",
+                        "Lovens del II Ikrafttredelse og overgangsregler oppheves.",
+                        "Nytt kapittel 9 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9. Ikrafttredelse og overgangsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 9-1",
+                    "title": "Ikrafttredelse og overgangsregler",
+                    "sections": [
+                        "(1) Loven gjelder fra den tid Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.",
+                        "(2) Kongen kan fastsette overgangsregler.",
+                        "(3) Forskrifter gitt i medhold av lov 16. juni 1989 nr. 53 om eiendomsmegling gjelder inntil noe annet er bestemt også etter at loven her har trådt i kraft.",
+                        "(4) Fra den tid loven her trer i kraft, gjøres følgende endring i annen lov:",
+                        "Lov 16. juni 1989 nr. 53 om eiendomsmegling oppheves.",
+                        "1.Loven gjelder fra det tidspunkt Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "2.Departementet kan gi overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

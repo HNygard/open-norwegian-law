@@ -1,0 +1,75 @@
+{
+    "lawId": "LOV-2012-12-14-90",
+    "lawName": "Lov om endringer i sivilbeskyttelsesloven (gjennomføring av EPCIP-direktivet)",
+    "shortName": "Endringslov til sivilbeskyttelsesloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel VI A Beskyttelse av europeisk kritisk infrastruktur",
+            "paragraphs": [
+                {
+                    "name": "§ 24 a",
+                    "title": "Identifisering og utpeking av europeisk kritisk infrastruktur",
+                    "sections": [
+                        "Hvert enkelt departement skal identifisere og utpeke europeisk kritisk infrastruktur innen sitt myndighetsområde og som omfattes av virkeområdet til direktiv 2008/114/EF.",
+                        "Eier eller operatør av objektet plikter overfor departementet å foreslå hvilke objekter som potensielt kan være europeisk kritisk infrastruktur.",
+                        "Vurderingen skal skje på bakgrunn av sektorbaserte kriterier som tar hensyn til de særlige kjennetegn for de enkelte sektorer av europeisk kritisk infrastruktur.",
+                        "Videre skal vurderingen skje på bakgrunn av følgende kriterier:",
+                        "a)det potensielle antall omkomne eller sårede,",
+                        "b)størrelsen på det økonomiske tapet og forringelse av varer og tjenester, herunder potensielle miljømessige konsekvenser, og",
+                        "c)konsekvensene med hensyn til befolkningens tillit, fysiske lidelser og forstyrrelser i hverdagen, herunder bortfall av vesentlige tjenester.",
+                        "For infrastrukturer som leverer viktige tjenester skal det tas hensyn til akseptabel tidsperiode for funksjonssvikt og mulighet til å gjenopprette funksjonaliteten.",
+                        "Utpekingen skal skje på grunnlag av avtale med de EØS-statene som kan bli berørt i betydelig grad.",
+                        "Kongen kan gi forskrifter med nærmere bestemmelser om utpeking av europeisk kritisk infrastruktur og hvilke sektorer som skal omfattes."
+                    ]
+                },
+                {
+                    "name": "§ 24 b",
+                    "title": "Operatørsikkerhetsplan",
+                    "sections": [
+                        "Utpekt europeisk kritisk infrastruktur skal ha en operatørsikkerhetsplan. Operatørsikkerhetsplanen skal identifisere kritiske aktiva samt presisere hvilke sikkerhetsløsninger som er eller skal bli iverksatt med henblikk på å beskytte disse.",
+                        "Prosedyren ved utarbeidelse av operatørsikkerhetsplanen skal minst dekke følgende:",
+                        "a)identifisering av viktige aktiva,",
+                        "b)gjennomføring av en risikoanalyse med grunnlag i alvorlige trussel scenarioer, hver aktivas sårbarhet og potensielle konsekvenser,",
+                        "c)identifisering, utvelgelse og prioritering av mottiltak og prosedyrer med en vurdering mellom permanente og graderte sikkerhetstiltak.",
+                        "Operatørsikkerhetsplanen skal være iverksatt senest ett år etter at en infrastruktur er blitt utpekt som europeisk kritisk infrastruktur.",
+                        "Operatørsikkerhetsplanen skal oppdateres jevnlig."
+                    ]
+                },
+                {
+                    "name": "§ 24 c",
+                    "title": "Sikkerhetskontakt",
+                    "sections": [
+                        "Eier eller operatør av utpekt europeisk kritisk infrastruktur skal ha en sikkerhetskontakt.",
+                        "Sikkerhetskontakten skal fungere som et kontaktpunkt i forbindelse med sikkerhetsmessige spørsmål mellom eier eller operatør av europeisk kritisk infrastruktur og departementet med ansvar i den aktuelle sektor."
+                    ]
+                },
+                {
+                    "name": "§ 24 d",
+                    "title": "Rapportering",
+                    "sections": [
+                        "Departementene skal foreta en vurdering av risiko, trusler og sårbarhet i sektoren hvor en europeisk kritisk infrastruktur er utpekt senest ett år etter utpekingen.",
+                        "Departementene skal hvert annet år utarbeide en generell rapport om de typer risiko, trusler og sårbarhet som er registrert mot sektorer hvor det er utpekt europeisk kritisk infrastruktur. Rapporten skal videre inneholde opplysninger om antallet utpekte infrastrukturer og antall EØS-stater som er avhengig av den utpekte infrastrukturen. Rapporten skal sendes til den myndighet Kongen utpeker.",
+                        "Virksomheter som eier utpekt europeisk infrastruktur skal bistå departementene med opplysninger for å oppfylle rapporteringsplikten.",
+                        "Rapportene sikkerhetsgraderes etter lov 20. januar 1998 nr. 10 om forebyggende sikkerhetstjeneste (sikkerhetsloven) § 11 i den grad det er nødvendig.",
+                        "§ 29 annet ledd skal lyde:",
+                        "Tilsynsorganer med ansvar i den aktuelle sektor skal føre tilsyn etter §§ 24a, 24b, 24c og 24d.",
+                        "§ 34 fjerde ledd skal lyde:",
+                        "Blir pålegg stadfestet i rettskraftig dom ikke etterkommet, kan tilsynsmyndigheten selv utføre eller få pålegget utført for regning av den som dommen er rettet mot, uten at det er nødvendig med kjennelse etter lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 13-14.",
+                        "§ 36 første ledd skal lyde:",
+                        "Sivilforsvarets myndigheter eller tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6 første ledd, 7 første ledd, 8 annet, tredje eller femte ledd, 9, 16 annet eller tredje ledd, 20 annet, fjerde eller femte ledd, 21 første ledd, 24b, 24c første ledd, 24d tredje ledd, 25 første eller fjerde ledd, 26 første eller annet ledd, 31 første ledd og 32 første ledd.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

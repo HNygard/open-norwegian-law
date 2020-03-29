@@ -1,0 +1,349 @@
+{
+    "lawId": "LOV-2012-06-22-35",
+    "lawName": "Lov om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m",
+    "shortName": "Endringslov til bokføringsl., vphl., emegll. mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        },
+        {
+            "name": "VII",
+            "paragraphs": []
+        },
+        {
+            "name": "VIII",
+            "paragraphs": []
+        },
+        {
+            "name": "IX",
+            "paragraphs": []
+        },
+        {
+            "name": "X",
+            "paragraphs": [
+                {
+                    "name": "§ 8-4",
+                    "title": "Tilgang til opplysninger i registeret",
+                    "sections": [
+                        "Politiet skal ha elektronisk tilgang til opplysninger i norske verdipapirregister. Søk i verdipapirregister skal kun skje ut fra politiets behov for opplysninger i forbindelse med forebygging og bekjempelse av kriminalitet.",
+                        "Finanstilsynet skal ha elektronisk tilgang til opplysninger i norske verdipapirregister. Søk i verdipapirregister skal kun skje ut fra Finanstilsynets behov for opplysninger i forbindelse med tilsynsoppgaver.",
+                        "Norsk regulert marked skal ha elektronisk tilgang til opplysninger i norske verdipapirregister. Søk i verdipapirregister skal kun skje ut fra norsk regulert markeds behov for å overvåke markedet i henhold til børsloven § 27.",
+                        "I lov 19. november 2004 nr. 73 om bokføring gjøres følgende endringer:",
+                        "§ 4 nr. 8 skal lyde:",
+                        "8.Oppbevaring: Dokumentasjon, bokførte opplysninger og pliktig regnskapsrapportering skal oppbevares så lenge det er saklig behov for å kontrollere pliktig regnskapsrapportering. Oppbevaring skal skje i en form som opprettholder muligheten for å lese materialet.",
+                        "I § 5 første ledd første punktum skal innledningen lyde:",
+                        "For hver periode med pliktig regnskapsrapportering, og ikke sjeldnere enn hver fjerde måned, skal den bokføringspliktige være i stand til å kunne utarbeide:",
+                        "I § 5 annet ledd første punktum skal innledningen lyde:",
+                        "For hver periode med pliktig regnskapsrapportering skal den bokføringspliktige i tillegg være i stand til å kunne utarbeide:",
+                        "§ 5 annet ledd nr. 2 og nytt nr. 3 skal lyde:",
+                        "2.spesifikasjon av lønnsoppgavepliktige ytelser,",
+                        "3.spesifikasjon av elimineringer og andre posteringer ved utarbeidelse av konsernregnskap.",
+                        "§ 5 nytt fjerde ledd skal lyde:",
+                        "Regnskapssystemet skal kunne gjengi spesifikasjoner av pliktig regnskapsrapportering som nevnt i første og annet ledd på papir. Departementet kan i forskrift fastsette krav til annen gjengivelse.",
+                        "§ 6 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "XI",
+            "paragraphs": [
+                {
+                    "name": "§ 6",
+                    "title": "Sporbarhet",
+                    "sections": [
+                        "Bokførte opplysninger skal lett kunne følges fra dokumentasjonen via spesifikasjoner frem til pliktig regnskapsrapportering. Det skal likeledes på en lett kontrollerbar måte være mulig med utgangspunkt i pliktig regnskapsrapportering å kunne finne tilbake til dokumentasjonen for de enkelte bokførte opplysningene.",
+                        "Dokumentasjon av bokførte opplysninger skal være nummererte eller identifisert på annen måte som gjør det mulig å kontrollere at den er fullstendig.",
+                        "Dokumentasjon av kontrollsporet, herunder hvordan systemgenererte poster kan etterprøves, skal foreligge i de tilfellene det er nødvendig for å kunne kontrollere bokførte opplysninger på en enkel måte.",
+                        "Departementet kan ved enkeltvedtak gjøre unntak fra kravet i annet ledd om nummerering av dokumentasjon.",
+                        "§ 10 annet ledd skal lyde:",
+                        "Departementet kan i forskrift fastsette krav til dokumentasjon av elektroniske forsystem.",
+                        "§ 11 overskriften skal lyde:",
+                        "Dokumentasjon av balansen mv.",
+                        "§ 11 første ledd skal lyde:",
+                        "Ved utarbeidelse av årsregnskap og næringsoppgave skal det foreligge dokumentasjon for alle balanseposter med mindre de er ubetydelige. Bestemmelsen gjelder tilsvarende for skattemessige verdier som ikke er dokumentert i øvrige ligningsoppgaver.",
+                        "§ 11 annet ledd oppheves. Nåværende tredje ledd blir nytt annet ledd.",
+                        "§ 12 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Krav til språk",
+                    "sections": [
+                        "Spesifikasjoner og dokumentasjon som nevnt i § 13 første ledd nr. 2 og 3, som er utarbeidet av den bokføringspliktige, skal være på norsk, svensk, dansk eller engelsk, med mindre departementet i forskrift eller ved enkeltvedtak bestemmer noe annet.",
+                        "§ 13 første ledd nr. 2 og 3 skal lyde:",
+                        "2.spesifikasjoner av pliktig regnskapsrapportering som nevnt i § 5, eller bokførte opplysninger som er nødvendig for å kunne utarbeide slike spesifikasjoner av pliktig regnskapsrapportering,",
+                        "3.dokumentasjon av bokførte opplysninger og slettede opplysninger, dokumentasjon av kontrollsporet mv. og dokumentasjon av balansen,",
+                        "§ 13 første ledd nr. 7 skal lyde:",
+                        "7.utgående pakksedler eller tilsvarende dokumentasjon som følger varen eller sendes til kjøper på annen måte,",
+                        "§ 13 annet ledd skal lyde:",
+                        "Regnskapsmateriale som nevnt i første ledd nr. 1 til 4 skal oppbevares i Norge i ti år etter regnskapsårets slutt. Regnskapsmateriale som nevnt i første ledd nr. 5 til 8 skal oppbevares i Norge i tre år og seks måneder etter regnskapsårets slutt. Originalt regnskapsmateriale kan erstattes ved overføring av regnskapsinformasjon til andre media hvis muligheten til å etterprøve pliktig regnskapsrapportering i regnskapsmaterialets oppbevaringstid ikke svekkes. Departementet kan i forskrift fastsette nærmere krav til oppbevaringsmedier.",
+                        "§ 13 femte ledd skal lyde",
+                        "Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra bestemmelsene i annet ledd om oppbevaringssted og oppbevaringstid.",
+                        "Ny § 13 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 13 b",
+                    "title": "Elektronisk tilgjengelighet",
+                    "sections": [
+                        "Bokførte opplysninger etter § 7 første ledd som i utgangspunktet er tilgjengelig elektronisk, skal være tilgjengelig elektronisk i tre år og seks måneder etter regnskapsårets slutt.",
+                        "Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra bestemmelsene i første ledd.",
+                        "§ 14 nytt tredje ledd skal lyde:",
+                        "Kontrollmyndighetene kan kreve regnskapsmateriale som ikke er på norsk, svensk, dansk eller engelsk oversatt til et av disse språkene. Departementet kan i forskrift fastsette nærmere krav til oversettelsen.",
+                        "I lov 20. mai 2005 nr. 28 om straff skal innledningen i § 412 nr. 47 lyde:",
+                        "47.I lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. gjøres følgende endringer:",
+                        "I lov 10. juni 2005 nr. 41 om forsikringsformidling gjøres følgende endringer:",
+                        "§ 3-3 tredje ledd skal lyde:",
+                        "De personer som er omfattet av første ledd, skal i søknaden om tillatelse fremlegge ordinær politiattest etter politiregisterloven § 40 og bekreftelse fra Brønnøysundregistrene for at vedkommende ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling. Slik dokumentasjon skal også legges frem for personer som etter søknadstidspunktet tiltrer slik stilling som nevnt i første ledd.",
+                        "§ 7-2 tredje ledd skal lyde:",
+                        "Personer som er omfattet av første ledd nr. 1 og 2 skal før registrering fremlegge ordinær politiattest etter politiregisterloven § 40 og bekreftelse fra Brønnøysundregistrene for at vedkommende ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling. Slik dokumentasjon skal også legges frem for personer som etter søknadstidspunktet tiltrer slik stilling som nevnt i første ledd.",
+                        "I lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. gjøres følgende endringer:",
+                        "§ 2-1 annet ledd nytt annet og tredje punktum skal lyde:",
+                        "Ved søknad om tillatelse etter første ledd skal det for personer med stilling eller verv som nevnt i første punktum legges frem ordinær politiattest etter politiregisterloven § 40. Det skal også legges frem ordinær politiattest etter politiregisterloven § 40 for personer som tiltrer slik stilling eller slikt verv etter søknadstidspunktet.",
+                        "§ 12-11 tredje ledd skal lyde:",
+                        "Minstekrav til premieavsetning og avsetning for ikke avløpt risiko beregnes etter regler fastsatt av Kongen i forskrift.",
+                        "I lov 29. juni 2007 nr. 73 om eiendomsmegling gjøres følgende endringer:",
+                        "§ 1-2 annet ledd nytt nr. 6 skal lyde:",
+                        "6.omsetning av avtale om erverv av rettigheter som nevnt i nr. 1 til 5.",
+                        "§ 2-9 tredje ledd skal lyde:",
+                        "(3) Personer som nevnt i første og annet ledd skal legge frem uttømmende politiattest etter politiregisterloven § 41 nr. 1.",
+                        "§ 2-9 femte ledd oppheves. Nåværende sjette ledd blir nytt femte ledd.",
+                        "§ 4-2 annet ledd skal lyde:",
+                        "(2) Søkeren må fremlegge politiattest som nevnt i § 2-9 tredje ledd.",
+                        "§ 4-2 sjette ledd oppheves.",
+                        "§ 4-3 annet ledd skal lyde:",
+                        "(2) Søkeren må fremlegge politiattest som nevnt i § 2-9 tredje ledd.",
+                        "§ 4-3 sjette ledd oppheves.",
+                        "§ 4-4 tredje ledd skal lyde:",
+                        "(3) Departementet kan i forskrift fastsette krav til eksamen som nevnt i første og annet ledd og fastsette unntak fra kravet om at eksamen må være bestått på ansettelsestidspunktet. Videre kan departementet i forskrift fastsette krav til tilsyn med oppgjørsmedhjelper som utfører oppgjør.",
+                        "§ 6-2 tredje ledd skal lyde:",
+                        "(3) Annet ledd er ikke til hinder for at oppdrag utføres av eiendomsmeglerfullmektig som nevnt i § 4-5 tredje ledd under tilsyn av ansvarlig megler for oppdraget eller at oppgjør utføres av medhjelper som har bestått eksamen i oppgjør, jf. § 4-4 andre ledd.",
+                        "§ 8-9 første punktum skal lyde:",
+                        "Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av §§ 2-1, 2-2, 3-1, 3-2, 3-6, 4-5, 5-1, 5-2, 5-3, 6-3 tredje og fjerde ledd, 7-2 første ledd, 7-4 tredje ledd og 8-1 straffes med bøter eller fengsel inntil 3 år, eller inntil 6 år ved særlig skjerpende omstendigheter.",
+                        "I lov 29. juni 2007 nr. 74 om regulerte markeder gjøres følgende endringer:",
+                        "§ 10 nytt femte ledd skal lyde:",
+                        "(5) Personer som nevnt i annet ledd skal fremlegge ordinær politiattest etter politiregisterloven § 40.",
+                        "§ 17 tredje ledd nytt annet punktum skal lyde:",
+                        "Den som erverver betydelig eierandel etter reglene i første og annet ledd, skal fremlegge ordinær politiattest etter politiregisterloven § 40 dersom Finanstilsynet ber om det.",
+                        "I lov 29. juni 2007 nr. 75 om verdipapirhandel gjøres følgende endringer:",
+                        "§ 3-6 nytt tredje til sjette ledd skal lyde:",
+                        "(3) Utsteder av aksjer skal uten ugrunnet opphold sende en ajourført oversikt over personer som nevnt i første ledd til Finanstilsynet eller den Finanstilsynet utpeker. Oversikten skal også omfatte foretak som eier aksjer i vedkommende utstederforetak, og som på grunn av eierskapet er representert i utstederforetakets styre. Meldingen skal inneholde personens eller foretakets navn, personnummer, organisasjonsnummer eller lignende identifikasjonsnummer, adresse, type tillitsverv eller stilling i selskapet og eventuell øvrig arbeidsstilling.",
+                        "(4) Personer og foretak som nevnt i første ledd skal uten ugrunnet opphold sende Finanstilsynet eller den Finanstilsynet utpeker en ajourført oversikt over vedkommendes nærstående som nevnt i § 2-5 nr. 1, 2 og 4 dersom disse innehar aksjer utstedt av vedkommende selskap eller selskap i samme konsern. Oversikten skal også omfatte nærstående som nevnt i første ledd som innehar lån i henhold til aksjeloven § 11-1 og allmennaksjeloven § 11-1, tegningsretter, opsjoner eller tilsvarende rettigheter knyttet til aksjer i vedkommende selskap eller selskap i samme konsern, uavhengig av om det finansielle instrumentet gir rett til fysisk eller finansielt oppgjør.",
+                        "(5) Finanstilsynet eller den Finanstilsynet utpeker kan utarbeide og offentliggjøre oversikter som inneholder navn på personer og foretak som nevnt i første ledd, samt type tillitsverv eller stilling i selskapet og eventuell øvrig arbeidsstilling.",
+                        "(6) Denne paragraf gjelder tilsvarende for egenkapitalbevis.",
+                        "§ 4-1 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "XII",
+            "paragraphs": []
+        },
+        {
+            "name": "XIII",
+            "paragraphs": []
+        },
+        {
+            "name": "XIV",
+            "paragraphs": []
+        },
+        {
+            "name": "XV",
+            "paragraphs": []
+        },
+        {
+            "name": "XVI",
+            "paragraphs": []
+        },
+        {
+            "name": "XVII",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Virkeområde",
+                    "sections": [
+                        "Bestemmelsene i dette kapittel gjelder for aksjer opptatt til handel på regulert marked i en utsteder med Norge som hjemstat. Norge skal anses som hjemstat for utstedere som nevnt i § 5-4 annet til fjerde ledd. Der Norge er vertsstat for en utsteder, gjelder hjemstatens lovgivning for så vidt gjelder forholdene regulert i dette kapittel.",
+                        "§ 4-2 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Primærinnsiders meldeplikt",
+                    "sections": [
+                        "(1) Personer som nevnt i § 3-6 første ledd skal straks gi melding om kjøp, salg, bytte eller tegning av aksjer utstedt av selskapet eller av selskaper i samme konsern. Det samme gjelder for selskapets handel med egne aksjer. Foretak som eier børsnoterte aksjer i et annet foretak eller aksjer i et annet foretak som er notert på regulert marked, og som på grunn av eierskapet er representert i vedkommende foretaks styre, må gi melding ved handel i slike aksjer. Meldingen skal sendes senest innen åpningen av regulert marked dagen etter at kjøp, salg, bytte eller tegning har funnet sted. Meldingen skal sendes til Finanstilsynet eller den Finanstilsynet utpeker.",
+                        "(2) Meldeplikten gjelder også lån som nevnt i aksjeloven § 11-1 og allmennaksjeloven § 11-1, inngåelse, bytte, kjøp eller salg av tegningsretter, opsjoner og tilsvarende rettigheter knyttet til aksjer som nevnt i første ledd. Meldeplikten gjelder uavhengig av om det finansielle instrumentet gir rett til fysisk eller finansielt oppgjør.",
+                        "(3) Meldeplikten omfatter også slik handel som gjelder vedkommendes nærstående som nevnt i § 2-5 nr. 1, 2 og 4, samt slik handel som gjelder slektninger som vedkommende på tidspunktet for den meldepliktige handel har delt husholdning med i minst ett år.",
+                        "(4) Departementet kan i forskrift fastsette unntak fra reglene i denne paragraf.",
+                        "Nåværende § 4-2 blir ny § 4-3.",
+                        "I ny § 4-3 oppheves første ledd. Nåværende annet til tiende ledd blir nye første til niende ledd. Nytt syvende ledd første punktum skal lyde:",
+                        "(7) Denne paragrafen og forskrifter fastsatt i medhold av denne paragrafen gjelder tilsvarende for egenkapitalbevis.",
+                        "Nåværende § 4-3 blir ny § 4-4.",
+                        "Ny § 4-4 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "Krav til melding",
+                    "sections": [
+                        "(1) Melding etter § 4-2 skal inneholde opplysninger om:",
+                        "1.navn på den meldepliktige,",
+                        "2.bakgrunn for meldingen,",
+                        "3.navn på utsteder,",
+                        "4.beskrivelse av det finansielle instrumentet,",
+                        "5.type transaksjon,",
+                        "6.tidspunkt og marked for transaksjonen,",
+                        "7.kurs og volum på transaksjonen og",
+                        "8.beholdning etter transaksjonen.",
+                        "(2) Melding etter § 4-3 skal inneholde opplysninger som fastsatt av departementet i forskrift.",
+                        "(3) Finanstilsynet eller den Finanstilsynet utpeker skal offentliggjøre meldinger som nevnt i denne bestemmelse på en måte som angitt i § 5-12.",
+                        "(4) Melding etter dette kapittel kan gis på norsk eller engelsk.",
+                        "§ 5-3 nytt femte ledd skal lyde:",
+                        "(5) Departementet kan i forskrift fastsette nærmere regler om utsatt offentliggjøring.",
+                        "§ 5-4 tredje og fjerde ledd skal lyde:",
+                        "(3) Norge er hjemstat for utsteder fra land utenfor EØS som har utstedt instrumenter som nevnt i annet ledd nr. 1 eller 2, når Norge er det landet i EØS hvor",
+                        "1.verdipapirene tilbys til offentligheten for første gang, eller",
+                        "2.det søkes om opptak til notering på et regulert marked for første gang.",
+                        "Utsteder som nevnt i første punktum kan velge Norge som hjemstat dersom én av hendelsene i første punktum nr. 1 og 2 har funnet sted i Norge og den andre i en annen EØS-stat.",
+                        "(4) Norge er hjemstat for utsteder som ikke er omfattet av annet og tredje ledd, dersom utsteder har valgt Norge som hjemstat. Slik utsteder må enten ha forretningskontor i Norge eller ha sine omsettelige verdipapirer opptatt til handel på norsk regulert marked. Valget av Norge som hjemstat etter denne bestemmelsen skal gjelde i minst tre år, med mindre de omsettelige verdipapirene ikke lenger er opptatt til handel på regulert marked.",
+                        "§ 5-4 sjette ledd annet punktum og syvende ledd skal lyde:",
+                        "§§ 5-5 til 5-11 gjelder heller ikke for utsteder som bare utsteder gjeldsinstrumenter hvis pålydende er minst 100 000 euro eller tilsvarende beløp i annen valuta, eller for utstedere av verdipapirfond.",
+                        "(7) Dersom ikke annet fremgår av den enkelte bestemmelse, gjelder §§ 5-5 til 5-14 og regler fastsatt i medhold av disse bestemmelsene tilsvarende egenkapitalbevis så langt det passer.",
+                        "§ 5-10 femte ledd skal lyde:",
+                        "(5) Långivermøtet kan holdes i en annen EØS-stat enn Norge såfremt pålydende pr. obligasjon er minst 100 000 euro, eller tilsvarende beløp i annen valuta på utstedelsestidspunktet, og alle fasiliteter og all informasjon som er nødvendig for at långiverne kan utøve sine rettigheter, er stilt til rådighet i den aktuelle EØS-staten.",
+                        "§ 5-11 oppheves.",
+                        "§ 5-13 sjette ledd skal lyde:",
+                        "(6) Dersom verdipapirer med en pålydende verdi på minst 100 000 euro eller, for obligasjoner i en annen verdi enn euro med en pålydende verdi som minst tilsvarer 100 000 euro på utstedelsesdagen, opptas til notering på et regulert marked i Norge, skal utsteder offentliggjøre opplysningene enten på norsk eller engelsk.",
+                        "§ 7-2 første punktum skal lyde:",
+                        "Ved tilbud om tegning eller kjøp av omsettelige verdipapirer som rettes til 150 personer eller flere i det norske verdipapirmarkedet og gjelder et beløp på minst 1 000 000 euro beregnet over en periode på 12 måneder, skal det utarbeides prospekt etter reglene i dette kapittelet.",
+                        "§ 7-4 nr. 4 skal lyde:",
+                        "4.tilbudet fremsettes i forbindelse med fusjon, fisjon eller annen deling av selskapet mellom aksjeeierne, forutsatt at det foreligger et dokument som prospektmyndigheten anser at gir tilsvarende opplysninger som det som følger av § 7-13,",
+                        "§ 7-4 nr. 6 og 7 skal lyde:",
+                        "6.tilbudet gjelder verdipapirer som tilbys som vederlag ved oppkjøp, forutsatt at det foreligger et dokument som prospektmyndigheten anser at gir tilsvarende opplysninger som det som følger av § 7-13,",
+                        "7.tilbudet gjelder utbytte til eksisterende aksjeeiere utbetalt i form av aksjer av samme klasse som de aksjer slikt utbytte utbetales for, forutsatt at det foreligger et dokument med opplysninger om aksjeklasse, antall aksjer samt bakgrunn og vilkår for tilbudet,",
+                        "§ 7-4 nr. 9 og 10 og nytt nr. 11 skal lyde:",
+                        "9.tilbudet rettes til nåværende eller tidligere ansatte eller styremedlemmer fra arbeidsgiveren eller fra annet selskap i samme konsern, forutsatt at vedkommende selskap har hovedkontor eller forretningskontor i et EØS-land eller et tredjeland godkjent av prospektmyndigheten, og at det foreligger et dokument som inneholder opplysninger om type og antall verdipapirer samt bakgrunn og vilkår for tilbudet,",
+                        "10.tilbudet gjelder verdipapirer som legges ut i enkeltstørrelser med pålydende eller krav på vederlag på minst 100 000 euro,",
+                        "11.tilbudet gjelder salg gjennom verdipapirforetak, der verdipapirforetaket har avtale med utsteder om bruk av gyldig prospekt, jf. § 7-12.",
+                        "§ 7-4 nytt annet ledd skal lyde:",
+                        "(2) På forespørsel fra utsteder skal verdipapirforetak opplyse om navngitte kunder er kategorisert som profesjonelle eller ikke-profesjonelle, når dette er nødvendig for å avklare om det er prospektplikt.",
+                        "§ 7-5 nr. 5 skal lyde:",
+                        "5.verdipapirer som noteres i forbindelse med fusjon, fisjon eller annen deling av selskapet mellom aksjeeierne, forutsatt at det foreligger et dokument som prospektmyndigheten anser at gir tilsvarende opplysninger som det som følger av § 7-13,",
+                        "§ 7-5 nr. 7 og 8 skal lyde:",
+                        "7.verdipapirer som tilbys som vederlag ved oppkjøp, forutsatt at det foreligger et dokument som prospektmyndigheten anser at gir tilsvarende opplysninger som det som følger av § 7-13,",
+                        "8.aksjer som tilbys vederlagsfritt til eksisterende aksjeeiere, og utbytte utbetalt i form av aksjer i samme klasse som de aksjer slikt utbytte utbetales for, forutsatt at nevnte aksjer er i samme klasse som allerede noterte aksjer, og at det foreligger et dokument med opplysninger om aksjeklasse, antall aksjer samt bakgrunn og vilkår for tilbudet,",
+                        "§ 7-6 annet ledd skal lyde:",
+                        "(2) Prospektmyndigheten kan i forskrift eller ved enkeltvedtak gjøre unntak fra reglene i dette kapittelet for tilbud om ikke-aksjerelaterte verdipapirer som utstedes fortløpende eller gjentatte ganger av kredittinstitusjoner, og som gjelder et totalbeløp tilbudt i EØS-land på mindre enn 75 000 000 euro beregnet over en periode på 12 måneder.",
+                        "§ 7-7 første ledd nr. 2 skal lyde:",
+                        "2.tilbud fremsatt i EØS-land og som samlet gjelder beløp på minst 5 000 000 euro beregnet over en periode på 12 måneder,",
+                        "§ 7-7 første ledd nr. 5 skal lyde:",
+                        "5.tilbud som gjelder beløp under 5 000 000 euro, forutsatt at det er utarbeidet prospekt etter bestemmelsene i medhold av § 7-13 annet ledd og §§ 7-14 til 7-21.",
+                        "§ 7-12 første ledd skal lyde:",
+                        "(1) Et godkjent prospekt kan benyttes i 12 måneder etter godkjenningen, forutsatt at det utarbeides tillegg i samsvar med § 7-15.",
+                        "§ 7-12 tredje ledd skal lyde:",
+                        "(3) Et godkjent registreringsdokument kan benyttes i 12 måneder etter godkjenningen, forutsatt at det utarbeides tillegg i samsvar med § 7-15 eller at tilsvarende opplysninger fremkommer i et verdipapirdokument.",
+                        "§ 7-13 annet ledd skal lyde:",
+                        "(2) Departementet kan i forskrift fastsette regler for innholdet i EØS-prospekter, herunder hvilke utstedere eller tilbud som kan følge forenklede krav.",
+                        "§ 7-14 annet ledd skal lyde:",
+                        "(2) Opplysninger som er offentliggjort og innsendt etter § 5-12 første ledd, kontrollert etter § 7-7 eller registrert etter § 7-10, kan anses som del av prospektet ved at det henvises til disse. I så fall må det foreligge en referanseliste som viser hvor de relevante opplysningene fremgår. Henvisninger kan ikke gjøres i prospektets sammendrag.",
+                        "§ 7-15 første punktum skal lyde:",
+                        "Enhver ny omstendighet, vesentlig feil eller unøyaktighet som kan få betydning for vurderingen av verdipapirene, og som fremkommer mellom tidspunktet for godkjenningen av prospektet og tidspunktet for akseptsperiodens utløp eller opptaket til notering, det alternativet som inntrer sist, skal fremgå av et tillegg til prospektet.",
+                        "§ 7-16 skal lyde:",
+                        "Utelatelse av visse opplysninger",
+                        "(1) Prospektmyndigheten kan tillate at enkelte opplysninger utelates i et prospekt",
+                        "1.dersom offentliggjøring av opplysningene er i strid med allmenne hensyn",
+                        "2.dersom offentliggjøring av opplysningene fører til at utstederen blir alvorlig skadelidende, forutsatt at utelatelsen ikke vil kunne virke villedende på offentligheten med hensyn til forhold som er av vesentlig betydning for vurderingen av utstederen, tilbyderen, eventuelle garantister eller verdipapirene,",
+                        "3.dersom opplysningene har liten betydning og ikke kan innvirke på vurderingen av utstederens, tilbyderens og eventuelle garantisters økonomiske stilling og utsikter,",
+                        "4.dersom informasjonen ikke er relevant på bakgrunn av utstederens virksomhet eller juridiske form, eller de aktuelle verdipapirene, og det ikke finnes tilsvarende opplysninger som kan anses relevante på bakgrunn av virksomheten mv.",
+                        "(2) Når verdipapirene er garantert av en EØS-stat, kan opplysninger om garantisten utelates.",
+                        "(3) Departementet kan i forskrift fastsette nærmere regler om utelatelse av opplysninger i prospekt.",
+                        "§ 7-19 annet ledd nr. 3 skal lyde:",
+                        "3.gjøres tilgjengelig elektronisk på hjemmesiden til tilbyderen, markedsplassen eller eventuelle verdipapirforetak som plasserer tilbudet, eller",
+                        "§ 7-19 nytt tredje ledd skal lyde:",
+                        "(3) Ved offentliggjøring etter annet ledd nr. 1, 2 eller 4 skal prospektet også offentliggjøres elektronisk etter annet ledd nr. 3.",
+                        "Nåværende tredje til sjette ledd blir nye fjerde til syvende ledd.",
+                        "§ 7-21 annet ledd skal lyde:",
+                        "(2) Dersom det offentliggjøres tillegg som nevnt i § 7-15, kan aksept av tilbudt gjort før tillegget ble offentliggjort tilbakekalles innen to dager etter slik offentliggjøring dersom den nye omstendigheten, feilen eller unøyaktigheten som nevnt i § 7-15 fremkom før akseptfristens utløp og før levering av verdipapirene. Siste dato for tilbakekall av aksepten skal angis i tillegget.",
+                        "§ 8-2 første ledd skal lyde:",
+                        "(1) Ansatte kan ikke utstede eller handle for egen regning med finansielle instrumenter som nevnt i § 2-2 første ledd nr. 4 og § 2-2 annet ledd nr. 3. Dette gjelder likevel ikke erverv av opsjoner på aksjer eller egenkapitalbevis i arbeidsgiverforetaket når opsjonene er utstedt av foretaket. Andre finansielle instrumenter, med unntak av andeler i verdipapirfond, kan avhendes tidligst 12 måneder etter ervervet.",
+                        "§ 8-2 fjerde ledd skal lyde:",
+                        "(4) Ansatte kan ikke kjøpe finansielle instrumenter av arbeidsgiverforetaket, eller selge finansielle instrumenter til arbeidsgiverforetaket. Tilsvarende gjelder for verdipapirfond som arbeidsgiverforetaket er forvaltningsselskap for. Forbudet gjelder ikke erverv av aksjer eller egenkapitalbevis utstedt av foretaket eller rettigheter til slike aksjer eller egenkapitalbevis som er utstedt av foretaket eller erverv av andeler i verdipapirfond som forvaltes av arbeidsgiverforetaket.",
+                        "§ 9-1 nytt tredje og fjerde ledd skal lyde:",
+                        "(3) Tjenester som nevnt i § 2-1 første ledd nr. 1 til 6 som ytes på forretningsmessig basis i forbindelse med andeler i selskap som definert i selskapsloven § 1-2 første ledd bokstav a, b, c og e og andeler i tilsvarende utenlandske selskaper, kan bare ytes av foretak som har tillatelse til å yte tilsvarende investeringstjenester etter første ledd.",
+                        "(4) Bestemmelsene i kapittel 9 og 10 og forskrifter gitt i medhold av disse, med unntak av §§ 9-23, 10-7, 10-18, 10-19 og 10-20, gjelder tilsvarende ved yting av tjenester som nevnt i tredje ledd.",
+                        "§ 9-2 annet ledd nr. 9 og nytt nr. 10 skal lyde:",
+                        "9.handler for andre medlemmers regning i derivatmarkedet, eller stiller priser for slike medlemmer, forutsatt at kontraktene som inngås eller prisene som stilles er sikret ved at oppgjørsmedlemmer eller oppgjørssentral fra de samme markedene trer inn som part eller på annen måte garanterer for oppfyllelsen av kontraktene eller prisene,",
+                        "10.kun yter tjenester som nevnt i § 9-1 tredje ledd overfor kunder som påtar seg et samlet forpliktet investeringsbeløp som minst svarer til 5 000 000 norske kroner, eller overfor kunder etter verdipapirforskriften § 10-1 jf. § 10-2.",
+                        "§ 9-9 første ledd nytt annet punktum skal lyde:",
+                        "Personer som nevnt i første punktum skal fremlegge ordinær politiattest etter politiregisterloven § 40.",
+                        "§ 9-10 fjerde ledd nytt annet punktum skal lyde:",
+                        "Den som erverver betydelig eierandel etter reglene i første og annet ledd, skal fremlegge ordinær politiattest etter politiregisterloven § 40 dersom Finanstilsynet ber om det.",
+                        "§ 9-21 annet ledd nr. 2 skal lyde:",
+                        "2.er underlagt felles ledelse med et annet foretak som nevnt i finansieringsvirksomhetsloven § 2a-2 bokstav i. Finanstilsynet kan i forskrift eller ved enkeltvedtak gjøre unntak fra første punktum.",
+                        "§ 13-1 tredje ledd nytt annet punktum skal lyde:",
+                        "Personer som nevnt i første punktum skal fremlegge ordinær politiattest etter politiregisterloven § 40.",
+                        "§ 13-1 fjerde ledd nytt annet punktum skal lyde:",
+                        "Personer som nevnt i første punktum skal fremlegge ordinær politiattest etter politiregisterloven § 40 dersom Finanstilsynet ber om det.",
+                        "§ 13-1 fjerde ledd nåværende annet punktum blir nytt tredje punktum.",
+                        "§ 14-1 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 14-1",
+                    "title": "Anvendelsesområdet",
+                    "sections": [
+                        "Dette kapittel gjelder finansielle instrumenter som nevnt i § 2-2 femte ledd og avtaler om handel med valuta. Departementet kan i forskrift bestemme at dette kapittel også skal gjelde avtaler om andre finansielle instrumenter.",
+                        "§ 15-1 annet ledd annet punktum skal lyde:",
+                        "Departementet kan delegere Finanstilsynets tilsyn med overholdelse av §§ 5-2 og 5-3, samt forskrifter gitt for å utfylle disse bestemmelsene, til regulert marked.",
+                        "§ 17-3 annet ledd nr. 6 skal lyde:",
+                        "6.grovt eller gjentatte ganger overtrer § 3-9, § 3-10, § 4-1, § 5-2, § 5-3 eller § 10-11, jf. forskrifter gitt i medhold av disse bestemmelsene.",
+                        "§ 17-4 tredje ledd første punktum skal lyde:",
+                        "Ved forsettlig eller uaktsom overtredelse av bestemmelsene i §§ 5-2 eller 5-3, samt forskrifter gitt for å utfylle disse bestemmelsene, kan Finanstilsynet ilegge overtredelsesgebyr.",
+                        "I lov 25. november 2011 nr. 44 om verdipapirfond gjøres følgende endringer:",
+                        "§ 2-5 annet ledd nytt annet punktum skal lyde:",
+                        "Den som erverver betydelig eierandel etter reglene i første ledd, skal fremlegge ordinær politiattest etter politiregisterloven § 40 dersom Finanstilsynet ber om det.",
+                        "§ 2-7 første ledd nytt fjerde punktum skal lyde:",
+                        "Personer som nevnt i annet og tredje punktum skal fremlegge ordinær politiattest etter politiregisterloven § 40.",
+                        "§ 10-3 tredje ledd nytt annet punktum skal lyde:",
+                        "I forbindelse med vurdering av depotmottaker for fondet skal ledende ansatte fremlegge ordinær politiattest etter politiregisterloven § 40.",
+                        "1.Loven gjelder fra den tid Kongen bestemmer.",
+                        "2.Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.",
+                        "3.Endringene i verdipapirhandelloven § 5-4 sjette ledd annet punktum, § 5-10 femte ledd og § 5-13 sjette ledd gjelder ikke obligasjoner som ble opptatt til notering på regulert marked i en EØS-stat før 31. desember 2010.",
+                        "4.Departementet kan gi overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "XVIII",
+            "paragraphs": []
+        },
+        {
+            "name": "XIX",
+            "paragraphs": []
+        }
+    ]
+}

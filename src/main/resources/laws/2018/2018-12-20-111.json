@@ -1,0 +1,26 @@
+{
+    "lawId": "LOV-2018-12-20-111",
+    "lawName": "Lov om endring i folkeregisterloven",
+    "shortName": "Endringslov til folkeregisterloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 9-4",
+                    "title": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+                    "sections": [
+                        "Folkeregistermyndigheten kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+                        "Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.",
+                        "Endringen under I trer i kraft 1. juli 2019."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

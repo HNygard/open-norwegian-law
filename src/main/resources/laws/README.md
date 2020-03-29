@@ -1,0 +1,1 @@
+The files in this folder is downloaded and processed by https://github.com/HNygard/norsk-lovtidend.

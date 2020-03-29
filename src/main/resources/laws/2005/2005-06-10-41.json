@@ -1,0 +1,450 @@
+{
+    "lawId": "LOV-2005-06-10-41",
+    "lawName": "Lov om forsikringsformidling",
+    "shortName": "Forsikringsformidlingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1. Anvendelsesområde og definisjoner",
+            "paragraphs": [
+                {
+                    "name": "§ 1-1",
+                    "title": "Anvendelsesområde",
+                    "sections": [
+                        "Denne loven gjelder formidling av direkte forsikring og gjenforsikring.",
+                        "Loven gjelder ikke:",
+                        "1.virksomhet som utøves av et forsikringsselskap eller av en ansatt i et forsikringsselskap som handler på forsikringsselskapets ansvar.",
+                        "2.virksomhet som består i å gi opplysninger ved enkelte anledninger som ledd i annen yrkesvirksomhet, dersom formålet med denne virksomheten ikke er å bistå kunden med inngåelse eller gjennomføring av en forsikringsavtale.",
+                        "3.virksomhet som kun formidler generell informasjon om forsikringsprodukter eller skaper kontakt til forsikringsselskaper, dersom formålet med denne virksomheten ikke er å bistå kunden med inngåelse eller gjennomføring av en forsikringsavtale.",
+                        "4.ervervsmessig virksomhet som ivaretar administrasjonen av et forsikringsselskaps skadebehandling, eller taksering og sakkyndig vurdering av skader.",
+                        "Loven gjelder heller ikke formidling av forsikringsavtaler dersom følgende vilkår er oppfylt:",
+                        "1.forsikringsavtalen krever bare kunnskap om den forsikringsdekningen som tilbys,",
+                        "2.forsikringsavtalen er ikke en livsforsikringsavtale,",
+                        "3.forsikringsavtalen omfatter ikke ansvarsforsikring,",
+                        "4.forsikringsformidling er ikke formidlerens yrkesmessige hovedvirksomhet,",
+                        "5.forsikringen utgjør et supplement til vare eller tjeneste levert av formidleren, og dekker:",
+                        "a)risikoen for funksjonssvikt, tap av eller skade på varen, eller",
+                        "b)skade på eller tap av bagasje og andre risikoer i forbindelse med en reise bestilt av formidleren, selv om forsikringen omfatter livs- eller ansvarsforsikring, forutsatt at livs- eller ansvarsforsikringen er underordnet hoveddekningen for risikoene knyttet til reisen,",
+                        "6.det årlige premiebeløpet ikke overstiger et beløp som svarer til 500 euro, og forsikringsavtalens totale gyldighetstid, herunder eventuelle forlengelser, ikke overstiger fem år.",
+                        "For forsikringsformidlere som er registrert i annen stat i EØS gjelder § 8-2 første, annet, tredje og fjerde ledd.",
+                        "Kredittilsynet avgjør i tvilstilfelle om en virksomhet driver forsikringsformidling."
+                    ]
+                },
+                {
+                    "name": "§ 1-2",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I denne loven betyr:",
+                        "1.forsikringsformidling: ervervsmessig virksomhet som består i å legge fram, foreslå eller utføre annet forberedende arbeid i forbindelse med inngåelse av forsikringsavtaler, eller å inngå slike avtaler, eller å bistå ved forvaltningen og gjennomføringen av slike avtaler, særlig i forbindelse med et skadetilfelle.",
+                        "2.forsikringsmegling: forsikringsformidlingsvirksomhet som består i å gi kunden råd ut fra en analyse av et så stort antall av de på markedet disponible forsikringsløsninger som mulig, eller virksomhet som består i å presentere kunden for forsikringsløsninger fra et eller flere forsikringsselskaper, uten at det er inngått uttrykkelig avtale med forsikringsselskapene om dette.",
+                        "3.gjenforsikringsmegling: forsikringsformidlingsvirksomhet som består i å gi et forsikringsselskap råd i forbindelse med inngåelse av gjenforsikringsavtaler ut fra en analyse av et så stort antall av de på markedet disponible forsikringsløsninger som mulig, eller virksomhet som består i å presentere forsikringsselskapet for forsikringsløsninger fra et eller flere gjenforsikringsselskaper, uten at det er inngått uttrykkelig avtale med gjenforsikringsselskapene om dette.",
+                        "4.forsikringsagentvirksomhet: forsikringsformidlingsvirksomhet som består i å tilby forsikringsprodukter for og på vegne av et eller flere forsikringsselskap."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Tillatelse til å drive forsikringsmeglingsvirksomhet",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "Tillatelse fra Kredittilsynet",
+                    "sections": [
+                        "Forsikringsmeglingsvirksomhet kan ikke drives uten tillatelse fra Kredittilsynet.",
+                        "Søknad om tillatelse skal inneholde opplysninger av betydning for vurderingen av om tillatelse skal gis, herunder minst:",
+                        "1.dokumentasjon for at foretaket oppfyller kravene i § 2-2,",
+                        "2.en beskrivelse av hvilke forsikringsklasser/risikoer forsikringsmeglerforetaket vil megle her i riket.",
+                        "Virksomheten kan igangsettes når vilkårene for tillatelsen er oppfylt og forsikringsmeglingsforetaket har mottatt bekreftelse fra Kredittilsynet.",
+                        "Kredittilsynet skal registrere foretaket og den eller de i ledelsen som er ansvarlig for forsikringsmeglingsvirksomheten."
+                    ]
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Vilkår for tillatelse til å drive forsikringsmeglingsforetak",
+                    "sections": [
+                        "Tillatelse til å drive forsikringsmeglingsvirksomhet kan gis til foretak som oppfyller følgende vilkår:",
+                        "1.Foretaket må være organisert som aksjeselskap, allmennaksjeselskap, ansvarlig selskap, kommandittselskap eller enkeltpersonforetak.",
+                        "2.Foretaket må ikke være under konkursbehandling eller gjeldsforhandling.",
+                        "3.Foretaket må oppfylle kravene til forsikring i kapittel 4.",
+                        "4.Den eller de i ledelsen som er ansvarlig for forsikringsmeglingsvirksomheten må oppfylle kravene i §§ 3-1 og 3-3."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Krav til egnethet for forsikringsmeglere og ledelsen i forsikringsmeglingsforetak",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "Kvalifikasjonskrav for ledelsen",
+                    "sections": [
+                        "Daglig leder og eventuell annen person som faktisk leder forsikringsmeglingsvirksomheten skal ha generell kunnskap om forsikringsmegling.",
+                        "Kredittilsynet kan gi nærmere regler om hvilke krav til generell kunnskap daglig leder og eventuell annen person som faktisk leder forsikringsmeglingsvirksomheten, må oppfylle."
+                    ]
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "Kvalifikasjonskrav for forsikringsmeglere",
+                    "sections": [
+                        "Forsikringsmeglere skal til enhver tid ha den kunnskap og kompetanse som er nødvendig i forhold til forsikringsmeglingsforetakets virksomhet.",
+                        "En forsikringsmegler skal anses for å ha den nødvendige kunnskap og kompetanse når vedkommende:",
+                        "1.er autorisert forsikringsmegler i medhold av bestemmelser om autorisasjon av forsikringsmeglere fra bransjeorganisasjon eller utdannelsesinstitusjon godkjent av Kredittilsynet,",
+                        "2.har en tilfredsstillende utdannelse og minst tre års praksis fra forsikring som er relevant for forsikringsmeglingsforetakets virksomhet, eller",
+                        "3.har relevant praksis fra fem sammenhengende år i et forsikringsmeglingsforetak eller i et forsikringsselskap.",
+                        "Opparbeidet praksis i henhold til annet ledd må ikke være avsluttet mer enn fem år før søknaden om tillatelse er fremsatt.",
+                        "Kredittilsynet kan gi nærmere regler om hvilke krav til kunnskap og kompetanse forsikringsmeglere må oppfylle."
+                    ]
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Krav til hederlig vandel for ledelsen og forsikringsmeglere",
+                    "sections": [
+                        "Daglig leder og eventuell annen person som faktisk leder forsikringsmeglingsvirksomheten og forsikringsmegler skal ha hederlig vandel og ikke være under konkursbehandling, konkurskarantene eller gjeldsforhandling.",
+                        "Tillatelse skal i alle tilfeller nektes dersom personer som er omfattet av første ledd:",
+                        "1.er dømt for et straffbart forhold og det utviste forhold gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte, eller",
+                        "2.i stilling eller ved utøvelsen av andre verv har utvist en slik atferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte.",
+                        "De personer som er omfattet av første ledd skal i søknaden om tillatelse fremlegge utdrag av strafferegisteret og bekreftelse fra Brønnøysundregistrene for at vedkommende ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Forsikring for forsikringsmeglingsforetak",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Forsikringsmeglingsforetakets plikt til å sørge for forsikring",
+                    "sections": [
+                        "Forsikringsmeglingsforetaket skal før virksomheten igangsettes, og så lenge meglingsvirksomheten utøves, sørge for å ha forsikringer i samsvar med bestemmelsene i dette kapitlet.",
+                        "Forsikringen må tegnes i et selskap som har hovedsete i, er gitt tillatelse til å drive forsikringsvirksomhet i og er underlagt myndighetstilsyn i en EØS-stat.",
+                        "Gyldig forsikringsbevis skal sendes Kredittilsynet hvert år."
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Hva forsikringene skal dekke",
+                    "sections": [
+                        "Forsikringsmeglingsforetakets ansvar overfor oppdragsgiver eller andre som utleder sin rett fra oppdragsgiver grunnet yrkesmessig uaktsomhet, skal til enhver tid være dekket av en ansvarsforsikring.",
+                        "Dersom forsikringsmeglingsforetaket behandler klientmidler skal de i tillegg til forsikring som nevnt i første ledd ha en forsikring som dekker underslag av klientmidler begått av ansatte eller andre som utfører arbeid, oppdrag eller tillitsverv for forsikringsmeglingsforetaket."
+                    ]
+                },
+                {
+                    "name": "§ 4-3",
+                    "title": "Fremsettelse av krav",
+                    "sections": [
+                        "Forsikringsselskapet som forsikringsmeglingsforetaket har når skadelidte fremsetter krav om erstatning, er ansvarlig overfor skadelidte.",
+                        "Et erstatningskrav anses for fremsatt på det tidligste av følgende tidspunkter:",
+                        "1.det tidspunktet forsikringsmeglingsforetaket eller dettes forsikringsselskap første gang mottok melding om tapet med krav om erstatning, eller",
+                        "2.det tidspunktet forsikringsmeglingsforetaket eller dettes forsikringsselskap første gang mottok skriftlig melding fra skadelidte vedrørende omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot sikrede. Dette gjelder også melding fra sikrede til forsikringsselskapet."
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "Ansvarsforsikringens størrelse",
+                    "sections": [
+                        "Minstekrav til beløpsmessig omfang av forsikringsdekning som angitt i § 4-2 første og annet ledd settes i forskrift fastsatt av departementet. Det kan i forskriften fastsettes ulike minimumsbeløp for små og store forsikringsmeglingsforetak."
+                    ]
+                },
+                {
+                    "name": "§ 4-5",
+                    "title": "Nærmere krav til forsikringene",
+                    "sections": [
+                        "Skadelidte kan kreve dekning direkte fra forsikringsselskapet uten først å ha rettet krav mot forsikringsmeglingsforetaket.",
+                        "Forsikringsselskapet kan ikke gjøre gjeldende andre innsigelser overfor skadelidte enn de innsigelser forsikringsmeglerforetaket selv har i forholdet til skadelidte.",
+                        "Oppsigelse av forsikringene eller bortfall av forsikringene på annen måte er ikke virksom i forhold til skadelidte før en måned etter at Kredittilsynet har mottatt melding om bortfallet. Stilles ny forsikring før utløpet av denne perioden, blir bortfallet av forsikringen virksomt fra det tidspunktet ny forsikring er stilt.",
+                        "Ansvarsforsikringen skal dekke krav som fremsettes mot sikrede i en periode på fem år etter opphør av virksomheten.",
+                        "Lov av 16. juni 1989 nr. 69 om forsikringsavtaler § 7-5 skal gjelde når ikke annet følger av loven her. Forsikringsavtaleloven § 7-7 jf. § 7-6 gjelder så langt den passer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Generelle krav til meglingsvirksomheten",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Klientkonto",
+                    "sections": [
+                        "Klientmidler skal straks plasseres på klientkonto i bank atskilt fra forsikringsmeglingsforetakets egne midler. Meglingsforetaket skal opplyse banken om at midlene på kontoen tilhører klienter."
+                    ]
+                },
+                {
+                    "name": "§ 5-2",
+                    "title": "Regler for god meglerskikk mv.",
+                    "sections": [
+                        "Et forsikringsmeglingsforetak skal drive virksomheten i henhold til god meglerskikk. Forsikringsmeglingsforetaket må ikke opptre på en måte som er egnet til å skape tvil om dets stilling som uavhengig mellomledd. Forsikringsmeglingsforetaket skal sørge for den dokumentasjon som er nødvendig for at en forsikringsavtale skal komme i stand.",
+                        "Forsikringsmeglerforetaket skal utvise tilbørlig aktsomhet ved valg av forsikringsgiver og fraråde oppdragsgiveren å bruke forsikringsgivere hvis evne til å oppfylle pliktene under forsikringer kan trekkes i tvil eller er ukjent.",
+                        "Forsikringsmeglingsforetaket kan ikke gjennom avtaler med forsikringsselskap eller på annen måte innrette seg slik at det kan påvirke forsikringsmeglerforetakets uavhengighet som megler."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Hvilke forsikringsselskap forsikringsmeglingsforetaket kan megle til mv.",
+                    "sections": [
+                        "Forsikring kan bare megles til forsikringsselskap med hovedsete i EØS-stat og til norsk filial av utenlandsk forsikringsselskap med konsesjon etter forsikringsvirksomhetsloven § 12-1. Lovpliktige skadeforsikringer kan bare megles til forsikringsselskap som oppfyller de krav som gjelder etter den særlige reguleringen av slike forsikringer.",
+                        "Skadeforsikring i næringsvirksomhet kan likevel megles til skadeforsikringsselskap med hovedsete i stat utenfor EØS dersom forsikringen ikke gjelder:",
+                        "1.lovpliktig yrkesskadeforsikring",
+                        "2.lovpliktig ansvarsforsikring for motorkjøretøy",
+                        "3.lovpliktig ansvarsforsikring som gjelder erstatningsansvar for skade voldt ved atomskade eller av legemidler.",
+                        "Skadeforsikring i næringsvirksomhet betyr:",
+                        "1:",
+                        "a)sjø- og transportforsikring",
+                        "b)luftfartsforsikring",
+                        "c)forsikring knyttet til undersøkelser etter, utnytting, lagring eller rørtransport av undersjøiske naturforekomster",
+                        "d)kreditt eller kausjon når forsikringstaker utøver handels- eller industrivirksomhet eller et fritt yrke, og avtalen gjelder for virksomheten",
+                        "2:",
+                        "a)forsikring tegnet av foretak med ansatte som tilsvarer minst 10 årsverk",
+                        "b)forsikring tegnet av foretak med en årsomsetning på minst 50 mill. kroner."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Informasjon fra forsikringsmegleren",
+                    "sections": [
+                        "I forbindelse med inngåelse av en forsikringsavtale og ved endring eller fornyelse av avtalen, skal en forsikringsmegler minst gi kunden informasjon som fastsatt i forskrift av departementet."
+                    ]
+                },
+                {
+                    "name": "§ 5-5",
+                    "title": "Informasjonsvilkår",
+                    "sections": [
+                        "All informasjon til kunder i henhold til § 5-4 skal gis:",
+                        "1.på papir eller et annet varig medium som er disponibelt og tilgjengelig for kunden",
+                        "2.på en tydelig og nøyaktig måte som er forståelig for kunden",
+                        "3.på et offisielt språk i den medlemsstaten der forpliktelsen består, jf. lov 27. november 1992 nr. 111 om lovvalg i forsikring § 2 nr. 1 og § 9, eller på et annet språk som partene er enige om.",
+                        "Informasjon som nevnt i § 5-4 kan gis muntlig når kunden ber om det, eller når umiddelbar dekning er nødvendig. I så fall skal den umiddelbart etter inngåelsen av forsikringsavtalen bekreftes i samsvar med første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 5-6",
+                    "title": "Opplysningsplikt overfor Norsk Naturskadepool",
+                    "sections": [
+                        "Forsikringsmeglingsforetaket skal ved utføringen av megleroppdraget opplyse Norsk Naturskadepool om brannskadeforsikring på ting her i riket som megles til forsikringsselskap som ikke er medlem av Norsk Naturskadepool."
+                    ]
+                },
+                {
+                    "name": "§ 5-7",
+                    "title": "Opplysningsplikt overfor Kredittilsynet",
+                    "sections": [
+                        "Forsikringsmeglingsforetaket skal årlig opplyse Kredittilsynet om fordelingen på de forskjellige forsikringsselskapene av de forsikringer forsikringsmeglingsforetaket eller filialen har meglet i løpet av siste regnskapsår her i riket. Kredittilsynet fastsetter nærmere bestemmelser om meldingens innhold og fristen for når meldingen skal være sendt Kredittilsynet.",
+                        "Forsikringsmeglingsforetaket plikter på anmodning fra Kredittilsynet når som helst å gi de opplysninger om virksomheten som Kredittilsynet behøver for å føre tilsyn i samsvar med bestemmelsene i loven her."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Gjenforsikringsmeglingsvirksomhet",
+            "paragraphs": [
+                {
+                    "name": "§ 6-1",
+                    "title": "Gjenforsikringsmeglingsvirksomhet",
+                    "sections": [
+                        "For utøvelse av gjenforsikringsmeglingsvirksomhet får reglene i kapittel 2, 3, 4, 8, 9, 10 og §§ 5-1 til 5-3 og § 5-7 tilsvarende anvendelse.",
+                        "Kredittilsynet kan fastsette særlige regler eller unntak fra første ledd under hensyn til de særlige forhold som gjelder for gjenforsikringsmeglere."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Forsikringsagentvirksomhet",
+            "paragraphs": [
+                {
+                    "name": "§ 7-1",
+                    "title": "Registrering",
+                    "sections": [
+                        "Når et forsikringsselskap inngår en avtale med et forsikringsagentforetak om formidling av selskapets produkter, skal forsikringsselskapet registrere forsikringsagentforetaket, daglig leder og eventuelt annen person som faktisk leder forsikringsagentvirksomheten i et offentlig tilgjengelig register. Forsikringsagenten handler fullt og helt på forsikringsselskapets ansvar for de produktene som formidles.",
+                        "Ved registrering av forsikringsagentforetaket gis forsikringsagentforetaket fullmakt til å formidle forsikringsselskapets produkter.",
+                        "Forsikringsagentforetaket kan ikke gi fullmakten videre til en underagent uten at de krav som er stilt i §§ 7-2, 7-3 og 7-6 jf. § 7-11 er oppfylt for underagentvirksomheten.",
+                        "Departementet kan fastsette nærmere regler om føring av registre."
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Egnethet",
+                    "sections": [
+                        "Før et forsikringsselskap inngår avtale med en forsikringsagentvirksomhet skal forsikringsagentvirksomheten overfor forsikringsselskapet godtgjøre at:",
+                        "1.daglig leder og eventuell annen person som faktisk leder forsikringsagentvirksomheten har generell kunnskap om virksomheten",
+                        "2.forsikringsagentene oppfyller kravene i § 7-3",
+                        "3.de personer som er omfattet av nr. 1 og 2 har hederlig vandel og ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling.",
+                        "Registrering skal i alle tilfeller nektes hvis personer som er omfattet av nr. 1 og 2:",
+                        "1.er dømt for et straffbart forhold hvor det utviste forhold gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte, eller",
+                        "2.ved utøvelsen av arbeid, oppdrag eller tillitsverv har utvist en slik atferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte.",
+                        "Personer som er omfattet av første ledd nr. 1 og 2 skal før registrering fremlegge for forsikringsselskapet utdrag av strafferegisteret og bekreftelse fra Brønnøysundregistrene for at vedkommende ikke er under konkursbehandling, eller underlagt konkurskarantene.",
+                        "Forsikringsselskapet plikter på anmodning fra Kredittilsynet når som helst å gi opplysninger som viser hvordan kravene i første ledd oppfylles. Kredittilsynet kan gi nærmere regler om hvilke krav til generell kunnskap som ledelsen må oppfylle."
+                    ]
+                },
+                {
+                    "name": "§ 7-3",
+                    "title": "Kvalifikasjonskrav for forsikringsagenter",
+                    "sections": [
+                        "Forsikringsagenter skal til enhver tid ha den kunnskap og kompetanse som er nødvendig i forhold til den virksomhet som drives.",
+                        "En agent skal anses for å ha den nødvendige kunnskap og kompetanse når vedkommende:",
+                        "1.er autorisert forsikringsrådgiver i medhold av bestemmelser om autorisasjon av forsikringsrådgivere fra bransjeorganisasjon eller utdannelsesinstitusjon godkjent av Kredittilsynet,",
+                        "2.har en tilfredsstillende utdannelse og minst ett års praksis fra forsikring som er relevant for agentforetakets virksomhet, eller",
+                        "3.har relevant praksis fra tre sammenhengende år i en forsikringsagentvirksomhet eller i et forsikringsselskap.",
+                        "Opparbeidet praksis i henhold til annet ledd må ikke være avsluttet mer enn fem år før registrering av forsikringsagentvirksomheten.",
+                        "Kredittilsynet kan fastsette nærmere regler om hvilken kunnskap og kompetanse forsikringsagenten skal besitte, herunder om formidling av forsikringsprodukter som krever liten kompetanse."
+                    ]
+                },
+                {
+                    "name": "§ 7-4",
+                    "title": "Nektelse av registrering",
+                    "sections": [
+                        "Registrering skal nektes dersom kravene i §§ 7-2 og 7-3 ikke er oppfylt."
+                    ]
+                },
+                {
+                    "name": "§ 7-5",
+                    "title": "Forsikringer",
+                    "sections": [
+                        "Agentvirksomheten må tegne forsikring etter reglene i loven kapittel 4, med mindre forsikringsselskapet i avtalen med agenten har påtatt seg å dekke dette erstatningsansvaret.",
+                        "Skadelidte kan kreve dekning direkte fra forsikringsselskapet uten først å ha rettet krav mot forsikringsagentforetaket."
+                    ]
+                },
+                {
+                    "name": "§ 7-6",
+                    "title": "Klientkonto",
+                    "sections": [
+                        "Forsikringsagentvirksomhet som krever inn premier eller beløp fra kunden skal ha klientkonto. Klientmidler skal straks plasseres på klientkonto i bank atskilt fra forsikringsagentvirksomhetens egne midler. Forsikringsagentvirksomheten skal opplyse banken om at midlene på kontoen tilhører klienter."
+                    ]
+                },
+                {
+                    "name": "§ 7-7",
+                    "title": "Hvilke forsikringsselskap forsikringsagenten kan formidle forsikringer for mv. Informasjon til kunden",
+                    "sections": [
+                        "Bestemmelsene i §§ 5-3 til 5-5 gjelder tilsvarende for forsikringsagentvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 7-8",
+                    "title": "Opplysningsplikt overfor Kredittilsynet",
+                    "sections": [
+                        "Forsikringsagentvirksomheten plikter på anmodning fra Kredittilsynet når som helst å redegjøre for de rutiner som forsikringsagentvirksomheten anvender til oppfyllelse av kravene som nevnt i dette kapitlet."
+                    ]
+                },
+                {
+                    "name": "§ 7-9",
+                    "title": "Aksessorisk agentvirksomhet",
+                    "sections": [
+                        "Kredittilsynet kan fastsette særlige regler eller unntak fra reglene i dette kapitlet under hensyn til de særlige forhold som gjelder for agenter som utøver forsikringsformidling i tillegg til sin yrkesmessige hovedvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 7-10",
+                    "title": "Forsikringsagentvirksomhet som representerer forsikringsselskap med hovedsete i andre land",
+                    "sections": [
+                        "Forsikringsagentvirksomhet som har avtale om formidling med et eller flere utenlandske forsikringsselskap skal registreres etter reglene i dette kapitlet. Dette gjelder likevel ikke hvis agentvirksomheten har avtale med et forsikringsselskap som har hovedsete i en EØS-stat og er registrert i forsikringsselskapets hjemland etter de regler om registrering som er fastsatt der. For agentvirksomheter som registreres i Kredittilsynet gjelder bestemmelsene i dette kapittel tilsvarende."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8. Filialetablering og grenseoverskridende virksomhet",
+            "paragraphs": [
+                {
+                    "name": "§ 8-1",
+                    "title": "Norske forsikringsformidleres virksomhet i utlandet",
+                    "sections": [
+                        "Den som ønsker å utøve forsikringsformidling i en annen stat, herunder gjennom utenlandsk datterselskap, skal gi Kredittilsynet melding om dette. Kredittilsynet skal gi nærmere regler om hva meldingen skal inneholde.",
+                        "Meldingen om å utøve forsikringsformidlingsvirksomhet i en annen EØS-stat, skal minst inneholde opplysninger om:",
+                        "1.hvilken stat filialen ønskes etablert i og filialens adresse, eller",
+                        "2.i hvilken stat grenseoverskridende virksomhet ønskes påbegynt.",
+                        "Senest én måned etter mottakelsen av melding som nevnt i forrige ledd skal Kredittilsynet underrette tilsynsmyndigheten i vertsstaten om forsikringsformidlerens intensjon når vedkommende myndighet ønsker slik underretning. Forsikringsformidler skal samtidig underrettes om oversendelsen. Forsikringsformidleren kan starte sin virksomhet én måned etter den dato vedkommende ble underrettet av Kredittilsynet. Forsikringsformidler kan starte sin virksomhet umiddelbart dersom vertsstaten ikke ønsker å bli underrettet om forsikringsformidlers intensjon.",
+                        "Forsikringsformidler har plikt til å gi melding til Kredittilsynet om endringer i de forhold som er meldepliktige.",
+                        "Kredittilsynet kan forby formidling av forsikringer til forsikringsselskap med hovedsete i stat utenfor EØS med vilkår eller premier som Kredittilsynet finner å være ubetryggende eller urimelige. Tilsvarende gjelder for formidling av forsikringer til forsikringsselskap med hovedsete i annen stat i EØS dersom Kredittilsynet finner at vilkår og premier er urimelige."
+                    ]
+                },
+                {
+                    "name": "§ 8-2",
+                    "title": "Utenlandske forsikringsformidleres virksomhet i Norge",
+                    "sections": [
+                        "Forsikringsmeglere som er registrert i en annen EØS-stat kan starte virksomhet her i riket gjennom en filial eller som grenseoverskridende virksomhet en måned etter at Kredittilsynet har mottatt melding fra tilsynsmyndigheten i selskapets hjemland om den planlagte virksomheten. Bestemmelsene i lovens §§ 5-2, 5-3, 5-4, 5-6 og 5-7 annet ledd gjelder for slik forsikringsmeglervirksomhet. Departementet kan gi nærmere regler om anvendelsen av nevnte lovbestemmelser på utenlandske virksomheter og kan gjøre unntak fra bestemmelsene dersom en forsikringsmegler er underlagt tilsvarende bestemmelser i henhold til hjemlandets lovgivning.",
+                        "Forsikringsagentvirksomhet som er registrert i annen EØS-stat kan begynne sin virksomhet her i riket når den har gitt melding til vedkommende myndighet i hjemlandet.",
+                        "Utenlandsk forsikringsformidlerforetak med hovedsete utenfor EØS kan etter særskilt tillatelse fra Kredittilsynet etablere filial her i riket. Bestemmelsene i loven her gjelder så langt de passer. Kredittilsynet kan fastsette utfyllende regler for etablering av filial her i riket av forsikringsformidler som er meddelt tillatelse eller registrert i en stat utenfor EØS.",
+                        "Kredittilsynet kan, etter å ha fremlagt saken for vedkommende myndighet i den stat forsikringsformidler er registrert, pålegge forsikringsformidler å opphøre med virksomhet her i riket, dersom forsikringsformidler har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter etter denne lov eller andre lover og forskrifter som gjelder her i riket.",
+                        "Kredittilsynet kan kreve at meldingen med bilag skal være oversatt til norsk av godkjent translatør.",
+                        "Bestemmelsene om opplysningsplikt i kredittilsynsloven gjelder for utenlandsk foretak som driver virksomhet her i riket i henhold til bestemmelsene i loven her."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9. Klage, tilsyn, tilbakekall av tillatelse, sanksjoner mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 9-1",
+                    "title": "Klage",
+                    "sections": [
+                        "Dersom det oppstår tvist mellom oppdragsgiver og forsikringsformidler, kan hver av partene kreve å få behandlet denne av kompetent organ som fastsatt i forskrift av departementet. Så lenge tvisten er til behandling i organet, kan ingen av partene bringe tvisten inn for domstolene. En sak som er realitetsbehandlet av organet, kan bringes direkte inn for domstolene."
+                    ]
+                },
+                {
+                    "name": "§ 9-2",
+                    "title": "Tilsyn",
+                    "sections": [
+                        "Kredittilsynet skal føre tilsyn med forsikringsformidling i samsvar med reglene i loven her og kredittilsynsloven."
+                    ]
+                },
+                {
+                    "name": "§ 9-3",
+                    "title": "Tilbakekall av tillatelse og sletting av registrering",
+                    "sections": [
+                        "Kredittilsynet kan kalle tilbake tillatelse som forsikringsmeglingsforetak dersom kravene i eller i medhold av loven her ikke lenger er oppfylt.",
+                        "Kredittilsynet kan gi forsikringsselskap pålegg om å slette registrering av agentvirksomhet dersom kravene i eller i medhold av loven her ikke lenger er oppfylt."
+                    ]
+                },
+                {
+                    "name": "§ 9-4",
+                    "title": "Administrativt rettighetstap",
+                    "sections": [
+                        "Kredittilsynet kan frata forsikringsmeglingsforetaket tillatelsen dersom en forsikringsmegler eller forsikringsmeglingsforetaket grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.",
+                        "Kredittilsynet kan gi forsikringsselskap pålegg om å slette registrering av agentvirksomhet dersom en forsikringsagent eller forsikringsagentvirksomheten grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.",
+                        "Vedtak etter denne bestemmelse kan gjelde en tidsbegrenset periode."
+                    ]
+                },
+                {
+                    "name": "§ 9-5",
+                    "title": "Straffeansvar",
+                    "sections": [
+                        "Forsettlig eller uaktsom overtredelse av denne lovs §§ 2-1, 4-1, 5-1, 5-3, 5-4, 5-6, 5-7 annet ledd, 7-1, 7-5, 7-6, 8-1 første ledd og 8-2 tredje ledd med tilhørende forskrifter, straffes med bøter eller fengsel inntil ett år. På samme måte straffes overtredelse av § 7-7, jf. §§ 5-3 og 5-4.",
+                        "Grove eller gjentatte brudd på god meglerskikk, jf. § 5-2, straffes på samme måte.",
+                        "Medvirkning straffes på samme måte."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10. Ikrafttredelse og overgangsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 10-1",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid."
+                    ]
+                },
+                {
+                    "name": "§ 10-2",
+                    "title": "Overgangsregler",
+                    "sections": [
+                        "Forsikringsmeglingsforetak som meglet forsikring før 1. september 2000, og var oppført i Kredittilsynets register, oppføres automatisk i nytt register i Kredittilsynet.",
+                        "Departementet kan fastsette øvrige overgangsregler."
+                    ]
+                },
+                {
+                    "name": "§ 10-3",
+                    "title": "Endring i andre lover",
+                    "sections": [
+                        "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:",
+                        "1.I lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven) gjøres følgende endringer:",
+                        "§ 1 første ledd nr. 17 skal lyde:",
+                        "17.Forsikringsformidlingsvirksomhet,",
+                        "§ 9 annet ledd, femte og sjette punktum skal lyde:",
+                        "Fordelingen innen de grupper som omfattes av § 1 første ledd nr. 5, 7, 9, 10, 11, 13, 14 og 16 skjer etter regler som fastsettes av departementet. Når tilsynet følger av § 1 annet ledd eller annen særskilt lovhjemmel, jf § 1 første ledd nr. 17, skjer fordelingen innen den enkelte gruppe etter regler som fastsettes av departementet.",
+                        "2.I lov av 10. juni 1988 nr. 39 om forsikringsvirksomhet oppheves § 2-4 annet ledd."
+                    ]
+                }
+            ]
+        }
+    ]
+}

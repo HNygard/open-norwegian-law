@@ -1,0 +1,390 @@
+{
+    "lawId": "LOV-2005-06-10-46",
+    "lawName": "Lov om endringer i lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) og enkelte andre lover (evaluering av regnskapsloven)",
+    "shortName": "Endringslov til regnskapsloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 3-4",
+                    "title": "Regnskapsvaluta, presentasjonsvaluta og språk",
+                    "sections": [
+                        "Regnskapsvaluta for årsregnskapet skal være norske kroner eller den valuta virksomheten i hovedsak er knyttet til (funksjonell valuta). Morselskap kan anvende funksjonell valuta i konsernregnskapet og norske kroner i selskapsregnskapet. Ved endring av regnskapsvaluta kan omregning skje til kursen på gjennomføringstidspunktet.",
+                        "Årsregnskapet kan presenteres i norske kroner, euro eller regnskapsvalutaen.",
+                        "Årsregnskapet og årsberetningen skal være på norsk. Departementet kan ved forskrift eller enkeltvedtak bestemme at årsregnskapet og/eller årsberetningen kan være på et annet språk.",
+                        "§ 3-6 annet og tredje ledd skal lyde:",
+                        "Selskapsregnskap som ikke er avlagt i samsvar med anvendte prinsipper i konsernregnskapet, skal for konsolideringsformål omarbeides i samsvar med de prinsipper som er anvendt i konsernregnskapet.",
+                        "Dersom datterselskap følger et annet regnskapsår enn morselskapet, skal konsernregnskapet bygge på et delårsregnskap som avgis ved regnskapsårets slutt. Er avviket tre måneder eller mindre, er det tilstrekkelig at datterselskapets årsregnskap korrigeres for vesentlige transaksjoner og hendelser i den mellomliggende perioden.",
+                        "§ 3-7 nytt femte ledd skal lyde:",
+                        "Regnskapspliktig hvis aksjer, andeler, grunnfondsbevis eller obligasjoner noteres på børs, autorisert markedsplass eller tilsvarende regulert marked i utlandet, kan ikke anvende unntaksbestemmelsene etter denne paragrafen.",
+                        "§ 3-8 første ledd skal lyde:",
+                        "Et datterselskap skal utelates fra konsolideringen etter § 3-2 tredje ledd hvis aksjene eller andelene i datterselskapet er anskaffet med sikte på midlertidig eie og holdes i påvente av salg.",
+                        "§ 3-9 nytt femte ledd skal lyde:",
+                        "Departementet kan gi forskrift om forenklet anvendelse av internasjonale regnskapsstandarder etter forskrifter fastsatt i medhold av annet ledd. I forskriften kan det gjøres unntak fra opplysningskrav i de internasjonale regnskapsstandardene. Forskriften kan i særlige tilfeller tillate avvik fra bestemmelser i de internasjonale regnskapsstandardene om innregning og måling, og om nødvendig fastsette alternativ regnskapsføring. Unntaket i § 3-1 tredje ledd fra kapittel 6 gjelder ikke. Forskriften kan fastsette at også andre unntak etter § 3-1 tredje ledd ikke skal gjelde.",
+                        "§ 4-1 annet ledd nytt annet punktum skal lyde:",
+                        "Små foretak kan fravike det grunnleggende prinsippet om sikring, jf. første ledd nr. 5.",
+                        "§ 4-1 tredje ledd skal lyde:",
+                        "Regnskapspliktig som nevnt i § 1-2 nr. 9, 10 eller 11 og som ikke har økonomisk vinning som formål, kan fravike de grunnleggende prinsippene om transaksjon, opptjening og sammenstilling, jf. første ledd nr. 1, 2 og 3, når dette kan anses som god regnskapsskikk for slike regnskapspliktige.",
+                        "§ 4-4 første ledd nytt annet punktum skal lyde:",
+                        "Prinsippanvendelsen i konsernregnskapet og selskapsregnskapet kan være forskjellig.",
+                        "§ 5-4 nytt tredje ledd skal lyde:",
+                        "Finansieringsutgifter på kapital som kan knyttes til tilvirkning av et anleggsmiddel kan kostnadsføres når de påløper.",
+                        "§ 5-8 første ledd skal lyde:",
+                        "Finansielle instrumenter og varederivater skal vurderes til virkelig verdi dersom de",
+                        "1.er klassifisert som omløpsmiddel,",
+                        "2.inngår i en handelsportefølje med henblikk på videresalg,",
+                        "3.omsettes på børs, autorisert markedsplass eller tilsvarende regulert marked i utlandet, og",
+                        "4.har god eierspredning og likviditet.",
+                        "§ 5-8 tredje og fjerde ledd oppheves. Nåværende femte ledd blir nytt tredje ledd.",
+                        "§ 5-14 annet ledd oppheves.",
+                        "§ 5-15 oppheves.",
+                        "§ 5-16 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 5-16",
+                    "title": "Fusjon og fisjon av små foretak",
+                    "sections": [
+                        "Ved fusjon mellom eller fisjon av små foretak kan eiendeler og gjeld i de fusjonerende eller fisjonerte foretakene videreføres til balanseførte verdier.",
+                        "§ 5-17 første og annet ledd skal lyde:",
+                        "Investering i tilknyttet selskap skal vurderes etter egenkapitalmetoden eller generelle vurderingsregler i selskapsregnskapet. Investering i tilknyttet selskap skal vurderes etter egenkapitalmetoden i konsernregnskapet. Egenkapitalmetoden kan likevel ikke anvendes for midlertidig investering i tilknyttet selskap.",
+                        "Investering i datterselskap skal vurderes etter egenkapitalmetoden eller generelle vurderingsregler i selskapsregnskapet. Egenkapitalmetoden kan likevel ikke anvendes for midlertidig investering i datterselskap.",
+                        "§ 5-17 tredje ledd nr. 4 oppheves.",
+                        "I § 5-18 skal paragrafoverskriften lyde:",
+                        "Deltakelse i felleskontrollert virksomhet",
+                        "§ 5-18 første ledd skal lyde:",
+                        "Dersom to eller flere deltakere ved avtale i fellesskap kontrollerer en virksomhet (felleskontrollert virksomhet), skal deltakelse i virksomheten regnskapsføres etter generelle vurderingsregler, bruttometoden eller egenkapitalmetoden i selskapsregnskapet. Deltakelse i felleskontrollert virksomhet skal regnskapsføres etter bruttometoden eller egenkapitalmetoden i konsernregnskapet. Midlertidig deltakelse i felleskontrollert virksomhet kan likevel ikke regnskapsføres etter egenkapitalmetoden eller bruttometoden.",
+                        "§ 5-18 annet ledd annet punktum oppheves.",
+                        "§ 5-19 første ledd annet punktum oppheves.",
+                        "§ 5-20 oppheves.",
+                        "§ 6-1 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 6-1",
+                    "title": "Resultatregnskap etter art",
+                    "sections": [
+                        "Resultatregnskapet etter art skal ha følgende oppstillingsplan:",
+                        "1.Salgsinntekt",
+                        "2.Annen driftsinntekt",
+                        "3.Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varer",
+                        "4.Endring i beholdning av egentilvirkede anleggsmidler",
+                        "5.Varekostnad",
+                        "6.Lønnskostnad",
+                        "7.Avskrivning på varige driftsmidler og immaterielle eiendeler",
+                        "8.Nedskrivning av varige driftsmidler og immaterielle eiendeler",
+                        "9.Annen driftskostnad",
+                        "10.Driftsresultat",
+                        "11.Inntekt på investering i datterselskap og tilknyttet selskap",
+                        "12.Inntekt på andre investeringer",
+                        "13.Renteinntekt fra foretak i samme konsern",
+                        "14.Annen finansinntekt",
+                        "15.Verdiendring av finansielle instrumenter vurdert til virkelig verdi",
+                        "16.Nedskrivning av finansielle eiendeler",
+                        "17.Rentekostnad til foretak i samme konsern",
+                        "18.Annen finanskostnad",
+                        "19.Ordinært resultat før skattekostnad",
+                        "20.Skattekostnad på ordinært resultat",
+                        "21.Ordinært resultat",
+                        "22.Ekstraordinære poster",
+                        "23.Skattekostnad på ekstraordinære poster",
+                        "24.Årsresultat",
+                        "Salgsinntekt etter første ledd nr. 1 skal ikke omfatte skatter og avgifter direkte knyttet til salget. Første ledd nr. 11 og 12 skal spesifisere resultatandel fra investering vurdert etter egenkapitalmetoden eller bruttometoden.",
+                        "Ny § 6-1 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 6-1 a",
+                    "title": "Resultatregnskap etter funksjon",
+                    "sections": [
+                        "Resultatregnskapet etter funksjon skal ha følgende oppstillingsplan:",
+                        "1.Salgsinntekt",
+                        "2.Kostnad solgte varer",
+                        "3.Brutto resultat",
+                        "4.Distribusjonskostnader",
+                        "5.Administrative kostnader",
+                        "6.Driftsresultat",
+                        "7.Inntekt på investering i datterselskap og tilknyttet selskap",
+                        "8.Inntekt på andre investeringer",
+                        "9.Renteinntekt fra foretak i samme konsern",
+                        "10.Rentekostnad til foretak i samme konsern",
+                        "11.Annen finansinntekt",
+                        "12.Annen finanskostnad",
+                        "13.Verdiendring av finansielle instrumenter vurdert til virkelig verdi",
+                        "14.Ordinært resultat før skattekostnad",
+                        "15.Skattekostnad på ordinært resultat",
+                        "16.Ordinært resultat",
+                        "17.Ekstraordinære poster",
+                        "18.Skattekostnad på ekstraordinære poster",
+                        "19.Årsresultat",
+                        "Salgsinntekt etter første ledd nr. 1 skal ikke omfatte skatter og avgifter direkte knyttet til salget. Første ledd nr. 7 og 8 skal spesifisere resultatandel fra investering vurdert etter egenkapitalmetoden eller bruttometoden.",
+                        "§ 6-2 første ledd A III nr. 7 og nytt nr. 8 skal lyde:",
+                        "7.Obligasjoner",
+                        "8.Andre fordringer",
+                        "§ 6-2 første ledd C I nytt nr. 3 skal lyde:",
+                        "3.Annen innskutt egenkapital",
+                        "§ 6-2 første ledd C II nr. 1 skal lyde:",
+                        "1.Fond",
+                        "§ 6-2 første ledd C II nr. 2 oppheves. Nåværende nr. 3 blir nytt nr. 2.",
+                        "§ 6-2 første ledd D III nr. 7 oppheves. Nåværende nr. 8 blir nytt nr. 7.",
+                        "§ 6-2 annet ledd skal lyde:",
+                        "Beholdning av egne aksjer skal føres opp til pålydende på egen linje under posten selskapskapital eller spesifiseres i note eller i oppstillingen av endringer i egenkapitalen.",
+                        "§ 6-2 nytt fjerde ledd skal lyde:",
+                        "I stedet for en oppstillingsplan etter første ledd kan den regnskapspliktige inndele eiendeler og gjeld etter likviditet dersom opplysningene er spesifisert på tilsvarende måte som etter første ledd, og dette gir mer relevante og pålitelige opplysninger.",
+                        "§ 6-3 første, annet og nytt tredje ledd skal lyde:",
+                        "Når den regnskapspliktiges forhold tilsier det, skal det i resultatregnskap og balanse foretas en ytterligere oppdeling av poster og tilføyelser av poster som ikke inngår i oppstillingsplanene.",
+                        "Poster, unntatt poster under egenkapital, skal slås sammen hvis sammenslåingen fører til et mer oversiktlig årsregnskap.",
+                        "Regnskapspliktige som nevnt i § 1-2 første ledd nr. 9, 10 eller 11, og som ikke har økonomisk vinning som formål, kan avvike fra oppstillingsplanene i § 6-1, § 6-1 a og § 6-2, dersom dette anses som god regnskapsskikk for slike regnskapspliktige.",
+                        "§ 6-5 første ledd nytt tredje punktum skal lyde:",
+                        "I resultatregnskapet vises årsresultat før og etter minoritetsinteresser.",
+                        "Nåværende tredje punktum blir nytt fjerde punktum.",
+                        "§ 7-2 første ledd første punktum skal lyde:",
+                        "Det skal gis opplysninger om anvendte regnskapsprinsipper, herunder prinsipper for inntektsføring og omregning av utenlandsk valuta.",
+                        "§ 7-2 første ledd tredje punktum skal lyde:",
+                        "Forskjellig prinsippanvendelse i selskapsregnskap og konsernregnskap skal opplyses og begrunnes i konsernregnskapet.",
+                        "Ny § 7-2 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-2 a",
+                    "title": "Regnskapsvaluta og presentasjonsvaluta",
+                    "sections": [
+                        "Dersom årsregnskapet presenteres i en annen valuta enn regnskapsvalutaen, skal regnskapsvalutaen og omregningskurser opplyses. I selskapsregnskapet skal det opplyses om tilsvarende omregningskurser til norske kroner.",
+                        "Ny § 7-8 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-8 b",
+                    "title": "Spesifisering av driftskostnader etter art",
+                    "sections": [
+                        "Dersom driftskostnadene ikke er spesifisert etter sin art i resultatregnskapet, skal spesifikasjon foretas etter følgende oppstilling:",
+                        "1.Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varer",
+                        "2.Endring i beholdning av egentilvirkede anleggsmidler",
+                        "3.Varekostnad",
+                        "4.Lønnskostnad",
+                        "5.Avskrivning på varige driftsmidler og immaterielle eiendeler",
+                        "6.Nedskrivning på varige driftsmidler og immaterielle eiendeler",
+                        "7.Annen driftskostnad.",
+                        "§ 6-6 om sammenligningstall gjelder tilsvarende.",
+                        "I § 7-12 skal innledningen til første ledd lyde:",
+                        "For hver post under varige driftsmidler og immaterielle eiendeler skal det opplyses om:",
+                        "§ 7-12 første ledd nr. 1 skal lyde:",
+                        "1.anskaffelseskost med spesifikasjon av balanseførte finansieringsutgifter knyttet til egentilvirkede anleggsmidler.",
+                        "§ 7-13 første ledd første punktum skal lyde:",
+                        "For hver post under varige driftsmidler skal det opplyses om økonomisk levetid og valg av avskrivningsplan.",
+                        "§ 7-13 tredje ledd oppheves. Nåværende fjerde ledd blir nytt tredje ledd.",
+                        "§ 7-14 første ledd skal lyde:",
+                        "For hver post under immaterielle eiendeler skal økonomisk levetid og valg av avskrivningsplan opplyses.",
+                        "§ 7-15 nytt femte ledd skal lyde:",
+                        "I konsernregnskapet skal det opplyses om navnet på foretak der den regnskapspliktige selv eller gjennom datterselskaper eier så mange aksjer eller andeler at de representerer flertallet av stemmene i foretaket, men som ikke er datterselskap fordi det klart kan påvises at slikt eierskap likevel ikke gir bestemmende innflytelse, jf. § 1-3 annet ledd nr. 1. Det skal opplyses om de forhold som påviser at slikt eierskap likevel ikke gir bestemmende innflytelse.",
+                        "§ 7-17 første ledd første punktum skal lyde:",
+                        "For hver kategori av finansielle instrumenter og varederivater som er vurdert etter § 5-8, skal det opplyses om anskaffelseskost, virkelig verdi og periodens resultatførte verdiendring.",
+                        "§ 7-17 første ledd tredje punktum oppheves.",
+                        "§ 7-17 tredje ledd tredje punktum skal lyde:",
+                        "Begrunnelsen skal inkludere holdepunktene for at verdifallet er forbigående.",
+                        "§ 7-19 første ledd første punktum skal lyde:",
+                        "For hver post under eiendeler skal det opplyses om fordringer som forfaller senere enn ett år etter regnskapsårets slutt.",
+                        "§ 7-25 nytt første ledd skal lyde:",
+                        "Opptjent egenkapital skal spesifiseres.",
+                        "Nåværende første ledd blir nytt annet ledd, der nytt tredje punktum skal lyde:",
+                        "Opplysningene kan i stedet gis i oppstillingen av endringer i egenkapitalen.",
+                        "§ 7-27 nytt første ledd skal lyde:",
+                        "Dersom egne aksjer ikke vises på egen linje under selskapskapital i balansen, må spesifikasjon gis i note eller i oppstillingen av endringer i egenkapitalen.",
+                        "Nåværende første ledd blir nytt annet ledd.",
+                        "§ 7-30 skal lyde:",
+                        "Det skal opplyses om antall årsverk som den regnskapspliktige har sysselsatt i regnskapsåret.",
+                        "§ 7-31 første ledd annet punktum oppheves.",
+                        "§ 7-31 fjerde ledd skal lyde:",
+                        "Når en eller flere opplysninger som nevnt i første eller annet ledd ikke gis fordi den regnskapspliktige ikke har hatt utgifter til lønn, pensjonsforpliktelser eller annen godtgjørelse til daglig leder, medlem av styret eller bedriftsforsamlingen, skal det opplyses særskilt om dette.",
+                        "Ny § 7-31 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-31 a",
+                    "title": "Godtgjørelse til revisor",
+                    "sections": [
+                        "Det skal opplyses om godtgjørelse til revisor og hvordan godtgjørelsen er fordelt på lovpålagt revisjon, andre attestasjonstjenester, skatterådgivning og andre tjenester utenfor revisjonen. Honorarer for andre tjenester utenfor revisjonen skal spesifiseres for vesentlig forskjellige tjenester. Opplysningene skal også omfatte godtgjørelse til foretak som revisor har et særskilt samarbeid med.",
+                        "Ny § 7-31 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-31 b",
+                    "title": "Ytelser til ledende personer i store foretak",
+                    "sections": [
+                        "Store foretak skal opplyse om samlet godtgjørelse og andre fordeler som er gitt til de enkelte ledende ansatte og de enkelte medlemmene av henholdsvis styret, kontrollkomiteen og andre valgte selskapsorganer med unntak av bedriftsforsamlingen.",
+                        "Det skal videre gis opplysninger for hver person omfattet av første ledd som har hatt ansettelsesforhold eller verv for selskapet i løpet av regnskapsåret spesifisert i samsvar med tredje til sjette ledd.",
+                        "Opplysninger om godtgjørelse eller honorarer skal minst omfatte:",
+                        "1.den totale lønn vedkommende har mottatt eller opptjent for tjenester ytt i løpet av regnskapsåret, herunder eventuelle møtehonorarer vedtatt av generalforsamlingen,",
+                        "2.godtgjørelse og fordeler vedkommende har mottatt fra foretak i samme konsern,",
+                        "3.godtgjørelse i form av overskuddsdeling eller bonusutbetalinger og grunnen til at slike ytelser er gitt,",
+                        "4.betydelig eller vesentlig tilleggsgodtgjørelse for spesielle tjenester utenfor de normale funksjoner for en leder,",
+                        "5.betalt eller skyldig vederlag til hver tidligere administrerende direktør og styreleder i regnskapsåret i forbindelse med avslutning av vedkommendes ansettelsesforhold eller verv, og",
+                        "6.beregnet verdi av totale fordeler i annet enn kontanter som anses som godtgjørelse.",
+                        "Opplysninger om aksjer, opsjonsrettigheter og opsjonsprogrammer skal minst omfatte:",
+                        "1.antall aksjeopsjoner som er tildelt eller aksjer som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,",
+                        "2.antall aksjeopsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer som er innløst og om innløsningskursen eller verdien av rettighetene i aksjeinsentivordningen ved regnskapsårets slutt,",
+                        "3.antall aksjeopsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,",
+                        "4.betingelser for eksisterende aksjeopsjoner i løpet av regnskapsåret.",
+                        "For ytelsesbaserte pensjonsordninger skal det minst opplyses om endringer i den enkeltes opptjente rettigheter etter ordningen i løpet av regnskapsåret. For innskuddsbaserte pensjonsordninger skal det minst gis opplysninger om innskudd i ordningen som foretaket i løpet av regnskapsåret har betalt eller er blitt skyldig for hver person som er omfattet av første ledd.",
+                        "Det skal opplyses om lån, forskuddsbetalinger og sikkerhetsstillelser selskapet eller andre selskap i konsernet har gitt til personer som omfattet av første ledd, herunder hvilke vilkår som gjelder, avdragsplan, utestående beløp og rentesatsen.",
+                        "Opplysningene etter paragrafen her og i tilfelle også opplysningene etter § 7-31 og § 7-32 første ledd, kan i stedet for i noter gis i en rapport om godtgjørelse til ledende personer. Rapporten skal inngå i årsberetningen.",
+                        "§ 7-32 første ledd tredje punktum oppheves.",
+                        "§ 7-35 første ledd skal lyde:",
+                        "Det skal gis opplysninger om anvendte regnskapsprinsipper, herunder prinsipper for inntektsføring og omregning av utenlandsk valuta. Endringer i hvilke prinsipper som anvendes skal begrunnes. Forskjellig prinsippanvendelse i selskapsregnskap og konsernregnskap skal opplyses og begrunnes i konsernregnskapet. Det skal gis opplysninger om og begrunnelse for eventuell sikringsvurdering, jf. § 4-1 nr. 5.",
+                        "§ 7-35 nytt fjerde ledd skal lyde:",
+                        "Dersom årsregnskapet presenteres i en annen valuta enn regnskapsvalutaen, skal regnskapsvalutaen og omregningskurser opplyses. I selskapsregnskapet skal det opplyses om tilsvarende omregningskurser til norske kroner.",
+                        "§ 7-36 nytt femte ledd skal lyde:",
+                        "I konsernregnskapet skal det opplyses om navnet på foretak der den regnskapspliktige selv eller gjennom datterselskaper eier så mange aksjer eller andeler at de representerer flertallet av stemmene i foretaket, men som ikke er datterselskap fordi det klart kan påvises at slikt eierskap likevel ikke gir bestemmende innflytelse, jf. § 1-3 annet ledd nr. 1.",
+                        "Nåværende femte til åttende ledd blir nye sjette til niende ledd.",
+                        "§ 7-37 første ledd første punktum skal lyde:",
+                        "For hver kategori av finansielle instrumenter og varederivater som er vurdert etter § 5-8, skal det opplyses om anskaffelseskost, virkelig verdi og periodens resultatførte verdiendring.",
+                        "§ 7-37 første ledd tredje punktum oppheves.",
+                        "§ 7-37 annet ledd tredje punktum skal lyde:",
+                        "Begrunnelsen skal inkludere holdepunktene for at verdifallet er forbigående.",
+                        "§ 7-37 a første ledd første punktum skal lyde:",
+                        "Det skal gis opplysninger om egenskaper ved og omfang av finansielle derivater som er vurdert til virkelig verdi etter § 5-8 første ledd, fordelt på klasser av derivater.",
+                        "I § 7-38 skal paragrafoverskriften lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7-38",
+                    "title": "Spesifisering av resultatregnskapet",
+                    "sections": [
+                        "§ 7-38 nye annet og tredje ledd skal lyde:",
+                        "Dersom driftskostnadene ikke er spesifisert etter sin art i resultatregnskapet, skal spesifikasjon foretas etter følgende oppstilling:",
+                        "1.Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varer",
+                        "2.Endring i beholdning av egentilvirkede anleggsmidler",
+                        "3.Varekostnad",
+                        "4.Lønnskostnad",
+                        "5.Avskrivning på varige driftsmidler og immaterielle eiendeler",
+                        "6.Nedskrivning på varige driftsmidler og immaterielle eiendeler",
+                        "7.Annen driftskostnad.",
+                        "§ 6-6 om sammenligningstall gjelder tilsvarende.",
+                        "§ 7-42 første ledd tredje punktum skal lyde:",
+                        "Dersom egne aksjer ikke vises på egen linje under selskapskapital i balansen, må spesifikasjon gis i note eller i oppstillingen av endringer i egenkapitalen.",
+                        "§ 7-42 annet ledd skal lyde:",
+                        "Aksjeselskap skal opplyse om selskapets 10 største aksjeeiere og deres eierandeler. Opplysning om aksjeeiere som eier under 5 prosent av aksjene kan utelates.",
+                        "§ 7-43 skal lyde:",
+                        "Det skal opplyses om antall årsverk som den regnskapspliktige har sysselsatt i regnskapsåret.",
+                        "§ 8-1 tredje ledd nytt tredje punktum skal lyde:",
+                        "Slik begjæring kan avvises dersom dokumentene er tilgjengelige i Regnskapsregisteret.",
+                        "§ 8-3 første og annet ledd skal lyde:",
+                        "Dersom årsregnskap, årsberetning og revisjonsberetning som skal sendes til Regnskapsregisteret ikke er avsendt før 1. august i året etter regnskapsåret, skal den regnskapspliktige betale forsinkelsesgebyr inntil innsendingsplikten er oppfylt, men ikke for mer enn 26 uker. Er regnskapsåret avsluttet på en dato fra 1. januar til 30. juni, er innsendingsfristen etter første punktum 1. februar. Forsinkelsesgebyr ved innsendingsplikt etter § 8-2 annet ledd påløper ikke før tidligst en måned etter at det utenlandske foretaket skal offentliggjøre årsregnskapet i henhold til reglene for dette i hjemstaten. Departementet kan i forskrift gi regler om forsinkelsesgebyr.",
+                        "Dersom påløpt forsinkelsesgebyr ikke betales innen tre uker etter påkrav fra Regnskapsregisteret, svarer den regnskapspliktiges styremedlemmer solidarisk for påløpt gebyr. Har ikke den regnskapspliktige styre, svarer deltakerne eller medlemmene og daglig leder solidarisk for gebyret. Solidarskyldners ansvar etter dette ledd er begrenset til gebyr påløpt fram til vedkommende fratrådte sitt verv.",
+                        "§ 8-3 tredje ledd nytt annet punktum skal lyde:",
+                        "Regnskapsregisteret kan helt eller delvis frita personer fra solidaransvar etter annet ledd i samsvar med reglene for ettergivelse av gebyr.",
+                        "Ny § 9-2 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 9-2",
+                    "title": "Resultat- og balanseoppstilling til bruk for offentlig kontroll og statistikk",
+                    "sections": [
+                        "Regnskapspliktig som i henhold til § 3-9 tredje eller fjerde ledd utarbeider selskapsregnskap i samsvar med internasjonale regnskapsstandarder fastsatt i medhold av § 3-9 annet ledd, skal utarbeide en egen resultatoppstilling og balanseoppstilling utenfor årsregnskapet i samsvar med kapittel 6 og i tilfelle spesifikasjon av driftskostnadene i samsvar med § 7-8 b.",
+                        "Kravet etter første ledd gjelder ikke dersom den regnskapspliktige i selskapsregnskapet har stilt opp resultatregnskapet og balansen i samsvar med bestemmelsene i kapittel 6 og i tilfelle i samsvar med § 7-8 b.",
+                        "Bestemmelsene i § 8-2 første ledd, § 8-3 og § 8-4 gjelder tilsvarende for resultat- og balanseoppstilling som skal utarbeides etter denne paragraf. Regnskapsregisteret kan ikke gjøre innholdet kjent for andre enn kontrollmyndigheter og myndigheter som utarbeider offisiell statistikk.",
+                        "Ny § 9-3 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 9-3",
+                    "title": "Offentlig organs opplysningsplikt til Regnskapsregisteret",
+                    "sections": [
+                        "Departementet kan ved forskrift bestemme at forvaltningsorgan skal gi opplysninger til Regnskapsregisteret som er egnet til å fastslå regnskapsplikt etter § 1-2 første ledd nr. 4, 7, 9 eller 11 og annet til fjerde ledd. Forskriftene kan fastsette at opplysningene skal gis uten hinder av taushetsplikt.",
+                        "§ 10-1 tredje ledd blir nytt første ledd som skal lyde:",
+                        "For regnskapspliktig som nevnt i § 1-2 første ledd nr. 5 til 11 eller 13, kan departementet gi forskrift som utfyller eller fraviker kapittel 3 til 7 og som unntar regnskapspliktig som nevnt i § 1-2 første ledd nr. 13 fra regnskapsplikt.",
+                        "§ 10-3 sjette ledd oppheves. Nåværende åttende ledd blir nytt sjette ledd.",
+                        "I lov 24. mai 1961 nr. 1 om sparebanker gjøres følgende endringer:",
+                        "§ 8 a første ledd første punktum skal lyde:",
+                        "De innskytere som har og i de siste seks måneder har hatt et innskudd i banken på minst 500 kroner, velger hvert år så mange medlemmer av forstanderskapet og varamedlemmer som vedtektene bestemmer.",
+                        "§ 9 første ledd bokstav b oppheves.",
+                        "Nåværende § 9 første ledd bokstav c blir ny bokstav b.",
+                        "I lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) gjøres følgende endringer:",
+                        "§ 3-3 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": [
+                {
+                    "name": "§ 3-3",
+                    "title": "Fond for vurdreringsforskjeller",
+                    "sections": [
+                        "Selskapet skal ha et fond for vurderingsforskjeller. Dersom selskapet regnskapsfører selskapsinvesteringer i datterselskap, tilknyttet selskap eller felleskontrollert virksomhet etter egenkapitalmetoden eller bruttometoden, skal selskapet sette av til fondet en positiv differanse mellom investeringenes balanseførte verdi og deres anskaffelseskost. En forskjell som skyldes gevinst ved transaksjon mellom investor og et selskap regnskapsført etter egenkapitalmetoden, kan selskapet unnlate å avsette til fondet. En slik forskjell skal til enhver tid ikke være større enn investors gjenværende urealiserte gevinst.",
+                        "Ny § 3-3 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-3 a",
+                    "title": "Fond for urealiserte gevinster",
+                    "sections": [
+                        "Selskapet skal ha et fond for urealiserte gevinster. Dersom selskapet vurderer eiendeler til virkelig verdi, skal det sette av til fondet en positiv differanse mellom balanseført verdi av hver enkelt eiendel eller gruppe av eiendeler og deres anskaffelseskost under hensyn til effekten av utsatt skatt. Dette gjelder tilsvarende ved vurdering av gjeld til virkelig verdi. Selskapet skal avsette til fondet på samme måte som etter annet punktum dersom det ved verdiregulering eller på annen måte regnskapsfører eiendeler til en verdi som overstiger anskaffelseskost.",
+                        "Plikten til å avsette til fond for urealiserte gevinster omfatter ikke differanser etter første ledd knyttet til vurdering av:",
+                        "1.finansielle instrumenter i samsvar med regnskapsloven § 5-8,",
+                        "2.pengeposter i utenlandsk valuta,",
+                        "3.eiendeler som nevnt i § 8-1 første ledd nr. 2,",
+                        "4.andre poster når det er fastsatt i forskrift gitt av departementet.",
+                        "Fondet kan løses opp når og i den grad grunnlaget for avsetningen ikke lenger er til stede.",
+                        "Departementet kan i forskrift gi regler om beregning av differansen etter første ledd.",
+                        "§ 3-6 tredje ledd nytt annet punktum skal lyde:",
+                        "Departementet kan i forskrift fastsette at en annen verdi kan legges til grunn i forhold til nærmere angitte utdelinger.",
+                        "I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven) gjøres følgende endringer:",
+                        "§ 3-3 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": [
+                {
+                    "name": "§ 3-3",
+                    "title": "Fond for vurderingsforskjeller",
+                    "sections": [
+                        "Selskapet skal ha et fond for vurderingsforskjeller. Dersom selskapet regnskapsfører selskapsinvesteringer i datterselskap, tilknyttet selskap eller felleskontrollert virksomhet etter egenkapitalmetoden eller bruttometoden, skal selskapet sette av til fondet en positiv differanse mellom investeringenes balanseførte verdi og deres anskaffelseskost. En forskjell som skyldes gevinst ved transaksjon mellom investor og et selskap regnskapsført etter egenkapitalmetoden, kan selskapet unnlate å avsette til fondet. En slik forskjell skal til enhver tid ikke være større enn investors gjenværende urealiserte gevinst.",
+                        "Ny § 3-3 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-3 a",
+                    "title": "Fond for urealiserte gevinster",
+                    "sections": [
+                        "Selskapet skal ha et fond for urealiserte gevinster. Dersom selskapet vurderer eiendeler til virkelig verdi, skal det sette av til fondet en positiv differanse mellom balanseført verdi av hver enkelt eiendel eller gruppe av eiendeler og deres anskaffelseskost under hensyn til effekten av utsatt skatt. Dette gjelder tilsvarende ved vurdering av gjeld til virkelig verdi. Selskapet skal avsette til fondet på samme måte som etter annet punktum dersom det ved verdiregulering eller på annen måte regnskapsfører eiendeler til en verdi som overstiger anskaffelseskost.",
+                        "Plikten til å avsette til fond for urealiserte gevinster omfatter ikke differanser etter første ledd knyttet til vurdering av:",
+                        "1.finansielle instrumenter i samsvar med regnskapsloven § 5-8,",
+                        "2.pengeposter i utenlandsk valuta,",
+                        "3.eiendeler som nevnt i § 8-1 første ledd nr. 2,",
+                        "4.andre poster når det er fastsatt i forskrift gitt av departementet.",
+                        "Fondet kan løses opp når og i den grad grunnlaget for avsetningen ikke lenger er til stede.",
+                        "Departementet kan i forskrift gi regler om beregning av differansen etter første ledd.",
+                        "§ 3-6 tredje ledd nytt annet punktum skal lyde:",
+                        "Departementet kan i forskrift fastsette at en annen verdi kan legges til grunn i forhold til nærmere angitte utdelinger.",
+                        "I lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) skal § 18 nr. 2 tredje ledd lyde:",
+                        "§ 1-2 annet og tredje ledd. Nåværende fjerde til sjette ledd blir nye annet til fjerde ledd.",
+                        "1. Ikrafttredelse",
+                        "Loven gjelder fra den tid Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid. Kongen kan i forskrift fastsette virkningstidspunkt for bestemmelsene i loven del I.",
+                        "2. Overgangsbestemmelser",
+                        "Regnskapspliktig som er datterselskap eller morselskap i konsern der norsk eller utenlandsk morselskap utarbeider konsernregnskap i samsvar med internasjonale regnskapsstandarder etter regnskapsloven § 3-9 første eller fjerde ledd eller tilsvarende bestemmelse i hjemstaten, kan for regnskapsår som starter i 2005 utarbeide selskapsregnskap i samsvar med forskrifter gitt i medhold av § 3-9 annet ledd med unntak fra kravene i disse forskriftene til å gi opplysninger i noter til årsregnskapet. Regnskapsloven § 3-1 tredje ledd gjelder tilsvarende, men slik at regnskapsloven kapittel 6 og 7 likevel gjelder. Departementet kan i forskrift forlenge overgangsordningen.",
+                        "Departementet kan fastsette andre overgangsbestemmelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        }
+    ]
+}

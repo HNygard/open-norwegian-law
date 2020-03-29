@@ -1,0 +1,33 @@
+{
+    "lawId": "LOV-2019-12-13-83",
+    "lawName": "Lov om opphevelse av omstillingslova",
+    "shortName": "Lov om opphevelse av omstillingslova",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Opphevelse",
+                    "sections": [
+                        "Lov 6. juni 2008 nr. 38 om meldeplikt ved nedlegging av næringsverksemd oppheves."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Meldinger under behandling",
+                    "sections": [
+                        "Meldinger som er mottatt eller er under behandling i fylkeskommunen når loven trer i kraft, avsluttes."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Ikraftsetting",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

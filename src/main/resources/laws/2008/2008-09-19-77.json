@@ -1,0 +1,300 @@
+{
+    "lawId": "LOV-2008-09-19-77",
+    "lawName": "Lov om pågripelse og overlevering mellom de nordiske stater på grunn av straffbare forhold (lov om nordisk arrestordre)",
+    "shortName": "Lov om nordisk arrestordre",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1. Alminnelige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Definisjon av nordisk arrestordre",
+                    "sections": [
+                        "En nordisk arrestordre er en avgjørelse truffet av en nordisk stat om å be en annen nordisk stat pågripe og overlevere en ettersøkt person til",
+                        "a)strafforfølgning for forhold som i den staten som har utstedt arrestordren, kan medføre frihetsstraff eller en annen frihetsberøvende reaksjon, eller",
+                        "b)fullbyrding av reaksjon som nevnt i bokstav a."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Krav til utforming av en nordisk arrestordre",
+                    "sections": [
+                        "En arrestordre skal være skrevet på norsk, svensk, dansk eller engelsk og den skal inneholde den ettersøktes personalia og statsborgerskap,",
+                        "a)navn, adresse, telefon- og faksnummer og e-postadresse til den som har utstedt arrestordren,",
+                        "b)om det foreligger en rettskraftig dom, en pågripelsesbeslutning eller en annen avgjørelse med samme rettskraft,",
+                        "c)lovovertredelsens karakter med en henvisning til straffebestemmelser som antas å ramme handlingen,",
+                        "d)en beskrivelse av under hvilke omstendigheter lovovertredelsen er begått, herunder tidspunkt, sted og omfang av den ettersøktes deltakelse,",
+                        "e)den idømte straff eller den strafferamme som er fastsatt for lovovertredelsen i den staten som har utstedt arrestordren, og",
+                        "f)så vidt mulig andre følger av lovovertredelsen.",
+                        "Som en nordisk arrestordre regnes også en europeisk arrestordre utstedt etter Den europeiske unions råds rammebeslutning 13. juni 2002 om den europeiske arrestordre og prosedyrene for overlevering mellom medlemsstatene.",
+                        "Er den ettersøkte registrert i Schengen informasjonssystem, skal registreringen regnes som en nordisk arrestordre dersom den inneholder opplysninger som nevnt i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Forholdet til straffeprosessloven",
+                    "sections": [
+                        "Så fremt ikke annet er bestemt i denne lov, gjelder straffeprosesslovens regler så langt de passer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Vilkår for å iverksette en nordisk arrestordre",
+            "paragraphs": [
+                {
+                    "name": "§ 4",
+                    "title": "Plikten til å iverksette en arrestordre",
+                    "sections": [
+                        "Arrestordren skal etterkommes og iverksettes hvis ikke det foreligger en avslagsgrunn etter § 5 eller § 6.",
+                        "Gjelder arrestordren flere straffbare forhold, skal den etterkommes og iverksettes selv om vilkårene bare er oppfylt for ett av forholdene. Dersom det foreligger en obligatorisk avslagsgrunn for ett eller flere forhold, jf. § 5, skal det settes vilkår om at den ettersøkte ikke kan strafforfølges for disse forholdene. Dersom det foreligger en fakultativ avslagsgrunn, jf. § 6, kan det settes et slikt vilkår."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Obligatoriske avslagsgrunner",
+                    "sections": [
+                        "En arrestordre skal avslås dersom:",
+                        "a)det er gitt amnesti for det samme forholdet i Norge,",
+                        "b)den ettersøkte på grunn av sin alder ikke kan gjøres strafferettslig ansvarlig for forholdet i Norge,",
+                        "c)det i Norge foreligger rettskraftig dom for det samme forholdet, og straffen i tilfelle domfellelse er fullbyrdet, under fullbyrding eller ikke lenger kan fullbyrdes,",
+                        "d)det i Norge foreligger rettskraftig dom for det samme forholdet på overføring til tvungent psykisk helsevern eller tvungen omsorg, og dommen er fullbyrdet, under fullbyrding eller ikke lenger kan fullbyrdes,",
+                        "e)det i Norge foreligger rettskraftig forelegg for det samme forholdet, og forelegget er fullbyrdet, under fullbyrding eller ikke lenger kan fullbyrdes,",
+                        "f)det i Norge foreligger godkjent avtale fra mekling i konfliktråd for det samme forholdet, og avtalen ikke er vesentlig misligholdt,",
+                        "g)rettsforfølgning for det samme forholdet i Norge er innstilt, med mindre det foreligger forhold som nevnt i straffeprosessloven § 74 første, femte eller sjette ledd,",
+                        "h)det i Norge er meddelt påtaleunnlatelse for det samme forholdet, med mindre det foreligger forhold som nevnt i straffeprosessloven § 74 andre, tredje, fjerde eller sjette ledd, eller",
+                        "i)den kompetente myndighet har kjennskap til at det i en stat som er tilknyttet Schengensamarbeidet, foreligger en rettskraftig dom eller en annen endelig avgjørelse som avskjærer videre strafforfølgning for det samme forholdet, og, dersom det er ilagt en reaksjon, at denne reaksjonen er fullbyrdet, under fullbyrding eller ikke lenger kan fullbyrdes."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Fakultative avslagsgrunner",
+                    "sections": [
+                        "En arrestordre kan avslås dersom:",
+                        "a)det er igangsatt strafforfølgning mot den ettersøkte i Norge av det forholdet arrestordren gjelder,",
+                        "b)forholdet er begått helt eller delvis i Norge, herunder på Svalbard, Jan Mayen eller i de norske bilandene, eller øvrige områder underlagt norsk jurisdiksjon, og forholdet ikke er straffbart etter norsk lovgivning,",
+                        "c)påtalemyndigheten har kjennskap til at det i en stat som ikke er tilknyttet Schengensamarbeidet, foreligger rettskraftig dom for det samme forholdet, og straffen i tilfelle domfellelse er fullbyrdet, under fullbyrding eller ikke lenger kan fullbyrdes etter denne statens regler, eller",
+                        "d)arrestordren gjelder fullbyrding av dom, og den ettersøkte er bosatt eller oppholder seg i Norge, eller er norsk statsborger, og norske myndigheter forplikter seg til å fullbyrde dommen.",
+                        "Den ettersøkte skal få anledning til å uttale seg før en arrestordre avslås på grunnlag av et forhold som er nevnt i bokstav a til d. Før en arrestordre avslås etter bokstav d, skal også kriminalomsorgen gis anledning til å uttale seg."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Betinget overlevering",
+                    "sections": [
+                        "Dersom en arrestordre gjelder overlevering til strafforfølgning, og den ettersøkte er norsk statsborger eller bosatt i Norge, kan det settes som vilkår for overleveringen at vedkommende sendes tilbake for å sone en eventuell dom her.",
+                        "Den ettersøkte og kriminalomsorgen skal få anledning til å uttale seg før det settes et slikt vilkår."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Vilkår for overlevering. Spesialitetsprinsippet",
+                    "sections": [
+                        "Det skal settes som vilkår for overleveringen at vedkommende ikke skal utleveres eller overleveres til en stat utenfor Norden for et forhold begått forut for overleveringen, med mindre",
+                        "a)den ettersøkte samtykker,",
+                        "b)den ettersøkte har unnlatt å forlate riket, enda han i 45 dager har hatt mulighet dette,",
+                        "c)den ettersøkte frivillig er vendt tilbake til riket etter først å ha forlatt det, eller",
+                        "d)departementet samtykker til utleveringen eller overleveringen.",
+                        "Strafforfølgning eller straffullbyrding kan innledes mot en person som er overlevert fra Norge for et forhold som er begått forut for overleveringen, med mindre",
+                        "a)det foreligger forhold som nevnt i § 5, eller",
+                        "b)forholdet er begått helt eller delvis i Norge, jf. § 6 bokstav b, og påtalemyndigheten ikke samtykker."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Behandlingen av en nordisk arrestordre",
+            "paragraphs": [
+                {
+                    "name": "§ 9",
+                    "title": "Oversendelse til påtalemyndigheten",
+                    "sections": [
+                        "En arrestordre skal sendes politimesteren på stedet den ettersøkte oppholder seg. Er oppholdsstedet ukjent, skal arrestordren sendes Kripos.",
+                        "Ved feilsending skal den som mottar arrestordren, straks sende den videre til kompetent påtalemyndighet og underrette den som har utstedt arrestordren."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Pågripelse, varetektsfengsling og annen bruk av tvangsmidler",
+                    "sections": [
+                        "Den ettersøkte skal pågripes snarest mulig hvis det ikke er åpenbart at overlevering må avslås etter § 5 eller vil bli avslått etter § 6. Ved pågripelsen skal den ettersøkte informeres om arrestordren og om muligheten til å samtykke til overlevering og en eventuell strafforfølgning for andre forhold og hvilke rettsfølger et slikt samtykke har. Det skal oppnevnes forsvarer.",
+                        "Vil påtalemyndigheten beholde den pågrepne i mer enn 3 dager for å gjennomføre overleveringen, skal vedkommende snarest mulig og senest den tredje dagen etter pågripelsen fremstilles for tingretten med begjæring om fengsling. Fengsling kan besluttes dersom vilkårene i straffeprosessloven §§ 171 eller 172, jf. § 170 a, er til stede. Tingretten skal i vurderingen av om fengsling skal besluttes legge til grunn opplysningene i arrestordren, med mindre de åpenbart er uriktige. Beslutter retten fengsling, skal det settes en tidsfrist som ikke må overstige 2 uker. Den kan forlenges med inntil 2 uker av gangen. Dersom det foreligger en konkurrerende anmodning om utlevering, jf. § 14 andre ledd, eller den som kreves overlevert tidligere er utlevert fra en stat utenfor Norden, gjelder ikke fristene i fjerde og femte punktum.",
+                        "Andre straffeprosessuelle tvangsmidler kan anvendes i samme utstrekning som i saker om tilsvarende lovbrudd her i riket. Andre ledd tredje punktum gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Immunitet og privilegier",
+                    "sections": [
+                        "Dersom den ettersøkte har immunitet eller et privilegium med hensyn til rettsforfølgning eller fullbyrding i Norge, skal påtalemyndigheten straks anmode angjeldende myndighet om å oppheve immuniteten eller privilegiet."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Overlevering av ettersøkte som tidligere er overlevert/utlevert til Norge",
+                    "sections": [
+                        "Den som er overlevert til Norge på grunn av en nordisk arrestordre, kan overleveres videre til en annen nordisk stat på grunn av en nordisk arrestordre som gjelder et straffbart forhold vedkommende har begått forut for overleveringen til Norge.",
+                        "Dersom den ettersøkte er overlevert fra Island, skal videreoverlevering ikke skje uten samtykke fra de kompetente islandske myndigheter når den ettersøkte er islandsk statsborger eller handlingen vedkommende kreves overlevert for utgjør en politisk forbrytelse.",
+                        "Dersom den ettersøkte er utlevert til Norge fra en stat utenfor Norden, skal vedkommende ikke overleveres i strid med vilkår som er satt for utleveringen.",
+                        "Den kompetente myndighet skal sørge for at det straks blir sendt en anmodning til angjeldende stat for å anmode om samtykke til overleveringen."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Avgjørelse om overlevering",
+                    "sections": [
+                        "Avgjørelse av om arrestordren skal etterkommes eller ikke, treffes av påtalemyndigheten.",
+                        "Gir den ettersøkte samtykke til overlevering, skal avgjørelsen treffes straks og senest tre dager etter at samtykket er gitt. Den ettersøkte kan også samtykke til rettsforfølgning for andre lovovertredelser som er begått forut for overleveringen. Et samtykke skal avgis skriftlig etter at den ettersøkte har blitt orientert om virkningen av at samtykke gis. Et samtykke kan tilbakekalles, likevel slik at samtykke etter andre punktum bare kan kalles tilbake dersom samtykke til overlevering kalles tilbake.",
+                        "Dersom påtalemyndigheten vil etterkomme arrestordren, og den ettersøkte ikke samtykker til overlevering, eller trekker samtykket tilbake før overleveringen er gjennomført, sendes saken straks til tingretten. Tingretten avgjør ved kjennelse om vilkårene for overlevering er oppfylt. Spørsmålet skal om mulig behandles i rettsmøtet om varetektsfengsling. Opplysningene i arrestordren skal legges til grunn for avgjørelsen, med mindre de åpenbart er uriktige. Kjennelsen kan ankes etter reglene i straffeprosessloven kapittel 26. Fristen for anke er likevel tre dager. Anke har oppsettende virkning. Rettskraftig avgjørelse skal om mulig foreligge senest 30 dager etter pågripelsen av den ettersøkte. Den rettskraftige avgjørelsen sendes straks til påtalemyndigheten, som innen tre dager treffer avgjørelse om arrestordren skal etterkommes eller ikke.",
+                        "Frister som nevnt i andre og tredje ledd begynner ikke å løpe før påtalemyndigheten har mottatt tilstrekkelige opplysninger til å treffe avgjørelsen. Dersom den ettersøkte har immunitet eller privilegium i Norge for den straffbare handling arrestordren gjelder, begynner ikke fristen å løpe før immuniteten eller privilegiet er opphevet. Dersom det foreligger forhold som nevnt i § 12 andre og tredje ledd, begynner fristen ikke å løpe før angjeldende stat har gitt samtykke.",
+                        "Dersom fristene i særlige tilfeller ikke kan overholdes, skal påtalemyndigheten straks underrette den som har utstedt arrestordren om dette.",
+                        "Den ettersøkte kan påklage påtalemyndighetens vedtak. Spørsmålet om vilkårene for overlevering er til stede kan ikke påklages. Straffeprosessloven § 59 a gjelder tilsvarende. Fristen for å klage er likevel tre dager, og klagen har oppsettende virkning. Klageinstansen treffer avgjørelse straks og senest tre dager etter å ha mottatt klagen.",
+                        "Når endelig avgjørelse om overlevering foreligger, skal påtalemyndigheten straks underrette den som har utstedt arrestordren.",
+                        "Departementet kan gi forskrifter om samtykke."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Avgjørelse om overlevering når det foreligger konkurrerende anmodninger",
+                    "sections": [
+                        "Dersom det foreligger flere nordiske arrestordre som gjelder samme person, skal påtalemyndigheten treffe avgjørelse om hvilken arrestordre som skal etterkommes.",
+                        "Dersom det i tillegg til en eller flere nordiske arrestordre foreligger en utleveringsbegjæring fra en stat utenfor Norden, treffes avgjørelsen av departementet.",
+                        "I vurderingen av hvilken arrestordre eller utleveringsbegjæring som skal etterkommes, skal det bl.a. legges vekt på stedet for og grovheten av de straffbare handlinger, når de konkurrerende arrestordrene/utleveringsbegjæringene er utstedt, og om de gjelder strafforfølgning eller fullbyrding av dom."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Frist for overlevering",
+                    "sections": [
+                        "Den ettersøkte skal overleveres snarest mulig og senest fem dager etter at det foreligger en endelig avgjørelse om overlevering. Gjør særlige omstendigheter det umulig å overlevere den ettersøkte innenfor denne fristen, skal påtalemyndigheten straks kontakte den som har utstedt arrestordren for å avtale en ny frist.",
+                        "Overlevering kan utsettes dersom det foreligger tungtveiende humanitære grunner."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Utsatt og midlertidig overlevering på grunn av strafforfølgning i Norge",
+                    "sections": [
+                        "Overlevering kan utsettes for å strafforfølge den ettersøkte i Norge for et annet straffbart forhold. Det samme gjelder dersom den ettersøkte skal fullbyrde en dom for et annet straffbart forhold.",
+                        "I stedet for å utsette overleveringen kan overlevering gjøres midlertidig på vilkår som avtales skriftlig mellom påtalemyndigheten og den som har utstedt arrestordren.",
+                        "Dersom den ettersøkte er frihetsberøvet, skal kriminalomsorgen gis anledning til å uttale seg før det treffes avgjørelse etter første ledd andre punktum og andre ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Overlevering til Norge",
+            "paragraphs": [
+                {
+                    "name": "§ 17",
+                    "title": "Utstedelse av en nordisk arrestordre",
+                    "sections": [
+                        "Påtalemyndigheten kan utstede en arrestordre til en annen nordisk stat til strafforfølgning dersom den ettersøkte med skjellig grunn kan mistenkes for å ha begått en straffbar handling som kan medføre fengsel. Påtalemyndigheten kan utstede en arrestordre til straffullbyrding dersom det foreligger rettskraftig dom på fengsel eller annen frihetsberøvelse.",
+                        "Arrestordren skal utformes i samsvar med § 2 og sendes den myndigheten som etter vedkommende stats lovgivning er kompetent til å motta en arrestordre."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Varetektsfradrag",
+                    "sections": [
+                        "Når en ettersøkt overleveres til fullbyrding av dom her i riket, skal det gjøres fradrag i straffen for den tiden han eller hun i anledning av saken har vært berøvet friheten i den iverksettende stat. Det samme gjelder når den ettersøkte blir overlevert til strafforfølgning, dersom den ettersøkte blir idømt fengselsstraff her i riket på grunnlag av det straffbare forholdet arrestordren gjelder."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Strafforfølgning for andre straffbare forhold",
+                    "sections": [
+                        "Den som overleveres til Norge, kan strafforfølges, og straff kan fyllbyrdes mot vedkommende for straffbare forhold begått forut for overleveringen med mindre",
+                        "a)det i den stat som overleverte vedkommende foreligger forhold som nevnt i § 5 bokstav a til h eller det foreligger forhold som nevnt i § 5 bokstav i,",
+                        "b)vedkommende er overlevert fra Island, forholdet gjelder en politisk forbrytelse og Island ikke samtykker til strafforfølgning, eller",
+                        "c)forholdet er begått helt eller delvis på territoriet til den stat som overleverte vedkommende, eller et sted som likestilles med dette, og forholdet ikke er straffbart etter denne statens lovgivning, med mindre denne staten samtykker til strafforfølgning.",
+                        "Selv om vilkårene i første ledd bokstav b og c ikke er oppfylt, kan den som overleveres til Norge, strafforfølges på grunn av tidligere straffbare forhold når",
+                        "a)vedkommende har unnlatt å forlate riket, enda han i 45 dager har hatt mulighet dette,",
+                        "b)vedkommende har vendt frivillig tilbake til riket etter først å ha forlatt det, eller",
+                        "c)vedkommende før eller etter overleveringen har samtykket til strafforfølgning for andre forhold."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Videre utlevering av personer som er overlevert til Norge fra annen nordisk stat",
+                    "sections": [
+                        "Videre utlevering kan bare skje hvis",
+                        "a)den ettersøkte samtykker,",
+                        "b)den ettersøkte har unnlatt å forlate riket, enda han i 45 dager har hatt mulighet dette,",
+                        "c)den ettersøkte frivillig er vendt tilbake til riket etter først å ha forlatt det, eller",
+                        "d)den staten som overleverte den ettersøkte til Norge, samtykker til videre utlevering.",
+                        "Avgjørelse om videre utlevering til en stat utenfor Norden treffes av departementet etter bestemmelsene i utleveringsloven."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Andre bestemmelser i forbindelse med overlevering",
+            "paragraphs": [
+                {
+                    "name": "§ 21",
+                    "title": "Beslag og overlevering av ting",
+                    "sections": [
+                        "Påtalemyndigheten skal beslaglegge og overlevere ting som antas å ha betydning som bevis i den saken arrestordren gjelder, eller som er utbytte av dette straffbare forholdet. Det samme gjelder andre ting og utbytte som kan inndras etter straffeloven §§ 34 til 37 b, så fremt den staten som har utstedt arrestordren begjærer det, og det ville vært adgang til inndragningen etter lovgivningen i den staten som har utstedt arrestordren.",
+                        "Plikten i første ledd gjelder selv om den ettersøkte er død eller forsvunnet.",
+                        "Påtalemyndigheten kan holde tilbake eller midlertidig overlevere ting som nevnt i første ledd når de antas å ha betydning som bevis i pågående strafforfølgning her i riket.",
+                        "Overleveringen får ingen betydning for eksisterende rettigheter i tingene. Det kan stilles vilkår for overleveringen hvis det er nødvendig for å beskytte slike rettigheter."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Transitt",
+                    "sections": [
+                        "Den som overleveres fra Sverige, Danmark, Finland eller Island til en av disse statene, kan uten særskilt samtykke føres over norsk territorium."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Avsluttende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 23",
+                    "title": "Ikrafttredelse m.m.",
+                    "sections": [
+                        "Stortinget samtykker i at konvensjon 15. desember 2005 om overlevering for straffbare forhold mellom de nordiske land (nordisk arrestordre) ratifiseres.",
+                        "Loven trer i kraft fra det tidspunkt Kongen bestemmer. Kongen kan bestemme at loven kan tre i kraft mellom enkelte av de nordiske stater. Fra samme tidspunkt oppheves lov 3. mars 1961 nr. 1 om utlevering av lovbrytere til Danmark, Finland, Island og Sverige.",
+                        "Loven gjelder for arrestordre mottatt etter at loven har trådt i kraft. Utleveringsbegjæringer mottatt før loven har trådt i kraft, behandles etter lov 3. mars 1961 nr. 1 om utlevering av lovbrytere til Danmark, Finland, Island og Sverige."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid Kongen bestemmer, gjøres følgende endringer i annen lovgivning:",
+                        "1. I lov 15. november 1963 om fullbyrding av nordiske dommer på straff m.v. skal § 6 lyde:",
+                        "Reglene i lov om nordisk arrestordre § 8 gjelder tilsvarende for domfelte som i medhold av bestemmelsen i denne lovs § 5 overføres til Danmark, Finland, Island eller Sverige for å utholde frihetsstraff der.",
+                        "2. I lov 5. juni 1970 nr. 35 om utlevering for å få iverksatt vedtak om frihetsinngrep truffet av myndighet i annet nordisk land gjøres følgende endringer:",
+                        "§ 1 andre ledd skal lyde:",
+                        "Loven gjelder ikke avgjørelse i samband med strafforfølgning, jf. lov om nordisk arrestordre.",
+                        "§ 9 første ledd nytt andre punktum skal lyde:",
+                        "Om adgangen til å strafforfølge den utleverte og til å fullbyrde straff for forhold som er begått før utleveringen, samt til å utlevere vedkommende videre til en tredje stat for et slikt forhold, gjelder lov om nordisk arrestordre § 8.",
+                        "Nåværende første ledd andre punktum og andre til fjerde ledd oppheves.",
+                        "3. I lov 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. gjøres følgende endringer:",
+                        "§ 9 nytt tredje punktum skal lyde:",
+                        "Med hensyn til avbrytelse av foreldelsesfristen er det den anmodende stats bestemmelser som kommer til anvendelse dersom utleveringsbegjæringen er fremmet av en stat som deltar i Schengensamarbeidet.",
+                        "§ 18 nr. 2 skal lyde:",
+                        "I tilfelle som nevnt i § 11 andre ledd innhentes uttalelse fra kriminalomsorgen før avgjørelse treffes, såframt den det gjelder soner straff eller er anbrakt i anstalt.",
+                        "§ 21 nr. 2 første punktum skal lyde:",
+                        "Samtykke kan bare gis når handlingen kunne ha begrunnet utlevering etter denne lov.",
+                        "§ 21 nr. 2 nytt tredje punktum skal lyde:",
+                        "Dersom saken tidligere ikke har vært prøvd for retten, skal den tingretten hvor den ettersøkte sist oppholdt seg, avgjøre spørsmålet.",
+                        "Nåværende tredje punktum blir nytt fjerde punktum.",
+                        "§ 22 andre punktum oppheves.",
+                        "§ 24 nytt fjerde ledd skal lyde:",
+                        "Endringen i utleveringsloven § 9 trer i kraft straks.",
+                        "§ 24 nr. 3 tredje punktum skal lyde:",
+                        "Ved begjæring fra Danmark, Finland, Island eller Sverige gjelder heller ikke første punktum første alternativ.",
+                        "§ 25 nr. 3 fjerde punktum skal lyde:",
+                        "Første punktum gjelder ikke for begjæringer fra Danmark, Finland, Island eller Sverige."
+                    ]
+                }
+            ]
+        }
+    ]
+}

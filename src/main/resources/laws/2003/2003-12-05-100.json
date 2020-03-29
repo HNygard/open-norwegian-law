@@ -1,0 +1,453 @@
+{
+    "lawId": "LOV-2003-12-05-100",
+    "lawName": "Lov om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)",
+    "shortName": "Bioteknologiloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1. Formål og virkeområde",
+            "paragraphs": [
+                {
+                    "name": "§ 1-1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Formålet med denne loven er å sikre at medisinsk bruk av bioteknologi utnyttes til beste for mennesker i et samfunn der det er plass til alle. Dette skal skje i samsvar med prinsipper om respekt for menneskeverd, menneskelige rettigheter og personlig integritet og uten diskriminering på grunnlag av arveanlegg basert på de etiske normer nedfelt i vår vestlige kulturarv."
+                    ]
+                },
+                {
+                    "name": "§ 1-2",
+                    "title": "Lovens virkeområde",
+                    "sections": [
+                        "Loven gjelder humanmedisinsk bruk av bioteknologi m.m. og omfatter assistert befruktning, forskning på befruktede egg og kloning, fosterdiagnostikk, genetiske undersøkelser av fødte og genterapi m.m.",
+                        "Loven gjelder ikke for forskning som ikke har diagnostiske eller behandlingsmessige konsekvenser for deltakeren eller hvor opplysninger om den enkelte ikke føres tilbake til vedkommende. Unntatt fra dette er bestemmelsene i kap. 3.",
+                        "Loven gjelder ikke for obduksjon som faller inn under lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m., kapittel II og sakkyndig likundersøkelse, jf. lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker § 228.",
+                        "Loven gjelder i riket. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Assistert befruktning",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I denne lov forstås med:",
+                        "a)assistert befruktning: inseminasjon og befruktning utenfor kroppen;",
+                        "b)inseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;",
+                        "c)befruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp."
+                    ]
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Krav til samlivsform",
+                    "sections": [
+                        "Assistert befruktning kan bare utføres på kvinne som er gift eller som er samboer med en mann i ekteskapsliknende forhold."
+                    ]
+                },
+                {
+                    "name": "§ 2-3",
+                    "title": "Vilkår for inseminasjon",
+                    "sections": [
+                        "Inseminasjon kan bare finne sted når mannen er befruktningsudyktig eller selv har eller er bærer av alvorlig arvelig sykdom.",
+                        "Inseminasjon kan i særskilte tilfelle finne sted dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom, jf. § 2-13."
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "Vilkår for befruktning utenfor kroppen",
+                    "sections": [
+                        "Befruktning utenfor kroppen kan bare finne sted når kvinnen eller mannen er befruktningsudyktig eller ved uforklarlig befruktningsudyktighet."
+                    ]
+                },
+                {
+                    "name": "§ 2-5",
+                    "title": "Informasjon og samtykke",
+                    "sections": [
+                        "Paret skal gis informasjon om behandlingen og om de medisinske og rettslige virkninger behandlingen kan få. Informasjonen skal også omfatte informasjon om adopsjon.",
+                        "Før behandlingen påbegynnes, skal behandlende lege påse at det foreligger skriftlig samtykke fra kvinnen og hennes ektemann eller samboer. Ved gjentatte behandlinger skal nytt samtykke innhentes."
+                    ]
+                },
+                {
+                    "name": "§ 2-6",
+                    "title": "Avgjørelse om behandling",
+                    "sections": [
+                        "Beslutning om å foreta behandling med sikte på assistert befruktning treffes av lege. Avgjørelsen skal bygge på medisinske og psykososiale vurderinger av paret. Det skal legges vekt på parets omsorgsevne og hensynet til barnets beste.",
+                        "Legen kan innhente den informasjon som er nødvendig, for å foreta en helhetsvurdering av paret."
+                    ]
+                },
+                {
+                    "name": "§ 2-7",
+                    "title": "Barnets rett til opplysninger om sædgiver",
+                    "sections": [
+                        "Den som er født etter assistert befruktning ved hjelp av donorsæd har ved fylte 18 år rett til å få opplysninger om sædgivers identitet. Et donorregister skal bistå barnet med dette."
+                    ]
+                },
+                {
+                    "name": "§ 2-8",
+                    "title": "Donorregister",
+                    "sections": [
+                        "Departementet skal opprette register for registrering av sædgivers identitet, slik at barnets rett etter § 2-7 kan oppfylles."
+                    ]
+                },
+                {
+                    "name": "§ 2-9",
+                    "title": "Sædgiver",
+                    "sections": [
+                        "En sædgiver skal være myndig. Giveren må gi skriftlig samtykke til at sæden kan brukes til befruktning og at hans identitet registreres i donorregisteret. Samtykke kan tilbakekalles fram til befruktningen har funnet sted.",
+                        "En sædgiver skal ikke gis opplysninger om parets eller barnets identitet."
+                    ]
+                },
+                {
+                    "name": "§ 2-10",
+                    "title": "Valg av sædgiver",
+                    "sections": [
+                        "Behandlende lege skal velge egnet sædgiver. Virksomheten som utfører den assisterte befruktningen skal sørge for at nødvendige opplysninger om behandlingen registreres og meldes."
+                    ]
+                },
+                {
+                    "name": "§ 2-11",
+                    "title": "Lagring og import av sæd",
+                    "sections": [
+                        "Lagring og import av sæd kan bare finne sted ved virksomheter som er særskilt godkjent for dette.",
+                        "Virksomheter som lagrer donorsæd, skal sørge for at opplysninger om sædgivers identitet registreres og meldes til et donorregister.",
+                        "Sæd skal ikke utleveres for bruk til assistert befruktning etter givers død."
+                    ]
+                },
+                {
+                    "name": "§ 2-12",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan i forskrift gi nærmere regler om organisering av sædbanker, bruk av donorsæd samt registrering og melding av opplysninger om sædgiver."
+                    ]
+                },
+                {
+                    "name": "§ 2-13",
+                    "title": "Behandling av sæd før befruktning",
+                    "sections": [
+                        "Behandling av sæd før befruktning for å påvirke valg av barnets kjønn er bare tillatt dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom."
+                    ]
+                },
+                {
+                    "name": "§ 2-14",
+                    "title": "Genetisk undersøkelse av befruktede egg",
+                    "sections": [
+                        "Genetisk undersøkelse av et befruktet egg, før det settes inn i livmoren, herunder undersøkelse for å velge barnets kjønn (preimplantasjonsdiagnostikk), kan bare gjøres i spesielle tilfeller ved alvorlig arvelig kjønnsbundet sykdom uten behandlingsmuligheter.",
+                        "Før slik preimplantasjonsdiagnostikk foretas, skal kvinnen eller paret gis genetisk veiledning og informasjon."
+                    ]
+                },
+                {
+                    "name": "§ 2-15",
+                    "title": "Anvendelse og tilbakeføring av befruktede egg",
+                    "sections": [
+                        "Befruktede egg kan bare anvendes for tilbakeføring i den kvinnen eggcellen stammer fra.",
+                        "Departementet kan gi nærmere forskrifter om tilbakeføring av befruktede egg i en kvinnes kropp ved befruktning utenfor kroppen."
+                    ]
+                },
+                {
+                    "name": "§ 2-16",
+                    "title": "Lagring av befruktede egg",
+                    "sections": [
+                        "Bare virksomheter som er godkjent etter § 7-1 til å utføre assistert befruktning, kan etter godkjenning lagre befruktede egg.",
+                        "Befruktede egg må ikke lagres i mer enn fem år, og skal deretter destrueres."
+                    ]
+                },
+                {
+                    "name": "§ 2-17",
+                    "title": "Lagring av ubefruktede egg og eggstokkvev",
+                    "sections": [
+                        "Bare virksomheter som er godkjent etter § 7-1 til å utføre assistert befruktning, kan etter godkjenning lagre ubefruktede egg og eggstokkvev.",
+                        "Ubefruktede egg og eggstokkvev kan bare lagres når lovens vilkår for assistert befruktning er oppfylt, eller dersom en kvinne skal gjennomgå behandling som kan skade befruktningsdyktigheten.",
+                        "Lagrede ubefruktede egg og lagret eggstokkvev kan bare oppbevares så lenge hensynet til kvinnen som har avgitt materialet, tilsier det og det kan anses medisinsk forsvarlig.",
+                        "Ved kvinnens død skal lagrede ubefruktede egg og lagret eggstokkvev destrueres."
+                    ]
+                },
+                {
+                    "name": "§ 2-18",
+                    "title": "Forbud mot eggdonasjon og transplantasjon av organer og vev som produserer kjønnsceller",
+                    "sections": [
+                        "Donasjon av egg eller deler av dette fra en kvinne til en annen er forbudt.",
+                        "Transplantasjon av organer og vev som produserer kjønnsceller fra en person til en annen med det formål å behandle infertilitet er forbudt."
+                    ]
+                },
+                {
+                    "name": "§ 2-19",
+                    "title": "Godkjenning av behandlingsformer m.m.",
+                    "sections": [
+                        "Behandlingsformer som faller inn under § 2-1, lagring og import av sæd jf. § 2-11, teknikker for behandling av sæd jf. § 2-13, samt lagring av befruktede egg og ubefruktede egg og eggstokkvev jf. §§ 2-16 og 2-17, skal godkjennes av departementet, og kan bare tas i bruk eller foretas ved virksomheter godkjent i henhold til § 7-1.",
+                        "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Forskning på befruktede egg og kloning m.m.",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "Forbud mot forskning på befruktede egg m.m.",
+                    "sections": [
+                        "Det er forbudt å forske på befruktede egg, menneskeembryoer og cellelinjer som er dyrket ut fra befruktede egg eller menneskeembryoer."
+                    ]
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "Forbud mot framstilling av menneskeembryoer ved kloning m.m.",
+                    "sections": [
+                        "Det er forbudt:",
+                        "a)å framstille menneskeembryoer ved kloning,",
+                        "b)å forske på cellelinjer som er dyrket ut fra menneskeembryoer ved kloning og",
+                        "c)å framstille embryoer ved kloning ved at arvematerial fra menneske settes inn i en eggcelle fra dyr.",
+                        "Med kloning menes teknikker for å framstille arvemessig like kopier."
+                    ]
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Forbud mot bruk av teknikker med sikte på å framstille arvemessig like individer",
+                    "sections": [
+                        "Bruk av teknikker med sikte på å framstille arvemessig like individer er forbudt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Fosterdiagnostikk",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Definisjon",
+                    "sections": [
+                        "Med fosterdiagnostikk forstås i denne lov undersøkelse av føtale celler, foster eller en gravid kvinne med det formål å få informasjon om fosterets genetiske egenskaper eller for å påvise eller utelukke sykdom eller utviklingsavvik hos fosteret.",
+                        "Ultralydundersøkelser i den alminnelige svangerskapsomsorgen anses ikke som fosterdiagnostikk i henhold til første ledd, og omfattes derfor ikke av denne loven med unntak av § 4-5."
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Godkjenning av fosterdiagnostikk",
+                    "sections": [
+                        "Undersøkelsesmetoder som faller inn under § 4-1 første ledd, skal godkjennes av departementet.",
+                        "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
+                    ]
+                },
+                {
+                    "name": "§ 4-3",
+                    "title": "Samtykke",
+                    "sections": [
+                        "Før fosterdiagnostikk, jf. § 4-1 foretas, må den som skal undersøkes, gi skriftlig samtykke."
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "Informasjon og genetisk veiledning",
+                    "sections": [
+                        "Ved fosterdiagnostikk skal kvinnen eller paret før undersøkelsen gis informasjon som blant annet skal omfatte at undersøkelsen er frivillig, hvilken risiko som er forbundet med gjennomføringen av undersøkelsen, hva undersøkelsen kan avdekke og hvilke konsekvenser dette kan få for barnet, kvinnen, paret og familien. Dersom det er mistanke om genetisk sykdom skal kvinnen eller paret også gis genetisk veiledning.",
+                        "Hvis undersøkelsen viser at fosteret kan ha en sykdom eller et utviklingsavvik, skal kvinnen eller paret gis informasjon og genetisk veiledning om den aktuelle sykdommen eller funksjonshemmingen, samt om gjeldende rettigheter og aktuelle hjelpetiltak."
+                    ]
+                },
+                {
+                    "name": "§ 4-5",
+                    "title": "Opplysning om kjønn før 12. svangerskapsuke",
+                    "sections": [
+                        "Opplysning om fosterets kjønn før 12. svangerskapsuke som fremkommer ved fosterdiagnostikk eller annen undersøkelse av fosteret, skal bare gis dersom kvinnen er bærer av alvorlig kjønnsbundet sykdom."
+                    ]
+                },
+                {
+                    "name": "§ 4-6",
+                    "title": "Farskapstesting på fosterstadiet",
+                    "sections": [
+                        "Fosterdiagnostikk med sikte på å fastsette farskap og farskapstesting på fosterstadiet er forbudt. Dette gjelder ikke når svangerskapet kan være et resultat av omstendigheter som omtalt i straffeloven §§ 192 til 199."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Genetiske undersøkelser av fødte m.m.",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Definisjon",
+                    "sections": [
+                        "Med genetiske undersøkelser menes i denne loven alle typer analyser av menneskets arvestoff, både på nukleinsyre- og kromosomnivå, av genprodukter og deres funksjon, eller organundersøkelser, som har til hensikt å gi informasjon om menneskets arveegenskaper.",
+                        "Med genetiske undersøkelser av fødte menes i denne lov:",
+                        "a)genetiske undersøkelser for å stille sykdomsdiagnose.",
+                        "b)genetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner.",
+                        "c)genetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål."
+                    ]
+                },
+                {
+                    "name": "§ 5-2",
+                    "title": "Anvendelse av genetiske undersøkelser",
+                    "sections": [
+                        "Genetiske undersøkelser skal bare anvendes til medisinske formål med diagnostiske eller behandlingsmessige siktemål."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Godkjenning av genetiske undersøkelser",
+                    "sections": [
+                        "Før genetiske undersøkelser som omtalt i § 5-1 annet ledd bokstav b tas i bruk, skal departementet gi særskilt godkjenning for den enkelte sykdom/sykdomsdisposisjon som gjøres til gjenstand for undersøkelse.",
+                        "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Samtykke",
+                    "sections": [
+                        "Før genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b foretas, må den som skal undersøkes, gi skriftlig samtykke til undersøkelsen.",
+                        "Før det foretas genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b av barn under 16 år, skal det gis skriftlig samtykke fra barnets foreldre eller andre med foreldreansvar."
+                    ]
+                },
+                {
+                    "name": "§ 5-5",
+                    "title": "Genetisk veiledning",
+                    "sections": [
+                        "Ved genetiske undersøkelser som omfattes av § 5-1 annet ledd bokstav b, skal den som undersøkes, gis genetisk veiledning både før, under og etter at undersøkelsen er foretatt.",
+                        "Dersom den som undersøkes, er et barn under 16 år, skal genetisk veiledning også gis til barnets foreldre eller andre med foreldreansvar."
+                    ]
+                },
+                {
+                    "name": "§ 5-6",
+                    "title": "Genetiske masseundersøkelser og farmakogenetiske undersøkelser",
+                    "sections": [
+                        "Kongen kan gi forskrifter om godkjenning av genetiske masseundersøkelser og farmakogenetiske undersøkelser. I forskriften kan det gjøres unntak fra lovens krav om skriftlig samtykke, genetisk veiledning, godkjenning av virksomhet eller rapportering."
+                    ]
+                },
+                {
+                    "name": "§ 5-7",
+                    "title": "Genetisk undersøkelse av barn",
+                    "sections": [
+                        "Genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b, skal ikke utføres på barn før barnet er fylt 16 år, med mindre undersøkelsen kan påvise forhold som ved behandling kan forhindre eller redusere helseskade hos barnet.",
+                        "Departementet kan i særlige tilfeller gjøre unntak fra forbudet i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 5-8",
+                    "title": "Forbud mot bruk av genetiske opplysninger utenfor helsetjenesten",
+                    "sections": [
+                        "Det er forbudt å be om, motta, besitte, eller bruke opplysninger om en annen person som er fremkommet ved genetiske undersøkelser som omfattes av § 5-1 annet ledd bokstav b, eller ved systematisk kartlegging av arvelig sykdom i en familie.",
+                        "Det er forbudt å spørre om genetiske undersøkelser eller systematisk kartlegging av arvelig sykdom i en familie har vært utført.",
+                        "Forbudet i første og annet ledd omfatter ikke virksomheter som er godkjent etter § 7-1 til å utføre genetiske undersøkelser som omfattes av § 5-1 annet ledd, eller til forskningsformål. Dersom genetiske opplysninger skal benyttes til forskningsformål må den opplysningene gjelder ha gitt samtykke til dette.",
+                        "Unntatt fra forbudet i første og annet ledd er helsepersonell som trenger opplysningene i diagnostisk og behandlingsmessig øyemed."
+                    ]
+                },
+                {
+                    "name": "§ 5-9",
+                    "title": "Oppsøkende genetisk informasjonsvirksomhet",
+                    "sections": [
+                        "Med oppsøkende genetisk informasjonsvirksomhet forstås i denne loven helsepersonells adgang til å informere pasientens berørte slektninger om arvelig sykdom i familien.",
+                        "Når det er dokumentert at en pasient har eller er disponert for en arvelig sykdom, bestemmer pasienten selv om han eller hun vil informere berørte slektninger om dette.",
+                        "Dersom pasienten ikke selv kan eller vil informere berørte slektninger, kan helsepersonell be om pasientens samtykke til å informere disse, hvis vilkårene i femte ledd er oppfylt og sykdommen er godkjent av departementet etter sjuende ledd.",
+                        "Dersom pasienten ikke kan samtykke til at helsepersonell informerer berørte slektninger, kan helsepersonell i særlige tilfeller gjøre dette, hvis vilkårene i femte ledd er oppfylt og sykdommen er godkjent av departementet etter sjuende ledd.",
+                        "Før helsepersonell tar kontakt med slektningene, skal han eller hun vurdere om:",
+                        "1.det gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,",
+                        "2.det er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,",
+                        "3.det foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,",
+                        "4.de genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, og",
+                        "5.sykdommen kan forebygges eller behandles med god effekt.",
+                        "Dersom slektningen er under 16 år, skal bare foreldrene eller andre med foreldreansvar informeres.",
+                        "Departementet bestemmer i forskrift eller i det enkelte tilfelle hvilke sykdommer som kan gjøres til gjenstand for oppsøkende genetisk virksomhet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Genterapi",
+            "paragraphs": [
+                {
+                    "name": "§ 6-1",
+                    "title": "Definisjon",
+                    "sections": [
+                        "Med genterapi menes i denne loven overføring av genetisk materiale til humane celler for medisinske formål eller for å påvirke biologiske funksjoner."
+                    ]
+                },
+                {
+                    "name": "§ 6-2",
+                    "title": "Vilkår for genterapi",
+                    "sections": [
+                        "Genterapi kan bare benyttes for behandling av alvorlig sykdom eller for å hindre at slik sykdom oppstår.",
+                        "Genterapi på foster og befruktede egg og genterapi som kan medføre genetiske endringer i kjønnsceller, er forbudt."
+                    ]
+                },
+                {
+                    "name": "§ 6-3",
+                    "title": "Godkjenning av genterapi",
+                    "sections": [
+                        "Behandlingsformer som faller inn under § 6-2 første ledd, skal godkjennes av departementet.",
+                        "Departementet kan gi forskrifter om saksbehandlingen.",
+                        "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
+                    ]
+                },
+                {
+                    "name": "§ 6-4",
+                    "title": "Samtykke",
+                    "sections": [
+                        "Før genterapi igangsettes må den som skal behandles, gi skriftlig samtykke. Før det igangsettes genterapi på barn under 16 år, skal det gis skriftlig samtykke fra foreldrene eller andre med foreldreansvar."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Generelle bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 7-1",
+                    "title": "Godkjenning av virksomheter",
+                    "sections": [
+                        "Medisinsk bruk av bioteknologi m.m. som krever godkjenning etter §§ 2-19, 4-2, 5-3 og 6-3 første ledd i denne loven, kan bare finne sted ved virksomheter som er spesielt godkjent av departementet for det aktuelle formål. Det skal fremgå av godkjenningsvedtaket hvilke former for medisinsk bioteknologi virksomheten har tillatelse til å foreta eller rekvirere.",
+                        "Departementet kan i godkjenningsvedtaket sette nærmere vilkår for godkjenning."
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Rapporteringsplikt",
+                    "sections": [
+                        "Enhver virksomhet som er godkjent etter § 7-1, skal gi skriftlig rapport til departementet om virksomheten.",
+                        "Departementet fastsetter nærmere regler om rapporteringsplikten."
+                    ]
+                },
+                {
+                    "name": "§ 7-3",
+                    "title": "Bioteknologinemnda",
+                    "sections": [
+                        "Kongen oppnevner en nemnd som på begjæring eller av eget tiltak, kan gi uttalelser i saker etter denne lov og i andre spørsmål om bioteknologi. Nemndas uttalelser er offentlige, med mindre annet følger av lovbestemt taushetsplikt.",
+                        "Kongen kan gi nærmere regler om nemndas virksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 7-4",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Kongen kan ved forskrift fastsette nærmere bestemmelser til utfylling og gjennomføring av loven."
+                    ]
+                },
+                {
+                    "name": "§ 7-5",
+                    "title": "Straff",
+                    "sections": [
+                        "Den som forsettlig overtrer loven eller bestemmelser gitt i medhold av loven straffes med bøter eller fengsel i inntil tre måneder. Medvirkning straffes på samme måte."
+                    ]
+                },
+                {
+                    "name": "§ 7-6",
+                    "title": "Ikrafttredelse og overgangsordninger",
+                    "sections": [
+                        "Loven trer i kraft fra det tidspunkt Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.",
+                        "Vedtak truffet med hjemmel i lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi skal fortsatt gjelde så langt de ikke strider mot loven her, eller mot forskrifter eller enkeltvedtak truffet i medhold av loven her."
+                    ]
+                },
+                {
+                    "name": "§ 7-7",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra det tidspunkt loven trer i kraft, endres andre lover slik:",
+                        "1. Lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi oppheves.",
+                        "2. I lov 8. april 1981 nr. 7 om barn og foreldre (barnelova) skal § 9 fjerde og femte ledd lyde:",
+                        "Er det utført assistert befruktning på mora, og ektemann eller sambuar har gitt sitt samtykke til dette, skal det seiast dom for at han er faren, dersom det ikkje er lite truleg at barnet er avla ved assistert befruktning.",
+                        "Sædgiveren kan ikkje dømast til far. Dette gjeld likevel ikkje dersom assistert befruktning er gjort med sæd frå ektemann eller sambuar."
+                    ]
+                }
+            ]
+        }
+    ]
+}

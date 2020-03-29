@@ -1,0 +1,38 @@
+{
+    "lawId": "LOV-2018-12-20-109",
+    "lawName": "Lov om endringer i SI-loven",
+    "shortName": "Endringslov til SI-loven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 6 a",
+                    "title": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+                    "sections": [
+                        "Statens innkrevingssentral kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+                        "Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.",
+                        "§ 8 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Betalingsutsettelse og betalingsnedsettelse",
+                    "sections": [
+                        "For krav som innkreves etter denne lov, kan det gis betalingsutsettelse eller betalingsnedsettelse",
+                        "a)etter vilkårene i skattebetalingsloven § 15-1, eller",
+                        "b)etter vilkårene i skattebetalingsloven § 15-2.",
+                        "Erstatningskrav og andre pengekrav som tilkommer en fornærmet, skadelidt eller etterlatt kan bare lempes dersom den berettigede samtykker.",
+                        "Departementet kan i forskrift gi nærmere regler om adgangen til betalingsutsettelse og betalingsnedsettelse etter denne paragraf, herunder i hvilke tilfeller adgangen til betalingsnedsettelse skal være begrenset.",
+                        "Endringene under I trer i kraft 1. juli 2019."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

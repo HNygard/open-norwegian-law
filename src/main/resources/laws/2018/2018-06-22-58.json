@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2018-06-22-58",
+    "lawName": "Lov om endring i pasientskadeloven",
+    "shortName": "Endringslov til pasientskadeloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 10 a",
+                    "title": "Innhenting av opplysninger fra Folkeregisteret",
+                    "sections": [
+                        "Folkeregistermyndigheten skal, uten hinder av taushetsplikt, gi de opplysninger som er nødvendig for utførelsen av oppgaver etter denne lov.",
+                        "Endringa under I tek til å gjelde straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

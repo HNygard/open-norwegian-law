@@ -1,0 +1,71 @@
+{
+    "lawId": "LOV-2009-06-19-68",
+    "lawName": "Lov om endringer i helseregisterloven og helsepersonelloven",
+    "shortName": "Endringslov til helseregisterl. og helsepersonell.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 6 a",
+                    "title": "Virksomhetsovergripende, behandlingsrettede helseregistre",
+                    "sections": [
+                        "Det kan bare etableres virksomhetsovergripende, behandlingsrettede helseregistre som fremgår av loven her eller annen lov.",
+                        "Virksomhetsovergripende, behandlingsrettede helseregistre kan bare inneholde nærmere bestemte helseopplysninger i et begrenset omfang som er nødvendige og relevante for samarbeid mellom virksomheter om forsvarlig helsehjelp til pasienten. Slike registre kan bare etableres i tillegg til de behandlingsrettede helseregistrene virksomheten etablerer internt i virksomheten, jf. lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 3-2 og lov 19. november 1982 nr. 66 om helsetjenesten i kommunene § 1-3a, jf. helsepersonelloven §§ 39 og 40. Virksomhetsovergripende, behandlingsrettede helseregistre skal føres elektronisk.",
+                        "Kongen i statsråd kan i forskrift gi nærmere bestemmelser om etablering, drift og behandling av helseopplysninger i virksomhetsovergripende, behandlingsrettede helseregistre. Virksomhetsovergripende, behandlingsrettede helseregistre kan bare etableres uten samtykke fra pasienten dersom dette er nødvendig for å ivareta formålet med registeret. Det kan ikke etableres sentrale behandlingsrettede helseregistre etter denne bestemmelsen.",
+                        "Forskrift etter tredje ledd skal nærmere angi formålet med behandlingen av helseopplysningene og hvilke opplysninger som skal behandles. Forskriften skal videre gi nærmere regler om databehandlingsansvaret for opplysningene, herunder om plassering, tilgang, tilgangskontroll, samt gi pasienten rett til å motsette seg behandling av opplysninger i registeret eller stille krav om samtykke.",
+                        "Ny § 6 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 6 b",
+                    "title": "Virksomhetsovergripende, behandlingsrettede helseregistre – helsepersonell med formalisert arbeidsfellesskap",
+                    "sections": [
+                        "Kongen i statsråd kan i forskrift gi bestemmelser om etablering av virksomhetsovergripende behandlingsrettede helseregistre for bruk av helsepersonell med formalisert arbeidsfellesskap.",
+                        "Forskriften etter første ledd skal sikre plassering av databehandlingsansvaret, samt angi regler om tilgang og tilgangskontroll. Den databehandlingsansvarlige skal sørge for at journal- og informasjonssystemene i det formaliserte arbeidsfellesskapet er forsvarlige.",
+                        "Der slike registre opprettes, skal det virksomhetsovergripende, behandlingsrettede registeret føres elektronisk og erstatte det virksomhetsinterne behandlingsrettede registeret. Plikten til å føre journal, jf. helsepersonelloven §§ 39 og 40, gjelder tilsvarende.",
+                        "§ 9 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Særlig om innsamling av helseopplysninger til sentrale, regionale, lokale og behandlingsrettede helseregistre, meldingsplikt m.v.",
+                    "sections": [
+                        "Virksomheter og helsepersonell som tilbyr eller yter tjenester i henhold til apotekloven, kommunehelsetjenesteloven, sosialtjenesteloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, plikter å utlevere eller overføre opplysninger som bestemt i forskrifter etter §§ 6 a, 7 og 8 samt etter paragrafen her.",
+                        "Kongen kan gi forskrifter om innsamling av helseopplysninger etter §§ 6 a, 7 og 8, herunder bestemmelser om hvem som skal gi og motta opplysningene og om frister, formkrav og meldingsskjemaer. Den som mottar opplysningene, skal varsle avsenderen av opplysningene dersom opplysningene er mangelfulle.",
+                        "§ 13 nye andre til sjette ledd skal lyde:",
+                        "Kongen i Statsråd kan i forskrift gi nærmere bestemmelser om tilgang til helseopplysninger. Forskriften kan for tilgang til helseopplysninger i behandlingsrettede helseregistre gjøre unntak fra første ledd første punktum.",
+                        "Tilgang til helseopplysninger i behandlingsrettet helseregister på tvers av virksomheter kan bare gis etter uttrykkelig samtykke fra den registrerte.",
+                        "Kongen i Statsråd kan i forskrift gjøre unntak fra kravet om uttrykkelig samtykke i tredje ledd, jf. § 2 nr. 11.",
+                        "Én forespørsel om og tilgang til helseopplysninger i annen virksomhet kan bare omfatte én pasient om gangen.",
+                        "Den registrerte har rett til innsyn i logg fra behandlingsrettet helseregister om hvem som har hatt tilgang til helseopplysninger om ham eller henne.",
+                        "I lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) gjøres følgende endringer:",
+                        "§ 25 første ledd nytt andre punktum skal lyde:",
+                        "For elektronisk tilgang til helseopplysninger på tvers av virksomheter gjelder helseregisterloven § 13 tredje og fjerde ledd.",
+                        "§ 45 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 45",
+                    "title": "Utlevering av og tilgang til journal og journalopplysninger",
+                    "sections": [
+                        "Med mindre pasienten motsetter seg det, skal helsepersonell som skal yte eller yter helsehjelp til pasient etter denne lov, gis nødvendige og relevante helseopplysninger i den grad dette er nødvendig for å kunne gi helsehjelp til pasienten på forsvarlig måte. For elektronisk tilgang til helseopplysninger på tvers av virksomheter gjelder helseregisterloven § 13 tredje og fjerde ledd. Det skal fremgå av journalen at annet helsepersonell er gitt helseopplysninger.",
+                        "Helseopplysninger som nevnt i første ledd kan gis av den databehandlingsansvarlige for opplysningene eller det helsepersonell som har dokumentert opplysningene, jf. § 39.",
+                        "Departementet kan i forskrift gi nærmere bestemmelser til utfylling av første ledd, og kan herunder bestemme at annet helsepersonell kan gis tilgang til journalen også i de tilfeller som faller utenfor første ledd.",
+                        "Loven trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

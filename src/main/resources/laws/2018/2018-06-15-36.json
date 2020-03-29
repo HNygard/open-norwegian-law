@@ -1,0 +1,40 @@
+{
+    "lawId": "LOV-2018-06-15-36",
+    "lawName": "Lov om endringer i utlendingsloven (behandling av personopplysninger)",
+    "shortName": "Endringlov til utlendingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "I. Alminnelige regler om saksbehandlingen, behandlingen av personopplysninger m.m.",
+            "paragraphs": [
+                {
+                    "name": "§ 80",
+                    "title": "Forholdet til forvaltningsloven og personopplysningsloven",
+                    "sections": [
+                        "Forvaltningsloven og personopplysningsloven gjelder når ikke annet følger av loven her.",
+                        "Ny § 83 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 83 a",
+                    "title": "Behandling av personopplysninger",
+                    "sections": [
+                        "Utlendingsmyndighetene kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utøve myndighet eller utføre andre oppgaver etter loven her.",
+                        "Utlendingsmyndighetene kan behandle personopplysninger som nevnt i første ledd når det er nødvendig i forbindelse med tildeling av økonomiske ytelser til utlending som er innkvartert etter § 95, ved utøvelse av omsorgsansvaret for enslige, mindreårige asylsøkere eller i forbindelse med assistert retur.",
+                        "Kongen kan gi forskrift om behandlingen, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, adgangen til viderebehandling, utlevering, registerføring og tilgang til registre.",
+                        "§ 84 a oppheves.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

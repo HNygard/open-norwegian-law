@@ -1,0 +1,33 @@
+{
+    "lawId": "LOV-2015-06-19-46",
+    "lawName": "Lov om endringar i lov 19. mai 1933 nr. 11 om særavgifter",
+    "shortName": "Endringslov til særavgiftsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 5a",
+                    "title": "Reglene i tolloven §§ 13-5, 13-6 og 16-16 om pålegg om bokføring og vedtak om tvangsmulkt gjelder tilsvarende når avgiftsmyndighetene utøver kontroll i medhold av forskrift gitt med hjemmel i denne lov § 1.",
+                    "sections": [
+                        "§ 6 andre ledd skal lyde:",
+                        "Departementet kan bestemme at politiet, skattemyndighetene, Toll- og avgiftsetaten og Mattilsynet uten hinder av taushetsplikt plikter å gi avgiftsmyndighetene nødvendige opplysninger for behandling av søknader om registrering for avgift på alkoholholdige drikkevarer.",
+                        "§ 7 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Reglene om taushetsplikt mv. i tolloven § 12-1 gjelder tilsvarende for avgiftsmyndighetenes arbeid knyttet til denne lov.",
+                    "sections": [
+                        "Endringane under I tek til å gjelde 1. januar 2016."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

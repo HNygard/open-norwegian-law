@@ -1,0 +1,1469 @@
+{
+    "lawId": "LOV-2005-06-17-67",
+    "lawName": "Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)",
+    "shortName": "Skattebetalingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Del I Innledende bestemmelser",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1 Lovens virkeområde",
+            "paragraphs": [
+                {
+                    "name": "§ 1-1",
+                    "title": "Virkeområde",
+                    "sections": [
+                        "(1) Loven gjelder betaling og innkreving av skatte- og avgiftskrav.",
+                        "(2) Med skatte- og avgiftskrav menes:",
+                        "a)skatt på formue og inntekt og tonnasjeskatt etter skatteloven (formues- og inntektsskatt), skatt på formue og inntekt etter lov 29. november 1996 nr. 68 om skatt til Svalbard (svalbardskatt) og trygdeavgift etter folketrygdloven kapittel 23, herunder forskuddstrekk, forskuddsskatt og restskatt etter kapitlene 5 til 7 i loven her",
+                        "b)skatt på inntekt etter lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister m.v. (artistskatt)",
+                        "c)skatt på formue og inntekt etter lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v. (petroleumsskatt), herunder terminskatt og restskatt etter nevnte lov",
+                        "d)arbeidsgiveravgift etter folketrygdloven kapittel 23",
+                        "e)arveavgift etter lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver",
+                        "f)merverdiavgift etter lov 19. juni 1969 nr. 66 om merverdiavgift",
+                        "g)særavgifter omfattet av lov 19. mai 1933 nr. 11 om særavgifter",
+                        "h)særavgifter omfattet av lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter",
+                        "i)toll etter tolltariffen, herunder de innledende bestemmelsene, og tolloven.",
+                        "(3) Med mindre annet er særskilt bestemt gjelder reglene om skatte- og avgiftskrav tilsvarende så langt de passer for:",
+                        "a)renter etter kapittel 11, omkostninger og gebyrer fastsatt i medhold av ligningsloven og lover som nevnt i annet ledd bokstavene a til i",
+                        "b)tilleggsskatt, tilleggsavgift og tilleggstoll fastsatt i medhold av ligningsloven eller lover som nevnt i annet ledd bokstavene a til i",
+                        "c)tvangsmulkt etter § 5-16, lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 43 og ligningsloven § 10-6",
+                        "d)ansvarsbeløp etter ligningsloven § 10-7."
+                    ]
+                },
+                {
+                    "name": "§ 1-2",
+                    "title": "Andre offentlige krav",
+                    "sections": [
+                        "Departementet kan i forskrift bestemme at hele eller deler av loven skal gjelde for andre krav som tilkommer staten når kravet har tvangsgrunnlag."
+                    ]
+                },
+                {
+                    "name": "§ 1-3",
+                    "title": "Tilbakesøkingskrav",
+                    "sections": [
+                        "Når det ved forhøyelse av et skatte- og avgiftskrav eller ved enhver retting av et gjennomført oppgjør oppstår krav på tilbakebetaling av et beløp som tidligere er utbetalt skyldneren, skal beløpet, herunder rentegodtgjørelse, anses som et skatte- og avgiftskrav. Innkrevingsmyndighetene kan innkreve beløpet uavhengig av om mottakeren har vært i god tro. Reglene om forfall i § 10-53 gjelder tilsvarende."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2 Innkrevingsmyndigheter og betalingsmottakere",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "Skatteoppkreverne for kommunene – formues- og inntektsskatt, trygdeavgift og arbeidsgiveravgift",
+                    "sections": [
+                        "(1) Formues- og inntektsskatt, trygdeavgift og arbeidsgiveravgift innkreves av den kommunale skatteoppkreveren.",
+                        "(2) Forskuddstrekk og arbeidsgiveravgift skal betales til skatteoppkreveren for den kommunen hvor arbeidsgiveren er hjemmehørende eller har sitt hovedkontor. Forskuddstrekk fra selskaper og innlånere skal betales til skatteoppkreveren for den kommunen der selskapet eller innlåneren har sitt hovedkontor eller styret har sitt sete.",
+                        "(3) Forskuddsskatt og restskatt skal betales til skatteoppkreveren for den kommunen skatten er skrevet ut for.",
+                        "(4) Første til tredje ledd gjelder ikke krav som omhandlet i § 2-3.",
+                        "(5) Departementet kan i forskrift gi regler om hvem som skal innkreve forskuddstrekk og arbeidsgiveravgift fra utenlandske arbeidsgivere og selskaper, og om hvem slike krav skal betales til."
+                    ]
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Skattefogdkontorene for fylkene – merverdiavgift og arveavgift",
+                    "sections": [
+                        "(1) Merverdiavgift skal betales til og innkreves av skattefogdkontoret for det fylket hvor den avgiftspliktige skal registreres. Se likevel § 2-4 første ledd om merverdiavgift som oppstår ved innførsel.",
+                        "(2) Arveavgift skal betales til skattefogdkontoret for det fylket hvor kravet er fastsatt. Ved offentlig skifte skal arveavgift som ikke blir tilbakeholdt av tingretten, innkreves av og betales til skattefogdkontoret for det fylket hvor kravet ville blitt fastsatt etter lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 24 annet og tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 2-3",
+                    "title": "Skatteoppkrever for formues- og inntektsskatt fastsatt ved sentral ligning, artistskatt, petroleumsskatt og svalbardskatt",
+                    "sections": [
+                        "(1) Formues- og inntektsskatt fastsatt ved sentral ligning etter ligningsloven § 2-4 nr. 1 bokstav a skal betales til og innkreves av Rogaland skattefutkontor.",
+                        "(2) Artistskatt skal betales til og innkreves av Rogaland skattefutkontor.",
+                        "(3) Petroleumsskatt skal betales til og innkreves av Oslo og Akershus skattefogdkontor.",
+                        "(4) Formues- og inntektsskatt til Svalbard og lønnstrekk av inntekt på Svalbard skal betales til og innkreves av Troms skattefogdkontor."
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "Tollregionene – toll og særavgifter samt merverdiavgift som oppstår ved innførsel",
+                    "sections": [
+                        "(1) Toll samt særavgifter og merverdiavgift som oppstår ved innførsel, innkreves av tollregionene. Betaling skal skje til tollstedet i tollregionen hvor fortolling etter tolloven skal foretas. Krav som er belastet tollkreditten, skal likevel betales til den tollregionen som har innvilget tollkreditten.",
+                        "(2) Innenlands særavgifter skal betales til og innkreves av tollregionen hvor den avgiftspliktige skal registreres som særavgiftspliktig virksomhet. Dette gjelder likevel ikke krav som omfattes av § 2-5.",
+                        "(3) Engangsavgift fra avgiftspliktige som ikke er registrert skal betales til og innkreves av tollregionene."
+                    ]
+                },
+                {
+                    "name": "§ 2-5",
+                    "title": "Tollregion Oslo og Akershus og tollregion Midt-Norge – årsavgift, vektårsavgift og omregistreringsavgift",
+                    "sections": [
+                        "(1) Årsavgiften og omregistreringsavgiften skal betales til og innkreves av tollregion Oslo og Akershus.",
+                        "(2) Vektårsavgiften skal betales til og innkreves av tollregion Midt-Norge."
+                    ]
+                },
+                {
+                    "name": "§ 2-6",
+                    "title": "Andre skatte- og avgiftskrav",
+                    "sections": [
+                        "(1) Krav som nevnt i § 1-1 tredje ledd bokstav a og b skal, med mindre annet er bestemt, betales til og innkreves av den innkrevingsmyndighet som innkrever de skatte- eller avgiftskrav slike krav er knyttet til.",
+                        "(2) Når skyldneren har fått melding om at kravet er overført Statens innkrevingssentral til innkreving etter § 2-7, skal betaling skje til Statens innkrevingssentral.",
+                        "(3) Departementet kan i forskrift gi regler til utfylling og gjennomføring av dette kapitlet, og gi regler om hvilket organ som innkrever krav som nevnt i § 1-1 tredje ledd bokstav c og d."
+                    ]
+                },
+                {
+                    "name": "§ 2-7",
+                    "title": "Overføring av myndighet til Statens innkrevingssentral",
+                    "sections": [
+                        "Departementet kan i forskrift bestemme at Statens innkrevingssentral skal innkreve nærmere bestemte skatte- og avgiftskrav, med unntak for krav som innkreves av skatteoppkreverne for kommunene. I slike tilfeller kan departementet bestemme at deler av loven skal gjelde tilsvarende for Statens innkrevingssentral, likevel slik at utleggspant kan stiftes dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. panteloven kapittel 5. Dette gjelder når utleggsforretningen kan holdes på innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 2-8",
+                    "title": "Departementets instruksjonsmyndighet over skatteoppkreverne og om delegering av myndighet til skatteoppkreverne",
+                    "sections": [
+                        "(1) Departementet kan gi instruks for skatteoppkrevernes utøving av den myndighet de har etter loven. Departementet kan også gi instruks for skatteoppkrevernes økonomiforvaltning. Myndighet innenfor skatteoppkreverens virksomhetsområde som i loven er lagt til departementet eller Skattedirektoratet, kan delegeres til skatteoppkreverne.",
+                        "(2) Departementet kan gi kommunene instruks om nødvendig utbygging av skatteoppkreverkontorene. Departementet kan også gi instruks om teknisk og arbeidsmessig samordning av skatteoppkrevernes, ligningskontorenes og folkeregistrenes oppgaver."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3 Saksbehandling",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "Forholdet til forvaltningsloven og tvangsfullbyrdelsesloven",
+                    "sections": [
+                        "(1) Forvaltningsloven gjelder med de særlige bestemmelser som er gitt i denne loven.",
+                        "(2) Forholdet til tvangsfullbyrdelsesloven er regulert i §§ 13-5, 14-2, 14-5 og 14-10.",
+                        "(3) For forskuddsutskrivingen er det gitt særlige saksbehandlingsregler i § 4-3."
+                    ]
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "(1) De regler om taushetsplikt som gjelder ved fastsetting av de enkelte skatte- og avgiftskrav, gjelder ved innkreving av slike krav tilsvarende for enhver som har verv, stilling eller oppdrag knyttet til denne loven.",
+                        "(2) Restanselister eller utdrag av slike lister skal ikke på noen måte gjøres offentlig tilgjengelig."
+                    ]
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Unntak fra forvaltningslovens regler om begrunnelse, klageadgang, utsatt iverksetting mv.",
+                    "sections": [
+                        "(1) Begrunnelsen for vedtak etter § 15-2 kan begrenses til å omfatte opplysninger som nevnt i forvaltningsloven § 25 første og annet ledd dersom begrunnelse etter forvaltningsloven § 25 tredje ledd antas å kunne svekke muligheten for fremtidig dekning av skatte- og avgiftskravet. Vedtak etter § 15-1 tredje ledd første punktum og § 15-2 kan ikke påklages.",
+                        "(2) Forvaltningsloven §§ 16, 24 og 25 gjelder ikke for vedtak som treffes under avregningen.",
+                        "(3) Forvaltningsloven kapittel IV til VI om enkeltvedtak gjelder ikke for vedtak etter § 16-20.",
+                        "(4) Forvaltningsloven § 42 gjelder ikke for vedtak som treffes under avregningen og vedtak om årsavgift for motorvogn."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del II Forskudd på skatt og avregning",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 4 Forskudd på skatt",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "(1) I denne loven menes med:",
+                        "a)upersonlig skattyter: Norsk og utenlandsk selskap og innretning som er selvstendig skattesubjekt, konkurs- og administrasjonsbo for slikt subjekt, staten, fylkeskommunene og kommunene.",
+                        "b)personlig skattyter: Enhver skattyter, herunder konkurs- og administrasjonsbo for slike skattytere, som ikke faller inn under bokstav a. Dødsbo likestilles med personlig skattyter ved anvendelsen av bestemmelsene i kapittel 4 til 6.",
+                        "c)arbeidsgiver: Den som selv eller ved fullmektig utbetaler lønn eller annen godtgjørelse eller ytelse som det skal foretas forskuddstrekk i.",
+                        "(2) Når arbeidstakere stilles til rådighet for andre, svarer både oppdragsgiver og oppdragstaker for at pliktene og ansvaret etter denne lov oppfylles. Pliktene og ansvaret påhviler også den som oppgir å være arbeidsgiver i saker etter utlendingsloven § 10. De ansvarlige kan avtale at en av dem skal utføre pliktene etter denne loven. Slik avtale fritar likevel bare for disse pliktene når og så langt dette bestemmes av skatteoppkreveren.",
+                        "(3) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen, herunder om hvem som skal anses som arbeidsgiver."
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Utgangspunkter for forskuddsutskrivingen",
+                    "sections": [
+                        "(1) Forskudd på formues- og inntektsskatt (skatt) og trygdeavgift som skal betales før ligning finner sted, utskrives og beregnes etter bestemmelsene i denne del av loven.",
+                        "(2) For personlige skattytere som skal betale forskudd på skatt og trygdeavgift i løpet av inntektsåret, utskrives og beregnes",
+                        "a)forskuddstrekk etter bestemmelsene i kapittel 5, og",
+                        "b)forskuddsskatt etter bestemmelsene i kapittel 6.",
+                        "(3) For upersonlige skattytere som skal betale forskudd på skatt i løpet av året etter inntektsåret, utskrives forskuddsskatt etter bestemmelsene i kapittel 6.",
+                        "(4) Naturressursskatt etter skatteloven kapittel 18 skal for personlige skattytere utskrives etter de regler som gjelder for utskriving av forskuddsskatt for upersonlige skattytere."
+                    ]
+                },
+                {
+                    "name": "§ 4-3",
+                    "title": "Særlige saksbehandlingsregler for forskuddsutskrivingen",
+                    "sections": [
+                        "Forvaltningslovens regler gjelder ikke for utskriving av forskuddstrekk og forskuddsskatt etter kapitlene 4 til 6. Ligningslovens saksbehandlingsregler gjelder tilsvarende så langt de passer."
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "Opplysningsplikt",
+                    "sections": [
+                        "(1) Skattyter plikter å sende de meldinger og å gi de opplysninger som er nødvendige for at ligningskontoret skal få fastsatt og regulert forskuddstrekk og forskuddsskatt i samsvar med bestemmelsene i denne del av loven. Departementet gir nærmere regler om meldeplikten.",
+                        "(2) Første ledd gjelder tilsvarende for arbeidsgiver.",
+                        "(3) Skattyter som ikke etterkommer plikten til å sende melding eller pålegg om å gi opplysninger, eller som gir uriktige eller ufullstendige opplysninger, har ikke krav på å få endret ligningskontorets avgjørelse vedrørende forskuddstrekk eller forskuddsskatt."
+                    ]
+                },
+                {
+                    "name": "§ 4-5",
+                    "title": "Stedet for forskuddsutskriving",
+                    "sections": [
+                        "(1) For personlige skattytere foretas forskuddsutskrivingen av ligningskontoret for den kommunen som skattyteren skal skatte til etter reglene i skatteloven § 3-1. Her medtas også forskudd på skatt av formue og inntekt som nevnt i skatteloven § 3-3.",
+                        "(2) For upersonlige skattytere foretas forskuddsutskrivingen av ligningskontoret for den kommunen hvor skattepliktig formue og inntekt skal fastsettes, jf. skatteloven § 3-2. Her medtas også forskudd på skatt av formue og inntekt som nevnt i skatteloven § 3-3.",
+                        "(3) Forskudd på skatt for skattytere som skal svare naturressursskatt til en annen kommune enn kontorkommunen, skrives ut særskilt av ligningskontoret for vedkommende kommune.",
+                        "(4) For personlige skattytere som ikke er bosatt i riket, og upersonlige skattytere som ikke er hjemmehørende i riket, foretas forskuddsutskrivingen av ligningskontoret for den kommunen som er angitt i skatteloven § 3-4.",
+                        "(5) For personlige skattytere som ikke er bosatt i riket, men som mottar lønn fra den norske stat, jf. skatteloven § 2-3 første ledd bokstav g, foretas forskuddsutskrivingen av Oslo likningskontor.",
+                        "(6) Skattedirektoratet kan utøve de funksjoner som tilligger ligningskontoret eller bestemme at utskrivingen skal skje ved et annet ligningskontor enn det som følger av denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 4-6",
+                    "title": "Særregler for forskuddstrekk og forskuddsskatt",
+                    "sections": [
+                        "(1) Endres skattereglene etter at forskuddsutskrivingen er foretatt, og dette medfører at de beløp som trekkes eller betales i løpet av inntektsåret ikke kommer til å svare til den skatt som ventes utskrevet, kan departementet, for alle skattytere eller enkelte grupper, bestemme at forskuddstrekk eller forskuddsskatt skal skje etter andre satser eller med andre beløp enn som er fastsatt ved forskuddsutskrivingen.",
+                        "(2) Departementet kan i forskrift gi regler om differensiering av forskuddstrekk og forskuddsskatt i løpet av inntektsåret."
+                    ]
+                },
+                {
+                    "name": "§ 4-7",
+                    "title": "Fullmakt under krig o.l.",
+                    "sections": [
+                        "(1) Når riket er i krig, eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan bestemmelsene i denne del av loven og gjeldende vedtak om forskudd på og endelig utskriving av trygdeavgift, skatt til staten, fylkeskommunene og kommunene fravikes ved beslutning av Kongen, når det finnes nødvendig for å lette gjennomføringen av utskriving, betaling, innkreving eller fordeling av forskudd på skatt og trygdeavgift. Kongen kan herunder fastsette særlige regler for enkelte grupper av skattytere og gi regler om at visse skattebeløp skal overføres til staten inntil avgjørelse om den endelige fordeling blir truffet.",
+                        "(2) Når et område er avskåret fra forbindelse med regjeringen eller det av andre grunner finnes nødvendig, kan Kongen gi fylkesmannen eller andre lokale forvaltningsorganer, herunder militære myndigheter, fullmakt til å utferdige slike bestemmelser som nevnt i første ledd. Fullmakt kan gis uten hensyn til den gjeldende administrative inndeling. Dersom det er strengt nødvendig, kan fylkesmannen utferdige bestemmelsene selv om fullmakt fra Kongen ennå ikke foreligger.",
+                        "(3) De bestemmelser som blir gitt i medhold av første og annet ledd, kunngjøres på den måten som finnes hensiktsmessig og skal snarest mulig meddeles Stortinget."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5 Forskuddstrekk",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Skattekort",
+                    "sections": [
+                        "(1) Før inntektsårets begynnelse skal ligningskontoret skrive ut skattekort som angir forskuddstrekkets størrelse og hvordan forskuddstrekk skal gjennomføres, for alle skattytere som må forutsettes å få trekkpliktig inntekt av betydning. Ligningskontoret kan når som helst i løpet av inntektsåret skrive ut nytt skattekort når det er gjort feil ved utskrivingen, eller når andre særlige grunner gjør det urimelig å ikke skrive ut nytt skattekort.",
+                        "(2) Ligningskontoret kan kreve at skattekort som kontoret har skrevet ut, skal leveres tilbake.",
+                        "(3) Trekktabeller og skjema for skattekort fastsettes av Skattedirektoratet."
+                    ]
+                },
+                {
+                    "name": "§ 5-2",
+                    "title": "Fastsetting av forskuddstrekkets størrelse",
+                    "sections": [
+                        "(1) Forskuddstrekket fastsettes slik at de beløp som trekkes i løpet av året, sammen med eventuell forskuddsskatt, så vidt mulig kommer til å svare til det beløp som skatten og trygdeavgiften ventes å ville utgjøre etter de satser og regler som gjelder for vedkommende år.",
+                        "(2) Forskuddstrekket kan fastsettes slik at trekket alene skal svare til den forventede utlignede skatt og trygdeavgift.",
+                        "(3) Ved fastsetting av forskuddstrekkets størrelse og ved andre avgjørelser som treffes på forskuddsstadiet, tas det ikke hensyn til et beløp som svarer til 12 prosent av minstefradraget etter skatteloven §§ 6-30 til 6-32."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Fritak for forskuddstrekk og tilbakebetaling av innbetalt forskuddstrekk",
+                    "sections": [
+                        "(1) Skattyter som åpenbart ikke vil få utlignet skatt, kan fritas for forskuddstrekk.",
+                        "(2) Skattyteren kan fritas for trekk resten av året når ligningskontoret finner det overveiende sannsynlig at det som allerede er innbetalt, er tilstrekkelig til dekning av den skatt og trygdeavgift som vil bli utlignet for inntektsåret. Er inntekten falt bort eller foreligger det andre særlige forhold som gjør det overveiende sannsynlig at det som er innbetalt som forskuddstrekk er vesentlig mer enn den skatt og trygdeavgift som vil bli utlignet for inntektsåret, kan ligningskontoret bestemme at det overskytende skal betales tilbake til skattyteren. Slik bestemmelse skal bare treffes når det vil virke urimelig å utsette tilbakebetalingen til avregning er foretatt."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Plikt til å foreta forskuddstrekk",
+                    "sections": [
+                        "(1) Arbeidsgiver plikter av eget tiltak å foreta forskuddstrekk i henhold til skattekortet og reglene i dette kapitlet.",
+                        "(2) Aksjeselskap, allmennaksjeselskap samt likestilt selskap og sammenslutning som utbetaler utbytte som er skattepliktig etter skatteloven § 10-13, plikter å foreta forskuddstrekk til dekning av inntektsskatt av slikt utbytte. Innlåner som etter avtale om verdipapirlån, jf. skatteloven § 9-11, utbetaler utbyttekompensasjon som nevnt i skatteloven § 10-11 tredje ledd til kontraktsmotpart hjemmehørende i utlandet, plikter å foreta forskuddstrekk til dekning av inntektsskatt av slik kompensasjon.",
+                        "(3) Forsikringsselskap plikter å foreta forskuddstrekk til dekning av forsikringstakerens inntektsskatt av skattepliktig årsavkastning av sparedelen av en livsforsikring, jf. skatteloven § 5-20 annet ledd, når forsikringstager som er personlig skattyter ber om det."
+                    ]
+                },
+                {
+                    "name": "§ 5-5",
+                    "title": "Forskuddstrekkets størrelse",
+                    "sections": [
+                        "(1) Når skattyter ikke legger fram skattekort, og arbeidsgiver heller ikke på annen måte har fått de opplysninger som fremgår av skattekortet, skal det foretas forskuddstrekk med 50 prosent. Det samme gjelder når det skal foretas forskuddstrekk i ytelser etter folketrygdloven kapitlene 4, 8 til 11 og 14. Forskuddstrekk i andre trekkpliktige trygdeytelser, pensjoner, vartpenger, livrenter og lignende stønader og ytelser foretas med 30 prosent.",
+                        "(2) Arbeidsgiver plikter å foreta forskuddstrekk med høyere beløp enn det som følger av skattekortet eller første ledd, når skattyteren reiser krav om det i god tid før trekket skal foretas.",
+                        "(3) Forskuddstrekk etter § 5-6 første ledd bokstav d og e beregnes av selskapet eller innlåner til det beløp skatten vil utgjøre etter Stortingets vedtak om skatt for det aktuelle året.",
+                        "(4) Forskuddstrekk etter § 5-6 første ledd bokstav f beregnes av selskapet etter samlet skattesats for alminnelig inntekt.",
+                        "(5) Departementet kan i forskrift gi regler om at forskuddstrekk skal foretas etter tabell i en del av den trekkpliktige inntekten og med en bestemt prosentsats i den øvrige inntekten.",
+                        "(6) Når det for en skattyter er skrevet ut skattekort i flere kommuner, skal arbeidsgiveren foreta forskuddstrekk etter skattekortet fra den kommunen som skattyteren mener han skal svare skatt til. Er skattekort utstedt av Sentralskattekontoret for utenlandssaker skal arbeidsgiver foreta forskuddstrekk etter dette skattekortet.",
+                        "(7) Den som er pliktig til å foreta forskuddstrekk etter bestemmelsene i dette kapitlet, men som godtgjør at det betales forskuddstrekk eller tilsvarende i utlandet av den enkelte skattyters inntekt, kan av skatteoppkreveren bli fritatt for trekkplikten etter dette kapitlet dersom det stilles betryggende sikkerhet for trekkbeløpet."
+                    ]
+                },
+                {
+                    "name": "§ 5-6",
+                    "title": "Ytelser som det skal foretas forskuddstrekk i",
+                    "sections": [
+                        "(1) Med mindre annet er bestemt, skal det foretas forskuddstrekk i skattepliktig:",
+                        "a)lønn og andre ytelser som omfattes av skatteloven § 5-10, se likevel annet ledd,",
+                        "b)pensjon, livrente, understøttelse og andre ytelser som omfattes av skatteloven §§ 5-40 til 5-42,",
+                        "c)lott eller part som utbetales til aktiv deltaker i fiske- og fangstvirksomhet – herunder høvedsmann – og som er vederlag for arbeid eller bruken av redskap som deltakeren holder. Det skal også foretas forskuddstrekk i skattepliktige trygdeytelser som utbetales til erstatning for lott eller part som nevnt,",
+                        "d)utbytte til utenlandsk aksjonær, jf. skatteloven § 10-13,",
+                        "e)utbyttekompensasjon til utenlandsk kontraktsmotpart etter avtale om verdipapirlån, jf. skatteloven § 10-11 tredje ledd,",
+                        "f)avkastning av sparedelen av en livsforsikring (kapitalforsikring) når skattyter som er personlig skattyter ber om det.",
+                        "(2) Godtgjørelse til dekning av kostnader i forbindelse med utførelse av arbeid, oppdrag eller verv er trekkpliktig selv om den ikke er skattepliktig, jf. skatteloven § 5-11 annet ledd.",
+                        "(3) Departementet kan i forskrift begrense trekkplikten etter første og annet ledd. Departementet kan også bestemme at trekk skal foretas i andre ytelser enn nevnt i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 5-7",
+                    "title": "Ytelser som det ikke skal foretas forskuddstrekk i",
+                    "sections": [
+                        "(1) Det skal ikke foretas forskuddstrekk i:",
+                        "a)lovbestemt feriegodtgjørelse og vanlig lønn i ferien. Skattytere med månedsbetaling kan fritas for trekk for en måned i ferietiden om sommeren og for en halv måned før jul. Skattytere med uke-, dag- eller timebetaling kan fritas for trekk i 4 uker i ferietiden om sommeren og 2 uker før jul. Departementet kan i forskrift bestemme at det for skattytere som har kortvarig tilknytning til riket, skal foretas forskuddstrekk gjennom hele året uten noen trekkfrie perioder,",
+                        "b)livrente, pensjon og vartpenger for desember måned. Fritaket gjelder ikke beløp som først kan heves etter årets utgang,",
+                        "c)føderåd og underholdsbidrag.",
+                        "(2) Departementet kan i forskrift gi nærmere regler om gjennomføring av trekkfritak etter første ledd, herunder at andre ytelser skal unntas fra trekkplikt eller at fritak i visse tilfelle skal gis for andre tidsrom enn nevnt i første ledd bokstav a."
+                    ]
+                },
+                {
+                    "name": "§ 5-8",
+                    "title": "Nærmere om beregningsgrunnlaget for forskuddstrekk",
+                    "sections": [
+                        "(1) Kontantytelser medregnes i beregningsgrunnlaget for forskuddstrekk med sitt bruttobeløp.",
+                        "(2) Naturalytelser medregnes i den utstrekning og med de beløp som fremgår av departementets forskrifter. Departementet kan i forskrift gi regler om individuell verdsetting av naturalytelser.",
+                        "(3) Departementet kan i forskrift gi regler om at godtgjørelse som nevnt i § 5-6 annet ledd skal regnes som trekkpliktig med det beløp som fremkommer etter at godtgjørelsen er redusert med fradragsbeløp etter fastsatte satser.",
+                        "(4) Departementet kan i forskrift gi regler om beregning av den lott eller part som etter § 5-6 første ledd bokstav c skal legges til grunn for forskuddstrekket."
+                    ]
+                },
+                {
+                    "name": "§ 5-9",
+                    "title": "Fradrag i beregningsgrunnlaget for forskuddstrekk",
+                    "sections": [
+                        "(1) Det skal gjøres fradrag i beregningsgrunnlaget for:",
+                        "a)pensjonsinnskudd som arbeidsgiver avkorter i lønnen, og som skattyter vil ha krav på fradrag for ved ligningen etter skatteloven § 6-47 første ledd bokstav a og b, unntatt premie til pensjonstrygden for skogsarbeidere,",
+                        "b)underholdsbidrag som arbeidsgiveren trekker i lønnen etter pålegg fra Trygdeetatens innkrevingssentral, og som skattyter vil ha krav på fradrag for ved ligningen etter skatteloven § 6-41, jf. § 14-3 tredje ledd,",
+                        "c)fagforeningskontingent som arbeidsgiver avkorter i lønnen, og som skattyter vil ha krav på fradrag for ved ligningen etter skatteloven § 6-20,",
+                        "d)fradrag etter skatteloven § 6-61 for sjøfolk bosatt i Norge. Fradraget skal være 29 prosent begrenset oppad til det beløp departementet fastsetter.",
+                        "(2) Departementet kan i forskrift bestemme at det ved trekkberegningen skal gjøres andre fradrag i beregningsgrunnlaget for forskuddstrekk enn nevnt ovenfor."
+                    ]
+                },
+                {
+                    "name": "§ 5-10",
+                    "title": "Gjennomføring av forskuddstrekk",
+                    "sections": [
+                        "(1) Forskuddstrekket gjennomføres ved at arbeidsgiveren, eller selskapet eller innlåneren som nevnt i § 5-4 annet og tredje ledd beregner trekkbeløpet og holder dette tilbake i oppgjøret med skattyteren. Forskuddstrekket gjennomføres når det oppstår adgang for skattyteren til å få godtgjørelsen utbetalt, selv om oppgjør for denne først finner sted på et senere tidspunkt.",
+                        "(2) Arbeidsgiveren har plikt til å sørge for at det blir gjennomført forskuddstrekk også i tilfeller der skattyteren selv innkrever sin godtgjørelse. Skattyteren plikter da å innbetale forskuddstrekket til arbeidsgiveren.",
+                        "(3) Når skattyteren mottar naturalytelser, skal arbeidsgiveren gjennomføre forskuddstrekk så langt de kontante ytelser rekker. Er det ikke dekning for det samlede beregnede trekk i de kontante ytelsene, plikter arbeidsgiveren straks å melde fra om forholdet til ligningskontoret for den kommunen hvor skattekortet er utskrevet."
+                    ]
+                },
+                {
+                    "name": "§ 5-11",
+                    "title": "Oppgave over forskuddstrekk",
+                    "sections": [
+                        "(1) Hver 15. januar, 15. mars, 15. mai, 15. juli, 15. september og 15. november skal arbeidsgiver og selskap mv. som er trekkpliktig etter § 5-4 annet og tredje ledd, sende terminoppgave som viser forskuddstrekket i de to foregående måneder, og ved årets slutt sende oppgave over samlet trekk i året. Terminoppgave skal sendes selv om det ikke er foretatt trekk i terminen (0-oppgave). Skatteoppkreveren kan frita den enkelte arbeidsgiver for å sende 0-oppgave.",
+                        "(2) Oppgave etter første ledd skal vise fordelingen av forskuddstrekket til den enkelte kommune (kommunevis spesifikasjon) for hvert terminoppgjør. Skattedirektoratet kan kreve at slik spesifikasjon skal gis på et tidligere tidspunkt enn forfallstidspunktet for trekkbeløpet.",
+                        "(3) Arbeidsgiver mv. som benytter maskinelle lønnsrutiner, skal levere spesifikasjonene på et maskinlesbart medium og med den standard som Skattedirektoratet bestemmer.",
+                        "(4) Departementet kan i forskrift gi regler om arbeidsgivers plikt til å føre lønningsregnskap, og om de opplysninger om lønn og andre ytelser, trekkbeløp mv. som skal sendes inn. Departementet kan herunder gi regler om skjerpet oppgjør for arbeidsgiver som har vist vesentlig forsømmelse av sine plikter etter denne loven.",
+                        "(5) Departementet kan i forskrift gi regler som fraviker reglene i denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 5-12",
+                    "title": "Skattetrekkskonto",
+                    "sections": [
+                        "(1) Forskuddstrekk etter § 5-4 tilhører skatte- og avgiftskreditorene. Den som foretar trekket skal sette beløpet inn på særskilt bankkonto (skattetrekkskonto).",
+                        "(2) Holdes saldo på skattetrekkskontoen så høyt at den til enhver tid dekker løpende trekkansvar, kan løpende overføring til kontoen unnlates. I stedet for skattetrekkskonto kan det stilles bankgaranti for trekket. Når foretatt trekk overstiger saldo på skattetrekkskonto eller bankgarantien, skal manglende beløp straks settes inn på kontoen.",
+                        "(3) Betaling til skattetrekkskonto skal skje senest første virkedag etter lønnsutbetaling. Bankgaranti eller oppfylt skattetrekkskonto som trer i stedet for innskudd, skal foreligge ved lønnsutbetaling. Uten skatteoppkreverens samtykke, kan kontohaver ikke disponere over skattetrekkskonto på annen måte enn ved overføring til skatteoppkreveren eller ved å overføre midlene til tilsvarende konto i annen bank. Eventuell renteavkastning på slik bankkonto tilfaller den som foretar trekket (kontohaver).",
+                        "(4) Bankene plikter å hindre ulovlig disponering av skattetrekkskonto."
+                    ]
+                },
+                {
+                    "name": "§ 5-13",
+                    "title": "Kontroll av arbeidsgivere",
+                    "sections": [
+                        "Skatteoppkreveren skal føre kontroll med at arbeidsgivere og andre som etter denne loven har plikt til å foreta trekk, sender meldinger og foretar forskuddstrekk og utleggstrekk i samsvar med reglene og de pålegg som er gitt. Skatteoppkreveren eller den offentlige myndighet som har fullmakt fra han, kan foreta bokettersyn hos den som plikter å foreta trekk, og kan herunder kreve fremlagt skattekort, trekkpålegg og andre dokumenter og regnskapsmateriale som har betydning for kontrollen. Også skattefogdkontoret eller Riksrevisjonen kan foreta slike ettersyn og kreve fremlagt dokumenter som nevnt."
+                    ]
+                },
+                {
+                    "name": "§ 5-14",
+                    "title": "Kontrollopplysninger fra tredjemann",
+                    "sections": [
+                        "(1) Ved utførelsen av arbeidsgiverkontrollen etter § 5-13, plikter banker etter krav fra skatteoppkreveren, å gi opplysninger om navngitt arbeidsgivers skattetrekkskonto, samt eventuell bankgaranti etter § 5-12. På samme vilkår har",
+                        "a)finansinstitusjoner (jf. lov 10. juni 1988 nr. 40 om finansieringsvirksomhet § 1-3) og andre som driver utlånsvirksomhet eller låneformidling som næring,",
+                        "b)verdipapirforetak (jf. lov 19. juni 1997 nr. 79 om verdipapirhandel § 1-3) og andre som har penger til forvaltning, og",
+                        "c)pensjonskasser",
+                        "plikt til å gi opplysninger om innskudds- og gjeldskonti som navngitt person, bo, selskap eller innretning har eller disponerer i vedkommende institusjon. Ved innhenting av opplysninger etter første og annet punktum plikter de å gi opplysninger om underbilag og transaksjoner, herunder om hvem som er parter i transaksjonene.",
+                        "(2) Enhver som utfører eller har utført arbeid eller oppdrag for arbeidsgiveren, plikter på samme vilkår som i første ledd første punktum å gi opplysninger om sitt tjenesteforhold eller oppdrag knyttet til arbeidsgiveren.",
+                        "(3) Næringsdrivende plikter på samme vilkår som i første ledd første punktum å gi opplysninger om ethvert økonomisk mellomværende som vedkommende har eller har hatt med arbeidsgiveren, når opplysningene knytter seg til begge parters virksomhet. Det kan kreves opplysning om og spesifisert oppgave over varelevering og -kjøp, tjenester, vederlag og andre forhold som knytter seg til mellomværendet og oppgjøret for dette. Dette gjelder også omsetning som er skjedd gjennom mellommann.",
+                        "(4) Også skattefogdkontoret og den som har fått fullmakt fra skattefogdkontoret eller skatteoppkreveren til å foreta bokettersyn etter § 5-13, kan kreve opplysninger etter første til tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 5-15",
+                    "title": "Klage over pålegg",
+                    "sections": [
+                        "(1) Den som får pålegg om å gi opplysninger etter § 5-14, kan klage over pålegget dersom vedkommende mener at han ikke har plikt eller lovlig adgang til å etterkomme pålegget.",
+                        "(2) Klage, som kan være muntlig, må fremsettes straks når den pålegget angår er til stede og ellers innen tre dager.",
+                        "(3) Den som har gitt pålegget, skal enten omgjøre det, eller snarest mulig legge klagen fram for nærmeste overordnede forvaltningsorgan til avgjørelse."
+                    ]
+                },
+                {
+                    "name": "§ 5-16",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "(1) Skattedirektoratet og skattefogdkontoret kan pålegge den som ikke har etterkommet plikten til å gi opplysninger etter § 5-14, å oppfylle sin plikt under en daglig løpende tvangsmulkt.",
+                        "(2) Pålegg om tvangsmulkt til selskap, forening, innretning eller organisasjon rettes til styret, og sendes hvert medlem.",
+                        "(3) Pålegg om tvangsmulkt kan påklages til Skattedirektoratet innen 3 uker.",
+                        "(4) Mulkten tilfaller statskassen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6 Forskuddsskatt – personlige og upersonlige skattytere",
+            "paragraphs": [
+                {
+                    "name": "§ 6-1",
+                    "title": "Forskuddsskatt – personlige skattytere",
+                    "sections": [
+                        "(1) Personlige skattytere skal svare forskuddsskatt av formue og inntekt som det ikke blir foretatt forskuddstrekk i. Av formue og inntekt som er regnet med ved fastsetting av forskuddstrekkets størrelse etter § 5-2 annet ledd, skal det likevel ikke svares forskuddsskatt. Departementet kan i forskrift bestemme at enkelte grupper av skattytere skal svare forskuddsskatt også av inntekt som det etter denne loven skal foretas forskuddstrekk i.",
+                        "(2) Forskuddsskatt skal svares fra det tidspunktet formuen erverves eller inntekten begynne å løpe."
+                    ]
+                },
+                {
+                    "name": "§ 6-2",
+                    "title": "Forskuddsskatt – upersonlige skattytere",
+                    "sections": [
+                        "Upersonlige skattytere skal betale skatten i løpet av året etter inntektsåret."
+                    ]
+                },
+                {
+                    "name": "§ 6-3",
+                    "title": "Fastsetting av forskuddsskatt for personlige skattytere",
+                    "sections": [
+                        "(1) Forskuddsskatten fastsettes til det beløp som skatten og trygdeavgiften ventes å ville utgjøre etter de satser og regler som gjelder for vedkommende år.",
+                        "(2) Forskuddsskatt utskrives på grunnlag av formue og inntekt ved siste ligning. Ved fastsetting av forskuddsskatten skal det gjøres fradrag for beløp som må ventes dekket gjennom forskuddstrekk etter reglene i kapittel 5. Slikt fradrag skal likevel ikke gjøres når lønnsinntekten ikke ventes å ville overstige 10 prosent av den samlede inntekt ved ligningen.",
+                        "(3) Når en skattyter ber om å få fastsatt forskuddsskatten etter et høyere grunnlag enn det som følger av reglene i dette kapitlet, skal anmodningen i alminnelighet tas til følge.",
+                        "(4) Ligningskontoret kan til enhver tid forhøye eller sette ned forskuddsskatten når det er begått feil ved den opprinnelige utskrivningen.",
+                        "(5) Utskrevet forskuddsskatt kan endres når det er overveiende sannsynlig at skattyteren, med den opprinnelige fastsatte forskuddsskatt, vil få en restskatt eller en tilgodesum ved avregningen for vedkommende år som tilsvarer minst en femtedel av det utskrevne forskuddsbeløpet.",
+                        "(6) Ligningskontoret kan frita skattyter fra plikten til å innbetale gjenstående terminer av forskuddsskatt eller treffe bestemmelse om tilbakebetaling av forskuddsskatt, når vilkårene i § 5-3 annet ledd foreligger."
+                    ]
+                },
+                {
+                    "name": "§ 6-4",
+                    "title": "Fastsetting av forskuddsskatt ved skjønn for personlige skattytere",
+                    "sections": [
+                        "(1) For personlige skattytere fastsettes forskuddsskatten i alminnelighet ved skjønn:",
+                        "a)når skattyter ikke tidligere har vært tatt opp til skattlegging ved ligningskontoret, eller",
+                        "b)når skattyters samlede årsinntekt ved siste ligning er gått opp eller ned med minst en fjerdedel i forhold til nest siste ligning.",
+                        "(2) Utenom de tilfeller som er nevnt i første ledd, kan forskuddsskatten fastsettes ved skjønn:",
+                        "a)når skattyters inntekts- eller formuesforhold har endret seg vesentlig siden det inntektsåret som ligger til grunn for utskrivingen,",
+                        "b)når grunnlaget for utskrivingen i vesentlig grad er påvirket av ekstraordinære tap eller tilfeldige inntekter, eller",
+                        "c)når det av andre særlige grunner må antas at forskuddsskatt utskrevet etter reglene i § 6-1 vil bli vesentlig høyere eller lavere enn den skatt og trygdeavgift som ventes utlignet.",
+                        "(3) Forskuddsskatt av inntekt av fiske kan alltid fastsettes ved skjønn på grunnlag av den inntekt som skattyter under vanlige forhold kan påregnes å innvinne i løpet av året."
+                    ]
+                },
+                {
+                    "name": "§ 6-5",
+                    "title": "Fastsetting av forskuddsskatt for upersonlige skattytere",
+                    "sections": [
+                        "(1) For upersonlige skattytere fastsettes forskuddsskatten slik at det beløp som innbetales før ligningen finner sted, svarer til to tredjedeler av den utlignede skatt ved siste ligning.",
+                        "(2) Det skrives ikke ut forskuddsskatt når den utlignede skatt for vedkommende inntektsår ventes å bli mindre enn 2 000 kroner.",
+                        "(3) Ligningskontoret kan forhøye eller sette ned den utskrevne forskuddsskatten når det er gjort feil ved utskrivingen.",
+                        "(4) Ligningskontoret kan etter krav fra skattyteren frafalle eller redusere forskuddsskatten, når det er overveiende sannsynlig at det ikke vil bli utlignet skatt for vedkommende inntektsår, eller den utskrevne forskuddsskatten vil overstige to tredjedeler av utlignet skatt med mer enn 20 prosent eller 2 000 kroner.",
+                        "(5) Departementet kan i forskrift gi regler om utskriving av forskuddsskatt for bestemte grupper skattytere som avviker fra bestemmelsen i denne paragraf, herunder at det ikke skal utskrives forskuddsskatt."
+                    ]
+                },
+                {
+                    "name": "§ 6-6",
+                    "title": "Nærmere om beregningsgrunnlaget for forskuddsskatt",
+                    "sections": [
+                        "(1) Departementet kan treffe vedtak om at beregningsgrunnlaget for forskuddsskatten skal forhøyes eller reduseres med en prosentsats som fastsettes for det enkelte år.",
+                        "(2) Fylkesskattekontoret kan beslutte at beregningsgrunnlaget for forskuddsskatten skal forhøyes eller reduseres med et prosentvis tillegg eller fradrag for bestemte grupper skattytere, når det som følge av konjunkturutviklingen eller av andre grunner må ventes en alminnelig stigning eller nedgang i inntekten for denne gruppen i forhold til inntekten ved siste ligning."
+                    ]
+                },
+                {
+                    "name": "§ 6-7",
+                    "title": "Tidspunktet for utskriving av forskuddsskatt",
+                    "sections": [
+                        "(1) For personlige skattytere utskrives forskuddsskatten før inntektsårets begynnelse. For nye skattepliktige skal forskuddsskatten utskrives snarest mulig etter det tidspunktet da plikten til å svare forskuddsskatt er inntrådt, jf. § 6-1 annet ledd.",
+                        "(2) For upersonlige skattytere utskrives forskuddsskatten før utgangen av inntektsåret."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7 Avregning",
+            "paragraphs": [
+                {
+                    "name": "§ 7-1",
+                    "title": "Gjennomføring av avregningen",
+                    "sections": [
+                        "(1) Når ligningen er gjennomført, skal forskuddstrekk, utskrevet forskuddsskatt og tilleggsforskudd innbetalt innen 30. april i ligningsåret gå til fradrag i utlignet skatt. Avregningen foretas av skatteoppkreveren for den kommunen hvor ligningen skal skje, jf. ligningsloven § 8-6.",
+                        "(2) Når utlignet skatt utgjør et større beløp enn det forskuddet som godskrives skattyteren, blir det manglende beløpet å innbetale som restskatt.",
+                        "(3) Når utlignet skatt utgjør et mindre beløp enn det forskuddet som skal godskrives skattyteren, skal den overskytende del av forskuddsbeløpet frafalles. Den del av det frafalte beløpet som er innbetalt, skal betales tilbake til skattyteren.",
+                        "(4) Departementet kan i forskrift gi regler om at også andre forskuddsbeløp skal inngå i avregningen, og om godskriving av forskuddstrekk som ikke er innbetalt av arbeidsgiver."
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Ny avregning",
+                    "sections": [
+                        "(1) Blir utlignet skatt endret etter ligningsloven kapittel 9, skal det foretas ny avregning.",
+                        "(2) Departementet kan i forskrift gi regler om ny avregning i andre tilfeller enn etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 7-3",
+                    "title": "Tilbakebetaling av forskuddstrekk mv.",
+                    "sections": [
+                        "(1) Tilgodebeløp som er lavere enn et fastsatt grensebeløp etter § 10-4, kan godskrives skattyter ved avregningen for det løpende inntektsåret.",
+                        "(2) Skattyter som har fått utbetalt lønn eller annen godtgjørelse som det er foretatt forskuddstrekk i, men som ikke blir tatt opp til skattlegging i vedkommende kommune for det inntektsåret trekket gjelder, kan bare kreve det trukne beløpet tilbake i følgende tilfeller:",
+                        "a)når ligningsmyndighetene for kommunen anser skattyter for ikke å være skattepliktig her i landet for vedkommende inntektsår",
+                        "b)når skattyter godtgjør å ha betalt skatt av lønnsinntekten for samme inntektsår til en annen kommune her i landet",
+                        "c)når skatt ikke er ilignet skattyter fordi inntekten ikke har nådd opp i skattepliktig størrelse."
+                    ]
+                },
+                {
+                    "name": "§ 7-4",
+                    "title": "Avsluttende bestemmelser",
+                    "sections": [
+                        "(1) Bestemmelsene i dette kapitlet er uten betydning for plikten til å svare renter av utskrevet forskuddsskatt som ikke frafalles etter § 7-1 tredje ledd. Rettslige forføyninger til inndriving av forskuddsskatt beholder sin virkning også etter at ligning og avregning er foretatt.",
+                        "(2) Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring av dette kapitlet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8 Fordeling av skatt mellom skattekreditorene",
+            "paragraphs": [
+                {
+                    "name": "§ 8-1",
+                    "title": "Grunnlaget for fordeling",
+                    "sections": [
+                        "(1) Innbetalt formues- og inntektsskatt (skatt) og trygdeavgift fra personlige skattytere for et inntektsår skal fordeles mellom staten, fylkeskommunen, kommunen og folketrygden på grunnlag av den samlede utligning av skatt til staten, skatt til fylkeskommunen, skatt til kommunen og trygdeavgift til folketrygden for vedkommende inntektsår.",
+                        "(2) Innbetalt skatt fra upersonlige skattytere for et inntektsår blir å fordele mellom staten, det felleskommunale skattefondet, fylkeskommunen og kommunen på grunnlag av den samlede utligning av skatt til staten, skatt til det felleskommunale skattefondet, skatt til fylkeskommunen og skatt til kommunen for vedkommende år. Stortinget fastsetter fordelingen mellom kommunene av den skatt som er tilført det felleskommunale skattefondet.",
+                        "(3) Fradrag for utenlandsk skatt etter intern norsk rett eller skatteavtale skal for personlige skattytere fordeles forholdsmessig mellom skatt til staten, fylkeskommunen og kommunen. For upersonlige skattytere skal tilsvarende fradrag fordeles forholdsmessig mellom skatt til staten og skatt til det felleskommunale skattefondet.",
+                        "(4) Skattedirektoratet kan i forskrift gi nærmere regler om gjennomføringen av denne paragrafen, herunder om hvordan endringer i ligningen skal inngå i fordelingen.",
+                        "(5) Departementet kan i forskrift gi regler om fordeling mellom skattekreditorene av renter, innfordringsutgifter og gebyr, herunder utgifter ved tvister som nevnt i kapittel 17 og ligningsloven § 11-1."
+                    ]
+                },
+                {
+                    "name": "§ 8-2",
+                    "title": "Særskilte fordelingsregler for personlige skattytere",
+                    "sections": [
+                        "(1) Tilskudd til folketrygden fra kommunen og fylkeskommunen etter folketrygdloven § 23-9 skal redusere det beløpet som tilkommer kommunen og fylkeskommunen ved fordeling etter § 8-1 første ledd.",
+                        "(2) Skattefradrag etter skatteloven § 16-10 og nedsatt skatt etter skattebegrensningsregelen i skatteloven § 17-10 skal i sin helhet belastes staten. Fradrag som nevnt i § 8-1 tredje ledd skal fordeles før fordeling av fradrag som nevnt i første punktum, fradrag som nevnt i tredje ledd og nedsatt skatt etter skatteloven § 17-10.",
+                        "(3) Inntektsfradrag etter skatteloven § 15-5 om særskilt fradrag i alminnelig inntekt i Finnmark og Nord-Troms skal bare belastes staten.",
+                        "(4) Forskuddstrekk som ikke tilbakebetales skattyter etter § 7-3 annet ledd, og forskuddstrekk for lønnstakere som er ukjent i kommunen, skal overføres til staten. Slik overføring skal skje når det er gått 3 år etter utløpet av det inntektsår trekket ble foretatt.",
+                        "(5) Skattedirektoratet kan i forskrift gi nærmere regler om gjennomføringen av denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 8-3",
+                    "title": "Foreløpig fordeling",
+                    "sections": [
+                        "(1) Inntil endelig fordeling etter §§ 8-1 og 8-2 kan foretas, skal innbetalt skatt og trygdeavgift fordeles foreløpig mellom staten, det felleskommunale skattefondet, fylkeskommunen, kommunen og folketrygden.",
+                        "(2) Ved foreløpig fordeling gjelder følgende bestemmelser:",
+                        "a)Den foreløpige fordelingen skal skje på grunnlag av den samlede utligning av skatt til staten, skatt til det felleskommunale skattefondet, skatt til fylkeskommunen, skatt til kommunen og trygdeavgift til folketrygden ved siste ligning før inntektsåret.",
+                        "b)Hvis forholdet mellom den samlede utligningen av de forskjellige skatter må antas å bli vesentlig forskjøvet på grunn av endring i skattesatser eller av andre årsaker, kan Skattedirektoratet ved skjønn fastsette forholdstall til bruk ved den foreløpige fordelingen.",
+                        "(3) Skattedirektoratet kan i forskrift gi nærmere regler om gjennomføringen av denne paragrafen, herunder gjøre unntak fra bestemmelsen i annet ledd bokstav a."
+                    ]
+                },
+                {
+                    "name": "§ 8-4",
+                    "title": "Deponering av skatt og trygdeavgift",
+                    "sections": [
+                        "(1) Beløp som er trukket eller innbetalt i tilfeller som nevnt i § 5-5 sjette ledd og § 14-6 første ledd, skal anses som deponert inntil spørsmålet om skatteplikten er avgjort. Den skatteoppkrever som mottar slik betaling, skal straks melde fra om det til skatteoppkreverne for de berørte kommuner.",
+                        "(2) Søksmål fra en kommune om slike beløp eller deler av beløp som nevnt i første ledd, må reises innen 6 måneder fra kommunens skatteoppkrever fikk underretting om at det er foretatt innbetaling eller pålagt trekk for beløpet. Fristen utløper likevel tidligst 6 måneder etter at utlegging av skattelistene for vedkommende år er kunngjort."
+                    ]
+                },
+                {
+                    "name": "§ 8-5",
+                    "title": "Overføring av skatt og trygdeavgift til fremmed stat",
+                    "sections": [
+                        "Når det er inngått avtale med fremmed stat, kan forskudd på skatt og annen betalt skatt overføres til skattemyndighetene i avtalestaten. Departementet kan i forskrift gi nærmere regler om gjennomføringen av denne paragrafen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del III Alminnelige oppgjørsbestemmelser mv.",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 9 Betaling",
+            "paragraphs": [
+                {
+                    "name": "§ 9-1",
+                    "title": "Betalingsmåte",
+                    "sections": [
+                        "(1) Skatte- og avgiftskrav kan betales med tvungne betalingsmidler eller ved overføring av beløpet til innkrevingsmyndighetenes konto, med mindre innkrevingsmyndighetene har bedt om betaling med kontanter.",
+                        "(2) Departementet kan i forskrift gi nærmere regler om betalingsordningen for skatte- og avgiftskrav, herunder om finansinstitusjoners plikt til å avvise betalingsoppdrag med manglende opplysninger."
+                    ]
+                },
+                {
+                    "name": "§ 9-2",
+                    "title": "Tid og sted for betaling",
+                    "sections": [
+                        "(1) Betaling av skatte- og avgiftskrav anses for å være skjedd når beløpet er kommet fram til rett innkrevingsmyndighet. Ved betaling via bank anses betaling for å være skjedd når beløpet er godskrevet innkrevingsmyndighetenes bank. Ved overføring innen samme bank anses betaling for å være skjedd når beløpet er godskrevet mottakerens konto. Når oppgjør skjer ved utbetaling i kontanter, anses betalingen for å være skjedd når beløpet er stilt til innkrevingsmyndighetenes disposisjon gjennom bank på mottakerens sted, og melding om dette er kommet fram til mottakeren.",
+                        "(2) En fastsatt betalingsfrist anses dessuten for å være avbrutt",
+                        "a)når betalerens oppdrag er mottatt av en bank",
+                        "b)når innkrevingsmyndighetene mottar og aksepterer sjekk eller annet betalingsinstrument.",
+                        "(3) Finansavtaleloven § 39 tredje og fjerde ledd gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 9-3",
+                    "title": "Betaling av petroleumsskatt",
+                    "sections": [
+                        "(1) Petroleumsskatt skal betales ved overføring av beløpet til Oslo og Akershus skattefogdkontors konto for petroleumsskatt. Bestemmelsene i § 9-1 gjelder ikke.",
+                        "(2) Betaling anses for å være skjedd når beløpet er godskrevet skattefogdkontorets bank. Ved overføring innen samme bank anses betaling for å være skjedd når beløpet er godskrevet skattefogdkontorets konto. En fastsatt betalingsfrist anses for å være avbrutt når beløpet er godskrevet skattefogdkontorets konto. Bestemmelsene i § 9-2 gjelder ikke."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10 Forfall",
+            "paragraphs": []
+        },
+        {
+            "name": "Alminnelige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 10-1",
+                    "title": "Ubetinget betalingsplikt og forbud mot overdragelse av tilgodebeløp",
+                    "sections": [
+                        "(1) Skatte- og avgiftskrav skal betales ved forfall og med de beløp som opprinnelig er fastsatt, selv om fastsettingen er påklaget eller brakt inn for domstolene.",
+                        "(2) Krav på tilbakebetaling av skatt og avgift kan ikke pantsettes eller overdras."
+                    ]
+                },
+                {
+                    "name": "§ 10-2",
+                    "title": "Utsatt forfall",
+                    "sections": [
+                        "Utløper betalingsfristen på en lørdag, søndag eller helligdag eller lovfestet høytidsdag, utskytes fristen til nærmeste virkedag."
+                    ]
+                },
+                {
+                    "name": "§ 10-3",
+                    "title": "Proklama i dødsbo",
+                    "sections": [
+                        "Proklama som utstedes i dødsbo etter lov 21. februar 1930 om skifte kapittel 12, har ingen virkning for skatte- og avgiftskrav."
+                    ]
+                },
+                {
+                    "name": "§ 10-4",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan i forskrift gi regler til utfylling og gjennomføring av bestemmelsene i dette kapitlet, og herunder bestemme at skatte- og avgiftskrav som er lavere enn en nærmere fastsatt beløpsgrense, ikke skal betales eller tilbakebetales."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Forskuddstrekk, arbeidsgiveravgift, lønnstrekk til Svalbard og artistskatt",
+            "paragraphs": [
+                {
+                    "name": "§ 10-10",
+                    "title": "Forskuddstrekk og arbeidsgiveravgift",
+                    "sections": [
+                        "(1) Forskuddstrekk og arbeidsgiveravgift for en periode forfaller til betaling samme dag som det skal leveres oppgave over skatte- og avgiftsplikten. Tidspunktet for innlevering av oppgave følger for forskuddstrekk av § 5-11 og for arbeidsgiveravgift av folketrygdloven § 24-3.",
+                        "(2) Departementet kan i forskrift gi regler om avvikende forfallstidspunkt for enkelte skattytere eller situasjoner."
+                    ]
+                },
+                {
+                    "name": "§ 10-11",
+                    "title": "Lønnstrekk til Svalbard",
+                    "sections": [
+                        "Lønnstrekk av inntekt på Svalbard for en periode forfaller til betaling samme dag som det skal leveres oppgave over skatteplikten etter lov 29. november 1996 nr. 68 om skatt til Svalbard § 5-2."
+                    ]
+                },
+                {
+                    "name": "§ 10-12",
+                    "title": "Artistskatt",
+                    "sections": [
+                        "Artistskatt for en periode forfaller til betaling samme dag som det skal leveres oppgave over skatteplikten. Tidspunktet for innlevering av oppgave følger av lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister m.v. § 11."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Forskuddsskatt og restskatt",
+            "paragraphs": [
+                {
+                    "name": "§ 10-20",
+                    "title": "Forskuddsskatt",
+                    "sections": [
+                        "(1) Forskuddsskatt for personlige skattytere forfaller til betaling i fire like store terminer 15. mars, 15. mai, 15. september og 15. november i inntektsåret. Er forskuddsskatten under 2 000 kroner, forfaller den i sin helhet til betaling 15. mai. Forfall er likevel tidligst tre uker fra den dag melding om forskuddsskatten ble sendt skattyter. Blir forskuddsskatten utskrevet så sent at en eller flere terminer er passert, fordeles forskuddsskatten med like stort beløp på de resterende terminer. Dette gjelder likevel ikke forskuddsskatt under 2 000 kroner, som forfaller til betaling ved neste termin. Er alle terminer passert, forfaller forskuddsskatten til betaling tre uker etter at melding om forskuddsskatten ble sendt skattyter.",
+                        "(2) Skatteoppkreverne kan fastsette forfallsterminene når inntekten fordeler seg på en særlig ujevn måte. Det samme gjelder når skattyter i henhold til skatteavtale skal betale forskuddsskatt av inntekt opptjent i utlandet, og inntekten er gjenstand for forskuddstrekk etter interne regler.",
+                        "(3) Forskuddsskatt for upersonlige skattytere forfaller til betaling i to like store terminer 15. februar og 15. april i året etter inntektsåret. Forfall er likevel tidligst tre uker fra den dag da melding om forskuddsskatten ble sendt skattyter.",
+                        "(4) Blir en termin ikke betalt ved forfall, forfaller samtidig de etterfølgende terminer til betaling.",
+                        "(5) Departementet kan i forskrift gi regler om forfall når det skjer endringer i utskrivingen av forskuddsskatt.",
+                        "(6) Stortinget kan gi regler om differensiering av terminene for forskuddsskatt i løpet av inntektsåret, eller overlate til departementet å gi slike regler."
+                    ]
+                },
+                {
+                    "name": "§ 10-21",
+                    "title": "Restskatt",
+                    "sections": [
+                        "(1) Restskatt for personlige skattytere forfaller til betaling tre uker etter at det ferdige skatteoppgjøret eller utlegging av skattelisten er kunngjort, likevel tidligst 20. august i ligningsåret. Er restskatten 1 000 kroner eller mer, forfaller den til betaling i to like store terminer. Første termin forfaller som etter første punktum, mens annen termin forfaller fem uker senere.",
+                        "(2) Blir første termin av restskatten ikke betalt ved forfall, forfaller annen termin til betaling samtidig med første termin.",
+                        "(3) Restskatt for upersonlige skattytere forfaller til betaling tre uker etter at utlegging av skattelisten er kunngjort."
+                    ]
+                },
+                {
+                    "name": "§ 10-22",
+                    "title": "Petroleumsskatt",
+                    "sections": [
+                        "(1) Terminskatt forfaller til betaling i to like store terminer 1. oktober i inntektsåret og 1. april i ligningsåret. Forfall er likevel tidligst tre uker fra den dag da melding om terminskatten ble sendt skattyter.",
+                        "(2) Restskatten forfaller til betaling tre uker etter at utlegging av skattelisten er kunngjort.",
+                        "(3) Departementet kan i forskrift gi avvikende regler om forfall når det skjer endringer i utskrivingen av terminskatt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Innenlands merverdiavgift og arveavgift",
+            "paragraphs": [
+                {
+                    "name": "§ 10-30",
+                    "title": "Innenlands merverdiavgift",
+                    "sections": [
+                        "Innenlands merverdiavgift for en periode forfaller til betaling samme dag som det skal leveres omsetningsoppgave til avgiftsmyndighetene etter lov 19. juni 1969 nr. 66 om merverdiavgift §§ 31, 33 og 40."
+                    ]
+                },
+                {
+                    "name": "§ 10-31",
+                    "title": "Arveavgift",
+                    "sections": [
+                        "(1) Med de unntak som følger av annet til fjerde ledd, forfaller arveavgift til betaling med følgende frister, regnet fra det tidspunkt da rådigheten over midlene i henhold til lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver §§ 9 og 10 anses ervervet:",
+                        "a)tolv måneder når midlene utlegges ved privat skifte av dødsbo. Som dødsbo anses også bo etter en forsvunnet person, men ikke uskiftet bo så lenge gjenlevende ektefelle er i live,",
+                        "b)straks når midlene skiftes av tingretten,",
+                        "c)for øvrig tre måneder.",
+                        "(2) Når avgiftsplikt for gaver først kan fastslås ved giverens død, jf. lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 2 annet ledd, forfaller avgiften til betaling først tre måneder etter dødsfallet. Tar gavemottaker også arv etter giveren, forfaller avgift av slik gave samtidig med avgift av arven.",
+                        "(3) Overstiger arveavgift av kapitalverdien av en inntektsnytelse halvparten av det inntektsnytelsen utgjør for ett år, kan den avgiftspliktige kreve henstand med betaling av det overskytende, slik at det hvert år betales avdrag med halvparten av inntektsnytelsens årlige beløp inntil avgiften er betalt. Reglene i lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 21 får tilsvarende anvendelse. Mulige uforfalte terminer av avgiften bortfaller når inntektsnytelsen opphører. § 10-20 fjerde ledd gjelder tilsvarende.",
+                        "(4) Arveavgift fastsatt etter reglene i lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 21 kan, unntatt i tilfeller som nevnt i første ledd bokstav b, likevel ikke kreves betalt tidligere enn en måned etter at foreløpig eller endelig fastsetting er meddelt den avgiftspliktige."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Innenlands særavgifter, toll og merverdiavgift og særavgifter som oppstår ved innførsel",
+            "paragraphs": [
+                {
+                    "name": "§ 10-40",
+                    "title": "Innenlands særavgifter",
+                    "sections": [
+                        "(1) Innenlands særavgifter forfaller til betaling samtidig med at avgiftsplikten oppstår. Dette gjelder likevel ikke:",
+                        "a)årsavgift for kjøretøyer som 1. januar er registrert i motorvognregistret, som forfaller til betaling 15. mars",
+                        "b)vektårsavgiften for kjøretøyer som er registrert i motorvognregistret, som forfaller til betaling i to like store terminer henholdsvis 20. februar og 20. august",
+                        "c)engangsavgiften for registrerte virksomheter, som forfaller til betaling den 18. i måneden etter at avgiftsplikten oppstod.",
+                        "(2) For virksomheter som er registrert som særavgiftspliktige hos tollregionene, forfaller særavgiften for en periode til betaling samme dag som det skal leveres oppgave over avgiftsplikten.",
+                        "(3) Departementet kan i forskrift gi nærmere regler om forfallstidspunktene for krav som omhandlet i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 10-41",
+                    "title": "Toll, merverdiavgift og særavgifter som oppstår ved innførsel",
+                    "sections": [
+                        "(1) Toll og avgifter som oppstår ved innførsel, og som ikke belastes tollkreditten eller dagsoppgjørsordningen, jf. § 14-20, skal betales ved fortolling.",
+                        "(2) Krav som belastes tollkreditten en kalendermåned, forfaller til betaling den 18. i neste måned.",
+                        "(3) Departementet kan i forskrift gi nærmere regler om forfall for krav som belastes dagsoppgjørsordningen, og om forfall for krav hvor det er gitt midlertidig toll- og avgiftsfritak."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Andre krav",
+            "paragraphs": [
+                {
+                    "name": "§ 10-50",
+                    "title": "Utleggstrekk",
+                    "sections": [
+                        "For utleggstrekk gjelder, med unntak for tilfeller som omhandlet i § 14-5 annet ledd, reglene om forfall i tvangsfullbyrdelsesloven § 7-22 første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 10-51",
+                    "title": "Andre skatte- og avgiftskrav",
+                    "sections": [
+                        "Følgende skatte- og avgiftskrav forfaller til betaling tre uker etter at melding om kravet er sendt:",
+                        "a)tvangsmulkt etter ligningsloven § 10-6",
+                        "b)ansvarskrav etter ligningsloven § 10-7",
+                        "c)gebyr etter ligningsloven § 10-8",
+                        "d)skatt fastsatt ved forhåndsligning etter ligningsloven § 8-10",
+                        "e)krav fastsatt ved summarisk fellesoppgjør etter ligningsloven § 9-5 nr. 8",
+                        "f)tilleggsskatt etter ligningsloven § 10-2, tilleggsavgift etter lov 19. juni 1969 nr. 66 om merverdiavgift § 73, lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 44 og lov 19. mai 1933 nr. 11 om særavgifter § 4 første ledd, og tilleggsstoll etter tolloven § 69."
+                    ]
+                },
+                {
+                    "name": "§ 10-52",
+                    "title": "Ansvarskrav",
+                    "sections": [
+                        "Ansvarskrav etter kapittel 16 og ansvarskrav etter lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister m.v. § 8 fjerde ledd skal betales senest to uker etter at melding om kravet er sendt, jf. tvangsfullbyrdelsesloven § 4-18."
+                    ]
+                },
+                {
+                    "name": "§ 10-53",
+                    "title": "Skatte- og avgiftskrav ved vedtak om endring mv.",
+                    "sections": [
+                        "(1) Treffer skatte- eller avgiftsmyndighetene vedtak om endring mv. som medfører økning av skatte- eller avgiftsplikten for krav som ordinært forfaller etter §§ 10-10 til 10-12, § 10-21, § 10-22 annet ledd eller §§ 10-30 til 10-41, skal økningen og renter etter § 11-2 betales senest tre uker etter at melding om vedtaket er sendt. Dette gjelder likevel bare dersom fristen for betaling kommer senere enn det ordinære forfallstidspunkt for kravet. Skyldes økningen at den skatte- eller avgiftspliktige selv endrer en tidligere levert oppgave, regnes fristen fra melding om endringen er kommet fram til skatte- eller avgiftsmyndighetene.",
+                        "(2) Ved økning av restskatt som følge av endring etter reglene i ligningsloven kapittel 9, regnes fristen fra melding om ny avregning er sendt skyldneren. Restskatt for personlige skattytere skal betales tidligst sammen med annen termin."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tilgodebeløp",
+            "paragraphs": [
+                {
+                    "name": "§ 10-60",
+                    "title": "Tilgodebeløp",
+                    "sections": [
+                        "(1) Når det er betalt for mye skatt eller avgift, skal beløpet og renter etter § 11-4 tilbakebetales den skatte- eller avgiftspliktige så snart som mulig, og senest tre uker etter at vedtaket som medførte tilbakebetaling ble truffet, når ikke annet er bestemt i lov eller forskrift. Tilbakebetalingen skal også omfatte forsinkelsesrenter som er betalt av refusjonsbeløpet. Forsinkelsesrenter som er påløpt, men ikke betalt, bortfaller.",
+                        "(2) For tilgodebeløp som oppstår etter ordinær avregning, jf. § 7-1, regnes fristen fra skatteoppgjøret er ferdig eller utlegging av skattelistene er kunngjort. I andre tilfeller regnes fristen fra det tidspunktet avregningen ble foretatt.",
+                        "(3) For krav på tilbakebetaling av merverdiavgift til registrerte næringsdrivende etter lov 19. juni 1969 nr. 66 om merverdiavgift § 24 regnes fristen fra omsetningsoppgaven er mottatt av avgiftsmyndigheten."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11 Renter",
+            "paragraphs": [
+                {
+                    "name": "§ 11-1",
+                    "title": "Renter ved forsinket betaling",
+                    "sections": [
+                        "(1) Det skal beregnes rente av skatte- og avgiftskrav som ikke betales innen forfallstidspunktet etter kapittel 10. Renten beregnes på grunnlag av kravet tillagt eventuell rente etter §§ 11-2 eller 11-5. Renten løper fra forfallstidspunktet fram til betaling skjer. For krav etter § 10-52 løper renten fra forfallstidspunktet for det skatte- eller avgiftskravet som ansvarskravet skal dekke, fram til betaling skjer.",
+                        "(2) Reglene om fremskyndet forfall i § 10-20 fjerde ledd og § 10-21 annet ledd er uten betydning for renteberegningen etter første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 11-2",
+                    "title": "Renter ved vedtak om endring mv.",
+                    "sections": [
+                        "(1) Det skal beregnes rente av økning i skatt og avgift som fastsettes ved vedtak om endring mv. Det skal ikke beregnes rente ved summarisk endring etter ligningsloven § 9-9.",
+                        "(2) Renten beregnes fra forfallstidspunktet for kravene etter §§ 10-1 til 10-41, fram til det treffes vedtak om endring mv., med de unntak som følger av tredje til sjette ledd.",
+                        "(3) Av økning i skatt etter ny avregning, jf. § 7-2, beregnes renten fra 1. januar i året etter ligningsåret.",
+                        "(4) Av petroleumsskatt etter ny avregning, jf. § 7-2, beregnes renten fra 1. januar i året etter inntektsåret.",
+                        "(5) Av for meget utbetalt avgift i henhold til lov 19. juni 1969 nr. 66 om merverdiavgift § 24 beregnes renten fra beløpet ble utbetalt og fram til det treffes vedtak om endring mv.",
+                        "(6) Er det foretatt innbetalinger til dekning av skatte- og avgiftskravet før det er truffet vedtak om endring mv., beregnes renten fram til betalingstidspunktet."
+                    ]
+                },
+                {
+                    "name": "§ 11-3",
+                    "title": "Rentegodtgjørelse ved forsinket tilbakebetaling",
+                    "sections": [
+                        "(1) Ved tilbakebetaling av for mye betalt skatt eller avgift senere enn forfallstidspunktet i § 10-60, skal det ytes rentegodtgjørelse for tiden fra forfallstidspunktet fram til tilbakebetaling skjer.",
+                        "(2) Rentegodtgjørelse etter første ledd ytes ikke dersom forsinkelsen skyldes forhold som kan legges den skatte- eller avgiftspliktige til last, eller som han er nærmest til å bære ansvaret for."
+                    ]
+                },
+                {
+                    "name": "§ 11-4",
+                    "title": "Rentegodtgjørelse ved tilbakebetaling etter vedtak om endring mv.",
+                    "sections": [
+                        "(1) Ved tilbakebetaling av for mye betalt skatt eller avgift som følge av vedtak om endring mv., skal det ytes rentegodtgjørelse fra betaling fant sted fram til forfallstidspunktet i § 10-60.",
+                        "(2) Ved tilbakebetaling etter ny avregning beregnes renten fra det ferdige skatteoppgjøret eller utlegg av skattelisten er kunngjort.",
+                        "(3) Ved tilbakebetaling i andre tilfeller enn omhandlet i første ledd kan det ytes rentegodtgjørelse når særlige forhold tilsier det. Departementet kan i forskrift bestemme at rentegodtgjørelse skal ytes i andre tilfeller selv om det ikke foreligger særlige forhold."
+                    ]
+                },
+                {
+                    "name": "§ 11-5",
+                    "title": "Rentetillegg og rentegodtgjørelse ved skatteavregningen",
+                    "sections": [
+                        "(1) Restskatt for personlige skattytere etter § 7-1 annet ledd tillegges rentetillegg. For skattytere som får skatten begrenset etter skatteloven § 17-1, skal det ikke beregnes rentetillegg av restskatten. Skattytere som får tilbakebetalt skatt etter § 7-1 tredje ledd, har krav på rentegodtgjørelse.",
+                        "(2) Når restskatt for upersonlige skattytere etter § 7-1 annet ledd overstiger en tredjedel av utlignet skatt, skal skattyter svare rentetillegg av differansen. Er det innbetalte forskuddsbeløpet større enn to tredjedeler av utlignet skatt, har skattyter krav på rentegodtgjørelse.",
+                        "(3) Departementet kan i forskrift gi nærmere regler om rentetillegg og rentegodtgjørelse ved skatteavregningen."
+                    ]
+                },
+                {
+                    "name": "§ 11-6",
+                    "title": "Rentesatser",
+                    "sections": [
+                        "(1) Rentesatsen for rente etter §§ 11-1 og 11-3 skal tilsvare satsen fastsatt i medhold av lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3 første ledd første punktum. Er det innvilget betalingsordning for arveavgift fordi arven eller gaven vesentlig omfatter næringsvirksomhet, skal renten være halvparten av satsen etter første punktum.",
+                        "(2) Rentesatsen for rente etter § 11-2 skal tilsvare den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar det aktuelle året tillagt ett prosentpoeng. Rentesatsen for rente etter § 11-4 skal tilsvare den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar det aktuelle året.",
+                        "(3) Endring i rentens størrelse får virkning fra tidspunktet endringen trer i kraft, også for skatte- og avgiftskrav hvor det løper rente før ikrafttredelsen."
+                    ]
+                },
+                {
+                    "name": "§ 11-7",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "(1) Departementet kan i forskrift fastsette nærmere regler om at renter av skatte- og avgiftskrav som fastsettes på grunnlag av domstolsavgjørelse, skal svares fra forfallstidspunktet for det opprinnelige skatte- og avgiftskravet.",
+                        "(2) Departementet kan i forskrift gi regler til utfylling og gjennomføring av bestemmelsene i §§ 11-1 til 11-4, herunder nærmere regler om grunnlaget for renteberegningen og unntak fra plikten til å svare renter og yte rentegodtgjørelse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 12 Foreldelse",
+            "paragraphs": [
+                {
+                    "name": "§ 12-1",
+                    "title": "Foreldelse",
+                    "sections": [
+                        "(1) Foreldelsesloven gjelder med de unntak som følger av annet til femte ledd.",
+                        "(2) For skatte- og avgiftskrav løper foreldelsesfristen fra utgangen av det kalenderåret da kravene, eller i tilfelle siste termin av kravene, forfaller til betaling.",
+                        "(3) For forskuddsskatt løper foreldelsesfristen først fra utgangen av det kalenderåret da ligningen ble foretatt. For krav på arveavgift løper foreldelsesfristen fra det tidspunktet kravet forfaller til betaling etter § 10-31. For krav på avgift av gaver og utdelinger fra uskiftebo begynner fristen likevel ikke i noe tilfelle å løpe før det beviselig er gitt melding til avgiftsmyndigheten om gaven eller utdelingen i samsvar med arveavgiftsloven § 25 annet ledd.",
+                        "(4) For arveavgift er foreldelsesfristens lengde ti år.",
+                        "(5) Er foreldelsen avbrutt etter lov 18. mai 1979 nr. 18 om foreldelse av fordringer § 17, foreldes ikke senere forfalte forsinkelsesrenter av skatte- eller avgiftskravet før hovedstolen foreldes."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del IV Særlige oppgjørsbestemmelser",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 13 Motregning",
+            "paragraphs": [
+                {
+                    "name": "§ 13-1",
+                    "title": "Utvidet motregningsadgang for skatte- og avgiftskrav",
+                    "sections": [
+                        "(1) Skatte- og avgiftskrav kan motregnes i ethvert annet tilgodebeløp på skatt og avgift skyldneren har.",
+                        "(2) Formues- og inntektsskatt og trygdeavgift kan uoppdelt motregnes i andre krav enn skatt og avgift skyldneren har på staten, fylkeskommunen eller kommunen. Motregningsadgangen i konkurs er da begrenset til den andel som etter fordelingsreglene i kapittel 8 faller på den av skattekreditorene som konkursboets krav er rettet mot.",
+                        "(3) Annet ledd gjelder tilsvarende for andre krav som er gjenstand for fordeling etter lovens kapittel 8."
+                    ]
+                },
+                {
+                    "name": "§ 13-2",
+                    "title": "Skyldnerens motregningsadgang",
+                    "sections": [
+                        "Skyldneren kan kreve at innkrevingsmyndighetene motregner når vilkårene i § 13-1 er til stede, jf. likevel begrensningene i kommuneloven § 53."
+                    ]
+                },
+                {
+                    "name": "§ 13-3",
+                    "title": "Beslagsfrihet",
+                    "sections": [
+                        "Bestemmelsene om beslagsfrihet i dekningsloven kapittel 2 gjelder ved motregning etter denne loven, med unntak for motregning mellom samme type krav, jf. § 1-1. Trygdeavgift regnes i denne sammenheng som samme type krav som skatt."
+                    ]
+                },
+                {
+                    "name": "§ 13-4",
+                    "title": "Gjennomføring av motregningen",
+                    "sections": [
+                        "Når innkrevingsmyndighetene sender pålegg om motregning til det organet som skal utbetale hovedkravet, plikter organet å overføre beløpet til innkrevingsmyndighetene. I de tilfeller det sendes pålegg om motregning, skal det samtidig sendes motregningserklæring til skyldneren."
+                    ]
+                },
+                {
+                    "name": "§ 13-5",
+                    "title": "Klageadgang",
+                    "sections": [
+                        "Motregning etter § 13-1 kan påklages etter tvangsfullbyrdelsesloven § 5-16. Motregningserklæringen kan ikke påklages senere enn én måned etter at den ble mottatt."
+                    ]
+                },
+                {
+                    "name": "§ 13-6",
+                    "title": "Dekningsrekkefølge",
+                    "sections": [
+                        "Departementet kan i forskrift gi nærmere regler om dekningsrekkefølgen ved motregning av skatte- og avgiftskrav."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 14 Tvangsfullbyrdelse og sikkerhetsstillelse",
+            "paragraphs": []
+        },
+        {
+            "name": "Utlegg",
+            "paragraphs": [
+                {
+                    "name": "§ 14-1",
+                    "title": "Tvangsgrunnlag for utlegg",
+                    "sections": [
+                        "Skatte- og avgiftskrav er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 14-2",
+                    "title": "Forholdet til tvangsfullbyrdelsesloven",
+                    "sections": [
+                        "Tvangsfullbyrdelsesloven gjelder tilsvarende så langt den passer ved innkrevingsmyndighetenes gjennomføring av utleggsforretninger. Dette gjelder likevel ikke kapittel 3, §§ 5-1 til 5-5 og §§ 7-1 til 7-8."
+                    ]
+                },
+                {
+                    "name": "§ 14-3",
+                    "title": "Forretning for utleggspant",
+                    "sections": [
+                        "(1) Skatteoppkreverne og skattefogdkontorene kan holde forretning for utleggspant i sitt distrikt for skatte- og avgiftskrav som de har innkrevingsansvaret for. Innkrevingsdistriktet er hele landet for skatte- og avgiftskrav fastsatt ved sentral ligning etter ligningsloven § 2-4 nr. 1 bokstav a.",
+                        "(2) En skatteoppkrever kan på anmodning holde forretning for utleggspant for skatte- og avgiftskrav som en annen skatteoppkrever eller et skattefogdkontor har innkrevingsansvaret for. På tilsvarende måte kan et skattefogdkontor holde utleggsforretninger for andre skattefogdkontorer eller skatteoppkrevere."
+                    ]
+                },
+                {
+                    "name": "§ 14-4",
+                    "title": "Utleggstrekk",
+                    "sections": [
+                        "(1) Skatteoppkreverne og skattefogdkontorene kan nedlegge utleggstrekk i hele landet for skatte- og avgiftskrav som de har innkrevingsansvaret for.",
+                        "(2) Det kan tas utleggstrekk i følgende ytelser:",
+                        "a)lønn mv. etter dekningsloven § 2-7. Dette gjelder også der lønnstakeren selv innkrever lønnen. Lønnstakeren plikter da å innbetale trekkbeløpet til arbeidsgiveren,",
+                        "b)godtgjørelse for arbeid eller oppdrag utført som ledd i selvstendig næringsvirksomhet. Hvis ikke skyldneren samtykker i en høyere trekkprosent, kan innkrevingsmyndighetene bare ta utleggstrekk i inntil 20 prosent av godtgjørelsen. Begrensningene i adgangen til å ta utleggstrekk i dekningsloven § 2-7 første ledd første punktum gjelder tilsvarende.",
+                        "(3) Departementet kan i forskrift gi nærmere regler om beregning av trekkgrunnlaget."
+                    ]
+                },
+                {
+                    "name": "§ 14-5",
+                    "title": "Gjennomføring av utleggstrekk",
+                    "sections": [
+                        "(1) Utleggstrekk nedlagt av skatteoppkreverne og skattefogdkontorene gjelder også for det organet som utbetaler dagpenger under arbeidsløshet etter folketrygdloven kapittel 4 og sykepenger etter folketrygdloven kapittel 8. § 5-10 annet ledd gjelder tilsvarende for utleggstrekk.",
+                        "(2) Ved utleggstrekk nedlagt av skatteoppkreverne skal trekkpliktige som har plikt til å ha skattetrekkskonto, følge de reglene som gjelder for oppgjør mv. for forskuddstrekk, jf. kapittel 5. Beløpene skal betales til den skatteoppkreveren som har nedlagt trekket.",
+                        "(3) Det beløpet som er trukket går ikke inn i den trekkpliktiges konkursbo, og er heller ikke gjenstand for utlegg eller andre tvangsforføyninger fra enkeltforfølgende fordringshaveres side.",
+                        "(4) Departementet kan i forskrift gi nærmere regler om gjennomføringen av utleggstrekk etter denne paragrafen."
+                    ]
+                },
+                {
+                    "name": "§ 14-6",
+                    "title": "Begrensninger i utleggsadgangen for skatt og trygdeavgift",
+                    "sections": [
+                        "(1) Skattyter som har fått utskrevet eller utlignet skatt og trygdeavgift av samme formue og inntekt i flere kommuner, kan unngå tvangsinnfordring ved å innbetale den høyeste utskrevne skatt og trygdeavgift etter hvert som den forfaller, til skatteoppkreveren for den kommunen han mener kravene skal utskrives i, jf. ligningsloven § 8-6. Er deler av kravet betalt, kommer det betalte beløpet til fradrag.",
+                        "(2) Første ledd fritar ikke for plikten til å betale naturressursskatt som ikke er medregnet ved utligning av den skatt som blir betalt. Skattyteren kan kreve at ligningskontoret beregner størrelsen på det beløpet som skal betales.",
+                        "(3) Personlige skattytere kan i tilfeller som nevnt i første ledd, kreve at skatteberegningen foretas på nytt. Den nye beregningen skal foretas som om formue og inntekt bare blir lignet i én kommune, og formue og inntekt fastsettes til det høyeste beløp.",
+                        "(4) Har en av skatteoppkreverne satt i verk utleggstrekk etter § 14-4, kan en annen skatteoppkrever ikke iverksette tvangsinnfordring til dekning av skatt og trygdeavgift av samme formue og inntekt.",
+                        "(5) Første til fjerde ledd gjelder også for den som er ansvarlig etter kapittel 16."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Annen tvangsfullbyrdelse",
+            "paragraphs": [
+                {
+                    "name": "§ 14-10",
+                    "title": "Tvangssalg av varer mv. etter tolloven",
+                    "sections": [
+                        "(1) Salg av varer mv. etter tolloven §§ 30, 47, 53, 72 og 74 skal skje gjennom namsmyndighetene etter reglene om tvangssalg i tvangsfullbyrdelsesloven kapittel 8 så langt de passer.",
+                        "(2) Tollregionen kan begjære varen solgt 14 dager etter at skriftlig varsel er sendt vareeieren. Ved salg etter tolloven § 47 tredje ledd og § 74 skal vareeieren om mulig varsles. Har vareeieren ukjent adresse, kan salget skje 14 dager etter at varene er hentet inn eller tilbakeholdt etter tolloven §§ 30 og 72, eller når fristen tollregionen har satt for tollekspedisjon av varene er utløpt.",
+                        "(3) Tollregionen kan velge mellom å selge varene i fortollet eller ufortollet stand.",
+                        "(4) Salget avsluttes ved at salgssummen utbetales til de berettigede. Kostnadene ved tvangssalget dekkes forlodds av salgssummen. Deretter dekkes kravet på toll, særavgifter og merverdiavgift før omkostningene ved lagerholdet. Panthavere og andre innehavere av begrensede rettigheter skal deretter ha dekning etter prioritet. Ved salg etter tolloven § 72 skal inndragningsbeløpet eller boten dekkes før krav etter tredje og fjerde punktum. Rettigheter som er rettsgyldig sikret i varen, skal likevel dekkes før de beløp tilbakeholdelsen gjelder, hvis ikke rettighetshaveren forsto eller burde forstått at varen skulle brukes til en overtredelse som nevnt i tolloven kapittel X.",
+                        "(5) Etter at samtlige krav er dekket, skal vareeieren ha et eventuelt overskytende beløp dersom han melder seg innen tre måneder etter at salget fant sted. Etter utløpet av denne fristen tilfaller beløpet statskassen."
+                    ]
+                },
+                {
+                    "name": "§ 14-11",
+                    "title": "Stansning av kjøretøy",
+                    "sections": [
+                        "(1) Dersom krav på årsavgift, vektårsavgift, engangsavgift, omregistreringsavgift eller avgift for urettmessig bruk av merket mineralolje ikke betales til rett tid, kan tollregionen bestemme at bruken av det motorkjøretøyet som kravene knytter seg til, skal stanses inntil avgiftene er betalt. Det samme gjelder dersom påbud eller bestemmelser gitt i medhold av lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 1, ikke etterkommes.",
+                        "(2) Dersom krav som nevnt i første ledd ikke betales til rett tid, kan registreringsmyndigheten nekte på- eller omregistrering i Statens vegvesens motorvognregister.",
+                        "(3) Kjøretøy som er bestemt stanset i medhold av første ledd, kan avskiltes. Tollregionen kan be politi, lensmann eller annen offentlig myndighet om å gjennomføre avskiltingen.",
+                        "(4) Tollregionens stansningsrett kan bortfalle ved rettsvinning etter lov 2. juni 1978 nr. 37 om godtroerverv av løsøre. Dette gjelder likevel ikke overfor personer som er ansvarlige for avgiften etter lov 19. mai 1933 nr. 11 om særavgifter § 4 annet ledd eller lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 6 annet ledd.",
+                        "(5) Departementet kan i forskrift gi nærmere regler om betaling av gebyr til dekning av utgifter påløpt ved avskiltingen, og om fremgangsmåten for stansning."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kreditt og sikkerhetsstillelse – merverdiavgift, særavgifter og toll",
+            "paragraphs": [
+                {
+                    "name": "§ 14-20",
+                    "title": "Tollkreditt og dagsoppgjørsordningen",
+                    "sections": [
+                        "(1) Tollregionen kan innvilge kreditt for toll og merverdiavgift og særavgifter som oppstår ved innførsel.",
+                        "(2) Speditører som forestår fortolling på vegne av andre, kan innvilges kreditt for fortollinger som foretas i løpet av samme dag (dagsoppgjør).",
+                        "(3) Tollregionen kan stille vilkår om sikkerhet før kreditt innvilges, eller senere.",
+                        "(4) For bruk av tollkreditt skal det betales en særskilt godtgjørelse til statskassen. Departementet gir forskrift om gebyrets størrelse.",
+                        "(5) Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring av denne paragrafen, herunder om vilkår for kreditt, opphør av kreditt og vilkår for sikkerhetsstillelse."
+                    ]
+                },
+                {
+                    "name": "§ 14-21",
+                    "title": "Sikkerhetsstillelse for særavgiftene",
+                    "sections": [
+                        "(1) Tollregionen skal ved registrering av avgiftspliktige kreve at det stilles sikkerhet for skyldig engangsavgift på motorvogn. De nærmere kravene til sikkerheten, herunder sikkerhetens omfang, fastsettes av tollregionen ved registreringen, og kan senere endres.",
+                        "(2) Tollregionen kan kreve at virksomheter som er registrert som avgiftspliktige etter særavgiftsloven, stiller sikkerhet for fremtidig skyldig avgift. Krav om sikkerhetsstillelse kan stilles ved registrering av virksomheten eller senere. De nærmere kravene til sikkerhet, herunder sikkerhetens omfang, fastsettes av tollregionen i det enkelte tilfellet.",
+                        "(3) Departementet kan i forskrift sette nærmere vilkår for sikkerhetsstillelsen og angi hvilke momenter som skal vektlegges ved vurderingen av om sikkerhet skal kreves."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 15 Betalingsutsettelse og betalingsnedsettelse – lempning",
+            "paragraphs": [
+                {
+                    "name": "§ 15-1",
+                    "title": "Betalingsutsettelse og betalingsnedsettelse av hensyn til skyldneren",
+                    "sections": [
+                        "(1) Når noen på grunn av dødsfall, særlig alvorlig sykdom eller lignende årsaker er midlertidig ute av stand til å innfri sine skatte- og avgiftsforpliktelser, og det vil være uforholdsmessig tyngende å fortsette innkrevingen, kan det gis utsettelse med betalingen. Er betalingsevnen varig svekket, kan skatte- og avgiftskravet settes ned eller frafalles. For skatte- og avgiftskrav som nevnt i § 1-1 annet ledd bokstav a kan endelig avgjørelse om å sette ned eller frafalle skatte- eller avgiftkravet først treffes når ligning er foretatt.",
+                        "(2) Avgjørelser som nevnt i første ledd treffes av innkrevingsmyndighetene. Skattedirektoratet og Toll- og avgiftsdirektoratet fastsetter nærmere regler om innkrevingsmyndighetens kompetanse.",
+                        "(3) I skattesaker treffes avgjørelser etter første ledd av skatteutvalget etter innstilling fra skatteoppkreveren. I saker som gjelder ettergivelse av skatt for mer enn kr 200 000, blir likevel avgjørelsen å treffe av departementet etter forslag fra skatteutvalget. Det skal være ett skatteutvalg for hvert ligningskontor. Departementet kan i forskrift gi bestemmelser om den enkelte kommunes representasjon i det skatteutvalg kommunen hører under. For skattytere som utelukkende skal betale statsskatt, kan departementet bestemme at avgjørelse som nevnt i dette ledd kan legges til andre organer."
+                    ]
+                },
+                {
+                    "name": "§ 15-2",
+                    "title": "Betalingsutsettelse og betalingsnedsettelse av hensyn til det offentlige som kreditor",
+                    "sections": [
+                        "(1) Fremsetter skyldneren et betalingstilbud, kan et skatte- og avgiftskrav settes ned, eller det kan gis utsettelse med betalingen. Det er et vilkår at skyldneren ikke er i stand til å innfri kravet på vanlig måte, og at betalingstilbudet antas å gi bedre dekning enn fortsatt innfordring. Betalingstilbudet må være det beste skyldneren kan tilby, og avgjørelsen må ikke virke støtende eller være egnet til å svekke den alminnelige betalingsmoral.",
+                        "(2) Det kan settes ytterligere vilkår for å få innvilget en betalingsordning etter første ledd.",
+                        "(3) Avgjørelser etter denne paragraf treffes av innkrevingsmyndighetene. Skattedirektoratet og Toll- og avgiftsdirektoratet fastsetter nærmere regler om innkrevingsmyndighetens kompetanse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del V Forskjellige bestemmelser",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 16 Ansvarsregler",
+            "paragraphs": []
+        },
+        {
+            "name": "Innledende bestemmelse",
+            "paragraphs": [
+                {
+                    "name": "§ 16-1",
+                    "title": "Tvangsinnfordring av ansvarskrav",
+                    "sections": [
+                        "(1) Reglene i dette kapitlet kommer til anvendelse når skatte- og avgiftskrav ikke er betalt av den skatte- og avgiftspliktige ved forfall. Ansvaret omfatter også renter, omkostninger, tilleggsskatt og tilleggsavgift.",
+                        "(2) Ansvarskravene kan innkreves etter reglene i lovens del IV om motregning og tvangsfullbyrdelse. Lovens øvrige regler gjelder tilsvarende for ansvarskrav så langt de passer.",
+                        "(3) Den som betaler skatte- og avgiftskrav som følge av ansvar etter §§ 16-11 til 16-13, kan kreve beløpet tilbake av den skatte- og avgiftspliktige."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ansvar for skatt og trygdeavgift",
+            "paragraphs": [
+                {
+                    "name": "§ 16-10",
+                    "title": "Foreldres ansvar",
+                    "sections": [
+                        "Foreldre er ansvarlig for formues- og inntektsskatt og trygdeavgift ilagt hjemmeværende barn som arbeider i foreldrenes bedrift."
+                    ]
+                },
+                {
+                    "name": "§ 16-11",
+                    "title": "Selskapers ansvar",
+                    "sections": [
+                        "(1) Ved ligning av deltaker i selskap som nevnt i skatteloven § 2-2 annet ledd bokstavene a til e, er selskapet ansvarlig for formues- og inntektsskatt og trygdeavgift som ikke kan innkreves hos deltakeren. Lignes en deltaker også av formue og inntekt utenfor selskapet, omfatter ansvaret bare en så stor del av skatte- og avgiftskravet som etter en forholdsmessig fordeling faller på formue i og inntekt fra selskapet.",
+                        "(2) Selskap og innretning hjemmehørende i riket er ansvarlig for inntektsskatt og trygdeavgift av godtgjørelse, tantieme, gratiale eller lignende som ytes til person bosatt i utlandet og selskap og innretning hjemmehørende i utlandet, jf. skatteloven § 2-3 første ledd bokstavene a til g og annet ledd og § 3-4 første til tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 16-12",
+                    "title": "Fullmektigers ansvar",
+                    "sections": [
+                        "Fullmektig for personer bosatt i utlandet eller for utenlandsk selskap eller innretning hjemmehørende i utlandet, er ansvarlig for ilignet formues- og inntektsskatt og trygdeavgift av fullmaktsgiverens virksomhet i Norge."
+                    ]
+                },
+                {
+                    "name": "§ 16-13",
+                    "title": "Skifteforvaltere og styremedlemmers ansvar",
+                    "sections": [
+                        "(1) Skifteforvaltere er ansvarlig for at tilstrekkelig av boets midler holdes tilbake til dekning av formues- og inntektsskatt og trygdeavgift som ilignes eller som må forutsettes ilignet boet eller arvelater, etter at boet er tatt under skiftebehandling. Det samme gjelder konkursskyldners formues- og inntektsskatt og trygdeavgift når boet er ansvarlig for skatte- og avgiftskravet.",
+                        "(2) Tilsvarende ansvar påhviler hvert enkelt medlem av styre og ledelse i selskap og annen skattepliktig innretning, når dette oppløses og foretakets midler fordeles mellom eierne.",
+                        "(3) Er midlene utloddet eller fordelt i tilfelle som nevnt i første og annet ledd, uten at det er holdt tilbake midler til dekning av skatte- og avgiftskrav, kan ubetalt skatt og avgift innkreves hos konkurskreditorene, arvingene eller parthaverne, som er ansvarlig hver for sin andel av skatte- og avgiftskravet."
+                    ]
+                },
+                {
+                    "name": "§ 16-14",
+                    "title": "Arvingers ansvar",
+                    "sections": [
+                        "Selvskiftende arvingers solidaransvar for formues- og inntektsskatt og trygdeavgift som er ilignet etter dødstidspunktet, er begrenset til det den enkelte har mottatt i arv. Gjenlevende ektefelle i uskiftet bo er ikke ansvarlig for slike skatte- og avgiftskrav utover verdien av avdødes andel i boet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ansvar for forskuddstrekk og utleggstrekk",
+            "paragraphs": [
+                {
+                    "name": "§ 16-20",
+                    "title": "Ansvar for forskuddstrekk og utleggstrekk",
+                    "sections": [
+                        "(1) Dersom forskuddstrekk ikke blir foretatt i samsvar med reglene i kapittel 5 eller trukket beløp ikke blir betalt i samsvar med § 10-10, er de som har plikt til å foreta forskuddstrekk ansvarlig for beløpet. Det samme gjelder dersom et utleggstrekk etter § 14-4 ikke blir foretatt og oppgjør ikke blir gitt i samsvar med §§ 10-50 og 14-5. Unnlatelse av å foreta trekk medfører likevel ikke ansvar når det godtgjøres at forholdet ikke skyldes forsømmelse eller mangel på tilbørlig aktsomhet fra arbeidsgiver eller noen i hans tjeneste.",
+                        "(2) Arbeidsgiver som unnlater å sende pliktig melding om ansettelse, eller som gir uriktige eller ufullstendige opplysninger i melding eller på annen måte, er ansvarlig for de beløp som kunne være trukket etter § 14-4 dersom melding eller opplysning var gitt på riktig måte. Bestemmelsen i første ledd første punktum gjelder tilsvarende. Ved fastsetting av ansvaret skal det legges til grunn at trekk ville blitt satt i verk 14 dager etter tjenesteforholdets begynnelse, med 10 prosent av trekkgrunnlaget.",
+                        "(3) Felles ansvarskrav fra flere kommuner kan ved motregning, jf. § 16-1 annet ledd, motregnes i krav som den trekkansvarlige har på hver enkelt av skattekreditorene.",
+                        "(4) Foreldelsesloven §§ 9 og 11 gjelder tilsvarende for ansvarskravet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ansvar for merverdiavgift og arveavgift",
+            "paragraphs": [
+                {
+                    "name": "§ 16-30",
+                    "title": "Ansvar for merverdiavgift ved unnlatt registrering",
+                    "sections": [
+                        "Departementet kan i forskrift bestemme at den som har mottatt varen eller tjenesten, er ansvarlig for merverdiavgift av varer og tjenester fra utenlandsk næringsdrivende som ikke er registrert ved representant etter reglene i lov 19. juni 1969 nr. 66 om merverdiavgift § 10 tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 16-31",
+                    "title": "Ansvar for arveavgift for arvinger mv. og gavemottakere",
+                    "sections": [
+                        "(1) Når boet skiftes privat, er arvinger og gjenlevende ektefelle, hvis denne er loddeier i boet, solidarisk ansvarlig for arveavgiften. Dette gjelder likevel ikke arvinger som bare er tillagt en bestemt gjenstand eller sum eller en viss inntekt.",
+                        "(2) Giveren er ansvarlig for arveavgift av gaver. Samme ansvar har gjenlevende ektefelle i uskiftet bo av midler som gjenlevende ektefelle deler ut.",
+                        "(3) I tilfeller som nevnt i § 3 annet ledd i lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver, er også de personer som regnes å ha ervervet midlene, ansvarlig for arveavgiften."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ansvar for særavgifter",
+            "paragraphs": [
+                {
+                    "name": "§ 16-40",
+                    "title": "Ansvar for erverver av motorkjøretøy og båter",
+                    "sections": [
+                        "Ved overdragelse av motorkjøretøy og båter og tilhenger til motorkjøretøy og båter er erverver ansvarlig for siste termin av særavgifter etter lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøy og båter § 6 første ledd, og for slike særavgifter påløpt etter utløpet av siste termin fram til overdragelsestidspunktet."
+                    ]
+                },
+                {
+                    "name": "§ 16-41",
+                    "title": "Ansvar for bruker av motorkjøretøy",
+                    "sections": [
+                        "Den som ved urettmessig bruk av merket mineralolje har disposisjonsrett over motorkjøretøy, er ansvarlig for avgift ved slik bruk, jf. lov 19. mai 1933 nr. 11 om særavgifter § 4, når han har fordel av den urettmessige bruken."
+                    ]
+                },
+                {
+                    "name": "§ 16-42",
+                    "title": "Ansvar ved avgiftsfri levering av varer og tjenester",
+                    "sections": [
+                        "Departementet kan i forskrift bestemme at mottakeren av avgiftsfrie varer og tjenester som ellers er avgiftspliktige etter lov 19. mai 1933 nr. 11 om særavgifter, er ansvarlig for avgiften dersom vedkommende ikke oppfyller vilkårene for avgiftsfrihet. I slike tilfeller er også leverandøren ansvarlig for avgiften dersom han visste eller burde ha visst at vilkårene for avgiftsfritak ikke var oppfylt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 17 Rettergang",
+            "paragraphs": [
+                {
+                    "name": "§ 17-1",
+                    "title": "Prosessordningen i innfordringssaker",
+                    "sections": [
+                        "(1) Staten er saksøker ved tvangsfullbyrdelse, midlertidig sikring, konkursbegjæring mv. i forbindelse med innkreving og sikring av skatte- og avgiftskrav etter denne loven. Statens partsstilling utøves av innkrevingsmyndigheten for kravet, jf. kapittel 2.",
+                        "(2) Ved overføring av tvist til søksmåls former med avgjørelse av grunnlaget for skatte- eller avgiftskravet etter tvangsfullbyrdelsesloven § 6-6 tredje ledd, gjelder de alminnelige reglene i ligningsloven § 11-1 for ligningsavgjørelser. For de øvrige skatte- og avgiftskrav gjelder reglene om utøvelsen av partsstillingen i saker om kravets grunnlag tilsvarende.",
+                        "(3) Departementet kan gi instruks om utøvelsen av statens partsstilling generelt og i enkeltsak. Departementet kan i enkeltsaker eller i grupper av saker overta utøvelsen av statens partsstilling eller overføre den til et annet organ i skatteetaten eller toll- og avgiftsetaten.",
+                        "(4) Når domstolen i sak om tvangsfullbyrdelse eller midlertidig sikring finner at skyldneren bare skal betale en del av det skatte- eller avgiftskravet som er fastsatt ved ligningsavgjørelse eller forvaltningsvedtak, skal forføyningen stadfestes for det beløpet som vil fremgå av en ny fastsetting i samsvar med kjennelsen eller dommen.",
+                        "(5) Etter utløpet av fristen i ligningsloven § 11-1 fjerde ledd kan ligningsavgjørelsen ikke bringes inn til prøving ved tingretten i sak om tvangsfullbyrdelse eller midlertidig sikring. Slik prøving skal likevel alltid kunne kreves inntil tre måneder etter den forføyning som det klages over. Det kan gis oppreisning mot oversittelse av fristen på de vilkår som følger av domstolloven § 153 og § 154 første ledd.",
+                        "(6) Endelig rettsavgjørelse og forlik er bindende for alle skattekreditorene."
+                    ]
+                },
+                {
+                    "name": "§ 17-2",
+                    "title": "Prosessordningen i andre saker",
+                    "sections": [
+                        "(1) Rettslig prøving av andre avgjørelser etter skattebetalingsloven rettes mot staten som saksøkt. Søksmålet anlegges for retten i det distriktet hvor det angrepne vedtaket er truffet i første instans. Statens partsstilling utøves av innkrevingsmyndigheten for kravet. Bestemmelsene i § 17-1 tredje og sjette ledd gjelder tilsvarende.",
+                        "(2) Første ledd gjelder ikke avgjørelser om rente ved endring, jf. § 11-2. I slike saker gjelder de alminnelige regler i ligningsloven § 11-1 og prosesslovgivningen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 18 Straff",
+            "paragraphs": [
+                {
+                    "name": "§ 18-1",
+                    "title": "Straff ved unnlatt gjennomføring av forskuddstrekk",
+                    "sections": [
+                        "(1) Den som er pliktig til å foreta forskuddstrekk etter kapittel 5, og som forsettlig eller grovt uaktsomt unnlater å foreta eller sørge for at det blir foretatt beregning og trekk, herunder separering etter § 5-12, straffes med bøter eller fengsel inntil seks måneder. For gjentakelse av forsettlig handling som nevnt i første punktum, er straffen bøter eller fengsel inntil ett år.",
+                        "(2) Straff kommer ikke til anvendelse på handling som nevnt i første ledd hvis de beløp som er eller skulle vært trukket, likevel blir innbetalt til rett tid.",
+                        "(3) Medvirkning straffes på samme måte."
+                    ]
+                },
+                {
+                    "name": "§ 18-2",
+                    "title": "Straff ved brudd på opplysningsplikten mv.",
+                    "sections": [
+                        "(1) Den som forsettlig eller grovt uaktsomt bevirker eller søker å bevirke at innkrevingen av skatte- og avgiftskrav blir hindret eller vesentlig vanskeliggjort, ved å unnlate å gi opplysninger eller ved å gi uriktige opplysninger til fastsettings- eller innkrevingsmyndighetene, straffes med bøter. I gjentakelsestilfelle er straffen bøter eller fengsel inntil seks måneder.",
+                        "(2) Den som på annen måte enn nevnt i § 18-1 eller denne paragrafs første ledd forsettlig eller grovt uaktsomt overtrer bestemmelser i denne loven eller forskrifter gitt med hjemmel i loven, straffes med bøter dersom forholdet ikke rammes av noen strengere straffebestemmelse. Medvirkning straffes på samme måte. Brudd på plikten til å betale skatte- og avgiftskrav ved forfall er likevel ikke straffbart."
+                    ]
+                },
+                {
+                    "name": "§ 18-3",
+                    "title": "Forfølgning av straffbart forhold",
+                    "sections": [
+                        "(1) Den korteste foreldelsesfrist for adgangen til å reise straffesak eller avsi straffedom etter denne loven er tre år.",
+                        "(2) Overtredelse av denne loven anses som forseelse uavhengig av straffens størrelse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 19 Ikrafttredelse, overgangsbestemmelser og endringer i andre lover",
+            "paragraphs": [
+                {
+                    "name": "§ 19-1",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "(1) Loven gjelder fra den tid Kongen bestemmer.",
+                        "(2) Fra samme tidspunkt oppheves lov 21. november 1952 nr. 2 om betaling og innkreving av skatt."
+                    ]
+                },
+                {
+                    "name": "§ 19-2",
+                    "title": "Overgangsbestemmelser",
+                    "sections": [
+                        "(1) Kongen kan bestemme at hele eller deler av kapittel 10 og 11 ikke skal gjelde for formues- og inntektsskatt, trygdeavgift og arbeidsgiveravgift, samt bestemme at tilsvarende regler i lov 21. november 1952 nr. 2 om betaling og innkreving av skatt og folketrygdloven som oppheves som følge av § 19-1 annet ledd og § 19-3 nr. 15, fortsatt skal gjelde."
+                    ]
+                },
+                {
+                    "name": "§ 19-3",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "1. Lov 21. juli 1894 nr. 5 om delvis Omordning af det civile Embedsværk § 5 oppheves.",
+                        "2. I lov 19. mai 1933 nr. 11 om særavgifter gjøres følgende endringer:",
+                        "§ 1 skal lyde:",
+                        "Når Stortinget med henvisning til denne loven vedtar særavgifter til statskassen som ikke omhandles i andre lover, fastsetter departementet nærmere bestemmelser om beregning og kontroll.",
+                        "§ 4 første ledd skal lyde:",
+                        "Ved urettmessig bruk av merket olje ilegges registrert eier av kjøretøyet en avgift som beregnes etter nærmere regler fastsatt av departementet. Ved gjentakelse kan departementet bestemme at det skal ilegges dobbel avgift. Når det av grunner knyttet til fastsettelsen vil virke særlig urimelig å fastholde hele kravet, kan departementet overfor en eller flere av dem som er ansvarlige for avgiften, nedsette eller frafalle kravet.",
+                        "§ 4 annet og tredje ledd og § 5 oppheves.",
+                        "Nåværende §§ 6 til 8 blir §§ 5 til 7.",
+                        "3. I lov 27. juni 1947 nr. 9 om tiltak for å fremme sysselsetting skal § 35 første ledd lyde:",
+                        "Dersom noen har mottatt stønad i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt. Feil utbetalt stønad kan også kreves tilbakebetalt dersom mottakeren eller noen som har handlet på dennes vegne, utaktsomt har gitt feilaktige, mangelfulle eller misvisende opplysninger. Det samme gjelder dersom utbetalingen skyldes feil fra Aetat eller annet organ som foretar utbetaling på Aetats vegne, og mottakeren burde ha forstått dette. Beløpet kan trekkes i framtidige ytelser eller inndrives etter bestemmelsene i bidragsinnkrevingsloven § 8. I de tilfelle som er nevnt i første punktum kan det beregnes renter med 0,5 prosent pr. måned fra utbetaling fant sted.",
+                        "4. I lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter gjøres følgende endringer:",
+                        "§ 1 første ledd skal lyde:",
+                        "For så vidt det til statskassen besluttes pålagt avgifter vedrørende motorkjøretøyer, tilhengere til motorkjøretøyer eller båter, kan Kongen i forskrift gi nærmere regler om beregning og kontroll.",
+                        "§ 5, § 5a og § 6 annet ledd oppheves.",
+                        "§ 7 fjerde ledd siste punktum oppheves.",
+                        "5. I lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver gjøres følgende endringer:",
+                        "§ 20 oppheves.",
+                        "§ 19A blir § 20.",
+                        "§ 20 tredje ledd første punktm blir § 21, flyttes til kapittel III og skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Foreløpig fastsettelse og utsettelse med avgiftsberegningen",
+                    "sections": [
+                        "Hvis en sak ikke er tilstrekkelig opplyst til at endelig avgiftsfastsettelse kan foretas innen den forfallstid som følger av skattebetalingsloven § 10-31, kan avgiftsmyndigheten enten foreta en foreløpig beregning eller utsette avgiftsfastsettelsen.",
+                        "§ 22 oppheves.",
+                        "Kapittel V. Avgiftsmyndigheten blir kapittel IV med samme overskrift.",
+                        "§ 23 første ledd skal lyde:",
+                        "Avgiftsmyndigheten påser at avgiftsplikten overholdes, fastsetter avgiftsgrunnlaget, beregner avgiften og håndhever ellers de regler som følger av denne lov.",
+                        "Kapittel VI. Meldings- og opplysningsplikt. Fastsettelse av avgift ved skjønn blir kapittel V med samme overskrift.",
+                        "Kapittel VII. Betaling av avgiften blir kapittel VI med overskrift Underretning om avgiftsfastsettelsen.",
+                        "§ 33 blir § 32 og skal lyde:",
+                        "Ved utbetaling eller utlevering av avgiftspliktige midler plikter tingretten å holde tilbake det nødvendige for å dekke vedkommende avgift for så vidt forfallstiden ikke er utsatt i henhold til skattebetalingsloven § 10-31 tredje ledd.",
+                        "Er forfallstidstiden utsatt eller erverves rådigheten over midlene først på et senere tidspunkt enn utlodningen, plikter retten etter anmodning fra skattefogden å holde tilbake avgiftspliktige midler som sikkerhet for avgiften.",
+                        "§ 33a oppheves.",
+                        "Kapittel VIII. Endring av avgiftsfastsettelsen blir kapittel VII med samme overskrift.",
+                        "Kapittel IX. Ansvarsbestemmelser blir kapittel VIII med samme overskrift.",
+                        "§ 43 første ledd skal lyde:",
+                        "Når noen unnlater å oppfylle sin melde- og opplysningsplikt etter kapittel V, kan avgiftsmyndigheten pålegge ham å oppfylle plikten under en mulkt på inntil kr 100 for hver dag en ny frist blir oversittet. Mulkten tilfaller statskassen.",
+                        "Kapittel X. Nedsettelse av avgiften m.v. blir kapittel IX med samme overskrift.",
+                        "§ 46 annet ledd skal lyde:",
+                        "Når det av særlige grunner knyttet til fastsettelsen vil virke særlig urimelig å fastholde hele kravet, kan departementet overfor en eller flere av dem som er ansvarlige for avgiften, nedsette eller frafalle kravet.",
+                        "§ 46 tredje ledd oppheves.",
+                        "Kapittel XI blir kapittel X.",
+                        "6. I lov 18. juni 1965 nr. 4 vegtrafikklov skal § 38 annet ledd lyde:",
+                        "Tilleggsavgift og gebyrer etter § 31 er tvangsgrunnlag for utlegg hos den skyldige og hos den som på tiden for overtredelsen var registrert som eier av kjøretøyet, med mindre dette da var fravendt denne ved en forbrytelse. Gebyr etter § 36 a er tvangsgrunnlag for utlegg hos den som på tiden for overlasting var eier eller registrert som eier av kjøretøyet. Ved kommunal håndheving etter § 8 første ledd og § 31 a annet ledd kan skatteoppkreveren for kommunen kreve inn tilleggsavgift og gebyrer etter de regler som gjelder for skatt, jf. skattebetalingsloven kapittel 13 og §§ 14-2 til 14-5. Når Statens innkrevingssentral er pålagt å innkreve tilleggsavgift og gebyrer som nevnt i paragrafen her, kan den inndrive avgiftene og gebyrene ved trekk i lønn eller andre lignende ytelser som nevnt i dekningsloven § 2-7.",
+                        "7. I lov 10. juni 1966 nr. 5 om toll (tolloven) gjøres følgende endringer:",
+                        "§ 9 skal lyde:",
+                        "Tollvesenet er avgiftsmyndighet og beregner og fastsetter toll i samsvar med tolltariffens innledende bestemmelser og tolltariffen for øvrig, slik den hvert år blir fastsatt av Stortinget.",
+                        "Tollvesenet skal videre føre kontroll med at gjeldende bestemmelser om vareførsel til og fra tollområdet blir overholdt og beregne og fastsette andre offentlige avgifter i den utstrekning tollvesenet måtte bli pålagt slik plikt.",
+                        "§ 9 tredje til sjette ledd oppheves.",
+                        "§ 30 annet ledd skal lyde:",
+                        "Vare som er tilbakeholdt eller innhentet etter første ledd, kan selges etter skattebetalingsloven § 14-10.",
+                        "§ 30 nytt tredje ledd skal lyde:",
+                        "Tollvesenets innhentings- og salgsrett etter paragrafen her kan bortfalle ved rettsvinning etter lov 2. juni 1978 nr. 37 om godtroerverv av løsøre.",
+                        "§ 35 skal lyde:",
+                        "Departementet kan i forskrift fastsette regler om prosedyrer for belasting av tollkreditten og dagsoppgjørsordningen for speditører, jf. skattebetalingsloven § 14-20. Det kan fastsettes gebyr for hver deklarasjon som belastes tollkreditten.",
+                        "Tollkreditten må ikke benyttes i strid med kredittvilkårene, herunder ved innførsel av varer til, eller utførsel av varer fra, andre enn den som er innvilget slik kreditt.",
+                        "§ 47 annet og tredje ledd skal lyde:",
+                        "Er varen ikke tatt ut innen utløpet av den fastsatte frist, eller er skyldig lagerleie ikke betalt ved forfall, kan varen selges etter reglene i skattebetalingsloven § 14-10.",
+                        "Tollvesenet kan på tilsvarende måte selge lite holdbare varer eller varer som holder på å bli ødelagt. Hvis det finnes nødvendig, kan varen i stedet tilintetgjøres. Ved salg etter denne paragraf gjelder § 33 annet ledd tilsvarende.",
+                        "§ 53 skal lyde:",
+                        "Tollvesenet kan fastsette hvor lenge en vare kan bli liggende på lagringsplass som nevnt i § 48. Er varen ikke tatt ut innen fristens utløp, kan tollvesenet selge varen etter reglene i skattebetalingsloven § 14-10.",
+                        "§ 58 skal lyde:",
+                        "Når det ved innførsel av en vare er beregnet for lite eller ikke er beregnet toll, kan tollvesenet treffe avgjørelse om endring i inntil tre år etter fortolling. Krav fastsatt i medhold av denne bestemmelse kan gjøres gjeldende overfor vareeier eller den som har opptrådt på hans vegne og som fremdeles har varen i sin besittelse.",
+                        "Er det ved uaktsomhet eller forsett hos vareeieren eller noen som representerer ham gitt uriktige eller mangelfulle opplysninger, eller er varen innført uten at fortolling har funnet sted, er fristen tre år fra det tidspunkt tollvesenet oppdaget feilen. Vedtaket om endring må i alle tilfelle treffes innen ti år etter innførselstidspunktet.",
+                        "§ 59 skal lyde:",
+                        "Når det ved innførsel av en vare er beregnet for meget toll, kan tollvesenet treffe avgjørelse om endring inntil tre år etter fortollingen.",
+                        "Det som er fastsatt i første ledd, skal likevel ikke være til hinder for at tollvesenet av rimelighetsgrunner treffer avgjørelse om endring også i andre tilfeller det er beregnet for meget toll på grunn av feil som skyldes tollvesenet.",
+                        "§ 72 annet ledd skal lyde:",
+                        "Ting som er tilbakeholdt med hjemmel i denne paragraf, kan selges til dekning av det beløp tilbakeholdelsen gjelder og påløpne omkostninger, dersom beløpet ikke er betalt eller sikret på annen måte innen 1 måned etter at fastsettelsen av kravet er blitt endelig. Salget kan skje etter reglene i skattebetalingsloven § 14-10.",
+                        "§ 74 annet ledd skal lyde:",
+                        "Ting som er utsatt for hurtig bedervelse og levende dyr kan straks utleveres eieren mot betaling av toll og offentlige avgifter samt deponering av et beløp som svarer til tingens verdi eller mot annen sikkerhet. Såfremt eieren ikke vil overta tingen eller han ikke kjennes, kan tingen selges etter reglene i skattebetalingsloven § 14-10.",
+                        "8. I lov 19. juni 1969 nr. 66 om merverdiavgift gjøres følgende endringer:",
+                        "§ 24 tredje ledd, § 27 annet ledd tredje punktum, §§ 34 til 38, § 59 og § 59a oppheves.",
+                        "§ 61 første ledd skal lyde:",
+                        "Når en domstol finner at den avgiftspliktige bare skal betale en del av et omtvistet avgiftsbeløp eller bare skal ha tilbake en del av et tilbakebetalingskrav, og det ikke foreligger tilstrekkelige opplysninger til å fastslå det riktige beløp, skal det i domsslutningen angis hvorledes ny fastsettelse blir å utføre.",
+                        "§§ 60 og 61a oppheves.",
+                        "§ 65 første punktum oppheves.",
+                        "§ 66 skal lyde:",
+                        "Departementet gir nærmere forskrift om beregning og kontroll.",
+                        "§ 69 skal lyde:",
+                        "Departementet kan sette ned eller ettergi avgift fastsatt etter kapittel XIII dersom det av særlige grunner knyttet til fastsettelsen virker særlig urimelig å fastholde hele avgiften. Det samme gjelder tilleggsavgift som er ilagt noen etter denne lov.",
+                        "§§ 71 og 75a oppheves.",
+                        "9. I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:",
+                        "§ 23 skal lyde:",
+                        "Føresegnene i ligningsloven § 11-1 nr. 4 og 5 og skattebetalingsloven § 17-1 fjerde og femte ledd gjeld på tilsvarande vis for søksmål og tvistar for tingretten i sak om tvangsfullføring og mellombels sikring om eigedomsskatt. Kommunen er part i saker om eigedomsskatt.",
+                        "§ 27 annet ledd og § 28 annet ledd oppheves.",
+                        "10. I lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v. gjøres følgende endringer:",
+                        "§ 7 nr. 2 annet og tredje ledd oppheves.",
+                        "§ 7 nr. 5 og nr. 7 oppheves.",
+                        "§ 7 nr. 6 blir nr. 5.",
+                        "§ 7 ny nr. 6 annet ledd skal lyde:",
+                        "Når ligningen foreligger blir utskrevet terminskatt å avregne i den utlignede skatt. I tilfeller som nevnt i petroleumsskatteloven § 7-4 avregnes innbetalt terminskatt i utlignet skatt. Skattebetalingsloven § 7-1 annet og tredje ledd og § 7-2 første ledd gjelder tilsvarende. Departementet kan i forskrift gi regler om gjennomføring og utfylling av denne bestemmelse.",
+                        "11. I lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) gjøres følgende endringer:",
+                        "§ 2-5 bokstav b skal lyde:",
+                        "b.skattefogder og skatteoppkrevere samt tjenestemenn ved deres kontorer, jf. skattebetalingsloven §§ 2-1 og 2-3.",
+                        "§ 6-14 nr. 2 skal lyde:",
+                        "Oppgaveplikten etter § 6-2 nr. 1 i påligger reder og fører (høvedsmann, notbas) for fiske- og fangstfartøy og plikten etter § 6-2 nr. 1 j formannen for arbeidslaget. Når det foreligger forhold som nevnt i skattebetalingsloven § 4-1 annet ledd, påhviler oppgaveplikten den som har plikt til å foreta forskuddstrekk. Oppgaveplikten etter § 6-3 nr. 4 påligger fondsstyret.",
+                        "§ 9-10 oppheves.",
+                        "§ 9-12 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 9-12",
+                    "title": "Skattelempning",
+                    "sections": [
+                        "1. Departementet kan sette ned eller ettergi utlignet skatt og trygdeavgift dersom det av særlige grunner knyttet til fastsettingen virker særlig urimelig å fastholde hele kravet.",
+                        "2. Avgjørelse som nevnt under 1 kan i alminnelighet først treffes når ligning er foretatt. I inntektsåret kan det av årsaker som nevnt under 1 gis utsettelse med innbetaling av utskrevet forskuddsskatt og det kan samtykkes i fritak for forskuddstrekk eller tilbakebetaling av trekk. Endelig avgjørelse om nedsettelse eller ettergivelse blir også i disse tilfellene å treffe etter at ligning er foretatt.",
+                        "§ 10-6 nr. 1 annet punktum oppheves.",
+                        "§ 11-1 Søksmål fra skattyter skal lyde:",
+                        "1. Rettslig prøving av ligningsavgjørelse etter krav fra skattyteren, rettes mot staten som saksøkt. Tilsvarende gjelder avgjørelser som nevnt i § 8-6 nr. 5 etter krav fra selskapet, avgjørelser som nevnt i §§ 10-6 og 10-8 etter krav fra den oppgavepliktige og avgjørelser som nevnt i § 10-7.",
+                        "2. Søksmålet anlegges for retten i det distriktet hvor det angrepne forvaltningsvedtaket er truffet i første instans etter § 8-6. Statens partsstilling utøves av fylkesskattekontoret i dette distriktet. I Oslo utøves partsstillingen av ligningskontoret. Søksmål om vedtak truffet av Sentralskattekontoret for utenlandssaker anlegges ved Stavanger tingrett. Søksmål om vedtak truffet av Sentralskattekontoret for storbedrifter anlegges ved Oslo tingrett. Statens partsstilling utøves i disse tilfeller av vedkommende sentralskattekontor.",
+                        "3. Endelig rettsavgjørelse og forlik er bindende for alle skattekreditorer. Departementet kan gi instruks om utøvelsen av statens partsstilling generelt og i enkeltsaker. Departementet kan i enkeltsaker eller i grupper av saker overta utøvelsen eller overføre den til annen skattemyndighet.",
+                        "4. Søksmål fra en skattepliktig til prøving av en ligningsavgjørelse må reises innen 6 måneder regnet fra utleggingen av skattelisten er kunngjort eller fra melding om vedtak i endringssak ble sendt skattyteren. Når den skattepliktige har levert forhåndsutfylt selvangivelse og får tilsendt skatteoppgjør i juni, er søksmålsfristen 6 måneder fra det ferdige skatteoppgjøret ble kunngjort eller vedtak i endringssak ble sendt skattyteren. Det kan gis oppreisning mot oversittelsen av fristen på de vilkår som er fastsatt i domstolloven § 153 og § 154 første ledd. Etter utløpet av denne fristen gjelder likevel fristen i skattebetalingsloven § 12-1 nr. 5 i sak om tvangsfullbyrdelse eller midlertidig sikring.",
+                        "5. Når domstolen finner at den skattepliktige bare skal betale en del av den ilignede skatten, og det ikke foreligger tilstrekkelige opplysninger til å fastslå det riktige skattebeløpet, skal den i domsslutningen angi hvordan ny ligning blir å utføre. Finner domstolen at en ligningsavgjørelse ikke kan opprettholdes på grunn av formelle mangler, henvises avgjørelsen til ny behandling av vedkommende ligningsmyndighet.",
+                        "12. I lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett (dekningsloven) § 9-4 annet ledd skal lyde:",
+                        "Fordringenes ordinære forfallstid må likevel ikke ligge lenger tilbake enn seks måneder før fristdagen. Fordring på refusjon etter skatteloven § 16-50 regnes i denne sammenheng som forfalt ved utligningen av den skatt som gir grunnlag for kravet. For forskuddsskatt for personlige skattytere, jf. skattebetalingsloven kapitlene 5 og 6, er fristen to år. For forskuddsskatt for upersonlige skattytere, jf. skattebetalingsloven kapittel 6, er fristen ett år. Fortrinnsretten omfatter ikke skatt som er eller kunne vært fastsatt ved etterlikning.",
+                        "13. I lov 29. november 1996 nr. 68 om skatt til Svalbard gjøres følgende endringer:",
+                        "§ 5-1 skal lyde:",
+                        "Skattebetalingsloven kapitlene 4, 6 og 7 om forskudd på skatt og avregning får tilsvarende anvendelse for skattytere som skattlegges etter § 3-1.",
+                        "De funksjoner som etter skattebetalingsloven tilligger fylkesskattekontoret eller ligningskontoret skal tilligge ligningskontoret for Svalbard. De funksjoner som tilligger skatteoppkreveren for kommunen skal tilligge skatteoppkreveren for Svalbard.",
+                        "§ 5-2 tredje ledd skal lyde:",
+                        "Skattebetalingsloven § 5-12 gjelder tilsvarende.",
+                        "§ 5-2 fjerde ledd skal lyde:",
+                        "Arbeidsgiveren skal levere terminvis oppgave over foretatt lønnstrekk til skatteoppkreveren for Svalbard senest en måned etter utløpet av terminen. Hver termin omfatter seks kalendermåneder og starter henholdsvis 1. januar og 1. juli.",
+                        "§ 5-2 sjette ledd oppheves.",
+                        "§ 5-2 syvende ledd blir sjette ledd.",
+                        "§ 5-3 oppheves.",
+                        "§ 5-4 blir § 5-3 og skal lyde:",
+                        "Departementet kan nedsette eller frafalle skatt etter reglene i ligningsloven § 9-12 som gjelder tilsvarende.",
+                        "Ved rettslig prøving av avgjørelser etter denne lov gjelder ligningsloven § 11-1 tilsvarende.",
+                        "14. I lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister m.v. gjøres følgende endringer:",
+                        "§ 9 oppheves.",
+                        "§ 10 blir § 9 og skal lyde:",
+                        "Skatten og eventuelle renter har samme fortrinnsrett ved insolvensbehandling av boer som formues- og inntektsskatt til staten etter skatteloven.",
+                        "§ 11 blir § 10.",
+                        "Ny § 11 skal lyde:",
+                        "(1) På bakgrunn av meldepliktiges opplysninger mv. utsteder Sentralskattekontoret for utenlandssaker en oppgjørsblankett for den som er trekkpliktig etter § 7. Den trekkpliktige skal gi opplysninger om samtlige skattepliktige ytelser som er utbetalt til artisten i forbindelse med arrangementet, og eventuelle fradragsberettigede utgifter, samt beregne skattetrekkets størrelse.",
+                        "(2) Fullstendig utfylt oppgjørsblankett sendes Rogaland skattefutkontor senest syv dager etter at trekk er foretatt. Artisten skal ha gjenpart av oppgjørsblanketten som kvittering for foretatt trekk.",
+                        "(3) Oppgjørsblanketten erstatter lønnsoppgave etter ligningsloven § 6-2, men har for øvrig samme virkning.",
+                        "15. I lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) gjøres følgende endringer:",
+                        "§ 24-3 første ledd skal lyde:",
+                        "Arbeidsgiver skal av eget tiltak beregne arbeidsgiveravgiften etter § 23-2. Oppgave over beregnet avgift leveres sammen med og til samme tid som oppgave over foretatt forskuddstrekk etter skattebetalingsloven § 5-11 første ledd. Oppgaven skal leveres til skatteoppkreveren for den kommune arbeidsgiveren er bosatt eller har sitt hovedkontor.",
+                        "§ 24-3 fjerde ledd oppheves.",
+                        "§ 24-3 femte ledd blir fjerde ledd.",
+                        "§ 24-3 sjette ledd oppheves.",
+                        "§ 24-4 fjerde ledd skal lyde:",
+                        "Ved rettslig prøving av avgjørelser etter annet og tredje ledd gjelder ligningsloven § 11-1 tilsvarende.",
+                        "§ 24-4 sjette ledd skal lyde:",
+                        "Departementet kan sette ned eller ettergi arbeidsgiveravgift dersom det av særlige grunner knyttet til fastsettelsen virker særlig urimelig å fastholde hele kravet.",
+                        "16. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
+                        "§ 1-3 bokstav c skal lyde:",
+                        "c.nedsette eller frafalle lovlig utlignet skatt, uten særlig hjemmel i denne lov.",
+                        "§ 5-11 tredje ledd skal lyde:",
+                        "(3) Departementet kan gi forskrift til utfylling av første ledd og om i hvilken utstrekning reglene for forskuddstrekk i utgiftsgodtgjørelser skal gis tilsvarende anvendelse ved ligningen, jf. skattebetalingsloven § 5-8 tredje ledd.",
+                        "§ 5-12 tredje ledd skal lyde:",
+                        "(3) Ved helt eller delvis fri kost og losji settes fordelen til den verdien som er fastsatt for beregning av forskuddstrekk etter skattebetalingsloven § 5-8 annet ledd.",
+                        "§ 6-40 femte ledd skal lyde:",
+                        "(5) Det gis ikke fradrag for",
+                        "a.renter som sparebank og gjensidige forsikringsselskap, kreditt- og hypotekforening og selveiende finansieringsforetak har utbetalt på grunnfondsbevis, jf. lov om sparebanker § 2 annet ledd, lov om forsikringsvirksomhet § 4-2 annet ledd og lov om finansieringsvirksomhet og finansinstitusjoner,",
+                        "b.rentetillegg som omfattes av skattebetalingsloven § 11-5 ved for lite innbetalt skatt,",
+                        "c.renter som omfattes av skattebetalingsloven § 11-2.",
+                        "§ 15-3 første ledd skal lyde:",
+                        "(1) Kommunestyrer og fylkesting skal i forbindelse med budsjettet vedta satser for inntektsskatt til kommune og fylkeskommune. Disse satsene skal gjelde ved utskriving av forskuddstrekk og forskuddsskatt for personlige skattytere for det kommende inntektsåret for skattytere som plikter å betale forskudd på skatt etter skattebetalingsloven kapitlene 4 til 6. Vedtak må gjøres senest 1. november i året før inntektsåret. Departementet kan i forskrift forlenge denne fristen og gi nærmere regler om gjennomføringen av fristforlengelsen.",
+                        "§ 15-5 fjerde ledd skal lyde:",
+                        "(4) Ved beregningen av skatter får reglene om personfradrag tilsvarende anvendelse for fradrag etter denne paragraf, jf. likevel skattebetalingsloven § 8-2 tredje ledd."
+                    ]
+                }
+            ]
+        }
+    ]
+}

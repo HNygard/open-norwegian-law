@@ -1,0 +1,73 @@
+{
+    "lawId": "LOV-2015-12-04-95",
+    "lawName": "Lov om fastsettelse av referanserenter",
+    "shortName": "Referanserenteloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål og virkeområde",
+                    "sections": [
+                        "(1) Formålet med loven er å bidra til at allment brukte referanserenter fastsettes på en forsvarlig og pålitelig måte, slik at det legges til rette for velfungerende markeder og finansiell stabilitet.",
+                        "(2) Loven gjelder for virksomhet i Norge, med mindre noe annet er bestemt. Loven gjelder ikke for Norges Banks virksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "(1) Med allment brukte referanserenter menes enhver rente som",
+                        "a)fastsettes jevnlig på grunnlag av markedspriser eller anslag på priser fremskaffet av finansforetak,",
+                        "b)gjøres offentlig tilgjengelig, og",
+                        "c)brukes for å bestemme betalinger i eller verdien av finansielle instrumenter eller finansielle avtaler.",
+                        "(2) Med administrator av fastsettelse av allment brukte referanserenter menes den som forestår fastsettelse av en allment brukt referanserente."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Tillatelse til å fastsette allment brukte referanserenter",
+                    "sections": [
+                        "Fastsettelse av allment brukte referanserenter skal organiseres forsvarlig. Administratoren og organiseringen av fastsettelse av allment brukte referanserenter skal godkjennes av departementet."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Forskriftshjemler",
+                    "sections": [
+                        "Departementet kan i forskrift fastsette unntak fra loven og nærmere regler om virksomhet som er regulert i loven, herunder om:",
+                        "a)hvilke renter som skal anses som allment brukte referanserenter etter § 2 første ledd,",
+                        "b)krav til organisering og interne rutiner for styring, overvåking, kontroll, dokumentasjon og klageprosess hos administratoren,",
+                        "c)krav til administratorens innhenting og bruk av grunnlagsdata og beregning, fastsettelse og offentliggjøring av referanserenter,",
+                        "d)krav til organisering og interne rutiner for styring, overvåking, kontroll og dokumentasjon av bidrag til fastsettelse av referanserenter fra foretak under tilsyn fra Finanstilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Tilsyn og reaksjoner",
+                    "sections": [
+                        "(1) Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter reglene i finanstilsynsloven.",
+                        "(2) Finner Finanstilsynet at fastsettelsen ikke organiseres eller innrettes i samsvar med godkjennelse eller bestemmelser fastsatt i eller i medhold av lov, kan Finanstilsynet gi pålegg som er nødvendige for å rette på forholdet.",
+                        "(3) Finanstilsynet kan ilegge den som ikke etterkommer pålegg etter annet ledd, tvangsmulkt til staten. Tvangsmulkten kan ilegges i form av engangsmulkt eller løpende mulkt. Departementet kan i forskrift gi nærmere regler om fastsettelsen av tvangsmulkt, herunder mulktens størrelse."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Straff",
+                    "sections": [
+                        "Den som forsettlig eller uaktsomt overtrer denne lov eller bestemmelse eller pålegg gitt med hjemmel i loven, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel i inntil 1 år, dersom forholdet ikke går inn under noen strengere straffebestemmelse."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "(1) Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.",
+                        "(2) Departementet kan fastsette overgangsregler."
+                    ]
+                }
+            ]
+        }
+    ]
+}

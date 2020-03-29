@@ -1,0 +1,294 @@
+{
+    "lawId": "LOV-2006-04-21-10",
+    "lawName": "Lov om endringer i folketrygdloven og enkelte andre lover (endringer i regelverket for ytelser ved svangerskap, fødsel og adopsjon)",
+    "shortName": "Endringslov til folketrygdloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 14 Ytelser ved svangerskap, fødsel og adopsjon",
+            "paragraphs": [
+                {
+                    "name": "§ 14-1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med ytelser etter dette kapitlet er å sikre inntekt for foreldre i forbindelse med svangerskap, fødsel og adopsjon."
+                    ]
+                },
+                {
+                    "name": "§ 14-2",
+                    "title": "Medlemskap",
+                    "sections": [
+                        "Det er et vilkår for rett til ytelser etter dette kapitlet at vedkommende er medlem i trygden."
+                    ]
+                },
+                {
+                    "name": "§ 14-3",
+                    "title": "Arbeidsgiverens plikt til å utbetale ytelser i utlandet",
+                    "sections": [
+                        "Når et medlem som arbeider i utlandet, har rett til en ytelse etter dette kapitlet, utbetaler arbeidsgiveren ytelsen og får refusjon fra trygden."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "I. Svangerskapspenger",
+            "paragraphs": [
+                {
+                    "name": "§ 14-4",
+                    "title": "Svangerskapspenger",
+                    "sections": [
+                        "En arbeidstaker har rett til svangerskapspenger dersom hun etter bestemmelser i lov eller forskrift blir pålagt å slutte i sitt arbeid fordi hun er gravid, og det ikke er mulig å omplassere henne til annet høvelig arbeid i bedriften.",
+                        "En gravid selvstendig næringsdrivende har rett til svangerskapspenger dersom hun i sitt virke er utsatt for slike risikofaktorer som gir en gravid arbeidstaker rett til svangerskapspenger. Det er en forutsetning at risikofaktorene er dokumentert og at hun ikke har mulighet til å tilrettelegge sitt virke. Tilsvarende rett til svangerskapspenger gjelder for frilansere.",
+                        "Fraværet under svangerskapet må medføre tap av pensjonsgivende inntekt. Vilkårene om opptjeningstid etter § 8-2 må være oppfylt før hun må slutte i arbeidet. Inntektsgrunnlaget for svangerskapspenger må på årsbasis utgjøre minst halvparten av grunnbeløpet, se femte ledd.",
+                        "Svangerskapspenger ytes fra det tidspunktet medlemmet må slutte i arbeidet, og fram til tre uker før fødselen. Fra sistnevnte tidspunktet ytes det foreldrepenger etter bestemmelsene i §§ 14-5 til 14-16.",
+                        "Svangerskapspengene beregnes etter de samme bestemmelsene som sykepenger fra trygden, se kapittel 8. Det ytes ikke svangerskapspenger for den del av inntekten som overstiger seks ganger grunnbeløpet.",
+                        "Trygden yter feriepenger til arbeidstaker med 10,2 pst. av utbetalte svangerskapspenger. Feriepenger ytes for de første 64 stønadsdagene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II. Foreldrepenger",
+            "paragraphs": [
+                {
+                    "name": "§ 14-5",
+                    "title": "Generelle bestemmelser",
+                    "sections": [
+                        "Foreldrepenger kan ytes til barnets mor og far ved fødsel og ved adopsjon av barn under 15 år.",
+                        "Det kan ytes foreldrepenger som ved adopsjon til person som har foreldreansvar når den andre av foreldrene dør, eller får tildelt foreldreansvaret i medhold av barneloven §§ 38 og 63, såfremt vedkommende har hatt mindre samvær enn tilsvarende barneloven § 43 andre ledd.",
+                        "Adopsjon av ektefellens barn gir ikke rett til foreldrepenger."
+                    ]
+                },
+                {
+                    "name": "§ 14-6",
+                    "title": "Opptjening av rett til foreldrepenger",
+                    "sections": [
+                        "Rett til foreldrepenger opptjenes gjennom yrkesaktivitet. Både moren og faren kan opptjene rett til foreldrepenger ved å være yrkesaktiv med pensjonsgivende inntekt (§ 3-15) i minst seks av de siste ti månedene før vedkommendes uttak av foreldrepenger tar til, se §§ 14-10 første og annet ledd og 14-14 annet ledd.",
+                        "Den pensjonsgivende inntekten må på årsbasis svare til minst halvparten av grunnbeløpet.",
+                        "Likestilt med yrkesaktivitet er tidsrom da det er gitt en ytelse til livsopphold i form av dagpenger under arbeidsløshet etter kapittel 4, sykepenger etter kapittel 8 eller stønad ved barns sykdom m.m. etter kapittel 9, eller enten foreldrepenger eller svangerskapspenger etter kapitlet her.",
+                        "Likestilt med yrkesaktivitet er også tidsrom med",
+                        "a)lønn fra arbeidsgiver under permisjon i forbindelse med videre- og etterutdanning,",
+                        "b)ventelønn etter lov av 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6,",
+                        "c)vartpenger etter lov av 28. juli 1949 nr. 26 om Statens Pensjonskasse § 24 tredje ledd,",
+                        "d)etterlønn fra arbeidsgiver,",
+                        "e)avtjening av militær- eller siviltjeneste eller obligatorisk sivilforsvarstjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 14-7",
+                    "title": "Beregning av foreldrepenger",
+                    "sections": [
+                        "Foreldrepenger til hver av foreldrene beregnes på grunnlag av vedkommendes inntekt etter de samme reglene som for sykepenger fra trygden, se kapittel 8. Det ytes ikke foreldrepenger for den del av inntekten som overstiger seks ganger grunnbeløpet.",
+                        "For en kvinne som mottar dagpenger under arbeidsløshet eller sykepenger etter § 8-49, kan beregningsgrunnlaget pr. uke fastsettes ut fra inntekten i de beste seks månedene av de siste ti månedene før hennes uttak tar til, se § 14-10 første og annet ledd.",
+                        "Til et medlem som avtjener militær- eller siviltjeneste eller obligatorisk sivilforsvarstjeneste i opptjeningstiden etter § 14-6, skal beregningsgrunnlaget minst svare til en årsinntekt på tre ganger grunnbeløpet, dersom tjenesten har vart eller var ment å vare mer enn 28 dager.",
+                        "Foreldrepenger ytes for alle dagene i uken unntatt lørdag og søndag."
+                    ]
+                },
+                {
+                    "name": "§ 14-8",
+                    "title": "Feriepenger av foreldrepenger",
+                    "sections": [
+                        "Trygden yter feriepenger til arbeidstakere med 10,2 pst. av utbetalte foreldrepenger for de første 12 ukene av hver stønadsperiode. Dersom foreldrepenger er utbetalt med redusert sats, jf. § 14-9 tredje ledd, ytes det feriepenger for de første 15 ukene."
+                    ]
+                },
+                {
+                    "name": "§ 14-9",
+                    "title": "Stønadsperioden for foreldrepenger",
+                    "sections": [
+                        "Ved fødsel er stønadsperioden 215 stønadsdager (43 uker) med full sats eller 265 stønadsdager (53 uker) med redusert sats. Stønadsperioden etter fødselen er 200 stønadsdager (40 uker) med full sats eller 250 stønadsdager (50 uker) med redusert sats.",
+                        "Ved adopsjon er stønadsperioden 200 stønadsdager (40 uker) med full sats eller 250 stønadsdager (50 uker) med redusert sats.",
+                        "Full sats betyr at foreldrepenger utbetales med 100 pst. av beregningsgrunnlaget. Redusert sats betyr at foreldrepenger utbetales med 80 pst. av beregningsgrunnlaget. Stønadsmottaker velger sats ved stønadsperiodens begynnelse, og valget gjelder for hele stønadsperioden. Dersom begge foreldrene mottar foreldrepenger, må de velge samme sats.",
+                        "Ved flerbarnsfødsler eller hvis flere barn blir adoptert samtidig, blir stønadsperioden utvidet med 25 stønadsdager (5 uker) for hvert barn mer enn ett dersom full sats er valgt. Dersom redusert sats er valgt, blir utvidelsen 35 stønadsdager (7 uker). Bestemmelsene i § 14-10 første og sjette ledd gjelder tilsvarende.",
+                        "Stønadsperioden kan deles mellom foreldrene når begge fyller vilkårene for rett til foreldrepenger etter § 14-6. Unntatt fra deling er de siste 15 stønadsdagene (3 ukene) før og de første 30 stønadsdagene (6 ukene) etter fødselen, som er den delen av stønadsperioden som er forbeholdt moren ved fødsel. Unntatt fra deling er også 5 uker som er forbeholdt faren (fedrekvoten), se § 14-12.",
+                        "Dersom barnet dør i stønadsperioden, kan det tas ut foreldrepenger i opptil 30 stønadsdager (6 uker) av den gjenværende del av stønadsperioden."
+                    ]
+                },
+                {
+                    "name": "§ 14-10",
+                    "title": "Generelle bestemmelser om uttak av foreldrepenger",
+                    "sections": [
+                        "Ved fødsel kan foreldrepenger tidligst tas ut fra 60 stønadsdager (12 uker) før fødselen. Moren kan senest påbegynne uttaket 15 stønadsdager (3 uker) før fødselen. Dette gjelder uavhengig av om det er valgt full sats eller redusert sats, se § 14-9 tredje ledd. Faren kan ikke ta ut foreldrepenger i de første 30 stønadsdagene (6 ukene) etter fødselen. Dette gjelder likevel ikke utvidelsen ved flerbarnsfødsler, se § 14-9 fjerde ledd.",
+                        "Ved adopsjon kan uttak av foreldrepenger tidligst påbegynnes når foreldrene overtar omsorgen for barnet.",
+                        "Foreldrepengene må tas ut innen tre år etter fødselen eller omsorgsovertakelsen.",
+                        "Det er et vilkår for uttak av foreldrepenger at mottakeren har omsorgen for barnet. For moren gjelder likevel ikke dette vilkåret i de første 30 stønadsdagene (6 ukene) etter fødselen.",
+                        "Det er videre et vilkår for uttak av foreldrepenger at mottakeren ikke er i arbeid, se likevel § 14-16.",
+                        "Foreldrenes samtidige uttak av foreldrepenger kan ikke overstige 100 pst. av valgt sats, se § 14-9 tredje ledd. Dette gjelder likevel ikke utvidelsen ved flerbarnsfødsler eller ved adopsjon av flere barn samtidig, se § 14-9 fjerde ledd eller ved uttak av fedrekvote, se § 14-12 annet ledd.",
+                        "Foreldrepenger må tas ut sammenhengende fra det tidspunkt uttaket starter, se likevel § 14-11."
+                    ]
+                },
+                {
+                    "name": "§ 14-11",
+                    "title": "Utsettelse av uttak av foreldrepenger",
+                    "sections": [
+                        "Uttak av foreldrepenger kan utsettes",
+                        "a)når den som mottar foreldrepenger har lovbestemt ferie,",
+                        "b)når den som mottar foreldrepenger er i inntektsgivende arbeid på heltid,",
+                        "c)dersom stønadsmottakeren på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet eller er innlagt i helseinstitusjon,",
+                        "d)dersom barnet er innlagt i helseinstitusjon.",
+                        "Ved forhold som nevnt i bokstav b, må det foreligge skriftlig avtale med arbeidsgiver. For selvstendig næringsdrivende og frilansere må det foreligge skriftlig avtale med trygdekontoret. Stønadsperioden må tas ut sammenhengende i minst 30 stønadsdager (6 uker) før uttak kan utsettes.",
+                        "Forhold som nevnt i bokstav c må dokumenteres med legeerklæring."
+                    ]
+                },
+                {
+                    "name": "§ 14-12",
+                    "title": "Uttak av fedrekvote",
+                    "sections": [
+                        "Dersom morens yrkesaktivitet i opptjeningstiden har svart til minst halv stilling og faren fyller vilkårene for rett til foreldrepenger, er 25 stønadsdager (5 uker) av stønadsperioden forbeholdt faren (fedrekvote).",
+                        "Faren kan ta ut fedrekvoten uten hensyn til om vilkårene i § 14-13 første ledd er oppfylt. Fedrekvoten kan også tas ut samtidig med at moren tar ut graderte foreldrepenger på opptil 50 pst. av valgt sats, se § 14-16.",
+                        "Det kan gjøres unntak fra bestemmelsene i første ledd dersom faren på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet eller er innlagt i helseinstitusjon. Forhold som nevnt i første punktum må dokumenteres med legeerklæring."
+                    ]
+                },
+                {
+                    "name": "§ 14-13",
+                    "title": "Generelle vilkår for farens uttak av foreldrepenger",
+                    "sections": [
+                        "Faren kan ta ut foreldrepenger bare dersom moren etter fødselen eller omsorgsovertakelsen",
+                        "a)går ut i arbeid,",
+                        "b)tar offentlig godkjent utdanning på heltid,",
+                        "c)tar offentlig godkjent utdanning i kombinasjon med arbeid som i sum gir heltid,",
+                        "d)på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet,",
+                        "e)er innlagt i helseinstitusjon.",
+                        "Dersom moren arbeider deltid etter fødselen eller omsorgsovertakelsen, blir farens foreldrepenger redusert tilsvarende reduksjonen i morens arbeidstid. Utgjør morens stillingsdel minst 75 pst. av full arbeidstid, får likevel faren foreldrepenger beregnet i samsvar med sin egen stillingsdel.",
+                        "Dersom moren mottar graderte foreldrepenger, se § 14-16, kan farens uttak av foreldrepenger etter bokstav a ikke utgjøre en større del av full ytelse enn tilsvarende morens stillingsdel.",
+                        "Farens rett etter første ledd bokstavene d og e gjelder også i de første 30 stønadsdagene (6 ukene) etter fødselen.",
+                        "Forhold som nevnt i bokstavene d og e må dokumenteres med legeerklæring.",
+                        "Fedrekvoten, se § 14-12, og utvidelsen ved flerbarnsfødsler eller ved adopsjon av flere barn samtidig, se § 14-9 fjerde ledd, kan tas ut uten hinder av vilkårene i denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 14-14",
+                    "title": "Særlige regler der bare faren har opptjent rett til foreldrepenger",
+                    "sections": [
+                        "Hvis bare faren har opptjent rett til foreldrepenger, er stønadsperioden opptil 145 stønadsdager (29 uker) med full sats eller opptil 195 stønadsdager (39 uker) med redusert sats. Det er en forutsetning at vilkårene i § 14-13 er oppfylt under perioden og innenfor 200 stønadsdager (40 uker) eller 250 stønadsdager (50 uker) etter fødselen eller omsorgsovertakelsen, se § 14-9 første og annet ledd. Farens stønadsperiode reduseres løpende når vilkårene i § 14-13 ikke er oppfylt.",
+                        "Faren kan bare ta ut foreldrepenger når vilkårene i § 14-13 er oppfylt."
+                    ]
+                },
+                {
+                    "name": "§ 14-15",
+                    "title": "Uttak når moren eller faren er alene om omsorgen for barnet",
+                    "sections": [
+                        "Hvis en av foreldrene er alene om omsorgen, har han eller hun rett til å ta ut foreldrepenger den gjenværende delen av stønadsperioden."
+                    ]
+                },
+                {
+                    "name": "§ 14-16",
+                    "title": "Gradert uttak av foreldrepenger",
+                    "sections": [
+                        "Ved delvis arbeid ytes det graderte foreldrepenger. Uttaket skal tilsvare differansen mellom 100 prosent stilling og mottakers stillingsdel, se likevel § 14-13.",
+                        "Unntatt fra gradert uttak er den delen av stønadsperioden som er forbeholdt moren, se § 14-9 femte ledd annet punktum.",
+                        "Foreldrene kan ta ut graderte foreldrepenger samtidig i samsvar med bestemmelsene i § 14-10 sjette ledd og § 14-13 tredje ledd.",
+                        "Dersom uttaket er mindre enn 100 pst. av valgt sats, se § 14-9 tredje ledd, forlenges uttaket tilsvarende.",
+                        "Det er et vilkår for gradert uttak at det foreligger en skriftlig avtale med arbeidsgiver om delvis arbeid. Hver av foreldrene kan bare ta gradert uttak ut fra avtale med én arbeidsgiver av gangen. For selvstendig næringsdrivende og frilansere er det et vilkår for gradert uttak at det foreligger en skriftlig utbetalingsavtale med trygdekontoret."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III. Engangsstønad ved fødsel og adopsjon",
+            "paragraphs": [
+                {
+                    "name": "§ 14-17",
+                    "title": "Engangsstønad",
+                    "sections": [
+                        "Til en kvinne som føder barn eller adopterer barn under 15 år, men ikke har rett til foreldrepenger, ytes det engangsstønad for hvert barn. Til mann som adopterer alene, ytes det engangsstønad for hvert barn dersom han ikke har rett til foreldrepenger. Adopsjon av ektefellens barn gir ikke rett til engangsstønad.",
+                        "Engangsstønad kan ytes også til person som har foreldreansvar når den andre av foreldrene dør, eller får tildelt foreldreansvaret i medhold av barneloven §§ 38 og 63, såfremt vedkommende har hatt mindre samvær enn tilsvarende barneloven § 43 andre ledd.",
+                        "Dersom moren dør i forbindelse med fødselen eller omsorgsovertakelsen, har faren rett til engangsstønad. Det er et vilkår at han har omsorgen for barnet og at stønaden ikke allerede er utbetalt til moren.",
+                        "Faren har rett til engangsstønad også dersom han i stønadsperioden har overtatt omsorgen for barnet med sikte på å overta foreldreansvaret alene etter barneloven kapittel 5. Retten gjelder selv om moren har fått utbetalt engangsstønad.",
+                        "Dersom det ytes foreldrepenger til mor eller til far som adopterer alene, utbetales engangsstønaden i den utstrekning stønaden overstiger utbetalte foreldrepenger.",
+                        "Engangsstønaden reduseres med sykepenger som er utbetalt etter fødselen eller omsorgsovertakelsen.",
+                        "Stortinget fastsetter engangsstønadens størrelse."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV. Forskrifter",
+            "paragraphs": [
+                {
+                    "name": "§ 14-18",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet gir forskrifter til utfylling og gjennomføring av bestemmelsene i dette kapitlet.",
+                        "§ 15-9 tredje ledd skal lyde:",
+                        "Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9, rehabiliteringspenger etter kapittel 10, attføringspenger etter kapittel 11, tidsbegrenset uførestønad etter kapittel 12, og svangerskapspenger og foreldrepenger etter kapittel 14.",
+                        "§ 16-8 tredje ledd skal lyde:",
+                        "Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9, rehabiliteringspenger etter kapittel 10, attføringspenger etter kapittel 11, tidsbegrenset uførestønad etter kapittel 12, og svangerskapspenger og foreldrepenger etter kapittel 14.",
+                        "§ 17-8 fjerde ledd skal lyde:",
+                        "Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9, rehabiliteringspenger etter kapittel 10, attføringspenger etter kapittel 11, tidsbegrenset uførestønad etter kapittel 12, og svangerskapspenger og foreldrepenger etter kapittel 14.",
+                        "§ 22-10 annet ledd bokstav g skal lyde:",
+                        "svangerskapspenger (kapittel 14)",
+                        "§ 22-10 annet ledd bokstav h skal lyde:",
+                        "foreldrepenger (kapittel 14)",
+                        "I lov 3. desember 1948 nr. 7 om pensjonstrygd for sjømenn skal § 1 nr. 3 bokstav b lyde:",
+                        "sykepenger etter folketrygdloven kapittel 8 for sykdom inntruffet i tid der arbeidstakeren er omfattet av trygden etter bestemmelsene i denne paragrafen, jf § 2. Det samme gjelder omsorgspenger, pleiepenger, opplæringspenger, svangerskapspenger og foreldrepenger etter folketrygdloven kapitlene 9 og 14 i inntil 52 uker når tilfellet oppstår i tid der arbeidstakeren er omfattet av trygden.",
+                        "I lov 3. desember 1951 nr. 2 om pensjonstrygd for skogsarbeidere skal § 6 annet ledd lyde:",
+                        "Ellers kan vedkommende opparbeide ytterligere rettigheter under sykdom så lenge vilkårene for rett til sykepenger etter folketrygdloven kapittel 8 er til stede og premie betales av den trygdede som bestemt i § 27 bokstav a til terminer som fastsettes av Rikstrygdeverket. Det samme gjelder ved attføringspenger etter folketrygdloven § 11-15 første ledd, foreldrepenger etter folketrygdloven kapittel 14, stønad etter krigspensjoneringslovene som svarer til sykepenger og når vedkommende har fritt opphold i helseinstitusjon i henhold til folketrygdloven eller lovene om krigspensjonering eller dersom oppholdet betales av det offentlige.",
+                        "I lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere skal § 28 første ledd lyde:",
+                        "Innskott betales for den tid sykepleieren oppebærer lønn for stillingen eller mottar sykepenger, svangerskapspenger eller foreldrepenger etter lov om folketrygd.",
+                        "I lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) skal § 6-2 bokstav b lyde:",
+                        "pensjon, introduksjonsstønad etter introduksjonsloven, føderåd i jord- og skogbruk, livrente som ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, underholdsbidrag, foreldrepenger, dagpenger under arbeidsløshet, sykepenger o.l. ytelser som skal regnes som skattepliktig inntekt for mottakeren,",
+                        "I lov 29. april 1988 nr. 21 om ferie gjøres følgende endringer:",
+                        "§ 10 nr. 4 annet ledd bokstav b skal lyde:",
+                        "svangerskapspenger for arbeidstakere for inntil 64 dager av stønadsperioden jf. folketrygdloven § 14-4.",
+                        "§ 10 nr. 4 annet ledd bokstav c skal lyde:",
+                        "foreldrepenger til arbeidstakere for inntil 12 uker med full sats eller for inntil 15 uker med 80 prosent av full sats jf. folketrygdloven § 14-8.",
+                        "I lov 26. juni 1998 nr. 41 om kontantstøtte til småbarnsforeldre (kontantstøtteloven) skal § 10 første og annet ledd lyde:",
+                        "Kontantstøtte for adopterte barn utbetales fra og med kalendermåneden etter at stønadsperioden for fulle foreldrepenger etter folketrygdloven § 14-9 annet ledd er utløpt.",
+                        "Dersom det er gitt engangsstønad etter folketrygdloven § 14-17, utbetales kontantstøtte fra samme tidspunkt som om det var gitt fulle foreldrepenger etter samme lov § 14-9 annet ledd.",
+                        "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) skal § 5-10 første ledd bokstav c nr. 3 lyde:",
+                        "foreldrepenger etter folketrygdloven kapittel 14",
+                        "I lov 4. juli 2003 nr. 80 om introduksjonsordning for nyankomne innvandrere (introduksjonsloven) skal § 12 første ledd lyde:",
+                        "Introduksjonsstønaden reduseres i den utstrekning vedkommende har rett til dagpenger under arbeidsløshet, sykepenger, foreldrepenger eller rehabiliteringspenger, og retten til disse ytelsene er opparbeidet før vedkommende startet i et introduksjonsprogram. Stønaden reduseres tilsvarende for uførepensjon eller attføringspenger vedkommende mottar.",
+                        "I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. skal § 12-5 (1) lyde:",
+                        "Foreldrene har uansett rett til permisjon når det ytes foreldrepenger fra folketrygden.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        },
+        {
+            "name": "VII",
+            "paragraphs": []
+        },
+        {
+            "name": "VIII",
+            "paragraphs": []
+        },
+        {
+            "name": "IX",
+            "paragraphs": []
+        },
+        {
+            "name": "X",
+            "paragraphs": []
+        },
+        {
+            "name": "XI",
+            "paragraphs": []
+        }
+    ]
+}

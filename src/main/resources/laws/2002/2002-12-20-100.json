@@ -1,0 +1,38 @@
+{
+    "lawId": "LOV-2002-12-20-100",
+    "lawName": "Lov om endringer i folketrygdloven (egenandelstak 2)",
+    "shortName": "Endringslov til folketrygdloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 5-3",
+                    "title": "Utgiftstak for egenandeler",
+                    "sections": [
+                        "Stortinget fastsetter et egenandelstak 1, som er det høyeste samlede beløp et medlem skal betale i godkjente egenandeler i løpet av et kalenderår for følgende helsetjenester:",
+                        "a)legehjelp",
+                        "b)psykologhjelp",
+                        "c)viktige legemidler og spesielt medisinsk utstyr",
+                        "d)reiseutgifter",
+                        "e)radiologisk undersøkelse og behandling",
+                        "f)laboratorieprøver.",
+                        "Stortinget fastsetter i tillegg et egenandelstak 2, som er det høyeste samlede beløp et medlem skal betale i godkjente egenandeler i løpet av et kalenderår for følgende helsetjenester:",
+                        "a)tannlegehjelp",
+                        "b)fysioterapi",
+                        "c)opphold ved opptreningsinstitusjon",
+                        "d)behandlingsreiser til utlandet (klimareiser).",
+                        "Når et medlem i et kalenderår har betalt godkjente egenandeler opp til egenandelstak 1 eller egenandelstak 2, dekker trygden utgiftene til godkjente egenandeler for helsetjenester som nevnt i første eller andre ledd i resten av kalenderåret.",
+                        "Departementet gir forskrifter om egenandelsordningene, og kan herunder bestemme hvilke utgifter som skal medregnes under egenandelstakene.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "lawId": "LOV-2018-06-22-57",
+    "lawName": "Lov om endringar i skatteloven",
+    "shortName": "Endringslov til skatteloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 19. Særregler om skattlegging av utenlandske arbeidstakere mv. (kildeskatteordning)",
+            "paragraphs": [
+                {
+                    "name": "§ 19-1",
+                    "title": "Anvendelsesområde",
+                    "sections": [
+                        "Bestemmelsene i dette kapittel gjelder beskatning av person for inntekt som er skattepliktig etter § 2-3 første ledd d-f eller § 2-3 annet ledd."
+                    ]
+                },
+                {
+                    "name": "§ 19-2",
+                    "title": "Fradrag",
+                    "sections": [
+                        "Det gis ingen fradrag i inntekt som skattlegges etter bestemmelsene i dette kapittel. Det gis heller ingen fradrag i fastsatt skatt."
+                    ]
+                },
+                {
+                    "name": "§ 19-3",
+                    "title": "Inntektstak",
+                    "sections": [
+                        "Har skattyter årlig brutto arbeidsinntekt, jf. § 19-1, over et fastsatt inntektstak, skal skattlegging skje etter skattelovens alminnelige regler for hele inntekten."
+                    ]
+                },
+                {
+                    "name": "§ 19-4",
+                    "title": "Andre inntekter",
+                    "sections": [
+                        "Har skattyter andre skattepliktige inntekter enn nevnt i § 19-1, skal vedkommende skattlegges etter skattelovens alminnelige regler for alle inntekter. Skattlegging etter bestemmelsene i dette kapittel kan likevel kombineres med skatteplikt for kildeskatt på pensjon mv. jf. § 2-3 fjerde ledd, kildeskatt på utbytte jf. § 10-13 og med inntekt som skattlegges etter artistskatteloven."
+                    ]
+                },
+                {
+                    "name": "§ 19-5",
+                    "title": "Forholdet til bostedsreglene",
+                    "sections": [
+                        "Skattyter i ordningen som blir bosatt i riket jf. § 2-1, skattlegges etter skattelovens alminnelige regler, men først for inntektsåret etter det inntektsår vilkårene i § 2-1 er oppfylt. Første punktum gjelder ikke hvis skattyter har kapitalinntekt over et fastsatt beløp."
+                    ]
+                },
+                {
+                    "name": "§ 19-6",
+                    "title": "Valgadgang",
+                    "sections": [
+                        "Skattyter kan i stedet velge å bli skattlagt etter skattelovens alminnelige regler."
+                    ]
+                },
+                {
+                    "name": "§ 19-7",
+                    "title": "Forskrift",
+                    "sections": [
+                        "Departementet kan gi forskrift om skattesubjektene i ordningen, jf. § 19-1, inntektstak for arbeidsinntekt, jf. § 19-3, inntektstak for kapitalinntekt, jf. § 19-5 annet punktum og vilkår for valgadgang, jf. § 19-6.",
+                        "Noverande kapittel 19 blir nytt kapittel 20.",
+                        "Endringane under I tek til å gjelde straks.",
+                        "Endringa under II tek til å gjelde straks med verknad frå og med inntektsåret 2018.",
+                        "Endringane under III tek til å gjelde straks med verknad frå og med inntektsåret 2019."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

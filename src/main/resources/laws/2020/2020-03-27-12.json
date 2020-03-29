@@ -1,0 +1,40 @@
+{
+    "lawId": "LOV-2020-03-27-12",
+    "lawName": "Lov om Statens obligasjonsfond",
+    "shortName": "Lov om Statens obligasjonsfond",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Midlene i Statens obligasjonsfond eies av staten. Statens obligasjonsfond skal bidra til økt likviditet og kapital til kredittobligasjonsmarkedet gjennom plasseringer i rentebærende instrumenter til utstedere hjemmehørende i Norge.",
+                    "sections": []
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Statens obligasjonsfond kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.",
+                    "sections": []
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Statens obligasjonsfond forvaltes av departementet.",
+                    "sections": [
+                        "Statens obligasjonsfonds kapital fastsettes etter vedtak i Stortinget.",
+                        "Statens obligasjonsfond plasseres som et kapitalinnskudd i Folketrygdfondet. Motverdien forvaltes etter nærmere bestemmelser fastsatt av departementet, jf. § 4."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.",
+                    "sections": []
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Loven trer i kraft straks. Departementet kan gi overgangsbestemmelser.",
+                    "sections": []
+                }
+            ]
+        }
+    ]
+}

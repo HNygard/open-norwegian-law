@@ -1,0 +1,130 @@
+{
+    "lawId": "LOV-2017-06-21-93",
+    "lawName": "Lov om endringer i passloven og ID-kortloven (tilpasning til nye systemer)",
+    "shortName": "Endringslov til passloven og ID-kortloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 2",
+                    "title": "Ansvarlig myndighet",
+                    "sections": [
+                        "Politiet er ansvarlig myndighet for utstedelse av pass (passmyndighet).",
+                        "I utlandet kan pass utstedes av utenriksstasjoner som har fått myndighet til det. Kongen gir forskrift om behandling og avgjørelse av søknad om pass som fremmes ved norsk utenriksstasjon.",
+                        "Politidirektoratet er klageinstans for avgjørelser om pass etter loven.",
+                        "§ 3 fjerde ledd oppheves.",
+                        "§ 5 nytt femte ledd skal lyde:",
+                        "Personer som omfattes av passhindringer etter annet og tredje ledd kan i særlige tilfeller få utstedt pass med begrenset gyldighetsområde og begrenset gyldighetstid.",
+                        "§ 6 overskriften og første ledd skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Passets innhold og oppbevaring",
+                    "sections": [
+                        "Pass skal bare inneholde opplysninger om en enkelt person.",
+                        "§ 6 tredje ledd skal lyde:",
+                        "Passet gjelder for alle stater med mindre gyldighetsområdet er begrenset etter § 5 femte ledd.",
+                        "§ 6 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 6 a",
+                    "title": "Innhenting av biometrisk personinformasjon til gjennomføring av passkontroll (verifikasjon) mv.",
+                    "sections": [
+                        "Biometrisk personinformasjon (ansiktsfoto og fingeravtrykk) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter.",
+                        "Biometrisk personinformasjon innhentet etter første ledd skal slettes så snart som mulig etter at identiteten er verifisert mot gyldig reisedokument, eller når identiteten er fastslått på annen måte.",
+                        "§ 7 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Tilbakekall, innlevering og beslag",
+                    "sections": [
+                        "Pass kan tilbakekalles når",
+                        "a)vilkårene etter §§ 3 og 4 ikke er til stede",
+                        "b)vilkårene for nektelse etter § 5 er til stede",
+                        "c)passets utseende eller innhold er endret",
+                        "d)passet er skadet eller slitt eller av andre årsaker ikke er tjenlig som legitimasjonsdokument",
+                        "e)passet ikke oppbevares betryggende av passinnehaveren eller finnes i uvedkommendes besittelse",
+                        "Pass som er tilbakekalt etter første ledd skal innleveres. Hvis passet ikke innleveres frivillig, kan politiet ta det fra besitteren.",
+                        "Politiet kan ta beslag i pass som forevises ved grensekontroll i inntil 3 uker når vilkårene i første ledd antas oppfylt. Passet skal tilbakeleveres hvis passmyndigheten ikke har vedtatt tilbakekall innen tre uker. Straffeprosessloven § 208 gjelder tilsvarende.",
+                        "§ 8 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Passregister",
+                    "sections": [
+                        "Det kan opprettes et sentralt passregister. Registeret kan kobles mot ID-kortregisteret. Også utlendingspass og reisebevis for flyktninger kan registreres i passregisteret.",
+                        "Registeret kan inneholde passøkers navn, signatur, fødselsnummer, biometrisk ansiktsfoto, høyde, øyenfarge, hårfarge, fødested, utsendelsesadresse, samt passnummer, utstedende myndighet, utstedelsesdato og utløpsdato. Ved endring av navn eller lignende, og ved utstedelse av nytt pass, kan også tidligere data beholdes i registeret. Ved søknad om pass til mindreårige og personer uten rettslig handleevne kan biometrisk ansiktsfoto av foresatte eller verge inntas i registeret.",
+                        "I registeret inntas for øvrig slike opplysninger som er nødvendig for forvaltning av registeret og utstedelse av pass.",
+                        "Kongen gir forskrift om",
+                        "a)hvilke opplysninger som kan registreres",
+                        "b)hvem som er behandlingsansvarlig",
+                        "c)innsyn, retting, sperring og sletting av opplysninger",
+                        "Nåværende § 8 a blir ny § 11. Overskriften og første ledd innledningen skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Utlevering av opplysninger til andre formål",
+                    "sections": [
+                        "Opplysninger fra passregisteret kan utleveres til politiet til bruk",
+                        "§ 9 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Tilgang (rett til søk)",
+                    "sections": [
+                        "Passmyndigheten, ID-kortmyndigheten, Kripos og ansatte i norsk grensekontroll kan gis tilgang til opplysningene i passregisteret, eller opplysningene kan på annen måte gjøres tilgjengelig for dem, når det er tjenestemessig behov for opplysningene for utstedelse, innlevering eller beslag av pass, eller for utførelse av grensekontroll.",
+                        "Nåværende §§ 10 til 12 blir nye §§ 13 til 15.",
+                        "Ny § 10 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Utlevering av opplysninger",
+                    "sections": [
+                        "Opplysninger fra passregisteret kan utleveres når det er nødvendig for å kontrollere et pass eller innehaverens identitet. Opplysninger om utstedte pass kan utleveres til registermyndigheten for Folkeregisteret.",
+                        "Utlevering av opplysninger etter første ledd kan skje ved direkte søk som går ut på treff eller ikke treff.",
+                        "Ny § 12 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Kongen gir forskrifter om",
+                        "a)søknaden og søknadsbehandlingen, blant annet om godtgjøring av identitet, statsborgerskap og avgivelse av biometri",
+                        "b)passets alminnelige gyldighetstid og om begrenset eller forlenget gyldighetstid",
+                        "c)fastsetting og betaling av gebyr ved søknad om pass",
+                        "Kongen kan gi forskrift om gjennomføring av denne loven, herunder om",
+                        "a)passets form og innhold",
+                        "b)hvem som kan få utlevert opplysninger fra passregisteret",
+                        "c)overgangsbestemmelser",
+                        "I lov 5. juni 2015 nr. 39 om nasjonalt identitetskort gjøres følgende endringer:",
+                        "§ 9 annet ledd skal lyde:",
+                        "Nasjonalt ID-kortregister kan inneholde opplysninger som er nødvendige for forvaltning av registeret og utstedelse av nasjonalt ID-kort, blant annet søkers navn, signatur, fødselsnummer, biometrisk ansiktsfoto, høyde, øyenfarge, hårfarge, serienummer eller annen entydig referanse for tilknyttet eID, og opplysninger om tap og tilbakekall av kortet. Ved endring av navn eller andre opplysninger, og ved utstedelse av nytt nasjonalt ID-kort kan også tidligere data beholdes i registeret. Ved søknad om nasjonalt ID-kort til mindreårige og personer uten rettslig handleevne kan biometrisk ansiktsfoto av foresatte eller verge inntas i registeret.",
+                        "§ 11 første ledd skal lyde:",
+                        "Opplysninger fra nasjonalt ID-kortregister kan utleveres når det er nødvendig for å kontrollere et nasjonalt ID-kort eller innehaverens identitet. Opplysninger om utstedte ID-kort kan utleveres til registermyndigheten for Folkeregisteret.",
+                        "§ 13 første ledd skal lyde:",
+                        "Avgjørelser om nasjonalt ID-kort etter denne loven kan påklages til Politidirektoratet.",
+                        "Endringene trer i kraft fra den tid Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

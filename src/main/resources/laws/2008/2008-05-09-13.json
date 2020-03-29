@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2008-05-09-13",
+    "lawName": "Lov om endring i utlendingsloven (tvungent verneting i Oslo for utlendingssaker)",
+    "shortName": "Endringslov til utlendingsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 47 a",
+                    "title": "Verneting",
+                    "sections": [
+                        "Søksmål mot staten om gyldigheten av vedtak truffet av Utlendingsnemnda etter loven her, eller om erstatning som følge av slike vedtak, anlegges ved Oslo tingrett. Tilsvarende gjelder for søksmål om vedtak truffet av Utlendingsdirektoratet og Kongen i statsråd. Tvisteloven § 32-4 annet ledd får ikke anvendelse.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

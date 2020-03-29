@@ -1,0 +1,30 @@
+{
+    "lawId": "LOV-2011-01-21-4",
+    "lawName": "Lov om endringar i einingsregisterlova og føretaksregisterlova",
+    "shortName": "Endringslov til fregl. og enhregl.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 4-3",
+                    "title": "(signering)",
+                    "sections": [
+                        "Melding til registeret etter § 4-1 skal være signert av samtlige meldepliktige eller av signaturberettiget.",
+                        "Departementet kan i forskrift gjøre unntak fra signeringskravene i første ledd for elektroniske meldinger.",
+                        "Lova gjeld frå den tid Kongen fastset."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

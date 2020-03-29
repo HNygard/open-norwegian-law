@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2014-12-19-94",
+    "lawName": "Lov om endringer i foretaksregisterloven (gjennomføring av direktiv 2012/17/EU om sammenkopling av sentrale registre, handelsregistre og foretaksregistre)",
+    "shortName": "Endringslov til foretaksregisterloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 8-3",
+                    "title": "(utlevering av opplysninger mellom Foretaksregisteret og utenlandske registre)",
+                    "sections": [
+                        "Foretaksregisteret kan avlevere opplysninger til og hente opplysninger fra andre foretaksregistre i henhold til direktiv 2012/17/EU.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

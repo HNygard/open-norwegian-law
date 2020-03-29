@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2003-07-04-82",
+    "lawName": "Lov om endringar i lov 20. desember 1985 nr. 108 om folkebibliotek",
+    "shortName": "Endringslov til folkebibliotekloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 13",
+                    "title": "ABM-utvikling – Statens senter for arkiv, bibliotek og museum",
+                    "sections": [
+                        "Statens oppgaver etter denne loven ivaretas av ABM-utvikling på vegne av departementet.",
+                        "Lova tek til å gjelde frå den tid Kongen fastset."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "lawId": "LOV-2016-06-17-54",
+    "lawName": "Lov om endringer i straffeprosessloven mv. (skjulte tvangsmidler)",
+    "shortName": "Endringslov til straffeprosessloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 15 a. Skjult kameraovervåking og teknisk sporing",
+            "paragraphs": [
+                {
+                    "name": "§ 216 i",
+                    "title": "Alle skal bevare taushet om at det er begjært eller besluttet kommunikasjonskontroll i en sak, og om opplysninger som fremkommer ved kontrollen. Det samme gjelder andre opplysninger som er av betydning for etterforskningen, og som de blir kjent med i forbindelse med kontrollen eller saken. Taushetsplikten er ikke til hinder for at opplysningene brukes",
+                    "sections": [
+                        "a)som ledd i etterforskningen av et straffbart forhold, herunder i avhør av de mistenkte,",
+                        "b)som bevis for det straffbare forholdet som begrunnet kontrollen,",
+                        "c)som bevis for et annet straffbart forhold som etter sin art kunne ha begrunnet den form for kommunikasjonskontroll som opplysningene stammer fra,",
+                        "d)som bevis for et annet straffbart forhold som etter sin art ikke kunne ha begrunnet den form for kommunikasjonskontroll som opplysningene stammer fra, såfremt slik bruk etter sakens art og forholdene ellers ikke vil være et uforholdsmessig inngrep, og oppklaring av forholdet uten bruk av opplysningene i vesentlig grad ville ha blitt vanskeliggjort. Er det andre forholdet påtalt som en overtredelse som kunne ha begrunnet den form for kommunikasjonskontroll som opplysningene stammer fra, eller belyser opplysningene også et straffbart forhold som etter sin art kunne ha begrunnet slik kontroll, kan opplysningene uansett brukes som bevis,",
+                        "e)for å forebygge at noen uskyldig blir straffet,",
+                        "f)for å avverge en straffbar handling som kan medføre frihetsstraff,",
+                        "g)for å gi opplysninger til kontrollutvalget, eller",
+                        "h)for å gi underretning etter § 216 j.",
+                        "§ 216 a annet ledd gjelder tilsvarende.",
+                        "§ 216 j skal lyde:",
+                        "Mistenkte og den som har rådighet over kommunikasjonsanlegget skal underrettes om kommunikasjonskontrollen når den er avsluttet. Retten kan likevel ved kjennelse beslutte at underretning kan utsettes dersom underretning vil være til vesentlig skade for etterforskningen i saken eller en annen verserende sak om en lovovertredelse hvor det kan besluttes utsatt underretning, eller hensynet til politiets etterforskningsmetoder eller omstendighetene for øvrig gjør det strengt nødvendig. I saker om overtredelse av straffeloven kapittel 17 kan retten beslutte at underretning kan utsettes for inntil 6 måneder om gangen. I andre saker kan retten beslutte at underretning kan utsettes for inntil 8 uker om gangen. Dersom etterforskningens art eller andre særlige omstendigheter tilsier at fornyet prøving etter 8 uker vil være uten betydning, kan retten beslutte at underretning kan utsettes i inntil 4 måneder.",
+                        "Utsatt underretning må begjæres innen to uker etter at kontrollen er avsluttet. Retten skal uten ugrunnet opphold ta stilling til begjæringen.",
+                        "Underretning skal senest gis når tiltale tas ut eller saken henlegges og fristen etter § 75 annet ledd første punktum har gått ut. Retten kan likevel bestemme at underretning kan unnlates helt dersom saken henlegges og underretning vil være til vesentlig skade for fremtidig oppklaring av saken eller etterforskning av en annen sak om en lovovertredelse hvor det kan besluttes utsatt underretning, eller hensynet til politiets etterforskningsmetoder eller omstendighetene for øvrig gjør det strengt nødvendig. § 216 e og § 216 f annet ledd gjelder tilsvarende.",
+                        "Når tidsfristen for utsatt underretning er utløpt og ikke forlenget, skal mistenkte og den som har rådigheten over kommunikasjonsanlegget underrettes om kjennelsen og om kontrollen.",
+                        "Når politiet ber om rettens samtykke etter denne bestemmelsen, gjelder § 216 d annet ledd tilsvarende. Dersom det ved opphold er stor fare for at etterforskningen vil lide, kan ordre fra påtalemyndigheten tre istedenfor kjennelse av retten, men ikke utover 24 timer. § 197 tredje ledd og § 216 d gjelder tilsvarende.",
+                        "Selv om det er besluttet at underretning kan utsettes eller unnlates, kan enhver begjære underretning om hvorvidt han eller hun har vært undergitt kommunikasjonskontroll etter dette kapitlet. Underretning skal gis med mindre det foreligger omstendigheter som nevnt i første ledd annet punktum. Avslag på begjæringen kan bringes inn for retten, som avgjør spørsmålet ved kjennelse. § 216 e gjelder tilsvarende. Underretning kan bare gis om kommunikasjonskontroll som er besluttet etter at denne bestemmelsen er trådt i kraft.",
+                        "Kongen kan gi nærmere regler om underretning ved kommunikasjonskontroll som skjer på begjæring fra utenlandske myndigheter.",
+                        "§ 216 m første ledd bokstav b og c skal lyde:",
+                        "b)straffeloven § 275,",
+                        "c)straffeloven §§ 232 annet ledd eller 328, jf. § 79 bokstav c.",
+                        "§ 216 m sjette ledd skal lyde:",
+                        "Bestemmelsene i §§ 216 d til 216 k gjelder tilsvarende, likevel slik at rettens tillatelse ikke kan gis for mer enn to uker om gangen og etterfølgende underretning gis til mistenkte og den som har rådigheten over det stedet som avlyttes.",
+                        "Nytt kapittel 16 d skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kap 16 d. Dataavlesing",
+            "paragraphs": [
+                {
+                    "name": "§ 216 o",
+                    "title": "Retten kan ved kjennelse gi politiet tillatelse til å foreta avlesing av ikke offentlig tilgjengelige opplysninger i et datasystem (dataavlesing) når noen med skjellig grunn mistenkes for en handling eller forsøk på en handling",
+                    "sections": [
+                        "a)som etter loven kan medføre straff av fengsel i 10 år eller mer",
+                        "b)som rammes av straffeloven §§ 121, 123, 125, 126, 127 jf. 123, 128 første punktum, 129, 136, 136 a, 232, 254, 257, 311, 333, 337 jf. 231, eller 340 jf. 231, eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5 eller av lov om utlendingers adgang til riket og deres opphold her § 108 femte ledd.",
+                        "Dataavlesing kan besluttes selv om straff ikke kan idømmes på grunn av bestemmelsene i straffeloven § 20 første ledd. Det gjelder også når tilstanden har medført at den mistenkte ikke har utvist skyld.",
+                        "Tillatelse etter første ledd kan bare gis dersom det må antas at dataavlesing vil være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad vil bli vanskeliggjort. § 216 c annet ledd gjelder tilsvarende.",
+                        "Det kan bare gis tillatelse til å avlese bestemte datasystemer eller brukerkontoer til nettverksbaserte kommunikasjons- og lagringstjenester som den mistenkte besitter eller kan antas å ville bruke. Avlesingen kan omfatte kommunikasjon, elektronisk lagrede data og andre opplysninger om bruk av datasystemet eller brukerkontoen.",
+                        "§§ 216 d til 216 k gjelder tilsvarende, likevel slik at rettens tillatelse ikke kan gis for mer enn to uker om gangen. Eventuelt utstyr som er benyttet for å gjennomføre dataavlesingen skal fjernes snarest mulig etter avlesingsperiodens utløp."
+                    ]
+                },
+                {
+                    "name": "§ 216 p",
+                    "title": "Dataavlesing etter § 216 o kan bare utføres av personell som er særlig skikket til det og som utpekes av politimesteren, sjef PST eller den som bemyndiges. Avlesingen kan foretas ved hjelp av tekniske innretninger, dataprogram eller på annen måte. § 199 a gjelder tilsvarende. Politiet kan bryte eller omgå beskyttelse i datasystemet dersom det er nødvendig for å kunne gjennomføre avlesingen. Tekniske innretninger og dataprogram kan installeres i datasystemet og i annen maskinvare som kan knyttes til datasystemet. Når retten ikke bestemmer noe annet, kan politiet også foreta innbrudd for å plassere eller fjerne tekniske innretninger eller dataprogram som er nødvendig for å gjennomføre dataavlesingen.",
+                    "sections": [
+                        "Dataavlesingen skal innrettes slik at det ikke unødig fanges opp opplysninger om andre enn mistenktes bruk av datasystemet. Avlesingen skal utføres slik at det ikke unødig voldes fare for driftshindring eller for skade på utrustning eller data. Politiet skal så vidt mulig avverge fare for at noen som følge av gjennomføringen settes i stand til å skaffe seg uberettiget tilgang til datasystemet eller vernet informasjon eller til å begå andre straffbare handlinger.",
+                        "§ 222 d første til tredje ledd skal lyde:",
+                        "Retten kan ved kjennelse gi politiet tillatelse til som ledd i etterforsking å nytte tvangsmidler som nevnt i kapittel 15, 15 a, 16, 16 a, 16 b og 16 d når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av",
+                        "a)straffeloven §§ 131 eller 134,",
+                        "b)straffeloven § 275, eller",
+                        "c)straffeloven §§ 232 annet ledd eller 328, jf. § 79 bokstav c.",
+                        "Politiets sikkerhetstjeneste kan også gis slik tillatelse når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av",
+                        "a)straffeloven §§ 111, 113, 115, 117, 119, 123, 126, 127, 128 første punktum, 129, 133, 135, 136, 136 a eller 142,",
+                        "b)lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5,",
+                        "c)straffeloven §§ 139, 140, 192, 194, 238, 239, 240, 241, 242, 355, 356, 357 eller 358 og som begås med sabotasjehensikt, eller",
+                        "d)straffeloven §§ 251, 254, 256, 263 eller 273 og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.",
+                        "Tillatelse kan bare gis dersom det må antas at inngrepet vil gi opplysninger av vesentlig betydning for å kunne avverge handlingen og at avverging ellers i vesentlig grad vil bli vanskeliggjort. Tillatelse til å nytte tvangsmidler som nevnt i §§ 200 a, 202 a annet ledd, 202 c, 216 a, 216 m og 216 o kan bare gis når særlige grunner tilsier det. Politiets sikkerhetstjeneste kan bare gis tillatelse til å romavlytte, jf. § 216 m, når det er grunn til å tro at noen kommer til å begå en handling som rammes av straffeloven §§ 121, 123, 125, 126, 131, 133, 134 eller 142, eller av §§ 251, 254, 256, 263, 273 eller 275 og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.",
+                        "I lov 4. august 1995 nr. 53 om politiet gjøres følgende endringer:",
+                        "§ 17 d første og annet ledd skal lyde:",
+                        "Retten kan ved kjennelse gi Politiets sikkerhetstjeneste tillatelse til som ledd i sin forebyggende virksomhet å nytte tvangsmidler som nevnt i straffeprosessloven §§ 200 a, 202 a, 202 c, 208 a, 210 a, § 210 c, 216 a, 216 b, 216 m eller 216 o dersom det er grunn til å undersøke om noen forbereder en handling som rammes av",
+                        "a)straffeloven §§ 131, 133 og 134,",
+                        "b)straffeloven §§ 121 til 126,",
+                        "c)straffeloven § 142,",
+                        "d)straffeloven §§ 251, 254, 256, 263, 273 eller 275 og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.",
+                        "Tillatelsen kan bare gis dersom det er grunn til å tro at inngrepet vil gi opplysninger av vesentlig betydning for å kunne forebygge handlingen, at forebygging ellers i vesentlig grad vil bli vanskeliggjort og inngrepet etter sakens art og forholdene ellers ikke fremstår som uforholdsmessig. Tillatelse til å nytte tvangsmidler som nevnt i straffeprosessloven §§ 200 a, 202 a annet ledd, 202 c, 216 a, 216 m og 216 o kan bare gis når særlige grunner tilsier det. Det kan ikke gis tillatelse til å romavlytte noens private hjem etter bestemmelsen her. Det kan bare gis tillatelse til å ransake eller ved dataavlesing å gjøre innbrudd i noens private hjem etter bestemmelsen her når det er grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.",
+                        "§ 17 d tredje ledd første punktum skal lyde:",
+                        "Dersom det ved opphold er stor fare for at muligheten til å forebygge et forhold som nevnt i første ledd bokstav a eller d vil gå tapt, kan ordre fra sjefen eller den assisterende sjefen for Politiets sikkerhetstjeneste tre i stedet for kjennelse av retten, bortsett fra ved romavlytting som nevnt i straffeprosessloven § 216 m.",
+                        "I lov 21. juni 2013 nr. 86 om endringer i straffeprosessloven mv. (behandling og beskyttelse av informasjon) gjøres følgende endringer:",
+                        "Endringen i straffeprosessloven § 202 a nytt fjerde ledd blir nytt tiende ledd.",
+                        "Endringen i straffeprosessloven § 202 c nytt syvende ledd blir nytt åttende ledd.",
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        }
+    ]
+}

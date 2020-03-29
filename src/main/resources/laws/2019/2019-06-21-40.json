@@ -1,0 +1,26 @@
+{
+    "lawId": "LOV-2019-06-21-40",
+    "lawName": "Lov om endring i lov 20. desember 2018 nr. 108 om endringer i a-opplysningsloven",
+    "shortName": "Endringslov til endringslov til a-opplysningsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 6 a",
+                    "title": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+                    "sections": [
+                        "Skattemyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+                        "Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.",
+                        "Endringa under I tek til å gjelde straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

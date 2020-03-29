@@ -1,0 +1,34 @@
+{
+    "lawId": "LOV-2012-06-22-60",
+    "lawName": "Lov om endringer i lov om tilbud av grunnleggende banktjenester gjennom Posten Norge AS' ekspedisjonsnett",
+    "shortName": "Endringslov til bank i Posten Norge-loven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med loven er å sikre et tilbud av grunnleggende banktjenester gjennom Posten Norge AS' landpostnett.",
+                        "§ 2 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Tilbud av grunnleggende banktjenester",
+                    "sections": [
+                        "Posten Norge AS skal gjennom avtale med finansinstitusjon tilby grunnleggende banktjenester i sitt landpostnett. Med grunnleggende banktjenester menes innbetalinger og innskudd samt avtalte utbetalinger og avtalte uttak. Med landpostnett menes mobile ekspedisjonsenheter som, i tillegg til vanlig postomdeling, ekspederer leveringspliktige posttjenester og grunnleggende banktjenester innenfor sitt geografiske dekningsområde.",
+                        "1.Loven gjelder fra den tid Kongen bestemmer.",
+                        "2.Departementet kan gi nærmere overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "lawId": "LOV-2013-06-21-76",
+    "lawName": "Lov om endringer i kirkeloven",
+    "shortName": "Endringslov til kirkeloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 4",
+                    "title": "Stemmerett og valg",
+                    "sections": [
+                        "§ 4 første ledd skal lyde:",
+                        "Hvert medlem av Den norske kirke som bor i soknet og som senest i det år det stemmes vil ha fylt 15 år, har kirkelig stemmerett.",
+                        "§ 4 nytt fjerde ledd skal lyde:",
+                        "Kirkelige valg holdes samtidig med, og i lokaler i umiddelbar nærhet av, valg til Stortinget eller fylkesting og kommunestyrer.",
+                        "Nåværende § 4 fjerde ledd blir nytt femte ledd.",
+                        "§ 6 tredje ledd skal lyde:",
+                        "Valgbar til menighetsråd og pliktig til å ta imot valg, er den som har rett til å stemme ved valget og som senest i det år det stemmes vil ha fylt 18 år.",
+                        "§ 23 første ledd bokstav d skal lyde:",
+                        "d)sju andre leke valgt ved flertalls- eller forholdstallsvalg, hvorav minst fire velges direkte av bispedømmets stemmeberettigede medlemmer,",
+                        "§ 23 andre ledd første punktum skal lyde:",
+                        "Presten og de leke medlemmene velges sammen med et tilsvarende antall varamedlemmer for fire år.",
+                        "§ 24 første ledd første punktum skal lyde:",
+                        "Kirkemøtet består av medlemmene av bispedømmerådene og ett medlem valgt etter nærmere regler fastsatt av Kirkemøtet.",
+                        "§ 24 sjuende ledd første punktum skal lyde:",
+                        "Kirkemøtet kan uten hinder av bestemmelsene i loven her godkjenne forsøk med valgperiode på to år og direkte valg til kirkelig fellesråd og bispedømmeråd.",
+                        "§ 24 åttende ledd oppheves.",
+                        "Loven gjelder fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

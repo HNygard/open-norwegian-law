@@ -1,0 +1,86 @@
+{
+    "lawId": "LOV-2010-12-17-85",
+    "lawName": "Lov om endringer i forvaltningsloven og straffegjennomføringsloven (behandling av personopplysninger i kriminalomsorgen, innsyn i benådningssaker m.m.)",
+    "shortName": "Endringslov til fvl. og strgjfl.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1a. Behandling av personopplysninger i kriminalomsorgen",
+            "paragraphs": [
+                {
+                    "name": "§ 4a",
+                    "title": "Forholdet til andre lover",
+                    "sections": [
+                        "Personopplysningsloven gjelder med utfyllende regler fastsatt i dette kapitlet."
+                    ]
+                },
+                {
+                    "name": "§ 4b",
+                    "title": "Behandlingsansvarlig",
+                    "sections": [
+                        "Med behandlingsansvarlig menes den som etter lov eller forskrift, alene eller sammen med andre, bestemmer formålet med behandlingen og hvilke hjelpemidler som skal brukes."
+                    ]
+                },
+                {
+                    "name": "§ 4c",
+                    "title": "Formål med behandlingen av personopplysninger",
+                    "sections": [
+                        "Kriminalomsorgen kan behandle personopplysninger som er nødvendige for å",
+                        "a)planlegge, administrere og gjennomføre reaksjoner og tvangsmidler etter straffegjennomføringsloven § 1,",
+                        "b)opprettholde ro og orden og ivareta sikkerheten for ansatte, innsatte, domfelte og samfunnet for øvrig,",
+                        "c)sikre innsatte og domfelte tilfredsstillende forhold under gjennomføringen og tilby dem et innhold som skal bidra til å motvirke ny kriminalitet, herunder legge forholdene til rette for tjenester fra andre etater med sikte på å fremme innsattes og domfeltes tilpasning til samfunnet,",
+                        "d)sikre barns rett til samvær med foreldrene under sikre og trygge forhold,",
+                        "e)varsle fornærmede eller dennes etterlatte, jf. § 7b."
+                    ]
+                },
+                {
+                    "name": "§ 4d",
+                    "title": "Hvem kriminalomsorgen kan behandle personopplysninger om",
+                    "sections": [
+                        "Til formål nevnt i § 4c kan kriminalomsorgen behandle personopplysninger om",
+                        "a)domfelte og innsatte,",
+                        "b)pårørende og andre som har kontakt med eller prøver å oppnå kontakt med den domfelte eller innsatte,",
+                        "c)personer som har eller søker å få tilgang til fengselsområder,",
+                        "d)domfeltes eller innsattes barn og barnets pårørende eller andre omsorgspersoner."
+                    ]
+                },
+                {
+                    "name": "§ 4e",
+                    "title": "Krav om forskriftsregulering av en behandling",
+                    "sections": [
+                        "Kongen gir forskrift om blant annet",
+                        "a)hvilket rettslig grunnlag som hjemler behandlingen,",
+                        "b)formålet med behandlingen,",
+                        "c)hvem som er behandlingsansvarlig,",
+                        "d)hvilke opplysningskategorier som kan registreres,",
+                        "e)hvem i kriminalomsorgen som har tilgang til opplysningene,",
+                        "f)adgangen til å utlevere opplysningene,",
+                        "g)informasjonsplikt, innsyn, retting, sperring og sletting av opplysninger,",
+                        "h)informasjonssikkerhet og internkontroll.",
+                        "§ 7 bokstav f første punktum skal lyde:",
+                        "Beslutning om å fremme sak for retten etter § 44 annet ledd, § 58 annet ledd eller straffeloven § 54 nr. 1 og 2 kan ikke påklages.",
+                        "§ 7 bokstav h skal lyde:",
+                        "h)Enhver som er tilsatt i eller utfører tjeneste eller arbeid for kriminalomsorgen, har taushetsplikt om det vedkommende i forbindelse med tjenesten får vite om forhold av betydning for sikkerheten i fengslene og i forbindelse med gjennomføringen av straff utenfor fengslene.",
+                        "§ 7a ny overskrift skal lyde:",
+                        "Offentlige etaters opplysningsplikt overfor kriminalomsorgen",
+                        "§ 44 fjerde ledd skal lyde:",
+                        "Hvis retten ved dom beslutter at den prøveløslatte skal gjeninnsettes for hel fullbyrding av reststraffen, kan kriminalomsorgen beslutte ny løslatelse på prøve selv om minstetidene i § 42 første ledd ikke er oppfylt for reststraffens del.",
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

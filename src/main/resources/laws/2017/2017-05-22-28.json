@@ -1,0 +1,48 @@
+{
+    "lawId": "LOV-2017-05-22-28",
+    "lawName": "Lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+    "shortName": "Lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for maritim virksomhet. Ordningen skal sikre norsk maritim kompetanse, rekruttering av norske arbeidstakere til sjøs og bidra til at norske rederier får konkurransedyktige vilkår i forhold til vilkårene i andre land."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Tilskuddsmottakere",
+                    "sections": [
+                        "Tilskudd kan gis til organisasjoner som har drift av skip registrert i Norsk Ordinært Skipsregister (NOR) eller Norsk Internasjonalt Skipsregister (NIS)."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Beregning av tilskudd",
+                    "sections": [
+                        "Tilskudd beregnes på grunnlag av skatt, trygdeavgift og norsk arbeidsgiveravgift for arbeidstakere som er tilskuddsberettiget etter ordningen."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Forskrifter",
+                    "sections": [
+                        "Departementet kan gi forskrift med nærmere bestemmelser om innretningen av tilskuddsordningen, som bestemmelser om virkeområde, beregning av tilskudd og forvaltning av ordningen, og om plikter og sanksjoner for private i forbindelse med forvaltningens kontroll av tilskuddsordningen."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer.",
+                        "Gjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs gjelder også etter at loven har trådt i kraft."
+                    ]
+                }
+            ]
+        }
+    ]
+}

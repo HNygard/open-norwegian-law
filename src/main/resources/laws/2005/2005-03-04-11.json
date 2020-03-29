@@ -1,0 +1,272 @@
+{
+    "lawId": "LOV-2005-03-04-11",
+    "lawName": "Lov om endringer i verdipapirhandelloven og enkelte andre lover (gjennomføring av markedsmisbruksdirektivet mv.)",
+    "shortName": "Endringslov til verdipapirhandelloven mv.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 2. Generelle atferdsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "Anvendelsesområde",
+                    "sections": [
+                        "Kapittel 2 gjelder for finansielle instrumenter som er eller søkes notert på norsk børs eller autorisert markedsplass. § 2-9 gjelder også for finansielle instrumenter som ikke er eller søkes notert på norsk børs eller autorisert markedsplass.",
+                        "§§ 2-3, 2-4 og 2-7 gjelder tilsvarende for finansielle instrumenter som ikke omfattes av første ledd så fremt deres verdi avhenger av finansielle instrumenter som nevnt i første ledd.",
+                        "§§ 2-3, 2-4, 2-7 og 2-8 gjelder tilsvarende for handlinger foretatt i Norge i tilknytning til finansielle instrumenter som er notert på et regulert marked i en annen EØS-stat eller der det er søkt om slik notering. Med regulert marked menes marked som definert i direktiv 93/22/EØF art. 1 nr. 13."
+                    ]
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Definisjon av innsideinformasjon",
+                    "sections": [
+                        "Med innsideinformasjon menes presise opplysninger om de finansielle instrumentene, utstederen av disse eller andre forhold som er egnet til å påvirke kursen på de finansielle instrumentene eller tilknyttede finansielle instrumenter merkbart, og som ikke er offentlig tilgjengelig eller allment kjent i markedet.",
+                        "Med presise opplysninger, menes opplysninger som indikerer at en eller flere omstendigheter eller begivenheter har inntruffet eller med rimelig grunn kan ventes å ville inntreffe og som er tilstrekkelig spesifikke for å trekke en slutning om den mulige påvirkningen av disse omstendighetene eller begivenhetene på kursen til de finansielle instrumentene eller de tilknyttede finansielle instrumentene.",
+                        "Med opplysninger som er egnet til å påvirke kursen til finansielle instrumenter eller tilknyttede finansielle instrumenter merkbart, menes opplysninger som en fornuftig investor sannsynligvis vil benytte som en del av grunnlaget for sin investeringsbeslutning.",
+                        "Med innsideinformasjon om varederivater, menes presise opplysninger som ikke er offentlig tilgjengelige eller allment kjent og som direkte eller indirekte angår ett eller flere varederivater og som deltakere på markedet der varederivatene omsettes ville forvente å motta i samsvar med det Kredittilsynet anser som akseptert markedspraksis på det aktuelle markedet. Med opplysninger som deltakerne ville forvente å motta, menes opplysninger som normalt gjøres tilgjengelig for deltakere på markedet eller opplysninger som skal offentliggjøres som følge av lov, forskrift eller annen regulering, herunder privatrettslig regulering og praksis på det aktuelle varederivatmarkedet eller det underliggende varemarked. Departementet kan i forskrift fastsette nærmere regler om innsideinformasjon i tilknytning til varederivater og akseptert markedspraksis."
+                    ]
+                },
+                {
+                    "name": "§ 2-3",
+                    "title": "Misbruk av innsideinformasjon",
+                    "sections": [
+                        "Tegning, kjøp, salg eller bytte av finansielle instrumenter eller tilskyndelse til slike disposisjoner, må ikke direkte eller indirekte foretas for egen eller fremmed regning av noen som har innsideinformasjon.",
+                        "Første ledd gjelder bare ved misbruk av innsideinformasjon nevnt i § 2-2. Første ledd er ikke til hinder for normal utøvelse av tidligere inngått opsjons- eller terminkontrakt ved kontraktens utløp."
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "Taushetsplikt og tilbørlig informasjonshåndtering",
+                    "sections": [
+                        "Den som har innsideinformasjon må ikke gi slike opplysninger til uvedkommende.",
+                        "Den som har innsideinformasjon plikter i sin behandling av slike opplysninger å utvise tilbørlig aktsomhet, slik at innsideinformasjonen ikke kommer i uvedkommendes besittelse eller misbrukes. Utsteder av finansielle instrumenter og andre juridiske personer som regelmessig er i besittelse av innsideinformasjon, skal ha rutiner for sikker behandling av innsideinformasjon."
+                    ]
+                },
+                {
+                    "name": "§ 2-5",
+                    "title": "Liste over personer med tilgang til innsideinformasjon",
+                    "sections": [
+                        "Utsteder av finansielle instrumenter skal sørge for at det føres en liste over personer som gis tilgang til innsideinformasjon. Dersom en person som gis tilgang til innsideinformasjon er en juridisk person, skal listen omfatte dennes ansatte, tillitsvalgte, medhjelpere mv. som gis tilgang til informasjonen.",
+                        "Listen skal oppdateres fortløpende og inneholde opplysninger om identiteten til personene med tilgang til innsideinformasjonen, dato og klokkeslett personene fikk tilgang til slik informasjon, funksjonen til personene, årsaken til at personene er på listen og dato for nedtegning og endring av listen. Listen skal oppbevares på betryggende vis i minst 5 år etter utarbeidelse eller oppdatering, og oversendes Kredittilsynet på forespørsel.",
+                        "Utsteder av finansielle instrumenter skal sørge for at personer som gis tilgang til innsideinformasjon er kjent med de plikter og ansvar dette innebærer, samt straffeansvaret som er forbundet med misbruk eller uberettiget distribusjon av slike opplysninger. Utsteder av finansielle instrumenter skal kunne dokumentere overfor Kredittilsynet at personer som gis tilgang til innsideinformasjon er kjent med sine plikter etter første punktum."
+                    ]
+                },
+                {
+                    "name": "§ 2-6",
+                    "title": "Undersøkelsesplikt",
+                    "sections": [
+                        "Før styremedlem, ledende ansatt, medlem av kontrollkomité eller revisor tilknyttet utstederforetaket foretar eller tilskynder til tegning, kjøp, salg eller bytte av finansielle instrumenter som er utstedt av foretaket, skal vedkommende foreta en forsvarlig undersøkelse av om det foreligger opplysninger som nevnt i § 2-2 om de finansielle instrumentene eller utstederen av disse i foretaket. Første punktum gjelder tilsvarende for varamedlem, observatør, styresekretær og direksjonssekretær til styret i utstederforetaket. Første punktum gjelder tilsvarende for ledende ansatt og styremedlem i foretak i samme konsern som normalt kan antas å få tilgang til innsideinformasjon.",
+                        "Undersøkelsesplikten gjelder også ved inngåelse, kjøp, salg eller bytte av opsjons- eller terminkontrakt eller tilsvarende rettigheter knyttet til finansielle instrumenter utstedt av foretaket samt ved tilskyndelse til slike disposisjoner."
+                    ]
+                },
+                {
+                    "name": "§ 2-7",
+                    "title": "Rådgivningsforbud",
+                    "sections": [
+                        "Den som har innsideinformasjon skal ikke gi råd om handel med finansielle instrumenter som innsideinformasjonen vedrører."
+                    ]
+                },
+                {
+                    "name": "§ 2-8",
+                    "title": "Markedsmanipulasjon",
+                    "sections": [
+                        "Ingen må foreta markedsmanipulasjon i tilknytning til finansielle instrumenter.",
+                        "Med markedsmanipulasjon menes:",
+                        "1.transaksjoner eller handelsordre som gir eller er egnet til å gi falske, uriktige eller villedende signaler om tilbudet, etterspørselen eller prisen på finansielle instrumenter, eller som sikrer at kursen på et eller flere finansielle instrumenter ligger på et unormalt eller kunstig nivå, med mindre den eller de personer som har inngått transaksjonene eller inngitt handelsordrene, godtgjør at begrunnelsen er å regne som legitim og at transaksjonen eller handelsordren er i overensstemmelse med atferd som Kredittilsynet har akseptert som markedspraksis på det aktuelle markedet, eller",
+                        "2.transaksjoner som inngås eller handelsordre som inngis i tilknytning til enhver form for villedende atferd, eller",
+                        "3.utbredelse av opplysninger gjennom media, herunder via Internett, eller ved enhver annen metode, når opplysningene gir eller er egnet til å gi falske, uriktige eller villedende signaler om finansielle instrumenter, herunder utbredelse av rykter og nyheter, når personen som har utbredt opplysningene visste eller burde ha visst at opplysningene var falske, uriktige eller villedende. Når en journalist i sin yrkesmessige aktivitet utbrer slike opplysninger, skal forholdet vurderes under hensyn til de regler som gjelder for deres yrkesgruppe, med mindre personen direkte eller indirekte oppnår fordeler eller fortjeneste av utbredelsen.",
+                        "Departementet kan i forskrift fastsette nærmere regler om markedsmanipulasjon og akseptert markedspraksis."
+                    ]
+                },
+                {
+                    "name": "§ 2-9",
+                    "title": "Forbud mot urimelige forretningsmetoder",
+                    "sections": [
+                        "Ingen må benytte urimelige forretningsmetoder ved handel i finansielle instrumenter.",
+                        "God forretningsskikk skal iakttas ved henvendelser som rettes til allmennheten eller til enkeltpersoner og som inneholder tilbud eller oppfordring til å fremsette tilbud om kjøp, salg eller tegning av finansielle instrumenter eller som ellers har til formål å fremme handel i finansielle instrumenter."
+                    ]
+                },
+                {
+                    "name": "§ 2-10",
+                    "title": "Investeringsanbefalinger mv.",
+                    "sections": [
+                        "Den som utarbeider eller formidler informasjon som anbefaler eller foreslår en investering eller investeringsstrategi vedrørende finansielle instrumenter eller utstederne av slike, og som er ment for distribusjon eller allmennheten, skal utvise tilbørlig aktsomhet for å sikre at informasjonen som presenteres er korrekt og skal på en klar og tydelig måte opplyse om eventuelle egne interesser og interessekonflikter som knytter seg til instrumentene eller utstederne.",
+                        "Departementet kan i forskrift fastsette nærmere regler om utarbeidelse og formidling av informasjon som nevnt i første ledd. Departementet kan uten hensyn til første ledd fastsette særlige regler om muntlige investeringsanbefalinger.",
+                        "Reglene i eller i medhold av bestemmelsen her skal ikke gjelde for presse som er underlagt tilfredsstillende selvregulering."
+                    ]
+                },
+                {
+                    "name": "§ 2-11",
+                    "title": "Rapporteringsplikt",
+                    "sections": [
+                        "Den som på forretningsmessig basis gjennomfører eller tilrettelegger transaksjoner i finansielle instrumenter, skal straks rapportere til Kredittilsynet hvis det foreligger rimelig grunn til mistanke om innsidehandel eller markedsmanipulasjon i tilknytning til slike transaksjoner. Departementet kan i forskrift bestemme at første punktum bare skal gjelde verdipapirforetak og kredittinstitusjoner.",
+                        "Den som rapporterer etter første ledd, skal ikke informere noen andre om at melding er eller vil bli inngitt.",
+                        "Opplysninger som i god tro meddeles Kredittilsynet etter første ledd, er ikke brudd på noen form for taushetsplikt og gir ikke grunnlag for erstatning eller straff.",
+                        "Departementet kan i forskrift fastsette nærmere regler om oversendelse av opplysninger til Kredittilsynet og om rapportering etter denne bestemmelsen."
+                    ]
+                },
+                {
+                    "name": "§ 2-12",
+                    "title": "Tilbakekjøpsprogrammer og kursstabilisering",
+                    "sections": [
+                        "Forbudet mot markedsmanipulasjon i § 2-8 gjelder ikke for tilbakekjøpsprogrammer og kursstabilisering som gjennomføres i overensstemmelse med regler i medhold av annet ledd.",
+                        "EØS-avtalen vedlegg IX nr. 29 (forordning (EF) nr. 2273/2003) om tilbakekjøpsprogrammer og stabilisering av finansielle instrumenter gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.",
+                        "Departementet kan i forskrift fastsette nærmere regler om kontroll med tilbakekjøpsprogrammer og kursstabilisering."
+                    ]
+                },
+                {
+                    "name": "§ 2-13",
+                    "title": "Unntak for disposisjoner foretatt av EØS-stat, sentralbank mv.",
+                    "sections": [
+                        "Bestemmelsene i dette kapitlet gjelder ikke disposisjoner foretatt av eller på vegne av en EØS-stat, Den Europeiske Sentralbank, sentralbank i EØS-stat eller annet myndighetsorgan i slike stater når disposisjonen er et ledd i en EØS-stats penge- eller valutapolitikk eller styring av offentlig gjeld.",
+                        "§ 3-1 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 3-1",
+                    "title": "Primærinnsideres meldeplikt",
+                    "sections": [
+                        "Personer som nevnt i § 2-6 første ledd skal straks gi norsk børs og autorisert markedsplass hvor aksjene er notert, melding om kjøp, salg, bytte eller tegning av aksjer utstedt av selskapet eller av selskaper i samme konsern. Det samme gjelder for selskapets handel med egne aksjer og aksjer i selskaper i samme konsern. Foretak som eier børsnoterte aksjer i et annet foretak eller aksjer i et annet foretak som er notert på autorisert markedsplass, og som på grunn av eierskapet er representert i vedkommende foretaks styre, må gi melding ved handel i slike aksjer. Meldingen skal sendes senest innen åpningen av børsen eller markedsplassen dagen etter at kjøp, salg, bytte eller tegning har funnet sted.",
+                        "Meldeplikten gjelder også lån som nevnt i aksjeloven § 11-1 og allmennaksjeloven § 11-1, inngåelse, bytte, kjøp, eller salg av tegningsretter, opsjoner og tilsvarende rettigheter knyttet til aksjer som nevnt i første ledd.",
+                        "Meldeplikten omfatter også slik handel som gjelder vedkommendes nærstående som nevnt i § 1-4 nr. 1, 2 og 4.",
+                        "Selskapet skal uten ugrunnet opphold sende en ajourført oversikt over personer som nevnt i første ledd til vedkommende børs og autoriserte markedsplass. Meldingen skal inneholde den meldepliktiges navn, personnummer eller lignende identifikasjonsnummer, adresse, type tillitsverv eller stilling i selskapet og eventuell øvrig arbeidsstilling.",
+                        "Meldepliktige etter første ledd skal uten ugrunnet opphold sende vedkommende børs og autoriserte markedsplass en ajourført oversikt over personer og selskaper som nevnt i tredje ledd dersom disse innehar finansielle instrumenter som nevnt i første og annet ledd. Meldingen skal inneholde personnummer, organisasjonsnummer eller lignende identifikasjonsnummer.",
+                        "Denne paragraf gjelder tilsvarende for grunnfondsbevis.",
+                        "§ 3-3 første ledd skal lyde:",
+                        "Melding etter § 3-1 første til tredje ledd skal inneholde opplysninger om:",
+                        "1.navn på den meldepliktige,",
+                        "2.bakgrunn for meldingen,",
+                        "3.navn på utsteder,",
+                        "4.beskrivelse av det finansielle instrumentet,",
+                        "5.type transaksjon,",
+                        "6.tidspunkt og marked for transaksjonen,",
+                        "7.kurs og volum på transaksjonen og",
+                        "8.beholdning etter transaksjonen.",
+                        "Ny § 8-13 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 8-13",
+                    "title": "Verdipapirforetakenes sikringsfond",
+                    "sections": [
+                        "Verdipapirforetak skal være medlem av Verdipapirforetakenes sikringsfond.",
+                        "Fondets formål er ved manglende økonomisk evne hos medlemmene å gi dekning for krav som skyldes medlemmenes behandling av kunders midler og finansielle instrumenter.",
+                        "Fondets forpliktelser finansieres av medlemmene slik at deres ansvar er prinsipalt proratarisk, subsidiært solidarisk.",
+                        "Fondet kan ikke gjøre gjeldende andre innsigelser overfor skadelidte enn de innsigelser verdipapirforetaket selv har i forhold til skadelidte.",
+                        "Departementet kan i forskrift gi nærmere regler om fondet, herunder om fondets virksomhet og finansiering, hvem som plikter å være medlem i fondet, ansvarets omfang, og om rettigheter og plikter for medlemmene og mulige skadelidte.",
+                        "Departementet kan bestemme i hvilken grad reglene om Verdipapirforetakenes sikringsfond skal gjelde for kredittinstitusjoner og utenlandske foretak som yter investeringstjenester i Norge. Departementet kan bestemme at enkelte grupper av investorer eller enkelte typer krav ikke behøver å være dekket av fondet.",
+                        "Nåværende § 12-2 sjette og syvende ledd oppheves. Nåværende åttende ledd blir sjette ledd.",
+                        "Ny § 12-2 a skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-2 a",
+                    "title": "Opplysningsplikt ved mistanke om innsidehandel mv.",
+                    "sections": [
+                        "Dersom Kredittilsynet har mistanke om overtredelse av kapittel 2, 3 eller børsloven § 5-7, jf. forskrifter gitt i medhold av disse bestemmelsene, kan enhver pålegges å gi de opplysninger Kredittilsynet krever, herunder fremlegge dokumenter, teknisk lagret informasjon og utskrift fra lagringsmedium.",
+                        "Opplysningsplikten i første ledd gjelder ikke opplysninger som vedkommende ville vært forhindret fra å gi i straffesak. Opplysningsplikten gjelder likevel uten hinder av:",
+                        "1.lovbestemt taushetsplikt som ellers påhviler ligningsmyndigheter, andre skatte- og avgiftsmyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet, og",
+                        "2.taushetsplikt som nevnt i lov om elektronisk kommunikasjon § 2-9 for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse.",
+                        "3.taushetsplikt som nevnt i lov om elektronisk kommunikasjon § 2-9 for så vidt gjelder opplysninger om trafikkdata, dersom det er gitt fritak fra slik taushetsplikt. Departementet kan etter anmodning fra Kredittilsynet gi slikt fritak. Ved vurderingen av om fritak skal gis skal det blant annet legges vekt på hensynet til taushetsplikten og sakens opplysning.",
+                        "Opplysningene innhentet i medhold av denne bestemmelsen kan bare brukes i den sak de er innhentet for. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist og kan nedtegnes eller lagres som lydopptak. Den som innkalles til avhør har rett til å la seg bistå av advokat.",
+                        "Denne bestemmelsen gjelder selv om det er besluttet bevissikring etter § 12-2 b og gis tilsvarende anvendelse der Kredittilsynet anmodes av annen stats myndighet som fører tilsyn som nevnt i kredittilsynsloven, om å innhente opplysninger på bakgrunn av mistanke om tilsvarende overtredelse av vedkommende stats lovgivning.",
+                        "Enhver har rett til å nekte å svare på spørsmål eller utlevere dokumenter eller gjenstander når svaret eller utleveringen vil kunne utsette vedkommende for straff eller straffelignende sanksjon. Kredittilsynet skal gjøre vedkommende kjent med denne retten.",
+                        "Departementet kan i forskrift fastsette nærmere regler om innholdet av opplysningsplikten og krav til behandling av overskuddsinformasjon.",
+                        "Ny § 12-2 b skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-2 b",
+                    "title": "Bevissikring",
+                    "sections": [
+                        "For å søke etter bevis kan Kredittilsynet, når det er rimelig grunn til å anta at bestemmelse i kapittel 2, jf. forskrift gitt i medhold av slik bestemmelse, er overtrådt, eller det er nødvendig for å oppfylle Norges avtaleforpliktelse overfor annen stat, kreve:",
+                        "1.å få adgang til lokaler, eiendommer og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,",
+                        "2.å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,",
+                        "3.å ta med ting, herunder kopi av dokumenter og annen informasjon og teknisk lagret informasjon som kan ha betydning som bevis for nærmere granskning, og",
+                        "4.å forsegle forretningslokaler, bøker, forretningspapirer eller teknisk lagringsmedium så lenge undersøkelsen varer og dette anses nødvendig.",
+                        "Begjæring om adgang til bevissikring fremsettes av Kredittilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten treffer sin avgjørelse ved beslutning før bevissikringen settes i verk. Den begjæringen retter seg mot, skal ikke varsles om begjæringen eller beslutningen. Kjæremål over beslutningen har ikke oppsettende virkning. Straffeprosessloven §§ 200, 201 første ledd, §§ 117 til 120, jf. §§ 204, 207 til 209, 213 og kapittel 26 og forvaltningsloven § 15 annet og tredje ledd gjelder så langt de passer.",
+                        "Kredittilsynet kan kreve bistand av politiet for å iverksette beslutning om bevissikring.",
+                        "Dersom det ikke er tid til å avvente rettens beslutning, kan Kredittilsynet kreve at politiet avstenger områder der bevisene kan være, inntil rettens beslutning foreligger.",
+                        "Departementet kan i forskrift fastsette nærmere regler om bevissikring og behandling av overskuddsinformasjon.",
+                        "§ 12-4 nytt femte ledd skal lyde:",
+                        "Dersom Kredittilsynet har grunn til å anta at noen handler i strid med bestemmelse i kapittel 2 eller 3, jf. forskrift gitt i medhold av slik bestemmelse, kan Kredittilsynet pålegge vedkommende å bringe handlingen til opphør. Pålegget kan omfatte ethvert tiltak som er nødvendig for å bringe overtredelsen til opphør.",
+                        "§ 14-2 første ledd skal lyde:",
+                        "Dersom det er oppnådd vinning ved en uaktsom eller forsettlig overtredelse av §§ 2-3 første ledd, 2-4, 2-6, 2-7, 2-8, 2-9, 2-10, 2a-2 til 2a-6, 8-2 til 8-6, 9-2, 9-3, eller 9-4 annet ledd, jf. forskrifter gitt i medhold av disse bestemmelsene, kan den som vinningen er tilfalt, pålegges helt eller delvis å avstå denne. Dette gjelder også når den som vinningen tilfaller, er en annen enn lovovertrederen. Kan størrelsen av vinningen ikke godtgjøres, fastsettes beløpet skjønnsmessig.",
+                        "§ 14-3 første og annet ledd skal lyde:",
+                        "Med bøter eller fengsel inntil seks år, straffes den som forsettlig eller uaktsomt overtrer § 2-3 første ledd eller § 2-8, jf. forskrift gitt i medhold av denne.",
+                        "Med bøter eller fengsel inntil 1 år, straffes den som forsettlig eller uaktsomt:",
+                        "1.overtrer § 2-4, § 2-5, § 2-7, § 2-11, §§ 2a-1 til 2a-7, § 3-1, § 5-1, § 5-7, § 5-8, § 6-1 første ledd, § 6-5, § 7-1, § 7-11, §§ 8-2 til 8-8, §§ 9-3 til 9-8, § 11-3, § 12-2, eller § 12-2 a, jf. forskrifter gitt i medhold av disse bestemmelsene,",
+                        "2.overtrer § 2-6 dersom det foreligger innsideinformasjon i foretaket,",
+                        "3.gir villedende eller uriktige opplysninger i prospekt, annonser mv. som nevnt i § 5-5,",
+                        "4.overtrer plikten i § 9-1 første ledd nr. 3 til å oppbevare finansielle instrumenter og midler som tilhører investoren atskilt fra foretakets,",
+                        "5.unnlater å etterkomme krav etter § 12-2 b eller pålegg etter § 12-4, eller",
+                        "6.grovt eller gjentatte ganger overtrer § 2-9, § 2-10, eller § 9-2, jf. forskrifter gitt i medhold av disse bestemmelsene.",
+                        "I lov 17. november 2000 nr. 80 om børsvirksomhet m.m. (børsloven) gjøres følgende endringer:",
+                        "§ 5-7 skal lyde:",
+                        "Etter nærmere regler fastsatt av departementet skal utstederen av finansielle instrumenter som er eller søkes børsnotert offentliggjøre opplysninger av betydning for en riktig vurdering av instrumentene. Opplysningene skal sendes til den børs der de finansielle instrumentene er eller søkes notert, med mindre Kredittilsynet bestemmer noe annet.",
+                        "Børs kan kreve at utsteder av finansielle instrumenter som er eller søkes børsnotert, utstederes tillitsvalgte og ansatte uten hinder av taushetsplikt gir børsen de opplysninger som er nødvendig for at børsen skal kunne oppfylle sine lovbestemte plikter.",
+                        "§ 5-9 nytt annet ledd skal lyde:",
+                        "Kredittilsynet kan beslutte at børs skal suspendere et finansielt instrument i medhold av første ledd.",
+                        "§ 5-9 nåværende annet ledd blir nytt tredje ledd.",
+                        "I lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven) gjøres følgende endringer:",
+                        "§ 7 nytt femte ledd skal lyde:",
+                        "Kongen kan i forskrift fastsette forbud mot eller andre begrensninger i adgangen for tilsynets tjenestemenn til å erverve eller avhende aksjer eller andre egenkapitalinstrumenter notert på norsk børs eller autorisert markedsplass, eller derivater eller andre rettigheter til slike. Bestemmelsene kan også gjelde handler i fremmed navn og regning. Det kan også gis bestemmelser om ansattes plikt til rapportering av transaksjoner i finansielle instrumenter til Kredittilsynet eller departementet, herunder om erverv og avhendelser hos personlige nærstående som nevnt i aksjeloven § 1-5 annet ledd. Rapporteringsplikt knyttet til personlige nærstående kan også omfatte finansielle instrumenter utstedt av institusjoner under tilsyn, eller derivater til slike.",
+                        "§ 7 nåværende femte ledd blir nytt sjette ledd.",
+                        "I lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov (straffeloven) gjøres følgende endringer:",
+                        "§ 273 annet ledd skal lyde:",
+                        "Straff etter denne paragraf kommer ikke til anvendelse ved handling som omfattes av lov om verdipapirhandel § 2-8.",
+                        "§ 274 femte ledd skal lyde:",
+                        "Straff etter denne paragraf kommer ikke til anvendelse ved handling som omfattes av lov om verdipapirhandel § 2-8.",
+                        "I lov 15. januar 1999 nr. 2 om revisjon og revisorer (revisorloven) gjøres følgende endringer:",
+                        "§ 4-5 nytt femte ledd skal lyde:",
+                        "Departementet kan i forskrift gi utfyllende bestemmelser til denne paragraf.",
+                        "§ 4-7 første til tredje ledd skal lyde:",
+                        "For samarbeidende revisorer som fremstår utad som et fellesskap, gjelder bestemmelsene fastsatt i og i medhold av dette kapittel som om de var et revisjonsselskap.",
+                        "Dersom en revisor eller et revisjonsselskap har eierandeler i et foretak som utfører rådgivnings- eller andre tjenester, skal disse ses under ett i forhold til bestemmelsene fastsatt i og i medhold av dette kapittel.",
+                        "Årsregnskap for en revisjonspliktig kan ikke revideres av den som har samarbeidsavtale med noen som utfører rådgivnings- eller andre tjenester dersom dette er egnet til å påvirke eller reise tvil om revisors uavhengighet og objektivitet. Departementet kan i forskrift bestemme at reglene fastsatt i og i medhold av dette kapittel skal gjelde når det foreligger en slik samarbeidsavtale.",
+                        "§ 5-6 første ledd nytt femte punktum skal lyde:",
+                        "Revisjonsberetningen skal dateres og underskrives av revisor.",
+                        "§ 5-6 nytt annet ledd skal lyde:",
+                        "Revisjonsberetningen skal inneholde en innledning der det minst skal opplyses hvilket årsregnskap som er revidert og hvilket regelverk for finansiell rapportering som er anvendt ved utarbeidelsen av årsregnskapet.",
+                        "Nåværende annet til syvende ledd blir nye tredje til åttende ledd.",
+                        "§ 5-6 tredje ledd nytt annet punktum skal lyde:",
+                        "Revisjonsberetningen skal inneholde en beskrivelse av hva revisjonen har omfattet der det minst skal opplyses hvilke revisjonsstandarder som er anvendt ved revisjonen.",
+                        "§ 5-6 fjerde ledd nytt nr. 1 skal lyde:",
+                        "1.en klar angivelse av om årsregnskapet etter revisors oppfatning gir et rettvisende bilde i samsvar med det regelverket for finansiell rapportering som er anvendt,",
+                        "Nåværende nr. 1 til 3 blir nye nr. 2 til 4.",
+                        "§ 5-6 femte ledd skal lyde:",
+                        "Dersom regnskapet ikke gir de opplysninger om foretakets resultat og stilling som burde vært gitt, skal revisor ta forbehold, og eventuelt gi nødvendige tilleggsopplysninger i sin beretning. Det skal henvises til eventuelle forhold som revisor har påpekt ved bruk av presisering uten å ha tatt forbehold i revisjonsberetningen.",
+                        "§ 5-6 åttende ledd skal lyde:",
+                        "Revisor som reviderer årsregnskap for et morselskap skal avgi en felles revisjonsberetning for morselskapet og konsernet. Bestemmelsene i første til syvende ledd gjelder tilsvarende.",
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "Kongen kan gi overgangsregler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        },
+        {
+            "name": "IV",
+            "paragraphs": []
+        },
+        {
+            "name": "V",
+            "paragraphs": []
+        },
+        {
+            "name": "VI",
+            "paragraphs": []
+        }
+    ]
+}

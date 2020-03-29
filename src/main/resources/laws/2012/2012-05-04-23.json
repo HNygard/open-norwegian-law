@@ -1,0 +1,31 @@
+{
+    "lawId": "LOV-2012-05-04-23",
+    "lawName": "Lov om endringar i helsepersonelloven og spesialisthelsetjenesteloven (endringar relatert til pliktig fråhald)",
+    "shortName": "Endringslov til helsepersonell. og spesialisthelsetjenestel.",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 2-3",
+                    "title": "Departementets bestemmelser om nasjonale tjenester i spesialisthelsetjenesten og markedsføring av spesialisthelsetjenester",
+                    "sections": [
+                        "Departementet kan ved forskrift eller i det enkelte tilfelle gi bestemmelser om:",
+                        "1.nasjonale tjenester i spesialisthelsetjenesten og",
+                        "2.markedsføring av tjenester som omfattes av denne loven, herunder forbud mot visse former for markedsføring.",
+                        "Lova tek til å gjelde straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

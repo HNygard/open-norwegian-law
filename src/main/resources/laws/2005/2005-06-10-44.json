@@ -1,0 +1,1550 @@
+{
+    "lawId": "LOV-2005-06-10-44",
+    "lawName": "Lov om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsloven)",
+    "shortName": "Forsikringsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Del I. Alminnelige bestemmelser",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 1. Alminnelige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1-1",
+                    "title": "Virkeområde",
+                    "sections": [
+                        "Denne lov gjelder forsikringsselskaper, pensjonsforetak og virksomhet som drives av slike foretak. Med pensjonsforetak menes pensjonskasser og innskuddspensjonsforetak.",
+                        "Reglene i kapittel 11 om flytting gjelder også for banker og forvaltningsselskap for verdipapirfond.",
+                        "Kongen kan bestemme at loven her skal gjelde for pensjonsfond og kan gi nærmere regler om dette."
+                    ]
+                },
+                {
+                    "name": "§ 1-2",
+                    "title": "Forsikringsvirksomhet",
+                    "sections": [
+                        "Forsikringsvirksomhet kan bare drives av forsikringsselskaper og pensjonskasser og i henhold til tillatelse etter reglene i denne lov.",
+                        "Betegnelsen «forsikring» og andre ord eller uttrykk med samme betydningsinnhold kan i foretaksnavn og ved markedsføring bare benyttes i næringsvirksomhet som er, eller drives i forbindelse med forsikringsvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 1-3",
+                    "title": "Skille mellom forsikringsbransjer",
+                    "sections": [
+                        "Livsforsikringsselskaper kan bare overta livsforsikringer, jf. § 9-1. Et livsforsikringsselskap som har overtatt pensjonsordning med foretakspensjon for et foretak eller for et konsernforetak som har felles pensjonsordning, kan likevel også overta pensjonsordning med innskuddspensjon for samme foretak eller for et foretak som inngår i samme konsernforhold. Kredittilsynet kan tillate at livsforsikringsselskaper overtar andre personforsikringer.",
+                        "Skadeforsikringsselskaper kan bare overta forsikringer som ikke regnes som livsforsikringer eller kredittforsikringer. Kredittilsynet kan tillate at skadeforsikringsselskaper overtar livsforsikringer i form av rene risikoforsikringer av høyst ett års varighet og gjenforsikringer innen livsforsikring.",
+                        "Kredittforsikringsselskaper kan bare overta kredittforsikringer. Kredittilsynet kan gi nærmere regler om hvilke forsikringer som skal regnes som kredittforsikringer. I forhold til reglene i loven regnes kredittforsikringsselskaper som skadeforsikringsselskaper og kredittforsikring som skadeforsikring, hvor ikke annet er bestemt.",
+                        "Kredittilsynet avgjør i tvilstilfelle om en forsikring kan eller må overtas av livs-, skade- eller kredittforsikringsselskaper."
+                    ]
+                },
+                {
+                    "name": "§ 1-4",
+                    "title": "Pensjonskasser",
+                    "sections": [
+                        "Pensjonskasser kan bare overta kollektive pensjonsordninger og drive annen virksomhet som omfattes av § 7-1.",
+                        "Pensjonskasser som overtar kollektive pensjonsordninger som regnes som livsforsikring, jf. § 9-1, kan ikke overta kollektive pensjonsordninger eller andre pensjonsforpliktelser uten forsikringselement. En pensjonskasse som har overtatt pensjonsordning med foretakspensjon for et foretak eller for konsernforetak som har felles pensjonsordning i pensjonskassen, kan likevel også overta pensjonsordning med innskuddspensjon for samme foretak eller for et foretak som inngår i samme konsernforhold.",
+                        "Pensjonskasser som overtar kollektive pensjonsordninger uten forsikringselement, kan ikke overta kollektive pensjonsordninger eller andre pensjonsforpliktelser som regnes som livsforsikring."
+                    ]
+                },
+                {
+                    "name": "§ 1-5",
+                    "title": "Innskuddspensjonsforetak",
+                    "sections": [
+                        "Innskuddspensjonsforetak kan bare overta kollektive pensjonsordninger uten forsikringselement. Innskuddspensjonsforetak kan ikke overta andre kollektive pensjonsordninger eller andre pensjonsforpliktelser som regnes som livsforsikring."
+                    ]
+                },
+                {
+                    "name": "§ 1-6",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "Ansatte og tillitsvalgte i et forsikringsselskap eller pensjonsforetak har taushetsplikt med hensyn til opplysninger de får om andres forretningsmessige eller private forhold, med mindre de etter lov har plikt til å gi opplysninger. Tilsvarende gjelder andre som utfører oppdrag for forsikringsselskap eller pensjonsforetak.",
+                        "Taushetsplikten etter første ledd er ikke til hinder for at styret eller noen som har fullmakt fra styret gir andre kredittinstitusjoner opplysninger selskapet har mottatt i egenskap av kredittinstitusjon. Tilsvarende gjelder meddelelse av helse- og skadeopplysninger til annet forsikringsselskap eller pensjonsforetak, med mindre begrensninger i opplysningsadgangen fastsettes av Kongen."
+                    ]
+                },
+                {
+                    "name": "§ 1-7",
+                    "title": "Tillitsmenns og ansattes handel med finansielle instrumenter",
+                    "sections": [
+                        "For tillitsmenns og ansattes handel for egen regning med finansielle instrumenter gjelder lov 19. juni 1997 nr. 79 om verdipapirhandel §§ 2a-1 til 2a-7."
+                    ]
+                },
+                {
+                    "name": "§ 1-8",
+                    "title": "Geografisk virkeområde",
+                    "sections": [
+                        "Loven gjelder på kontinentalsokkelen og på Svalbard, i den utstrekning ikke annet følger av Norges folkerettslige forpliktelser."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del II. Forsikringsselskaper",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 2. Konsesjon",
+            "paragraphs": [
+                {
+                    "name": "§ 2-1",
+                    "title": "Konsesjon",
+                    "sections": [
+                        "Et forsikringsselskap kan ikke drive virksomhet uten tillatelse av Kongen, som kan sette vilkår for tillatelsen. Et forsikringsselskap skal ha forretningskontor og hovedkontor i Norge. Tillatelse skal nektes med mindre Kongen er overbevist om at eiere av kvalifisert eierandel og innehav av slike eierandeler er i samsvar med finansieringsvirksomhetsloven § 2-3. Med kvalifisert eierandel menes en eierandel som representerer 10 prosent eller mer av kapitalen eller stemmene i institusjonen, eller som for øvrig gir adgang til å utøve en vesentlig innflytelse i ledelsen av institusjonen og dens virksomhet. Tillatelse skal nektes med mindre mer enn tre firedeler av forsikringsselskapets aksjekapital tegnes ved kapitalforhøyelse uten fortrinnsrett for aksjeeiere eller andre.",
+                        "Tillatelse skal nektes dersom styremedlemmene, administrerende direktør eller annen person som faktisk leder virksomheten:",
+                        "a)ikke kan antas å ha den nødvendige erfaring til å utøve stillingen eller vervet,",
+                        "b)er dømt for et straffbart forhold, og det utviste forhold gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte, eller",
+                        "c)i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte.",
+                        "Tillatelse skal for øvrig gis med mindre det er grunn til å anta:",
+                        "a)at selskapet ikke vil oppfylle de krav som stilles i lov eller i medhold av lov,",
+                        "b)at startkapitalen ikke står i rimelig forhold til den planlagte virksomhet, eller",
+                        "c)at tillatelse på annen måte vil få uheldige virkninger for forsikringstakerne eller grupper av forsikringstakere.",
+                        "Tillatelse gis for en eller flere forsikringsbransjer, eller for en del av bransjen. Tillatelsen kan begrenses til et bestemt geografisk område, til bestemte kundegrupper eller på annen måte.",
+                        "Avgjørelse av søknad om tillatelse etter første ledd jf. tredje ledd skal meddeles søkeren innen seks måneder etter at søknaden er mottatt. Dersom søknaden ikke inneholder de opplysninger som er nødvendig for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt slike opplysninger ble mottatt.",
+                        "Krav om konsesjon etter denne paragrafen gjelder ikke for selskaper som har sitt hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde."
+                    ]
+                },
+                {
+                    "name": "§ 2-2",
+                    "title": "Tilbakekall av konsesjon",
+                    "sections": [
+                        "Kongen kan trekke en tillatelse tilbake helt eller delvis dersom:",
+                        "a)styret eller andre organer i forsikringsselskapet har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter etter lov, forskrifter gitt i medhold av lov, de vilkår som er satt i medhold av § 2-1 eller selskapets vedtekter,",
+                        "b)det ellers finnes misligheter i selskapets ledelse, eller andre omstendigheter som gir grunn til å frykte forhold som nevnt i § 2-1 annet ledd bokstav a og c,",
+                        "c)forsikringsselskapet ikke lenger har et betryggende økonomisk grunnlag, eller",
+                        "d)forsikringsselskapet ikke lenger driver aktiv virksomhet i vedkommende forsikringsbransje.",
+                        "For selskaper som nevnt i § 2-4 første ledd kan tillatelse også trekkes tilbake dersom forutsetningen i § 14-1 annet ledd ikke lenger er oppfylt."
+                    ]
+                },
+                {
+                    "name": "§ 2-3",
+                    "title": "Søknad om konsesjon",
+                    "sections": [
+                        "Søknad om tillatelse etter § 2-1 for nytt forsikringsselskap skal inneholde en driftsplan for selskapets tre første år. Driftsplanen skal inneholde:",
+                        "a)en oversikt over de forsikringer selskapet vil tilby,",
+                        "b)opplysninger om selskapets kapitalforhold,",
+                        "c)budsjett for etablerings- og administrasjonsomkostninger,",
+                        "d)opplysninger om hvilke prinsipper selskapet vil benytte ved premieberegning,",
+                        "e)opplysninger om hvordan gjenforsikringen er planlagt ordnet, og",
+                        "f)prognose for finansiell stilling etter tre års drift.",
+                        "Søknaden skal være bilagt:",
+                        "a)selskapets vedtekter,",
+                        "b)bekreftet kopi av stiftelsesdokumentet,",
+                        "c)bekreftet kopi av protokollen for den konstituerende generalforsamling, og",
+                        "d)opplysninger om navn og adresse på de skadebehandlingsrepresentanter som skal være utpekt i hvert av de øvrige EØS-landene dersom selskapet skal dekke risiko innen forsikringsklassen ansvar for landkjøretøy, bortsett fra hvis selskapet bare skal dekke fraktførerens ansvar, jf. bestemmelser fastsatt i medhold av lov 3. februar 1961 om ansvar for skade som motorvogn gjer (bilansvarslova) § 17.",
+                        "Kredittilsynet kan kreve ytterligere opplysninger, samt gi nærmere regler om innholdet i konsesjonssøknader."
+                    ]
+                },
+                {
+                    "name": "§ 2-4",
+                    "title": "Utenlandske og utenlandsk eide forsikringsselskaper",
+                    "sections": [
+                        "Utenlandsk forsikringsselskap kan gis konsesjon til å drive virksomhet i Norge etter reglene i kapittel 14.",
+                        "Det er ikke tillatt å formidle forsikringer til forsikringsselskaper som ikke har tillatelse til å drive virksomhet i Norge. Forbudet omfatter ikke skadeforsikringer i tilknytning til næringsvirksomhet. Kongen kan gi nærmere regler om formidlingsvirksomhet.",
+                        "Kongen kan i forskrift fastsette i hvilken utstrekning bestemmelsene i de foregående ledd skal gjelde overfor forsikringsselskaper som har sitt hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde, og fastsette nærmere regler for slike selskapers virksomhet i Norge."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Alminnelige selskapsrettslige regler",
+            "paragraphs": [
+                {
+                    "name": "§ 3-1",
+                    "title": "Selskapsformer",
+                    "sections": [
+                        "Forsikringsselskaper må organiseres som aksjeselskaper, allmennaksjeselskaper eller gjensidige selskaper.",
+                        "For forsikringsaksjeselskaper eller forsikringsallmennaksjeselskaper gjelder reglene i aksjeloven eller allmennaksjeloven, med mindre annet er bestemt i eller i medhold av loven her. Aksjeloven § 3-5 første ledd tredje punktum og § 8-1 annet ledd og allmennaksjeloven § 3-5 første ledd tredje punktum og § 8-1 annet ledd gjelder ikke for forsikringsselskaper.",
+                        "Aksjeloven gjelder ikke for gjensidige forsikringsselskaper, med mindre noe annet er bestemt i eller i medhold av loven her."
+                    ]
+                },
+                {
+                    "name": "§ 3-2",
+                    "title": "Vedtekter",
+                    "sections": [
+                        "Et forsikringsselskaps vedtekter skal godkjennes av Kongen og kan ikke endres uten godkjennelse av Kongen.",
+                        "Vedtektene i et livsforsikringsselskap skal inneholde regler om fastsettelse av utbytte på aksje- eller garantikapitalen."
+                    ]
+                },
+                {
+                    "name": "§ 3-3",
+                    "title": "Registrering",
+                    "sections": [
+                        "Et forsikringsselskap skal anmeldes til Foretaksregisteret senest seks måneder etter at tillatelse etter § 2-1 er gitt.",
+                        "Registerføreren skal kontrollere at selskapet har tillatelse etter § 2-1 til å drive virksomhet, og at dets vedtekter er godkjent etter § 3-2.",
+                        "For gjensidige forsikringsselskaper gjelder aksjeloven § 2-20 tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 3-4",
+                    "title": "Foretaksnavn",
+                    "sections": [
+                        "Et forsikringsselskaps foretaksnavn må inneholde ordet «forsikring» eller andre ord eller uttrykk med samme betydningsinnhold. Dessuten må selskapsformen fremgå av selskapets foretaksnavn."
+                    ]
+                },
+                {
+                    "name": "§ 3-5",
+                    "title": "Særlige regler for konsernforhold",
+                    "sections": [
+                        "Et forsikringsselskap kan inngå i et konsernforhold i samsvar med finansieringsvirksomhetsloven § 2a-6 bare dersom:",
+                        "a)morselskapet, selskapene i konsernenheten eller annet eierselskap ikke er kredittforsikringsselskap, og",
+                        "b)morselskapet, selskapene i konsernenheten og i tilfelle alle andre selskaper i det konsern forsikringsselskapet tilhører, enkeltvis og samlet oppfyller vilkårene i § 6-1 og § 6-2 i loven her. Kongen kan i forskrift gjøre unntak fra bestemmelsene i denne bokstav og gi forskrifter om at konsernet samlet må oppfylle også andre regler gitt i eller i medhold av loven her.",
+                        "c)konsernforholdet er etablert etter tillatelse etter finansieringsvirksomhetsloven § 2a-3."
+                    ]
+                },
+                {
+                    "name": "§ 3-6",
+                    "title": "Sammenføyning, deling mv.",
+                    "sections": [
+                        "Sammenføying (fusjon) og deling (fisjon) av forsikringsselskaper og morselskaper til forsikringsselskaper, kan ikke gjennomføres uten Kongens tillatelse. Likt med sammenføyning og deling regnes overtakelse eller avhendelse av en vesentlig del av virksomheten, herunder forsikringsportefølje. Kongen avgjør i tvilstilfelle hva som anses som vesentlige deler av selskapets eiendeler. § 13-1 annet ledd første punktum gjelder tilsvarende.",
+                        "Erverv av aksjer i et forsikringsselskap som allerede har tillatelse etter § 2-1 til å drive virksomhet, er avhengig av Kongens godkjennelse når ervervet medfører at selskapet vil inngå i et konsern."
+                    ]
+                },
+                {
+                    "name": "§ 3-7",
+                    "title": "Forhøyelse av ansvarlig kapital",
+                    "sections": [
+                        "Uten samtykke av Kongen kan den ansvarlige kapital ikke settes ned eller økes på annen måte enn ved fondsopplegg. Det kan knyttes slike vilkår til samtykket som er egnet til å ivareta de interesser som skal beskyttes ved denne lov og lov av 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner."
+                    ]
+                },
+                {
+                    "name": "§ 3-8",
+                    "title": "Overdragelse av forsikringsportefølje",
+                    "sections": [
+                        "Overdragelse av hele eller deler av et selskaps forsikringsportefølje krever tillatelse fra Kongen når forsikringsporteføljen enten er tegnet etter reglene om etableringsadgang eller etter reglene om adgang til å yte tjenester som følger av EØS-avtalen, og forsikringsporteføljen ønskes overdratt til forsikringsselskap med hovedsete i EØS-området. Bestemmelsen i første punktum gjelder også når forsikringsporteføljen overdras mellom forsikringsselskap med hovedsete i samme EØS-stat.",
+                        "Kongen gir nærmere regler om overdragelse i henhold til første ledd, herunder om:",
+                        "a)nødvendige bekreftelser, samtykke mv. fra tilsynsmyndigheter i andre EØS-stater,",
+                        "b)selskapets plikt til å informere forsikringstakerne,",
+                        "c)forsikringstakernes rett til å si opp forsikringsavtalen,",
+                        "d)offentliggjøring av overdragelse.",
+                        "Denne bestemmelsens første og annet ledd gjelder tilsvarende for overdragelse av forsikringsportefølje fra filial av forsikringsselskap med hovedsete i annet enn EØS-stat til forsikringsselskap etablert i Norge eller i annen EØS-stat."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Særlige selskapsrettslige regler for gjensidige forsikringsselskaper",
+            "paragraphs": [
+                {
+                    "name": "§ 4-1",
+                    "title": "Stiftelse",
+                    "sections": [
+                        "Et gjensidig forsikringsselskap kan stiftes av en eller flere stiftere. Stifterne skal opprette, datere og skrive under et dokument som inneholder utkast til vedtekter og bestemmelser som nevnt i § 4-4.",
+                        "Minst halvdelen av stifterne skal være bosatt i riket og ha bodd her i de siste to år, om ikke Kongen gjør unntak i det enkelte tilfellet. Like med personer som er bosatt i riket, regnes staten og norske kommuner samt norske selskaper med begrenset ansvar, foreninger og stiftelser. Bestemmelsen i første punktum gjelder ikke for statsborgere i stater som er part i EØS-avtalen når de er bosatt i en slik stat. Første punktum gjelder heller ikke for juridiske personer som nevnt i EØS-avtalen art. 34 annet ledd, som er opprettet i samsvar med lovgivningen i en av EUs medlemsstater eller en EFTA-stat, og som har sitt vedtektsbestemte sete, sin hovedadministrasjon eller sitt hovedforetak innen EU- eller EFTA-statenes territorium."
+                    ]
+                },
+                {
+                    "name": "§ 4-2",
+                    "title": "Garantifond",
+                    "sections": [
+                        "Garantifondet (garantikapitalen) kan bestå av ansvarlig lånekapital. Lånet kan ytes fra et aksjeselskap eller et allmennaksjeselskap som er stiftet for dette formål, fra et annet selskap eller fra andre.",
+                        "Lånekapital som nevnt i første ledd kan også tas opp ved at det utstedes omsettelige grunnfondsbevis med representasjonsrett i generalforsamlingen, jf. § 4-3 bokstav b. Kongen kan bestemme at visse regler i aksjeloven får anvendelse for grunnfondsbevis. Vedtak om tilbakebetaling av grunnfondsbevis utstedt etter dette ledd er ikke gyldig uten etter tillatelse av Kongen. Kongen kan fastsette nærmere regler om begrensninger i adgang til å eie grunnfondsbevis, herunder også begrensninger i utlendingers adgang til å eie grunnfondsbevis."
+                    ]
+                },
+                {
+                    "name": "§ 4-3",
+                    "title": "Vedtekter",
+                    "sections": [
+                        "Vedtektene skal foruten det som er nevnt i § 5-1 første ledd angi:",
+                        "a)Det som er angitt i aksjeloven § 2-2 første ledd nr. 1, 2, 3, 6 og 7.",
+                        "b)Reglene for medlemskap, sammensetning av generalforsamling og stemmerett på generalforsamling.",
+                        "c)Det antall forsikringer og den samlede forsikringssum som skal være tegnet, for at selskapet skal kunne starte sin virksomhet.",
+                        "d)Reglene for medlemmenes ansvar innbyrdes.",
+                        "e)Reglene for oppløsning av selskapet.",
+                        "f)Reglene for anvendelse av årsoverskuddet og dekning av eventuelt underskudd.",
+                        "g)Reglene for når generalforsamling skal holdes.",
+                        "h)Reglene for hvem som skal innkalle til generalforsamling, og hvordan innkallingen skal skje."
+                    ]
+                },
+                {
+                    "name": "§ 4-4",
+                    "title": "Stiftelsesdokument",
+                    "sections": [
+                        "Stiftelsesdokumentet skal dessuten angi:",
+                        "a)Forsikringenes art.",
+                        "b)Når den konstituerende generalforsamling må være holdt for at tegning av forsikring skal være bindende for medlemmene.",
+                        "c)Størrelse på et eventuelt garantifond.",
+                        "d)Hvor stor del av garantifondet som eventuelt skal innbetales straks og reglene for det garanterende selskaps forpliktelse til å gjøre ytterligere innbetaling til garantifondet.",
+                        "e)Reglene for forrentning og tilbakebetaling av et eventuelt garantifond.",
+                        "f)Eventuelle regler om at det garanterende selskap skal kunne øve innflytelse på eller føre tilsyn med forsikringsselskapet.",
+                        "g)Hvem som skal betale stiftelsesomkostningene, og eventuelt godtgjørelse til noen for arbeidet i forbindelse med stiftelsen.",
+                        "Bestemmelser som ikke er angitt i stiftelsesdokumentet, kan ikke gjøres gjeldende mot selskapet."
+                    ]
+                },
+                {
+                    "name": "§ 4-5",
+                    "title": "Innbydelse til forsikringstegning",
+                    "sections": [
+                        "Bestemmelsen i § 2-1 om konsesjon er ikke til hinder for at det med henblikk på å stifte et gjensidig forsikringsselskap kan skje inntegning av medlemmer. Før selskapet er registrert, løper ikke selskapets forsikringsansvar, og premie kan ikke innkreves."
+                    ]
+                },
+                {
+                    "name": "§ 4-6",
+                    "title": "Innkalling til konstituerende generalforsamling",
+                    "sections": [
+                        "Stifterne innkaller medlemmene til den konstituerende generalforsamling, som skal avholdes senest seks måneder etter at stiftelsesdokumentet er undertegnet. Oversittes denne fristen, er tegning ikke bindende."
+                    ]
+                },
+                {
+                    "name": "§ 4-7",
+                    "title": "Konstituerende generalforsamling",
+                    "sections": [
+                        "Beslutning om å stifte selskapet treffes på konstituerende generalforsamling.",
+                        "Tegningslisten skal holdes tilgjengelig for tegnerne i minst en uke før generalforsamlingen på et sted som angis i innkallingen.",
+                        "På den konstituerende generalforsamlingen skal stifterne legge fram stiftelsesdokumentet og tegningslisten.",
+                        "Blir ikke det antall forsikringer og den forsikringssum tegnet som skal være tegnet etter stiftelsesdokumentet, jf. § 4-3 bokstav c, kan selskapet ikke besluttes stiftet. Forsikringssum som er innbetalt, skal i så fall uten opphold betales tilbake.",
+                        "Før det gjensidige forsikringsselskapet kan besluttes stiftet, skal den konstituerende generalforsamlingen ha behandlet og avgjort forslag som måtte være fremsatt om endringer i vedtektene eller i stiftelsesdokumentet for øvrig. Generalforsamlingen kan likevel ikke treffe beslutning i strid med stiftelsesdokumentet i saker som nevnt i § 4-3 bokstav b, c, d og e og § 4-4 bokstav a, c, d og e.",
+                        "Forslaget om å stifte selskapet anses vedtatt dersom det får tilslutning fra flertallet av de avgitte stemmer og fra minst to tredjedeler av den kapital som er representert på generalforsamlingen. Blir det ikke oppnådd slikt flertall, bortfaller stiftelsen av selskapet.",
+                        "Når selskapet er stiftet, skal generalforsamlingen velge kontrollkomité og i tilfelle representantskap eller styre."
+                    ]
+                },
+                {
+                    "name": "§ 4-8",
+                    "title": "Utligning av overskudd og underskudd",
+                    "sections": [
+                        "Med mindre annet er bestemt i vedtektene, skal overskudd eller underskudd utlignes på dem som var medlemmer i samme regnskapstermin, i forhold til en beregnet forskuddspremie.",
+                        "I vedtektene til livsforsikringsselskap kan det bestemmes at medlemmene ikke skal ha ansvar for selskapets forpliktelser, men at underskudd i stedet skal utlignes ved en forholdsmessig reduksjon av forsikringskravene."
+                    ]
+                },
+                {
+                    "name": "§ 4-9",
+                    "title": "Ansvar overfor tredjemann",
+                    "sections": [
+                        "Medlemmenes ansvar for selskapets forpliktelser kan bare gjøres gjeldende av selskapet.",
+                        "Selskapets krav på bidrag fra medlemmene ved utligning av underskudd kan ikke overdras, pantsettes eller tas til utlegg for gjeld."
+                    ]
+                },
+                {
+                    "name": "§ 4-10",
+                    "title": "Samarbeid",
+                    "sections": [
+                        "Gjensidige selskaper kan gjennom samarbeidsavtaler danne konsernenheter basert på felles vedtektsfestede selskapsorganer, og vedtektene kan i slike tilfelle avvike fra reglene i denne lov og i lov om finansieringsvirksomhet og finansinstitusjoner."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Selskapets organer mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 5-1",
+                    "title": "Styre",
+                    "sections": [
+                        "Forsikringsselskap skal ha et styre på minst tre medlemmer. Selskapets ansatte skal være representert i styret. Kongen kan fastsette nærmere regler om dette. Styret skal ha et flertall av personer som ikke er ansatt i selskapet eller i selskaper i samme konsern. Lederen skal velges blant dette flertallet. Vedtektene skal inneholde bestemmelser om varamedlemmer.",
+                        "Styremedlemmene velges av representantskapet. Har selskapet ikke representantskap, velges styremedlemmene av generalforsamlingen. Den valgrett som tilkommer representantskapet eller generalforsamlingen, kan i vedtektene overføres til andre, men ikke til styret selv eller medlemmer av styret.",
+                        "Reglene i denne paragraf gjelder også for morselskap til forsikringsaksjeselskap eller forsikringsallmennaksjeselskap. I disse tilfellene gjelder ikke første ledd fjerde og femte punktum for det selskap som eies. Kongen kan samtykke i at det eide forsikringsselskap har identisk styre med eierselskapet."
+                    ]
+                },
+                {
+                    "name": "§ 5-2",
+                    "title": "Administrerende direktør",
+                    "sections": [
+                        "Forsikringsselskap skal ha administrerende direktør (daglig leder)."
+                    ]
+                },
+                {
+                    "name": "§ 5-3",
+                    "title": "Aksjelovens anvendelse på gjensidige selskaper",
+                    "sections": [
+                        "Reglene i aksjeloven §§ 6-1 til 6-3 og §§ 6-6 til 6-34 gjelder tilsvarende for gjensidige forsikringsselskaper, med mindre annet følger av loven her."
+                    ]
+                },
+                {
+                    "name": "§ 5-4",
+                    "title": "Representantskap",
+                    "sections": [
+                        "I forsikringsselskaper med mer enn 50 ansatte skal det velges et representantskap med 12 medlemmer eller et høyere tall delelig med 3, som fastsettes av generalforsamlingen.",
+                        "To tredjedeler av medlemmene med varamedlemmer velges av generalforsamlingen. De valgte medlemmer skal til sammen avspeile selskapets interessegrupper, kundestruktur og samfunnsfunksjon. Vedtektene skal fastsette nærmere regler om dette. I vedtektene kan valgretten overføres til andre.",
+                        "En tredjedel av medlemmene med varamedlemmer velges av og blant de ansatte etter regler fastsatt av Kongen.",
+                        "Kongen kan dispensere fra kravet om at selskapet skal ha representantskap. I så fall skal selskapets styre så vidt mulig sammensettes etter reglene i denne paragraf.",
+                        "Representantskapet skal ha de oppgaver som påligger en bedriftsforsamling etter allmennaksjeloven §§ 6-35 til 6-40, med mindre selskapets vedtekter gir representantskapet en videre kompetanse.",
+                        "Reglene i første, annet, tredje og femte ledd gjelder også for morselskap til forsikringsaksjeselskap eller forsikringsallmennaksjeselskap."
+                    ]
+                },
+                {
+                    "name": "§ 5-5",
+                    "title": "Kontrollkomité",
+                    "sections": [
+                        "Forsikringsselskap skal ha en kontrollkomité med minst tre medlemmer og ett varamedlem. Medlemmer og varamedlemmer velges av generalforsamlingen. Ett medlem av komiteen skal tilfredsstille de krav som stilles til dommere etter lov av 13. august 1915 nr. 5 om domstolene § 54 annet ledd. Valget av dette medlem skal godkjennes av Kredittilsynet. Kredittilsynet kan dispensere fra bestemmelsene i de to foregående punktum.",
+                        "Samarbeidende selskaper kan ha felles kontrollkomité.",
+                        "Reglene i denne paragraf gjelder også for morselskap til forsikringsaksjeselskap eller forsikringsallmennaksjeselskap. I disse tilfellene bestemmer Kongen om første ledd skal gjelde for det selskap som eies.",
+                        "Medlemmene i kontrollkomiteen kan ikke være leder eller nestleder i representantskapet, styremedlem, varamedlem til styret, selskapets revisor eller ansatt i forsikringsselskapet, eller så nært beslektet eller besvogret med disse som nevnt i forvaltningsloven § 6."
+                    ]
+                },
+                {
+                    "name": "§ 5-6",
+                    "title": "Kontrollkomiteens oppgaver og myndighet",
+                    "sections": [
+                        "Kontrollkomiteen skal føre tilsyn med forsikringsselskapets virksomhet, og påse at det følger lover, forskrifter og vilkår, samt vedtekter og vedtak i selskapets besluttende organer. Kontrollkomiteen kan ta ethvert forhold innen selskapet opp til behandling.",
+                        "Kontrollkomiteen kan til enhver tid forlange seg forelagt selskapets protokoller og dokumenter, og kreve at tillitsvalgte og ansatte gir de opplysninger som komiteen mener er nødvendige for at den skal kunne utføre sitt verv.",
+                        "Representantskapet vedtar instruks for kontrollkomiteen. Instruksen godkjennes av Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 5-7",
+                    "title": "Kontrollkomiteens innberetnings- og rapportplikt",
+                    "sections": [
+                        "Kontrollkomiteen skal føre protokoll over sine møter. Protokollen gjøres kjent for styret.",
+                        "Kontrollkomiteen skal gi innberetning til representantskapet minst én gang i året.",
+                        "Får komiteen kjennskap til betydelige forsømmelser, feil eller misligheter av større betydning eller rekkevidde eller mener den at selskapet har lidt store tap, skal den straks ta dette opp med Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 5-8",
+                    "title": "Generalforsamling",
+                    "sections": [
+                        "Kredittilsynet trer i tingrettens sted ved utøvelse av myndighet som nevnt i aksjeloven § 5-8 annet ledd og § 5-12 første ledd tredje punktum og allmennaksjeloven § 5-8 annet ledd og § 5-12 annet ledd. Aksjelovens bestemmelser om generalforsamling får tilsvarende anvendelse på gjensidige selskaper."
+                    ]
+                },
+                {
+                    "name": "§ 5-9",
+                    "title": "Revisjon og granskning",
+                    "sections": [
+                        "Representantskapet velger en eller flere registrerte eller statsautoriserte revisorer, og godkjenner revisors godtgjørelse.",
+                        "Kredittilsynet trer inn i tingrettens sted ved utøvelse av myndighet etter aksjeloven og allmennaksjeloven §§ 5-25 til 5-27 og § 7-3. Reglene i aksjeloven kapittel 7 og §§ 5-25 til 5-27 og revisorloven gjelder tilsvarende for gjensidige forsikringsselskaper."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Selskapets virksomhet",
+            "paragraphs": [
+                {
+                    "name": "§ 6-1",
+                    "title": "Forbud mot annen virksomhet",
+                    "sections": [
+                        "Et forsikringsselskap kan bare drive forsikringsvirksomhet og virksomhet som naturlig henger sammen med forsikringsvirksomhet.",
+                        "Bestemmelsen i første ledd er ikke til hinder for at et forsikringsselskap midlertidig driver eller deltar i driften av annen virksomhet i den utstrekning det er nødvendig for å få dekning av krav eller for avvikling av skadeoppgjør. Kredittilsynet kan kreve at selskapet opphører med slik virksomhet innen en fastsatt frist.",
+                        "Kongen kan gi nærmere regler om hva slags virksomhet forsikringsselskaper kan drive, og gjøre generelle eller individuelle unntak fra bestemmelsen i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 6-2",
+                    "title": "Eierandeler og innflytelse i andre selskaper",
+                    "sections": [
+                        "Et forsikringsselskap kan ikke eie eller ved stemmegivning representere mer enn 15 prosent av aksjene eller andelene i et selskap som driver virksomhet som etter § 6-1 ikke kan drives av forsikringsselskap. Forbudet gjelder likevel ikke for så vidt den samlede verdi av slike eiendeler er mindre enn forsikringsselskapets midler etter fradrag for avsetninger til dekning av forsikringsforpliktelsene, så fremt den økonomiske risiko ved investeringen er begrenset til verdien av den aktuelle investeringen.",
+                        "Kongen kan i særlige tilfelle gjøre unntak fra bestemmelsene i denne paragraf og sette vilkår for unntaket.",
+                        "Bestemmelsene i paragrafen gjelder ikke forsikringsselskapers adgang til å eie aksjer eller andeler i finansinstitusjoner. Som finansinstitusjon regnes også verdipapir- og eiendomsmeglerforetak, foretak som forvalter verdipapirfond, samt utenlandsk finansinstitusjon."
+                    ]
+                },
+                {
+                    "name": "§ 6-3",
+                    "title": "Krav til kapitaldekning",
+                    "sections": [
+                        "Et forsikringsselskap skal ha en kapitaldekning som til enhver tid utgjør minst 8 prosent av selskapets aktiva og selskapets forpliktelser utenfor balansen, beregnet etter prinsipper for risikoveiing.",
+                        "Kongen kan fastsette:",
+                        "a)minstebeløp for ansvarlig kapital,",
+                        "b)regler om beregningsgrunnlaget,",
+                        "c)hva som skal anses som ansvarlig kapital,",
+                        "d)annen prosentsats enn nevnt i første ledd for å bringe norske bestemmelser i samsvar med internasjonale standarder."
+                    ]
+                },
+                {
+                    "name": "§ 6-4",
+                    "title": "Krav til solvensmarginkapital",
+                    "sections": [
+                        "Et forsikringsselskap skal til enhver tid ha en kapital som er tilstrekkelig til å dekke solvensmarginen for selskapets samlede virksomhet.",
+                        "Kongen kan ved forskrift fastsette regler om beregningsmåten for solvensmarginen for henholdsvis livsforsikringsselskaper og skadeforsikringsselskaper, den kapital som kan dekke kravene, og andre forhold vedrørende gjennomføringen av solvensmarginkravene."
+                    ]
+                },
+                {
+                    "name": "§ 6-5",
+                    "title": "Kontroll med forsikringsselskapers solvens",
+                    "sections": [
+                        "Kredittilsynet fører kontroll med forsikringsselskapers solvens.",
+                        "Hvis et selskap ikke oppfyller kravene til kapitaldekning eller solvensmarginkapital, kan Kongen gi selskapet pålegg om å stanse nytegning. Kongen kan også pålegge selskapet å foreta bestemte disposisjoner med sikte på å oppfylle krav til kapitaldekning eller solvensmarginkapital.",
+                        "Kongen kan i særlige tilfelle og for en tidsbegrenset periode samtykke i at selskapet kan ha lavere kapitaldekning eller solvensmarginkapital enn fastsatt."
+                    ]
+                },
+                {
+                    "name": "§ 6-6",
+                    "title": "Kapitalforvaltning",
+                    "sections": [
+                        "Et forsikringsselskap skal sørge for en forsvarlig kapitalforvaltning. Et forsikringsselskap skal for å sikre oppfyllelse av dets forsikringsforpliktelser sørge for at eiendeler til dekning av de forsikringsmessige avsetninger til enhver tid er plassert på en hensiktsmessig og betryggende måte sett i forhold til arten av forsikringsforpliktelsene og hensynet til sikkerhet, risikospredning, likviditet og avkastning.",
+                        "Kongen gir nærmere regler om kapitalforvaltningen.",
+                        "Finner Kredittilsynet at et forsikringsselskap har plassert sin kapital i strid med lov eller forskrifter eller for øvrig på ubetryggende eller åpenbart uheldig måte, kan Kredittilsynet pålegge selskapet å endre plasseringen innen en fastsatt frist."
+                    ]
+                },
+                {
+                    "name": "§ 6-7",
+                    "title": "Forsikringsvilkår",
+                    "sections": [
+                        "Et forsikringsselskap skal benytte forsikringsvilkår som er rimelige og betryggende.",
+                        "Kredittilsynet skal føre kontroll for å påse at de forsikringsvilkår som benyttes er i samsvar med første ledd. Kredittilsynet kan forby bruk av vilkår som Kredittilsynet finner å være ubetryggende eller urimelige."
+                    ]
+                },
+                {
+                    "name": "§ 6-8",
+                    "title": "Gjenforsikring",
+                    "sections": [
+                        "Et forsikringsselskap skal til enhver tid ha gjenforsikring som er betryggende sett i forhold til selskapets risikoeksponering og dets økonomiske stilling.",
+                        "Styret skal sørge for at det foreligger oppdaterte retningslinjer for arten og omfanget av selskapets gjenforsikringer og for at disse blir fulgt opp."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del III. Pensjonsforetak",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 7. Pensjonskasser",
+            "paragraphs": [
+                {
+                    "name": "§ 7-1",
+                    "title": "Pensjonskasse",
+                    "sections": [
+                        "En pensjonskasse er en selveiende institusjon med virksomhet som er basert på én eller flere kollektive pensjonsordninger som er etablert av foretaket eller kommunen som har opprettet pensjonskassen, med mindre noe annet følger av § 7-2. Virksomheten kan også omfatte virksomhet som naturlig henger sammen med slik virksomhet (tilknyttet virksomhet).",
+                        "Som kollektiv pensjonsordning regnes kommunale pensjonsordninger og pensjonsordninger opprettet i samsvar med reglene i foretakspensjonsloven og innskuddspensjonsloven, samt andre kollektive pensjonsordninger. Som kollektiv pensjonsordning regnes også pensjonsordning opprettet for medlemmer i en forening av selvstendige næringsdrivende og i tilfelle deres arbeidstakere (foreningspensjonsordning).",
+                        "Som tilknyttet virksomhet regnes også utstedelse av fripoliser, pensjonsbevis eller pensjonskapitalbevis til arbeidstakere som er fratrådt sin stilling og opphørt å være medlem av pensjonsordning i pensjonskassen, samt tilleggsavtaler til slik rett til pensjon. Har en pensjonskasse tillatelse til å overta kollektive pensjonsordninger som regnes som livsforsikring, regnes også forsikring av risiko for uførhet eller død knyttet til medlemmene i en kollektiv pensjonsordning i pensjonskassen som tilknyttet virksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 7-2",
+                    "title": "Pensjonskasser for flere foretak/arbeidsgivere",
+                    "sections": [
+                        "Foretak, kommuner og andre arbeidsgivere som har adgang til å opprette felles pensjonsordning etter foretakspensjonsloven kapittel 12, innskuddspensjonsloven kapittel 10 eller denne lovens kapittel 10, kan ha slik felles pensjonsordning i en pensjonskasse. Kravet om tilknytning i foretakspensjonsloven § 12-1 og innskuddspensjonsloven § 10-1 gjelder tilsvarende for opprettelse av felles pensjonskasse for felles pensjonsordning som ikke omfattes av disse lovene.",
+                        "To eller flere kommuner kan avtale å ha sine pensjonsordninger i samme pensjonskasse (interkommunal pensjonskasse).",
+                        "Kongen kan gi nærmere regler om pensjonsordninger og pensjonskasser som omfattes av første og annet ledd."
+                    ]
+                },
+                {
+                    "name": "§ 7-3",
+                    "title": "Konsesjon",
+                    "sections": [
+                        "En pensjonskasse kan ikke drive virksomhet uten tillatelse gitt av Kongen.",
+                        "En pensjonskasse kan meddeles tillatelse til å overta kollektive pensjonsordninger som regnes som livsforsikring, eller tillatelse til å overta kollektive pensjonsordninger uten forsikringselement. Det kan settes vilkår for tillatelsen, herunder vilkår som avgrenser den virksomhet pensjonskassen kan drive.",
+                        "Bestemmelsene i § 2-1 annet til femte ledd, § 2-2 og § 2-3 gjelder tilsvarende.",
+                        "Kongen kan fastsette regler om utenlandske pensjonskassers adgang til å drive virksomhet her i riket og norske pensjonskassers adgang til å drive virksomhet i annen stat."
+                    ]
+                },
+                {
+                    "name": "§ 7-4",
+                    "title": "Vedtekter mv.",
+                    "sections": [
+                        "En pensjonskasse skal ha vedtekter som minst angir:",
+                        "a)pensjonskassens navn og forretningskontor,",
+                        "b)pensjonskassens virksomhet,",
+                        "c)minstekrav til grunnkapital,",
+                        "d)regler om styre, daglig leder og andre organer,",
+                        "e)regler om valg av styremedlemmer, styreleder, andre organer og revisor,",
+                        "f)regler om vedtak vedrørende endring av vedtekter og sammenslutning, deling og avvikling av pensjonskassen,",
+                        "g)regler om utbytte av grunnkapitalen og andre kapitalinnskudd.",
+                        "Vedtektene og endring av vedtektene skal være godkjent av Kongen.",
+                        "En pensjonskasse skal være registrert i Foretaksregisteret. § 3-3 første og annet ledd gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 7-5",
+                    "title": "Kapitalforhold",
+                    "sections": [
+                        "Pensjonskassen skal til enhver tid ha en minste grunnkapital tilsvarende 10 ganger folketrygdens grunnbeløp (G), med mindre et høyere minstekrav er fastsatt i vedtekter eller konsesjonsvilkår.",
+                        "Pensjonskassen kan oppta ansvarlig lånekapital.",
+                        "Pensjonskassen kan utstede grunnfondsbevis etter regler gitt av Kongen.",
+                        "Pensjonskassens grunnkapital og ansvarlige kapital kan ikke uten samtykke av Kongen settes ned eller forhøyes på annen måte enn ved fondsopplegg."
+                    ]
+                },
+                {
+                    "name": "§ 7-6",
+                    "title": "Styret og daglig leder",
+                    "sections": [
+                        "Pensjonskassen skal ha et styre med minst tre styremedlemmer. Hvis forvaltningskapitalen er på 100 millioner kroner eller mer, skal styret ha minst fem styremedlemmer. Styret skal ha minst ett medlem uten tilknytning til pensjonskassen eller til arbeidsgiver, foretak, forening eller annen institusjon med pensjonsordning i pensjonskassen. Medlemmene i en pensjonsordning i pensjonskassen skal være representert i styret.",
+                        "Pensjonskassen skal ha daglig leder som ikke samtidig er medlem av styret. Daglig leder skal tilsettes av styret.",
+                        "For øvrig gjelder reglene i aksjeloven §§ 6-1 til 6-3, 6-6 til 6-15 og 6-19 til 6-34 tilsvarende så langt de passer. Aksjeloven § 6-17 gjelder dersom dette følger av konsesjonsvilkårene.",
+                        "Revisor og ansvarshavende aktuar i pensjonskassen skal møte samtidig i minst to styremøter per år."
+                    ]
+                },
+                {
+                    "name": "§ 7-7",
+                    "title": "Organisering av virksomheten",
+                    "sections": [
+                        "En pensjonskasses virksomhet og økonomiske forhold skal holdes rettslig atskilt fra virksomheten til arbeidsgiver, foretak, forening eller annen institusjon som har pensjonsordning i pensjonskassen.",
+                        "Styret skal sørge for forsvarlig organisering av virksomheten, herunder at det foreligger systemer for internkontroll.",
+                        "Styret kan inngå avtaler om utførelse av forsikringstekniske beregninger, registrering av medlemmer og rettigheter og andre særskilte arbeidsoppgaver som omfattes av den daglige ledelse av virksomheten. Avtale om kapitalforvaltning kan bare inngås med bank eller livsforsikringsselskap som har adgang til å drive virksomhet her i riket, samt med verdipapirforetak med adgang til å drive aktiv forvaltning her i riket.",
+                        "Styret skal sørge for at det til enhver tid foreligger skriftlig fastsatte retningslinjer for forsvarlig kapitalforvaltning, og skal drøfte retningslinjene minst hvert år. Det skal utarbeides en redegjørelse for investeringsstrategien som omfatter metoder for måling og styring av investeringsrisiko og allokering av eiendeler sett i forhold til pensjonsforpliktelsenes art og varighet."
+                    ]
+                },
+                {
+                    "name": "§ 7-8",
+                    "title": "Forholdet til pensjonsordningene og arbeidsgiver",
+                    "sections": [
+                        "Regelverket for en pensjonsordning fastsettes ved avtale mellom pensjonskassen og arbeidsgiver. Som arbeidsgiver regnes her også morselskap i konsern, kommune, forening og styrende organ i en foreningspensjonsordning.",
+                        "Utkast til regelverket skal forelegges pensjonskassens aktuar til uttalelse før avtalen inngås.",
+                        "Skal midler i en pensjonskasse forvaltes som egen investeringsportefølje, skal avtalen fastsette hvordan porteføljen skal være sammensatt, om adgang til å endre porteføljen og andre vilkår som er påkrevd.",
+                        "Bestemmelsene om kollektive pensjonsordninger i lov 16. juni 1989 nr. 69 om forsikringsavtaler gjelder tilsvarende så langt de passer."
+                    ]
+                },
+                {
+                    "name": "§ 7-9",
+                    "title": "Krav til ansvarlig kapital mv.",
+                    "sections": [
+                        "En pensjonskasse med pensjonsordninger som anses som livsforsikring skal til enhver tid ha forsvarlig ansvarlig kapital og solvensmarginkapital. Bestemmelsene i §§ 6-3 til 6-5 gjelder tilsvarende.",
+                        "En pensjonskasse med pensjonsordninger uten forsikringselement skal til enhver tid ha forsvarlig ansvarlig kapital. Bestemmelsene i §§ 6-3 og 6-5 gjelder tilsvarende.",
+                        "Arbeidsgiver, foretak, forening eller annen institusjon med pensjonsordning i pensjonskassen kan skyte inn ny kapital i pensjonskassen for å sikre at soliditeten til enhver tid er forsvarlig, og at minstekravene til grunnkapital og annen kapital er oppfylt. Det samme gjelder arbeidsgivere tilknyttet en foreningspensjonsordning.",
+                        "Lov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner kapitlene 3 og 4 gjelder tilsvarende for pensjonskasser."
+                    ]
+                },
+                {
+                    "name": "§ 7-10",
+                    "title": "Alminnelige regler for virksomheten",
+                    "sections": [
+                        "Bestemmelsene i §§ 6-1, 6-2, 6-6- til 6-8 og kapittel 11 gjelder tilsvarende for pensjonskasser.",
+                        "Bestemmelsene om livsforsikring i kapittel 9 gjelder tilsvarende for pensjonskasser med tillatelse til å overta kollektive pensjonsordninger som regnes som livsforsikring, med mindre annet er fastsatt i eller i medhold av lov.",
+                        "For pensjonskasser med tillatelse til å overta kollektive pensjonsordninger uten forsikringselement gjelder bestemmelsene i §§ 9-3, 9-7 til 9-9, 9-15 til 9-18, 9-19, 9-23 og 9-24 tilsvarende så langt de passer.",
+                        "Kongen kan gi nærmere regler om pensjonskassers virksomhet, herunder regler til gjennomføring og avgrensning av bestemmelsene i paragrafen her."
+                    ]
+                },
+                {
+                    "name": "§ 7-11",
+                    "title": "Informasjonskrav",
+                    "sections": [
+                        "Medlemmer og pensjonister skal underrettes om endringer i regelverket for egen pensjonsordning.",
+                        "Hvert år skal det enkelte medlem og pensjonist motta en oppgave med informasjon om nivået på vedkommendes opptjente pensjonsrettigheter. Det skal også orienteres om pensjonskassens investeringsstrategi dersom resultatet av kapitalforvaltningen er av direkte betydning for omfanget av pensjonsrettighetene.",
+                        "Medlemmer og pensjonister skal på anmodning få tilsendt pensjonskassens årsregnskap med årsberetning. Det samme gjelder regnskap for egen pensjonsordning dersom det er flere pensjonsordninger i pensjonskassen.",
+                        "Kongen kan fastsette nærmere regler om opplysninger som skal gis til medlemmer og pensjonister."
+                    ]
+                },
+                {
+                    "name": "§ 7-12",
+                    "title": "Sammenslåing, deling og opphør",
+                    "sections": [
+                        "Sammenslåing, deling og opphør av en pensjonskasse krever samtykke av Kongen. Vedtak om sammenslåing, deling og opphør skal meldes til Foretaksregisteret. Kongen kan fastsette nærmere regler om sammenslåing, deling og opphør.",
+                        "Bestemmelsene i foretakspensjonsloven kapitlene 13, 14 og 15 og innskuddspensjonsloven kapitlene 11, 12 og 13 gjelder tilsvarende så langt de passer, med mindre Kongen i sitt samtykke etter første ledd fastsetter andre vilkår."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8. Innskuddspensjonsforetak",
+            "paragraphs": [
+                {
+                    "name": "§ 8-1",
+                    "title": "Innskuddspensjonsforetak",
+                    "sections": [
+                        "Et innskuddspensjonsforetak er et aksjeselskap med virksomhet basert på kollektiv innskuddspensjon uten forsikringselement og som også kan omfatte virksomhet som naturlig henger sammen med slik virksomhet (tilknyttet virksomhet).",
+                        "Som tilknyttet virksomhet regnes utstedelse av pensjonskapitalbevis til arbeidstakere som er fratrådt sin stilling og opphørt å være medlem av pensjonsordning i innskuddspensjonsforetaket, samt fortsatt pensjonsspareavtale for slike personer."
+                    ]
+                },
+                {
+                    "name": "§ 8-2",
+                    "title": "Konsesjon",
+                    "sections": [
+                        "Et innskuddspensjonsforetak kan ikke drive virksomhet uten tillatelse gitt av Kongen.",
+                        "Et innskuddspensjonsforetak kan meddeles tillatelse til å overta kollektive pensjonsordninger uten forsikringselement.",
+                        "Bestemmelsene i § 2-1 annet til femte ledd, § 2-2, § 2-3 og § 7-3 fjerde ledd gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 8-3",
+                    "title": "Krav til organisering mv.",
+                    "sections": [
+                        "Bestemmelsene i §§ 6-3, 6-5, 7-4 til 7-7, § 7-8 første, tredje og fjerde ledd, § 7-9 fjerde ledd og § 7-11 gjelder tilsvarende for innskuddspensjonsforetak så langt de passer.",
+                        "Kongen kan gi nærmere regler om organisering av innskuddspensjonsforetak."
+                    ]
+                },
+                {
+                    "name": "§ 8-4",
+                    "title": "Alminnelige regler for virksomheten",
+                    "sections": [
+                        "Bestemmelsene i §§ 6-7, 9-3, 9-7 til 9-9, 9-15, 9-18, 9-19, 9-23 og kapittel 11 gjelder tilsvarende så langt de passer.",
+                        "Kongen kan gi nærmere regler om innskuddspensjonsforetaks virksomhet, herunder regler til gjennomføring og avgrensning av bestemmelsene i paragrafen her."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del IV. Livsforsikring",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 9. Kollektiv og individuell livsforsikring",
+            "paragraphs": [
+                {
+                    "name": "§ 9-1",
+                    "title": "Virkeområde og definisjoner",
+                    "sections": [
+                        "Bestemmelsene i dette kapittel gjelder for selskaper som yter kollektiv livsforsikring, individuell livsforsikring eller begge deler, med mindre annet følger av reglene om kommunale pensjonsordninger i kapittel 10.",
+                        "Som kollektiv livsforsikring regnes kollektive pensjonsordninger etablert i samsvar med foretakspensjonsloven eller innskuddspensjonsloven, kommunale pensjonsordninger, samt kollektive livrenteforsikringer, gruppelivsforsikringer og andre kollektive livsforsikringer.",
+                        "Som individuell livsforsikring regnes livsforsikring som ikke er kollektiv livsforsikring.",
+                        "Kongen kan gi nærmere regler til utfylling og avgrensning av bestemmelsene i kapitlet her, herunder nærmere regler for hva som skal regnes som henholdsvis kollektiv livsforsikring, kommunale pensjonsordninger, individuell livsforsikring, fripoliser, pensjonskapitalbevis, fortsettelsesforsikringer, engangsbetalte forsikringer, kontraktfastsatte forpliktelser og forpliktelser knyttet til verdien av særskilt investeringsportefølje."
+                    ]
+                },
+                {
+                    "name": "§ 9-2",
+                    "title": "Skille mellom virksomhetsregler",
+                    "sections": [
+                        "Dersom et selskap som driver kollektiv livsforsikringsvirksomhet, også driver individuell livsforsikringsvirksomhet, gjelder reglene i dette kapittel med tilhørende forskrifter for den samlede virksomhet i selskapet, med mindre annet følger av annet ledd.",
+                        "Kongen kan fastsette nærmere regler som skal gjelde for selskapets virksomhet knyttet til individuelle livsforsikringskontrakter med kontraktfastsatte forpliktelser som er inngått før det tidspunkt bestemmelsene i kapitlet her trer i kraft, og som selskapet har skilt ut som egen portefølje. Selskapet skal i så fall føre eget regnskap for denne porteføljen.",
+                        "Første og annet ledd gjelder tilsvarende for et selskap som bare driver individuell livsforsikringsvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 9-3",
+                    "title": "Pristariffer",
+                    "sections": [
+                        "Selskapet skal til enhver tid ha pristariffer for beregning av premie for samtlige av de produkter eller produktkombinasjoner som selskapet tilbyr. Pristariffene skal angi hvilket samlet vederlag selskapet beregner seg for å overta de ulike typer av risiko som er knyttet til, og for å yte de ulike typer av tjenester som inngår i, de forskjellige produktene og produktkombinasjonene.",
+                        "Selskapet skal ved fastsettelsen av pristariffer skille mellom:",
+                        "a)pris for dekning av risiko knyttet til person,",
+                        "b)pris for forvaltning av midler knyttet til forsikringskontraktene, herunder selskapets risiko for avkastningsresultatet,",
+                        "c)pris for forvaltning av midler i særskilte investeringsporteføljer med investeringsvalg, og i tilfelle vederlag for avkastningsgaranti knyttet til porteføljene, og",
+                        "d)pris for administrative tjenester.",
+                        "Pristariffene kan fastsette at forsikringstaker, i tillegg til beregnet premie for den enkelte kontrakt, skal betale et kontraktsgebyr ved begynnelsen av forsikringsforholdet, og et avbruddsgebyr dersom forsikringstaker avslutter forsikringsforholdet før forsikringstiden er utløpt. Kongen kan gi nærmere regler om størrelsen på slike gebyrer, og gjøre unntak for regelen i første punktum for kollektive livsforsikringer. Utover dette kan selskapet ikke kreve tillegg til premie beregnet etter gjeldende pristariffer.",
+                        "For fripoliser og pensjonskapitalbevis som forvaltes med investeringsvalg kan selskapet hvert år kreve vederlag for administrative tjenester etter egen pristariff. For fortsettelsesforsikringer basert på fripoliser eller pensjonskapitalbevis skal pristariffer for personrisiko og for forvaltning svare til de pristariffer som ligger til grunn for den aktuelle fripolisen eller pensjonskapitalbeviset. Kongen kan gi nærmere regler om pristariffer for fortsettelsesforsikringer, herunder unntak fra regelen i annet punktum.",
+                        "Ved utformingen av pristariffene skal selskapet sørge for at:",
+                        "a)selskapets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,",
+                        "b)selskapets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte kontrakter blir oppfylt, og vil være betryggende ut fra selskapets økonomi, og",
+                        "c)det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.",
+                        "Kongen kan gi nærmere regler om pristariffer. Kongen kan også gi nærmere regler om rentesatser og andre beregningselementer som selskapet kan benytte ved utformingen av pristariffene."
+                    ]
+                },
+                {
+                    "name": "§ 9-4",
+                    "title": "Endring av pristariffer",
+                    "sections": [
+                        "Selskapet kan endre sine pristariffer, og skal i så fall fastsette fra hvilket tidspunkt de nye tariffene skal gjelde.",
+                        "I forhold til inngåtte kontrakter kan selskapet ikke gjøre endringen gjeldende før første ordinære premieforfall minst fire måneder etter at forsikringstakeren har mottatt underretning om den fastsatte endringen."
+                    ]
+                },
+                {
+                    "name": "§ 9-5",
+                    "title": "Beregning av premier mv.",
+                    "sections": [
+                        "Ved beregning av premier skal selskapet benytte de til enhver tid gjeldende pristariffer, med mindre annet følger av § 9-4 annet ledd. Krav om betaling av premie skal angi hvilke poster som inngår i beregningen, og forhold av betydning for premieberegningen.",
+                        "Premien skal beregnes for ett år av gangen, og betales forskuddsvis hvert år med mindre det er avtalt terminvis innbetaling i løpet av året.",
+                        "Kongen kan fastsette særlige regler for beregning og betaling av premie for engangsbetalte forsikringer."
+                    ]
+                },
+                {
+                    "name": "§ 9-6",
+                    "title": "Meldeplikt og tilsyn med pristariffer",
+                    "sections": [
+                        "Selskapet skal gi melding til Kredittilsynet om fastsatte pristariffer og prinsippene for utformingen av tariffene. Det samme gjelder ved endring av pristariffer. Kongen kan gi nærmere regler om meldeplikten.",
+                        "Kredittilsynet skal føre kontroll for å påse at de pristariffer som benyttes er i samsvar med reglene gitt i eller i medhold av §§ 9-3 og 9-4, og at premieberegningen skjer i samsvar med reglene i § 9-5.",
+                        "Kredittilsynet kan forby bruk av pristariffer som Kredittilsynet finner er ubetryggende eller urimelige."
+                    ]
+                },
+                {
+                    "name": "§ 9-7",
+                    "title": "Inndeling av forvaltningskapitalen",
+                    "sections": [
+                        "Selskapets forvaltningskapital skal deles inn i kollektivporteføljen, investeringsvalgporteføljen og selskapsporteføljen. Hver av porteføljene kan deles inn i flere underporteføljer.",
+                        "Kollektivporteføljen skal bestå av eiendeler som motsvarer de forsikringsmessige avsetninger til dekning av kontraktfastsatte forpliktelser. Som kontraktfastsatte forpliktelser regnes forpliktelser som ikke er knyttet til verdien av særskilt investeringsportefølje. Eiendeler som motsvarer erstatningsavsetning etter § 9-21 og risikoutjevningsfond etter § 9-22 skal også forvaltes i kollektivporteføljen.",
+                        "Investeringsvalgporteføljen skal bestå av eiendeler som motsvarer de forsikringsmessige avsetninger til dekning av forpliktelser knyttet til verdien av særskilt investeringsportefølje. Eiendeler som motsvarer supplerende avsetning etter § 9-18 tredje ledd til dekning av særskilt avkastningsgaranti knyttet til kontrakter i investeringsvalgporteføljen og avsetning etter § 9-18 fjerde ledd til dekning av selskapets forpliktelse etter foretakspensjonsloven § 11-1 fjerde ledd, inngår likevel i kollektivporteføljen.",
+                        "Eiendeler som motsvarer de forsikringsmessige avsetninger til dekning av kontraktfastsatte uføre- og etterlatteforpliktelser skal inngå i kollektivporteføljen selv om midler knyttet til alderspensjonsytelser er plassert i særskilt investeringsvalgportefølje. Dette gjelder likevel ikke når midlene knyttet til kontraktfastsatte uføre- og etterlatteforpliktelser forvaltes i investeringsvalgporteføljen etter reglene i foretakspensjonsloven § 11-1.",
+                        "Selskapsporteføljen skal bestå av eiendeler som motsvarer selskapets ansvarlige kapital og eventuell annen gjeld enn forsikringsforpliktelsene.",
+                        "Premiefond, innskuddsfond og pensjonsreguleringsfond anses her som del av den portefølje de øvrige midler knyttet til kontrakten inngår i, med mindre det følger av kontrakten at midlene i fondet skal plasseres på annen måte.",
+                        "Ved valg av eiendeler til de forskjellige porteføljer, og ved endring av sammensetningen av porteføljer, skal selskapet overholde krav til god forretningsskikk og sørge for at det ikke skjer urimelig forskjellsbehandling av kunder. Selskapet skal ha retningslinjer for valg av eiendeler og endring av porteføljer for å unngå at det oppstår interessekonflikter mellom kunder og kundegrupper eller mellom kunder og selskapet. I tilfelle av interessekonflikt mellom kunder og selskapet, skal hensynet til kundene gå foran.",
+                        "Selskapet skal opprette et system for registrering av hvilke eiendeler som til enhver tid inngår i de ulike porteføljer.",
+                        "Reglene i paragrafen her er ikke til hinder for at selskapet etablerer en ordning for samlet kapitalforvaltning.",
+                        "Kredittilsynet kan, i samsvar med bestemmelsene i denne paragrafen, treffe avgjørelse om hvilken portefølje en kontrakt, og midler som motsvarer en avsetning, skal inngå i."
+                    ]
+                },
+                {
+                    "name": "§ 9-8",
+                    "title": "Forvaltning av porteføljene",
+                    "sections": [
+                        "Midlene i kollektivporteføljen kan forvaltes i atskilte deler fastsatt ut fra selskapets risiko for avkastningsresultatet. De kvantitative begrensninger for plassering av midlene som følger av forskrift gitt med hjemmel i § 6-6 annet ledd gjelder for kollektivporteføljen i sin helhet.",
+                        "Midlene i investeringsvalgporteføljen skal plasseres i særskilte investeringsporteføljer for hver kontrakt i investeringsvalgporteføljen i samsvar med de krav som følger av kontrakten mellom selskapet og forsikringstakeren og i samsvar med regler gitt i eller i medhold av lov.",
+                        "Midlene i selskapsporteføljen skal forvaltes forsvarlig. Selskapet bestemmer utover dette hvordan midlene i selskapsporteføljen skal forvaltes."
+                    ]
+                },
+                {
+                    "name": "§ 9-9",
+                    "title": "Tilordning av avkastning, overskudd",
+                    "sections": [
+                        "Avkastning ved forvaltning av midler plassert i kollektivporteføljen skal årlig fordeles mellom de kontrakter som omfattes. Fordelingen foretas etter forholdet mellom de forsikringsmessige avsetninger som er knyttet til hver av kontraktene. Avkastning tilordnet en kontrakt skal etter fradrag av avsetning etter beregningsgrunnlaget for kontrakten og i tilfelle tilleggsavsetning etter § 9-17, tilordnes kontrakten som overskudd på avkastningsresultatet. Tilsvarende gjelder tilordning av avkastning av midler som svarer til premiefond, innskuddsfond eller pensjonsreguleringsfond. Avkastning av midler som svarer til erstatningsavsetning, risikoutjevningsfond og supplerende avsetning etter § 9-18 tredje og fjerde ledd forvaltet i kollektivporteføljen skal tilordnes disse avsetningene og fond.",
+                        "Avkastning ved forvaltning av midler plassert i særskilt investeringsportefølje skal årlig tilordnes den kontrakt porteføljen er knyttet til. Er det knyttet avkastningsgaranti til en investeringsportefølje, skal garantert avkastning som ikke dekkes av oppnådd avkastning, dekkes av supplerende avsetning eller av selskapet. Tilsvarende gjelder tilordning av avkastning av midler i premiefond, innskuddsfond eller pensjonsreguleringsfond forvaltet i særskilt investeringsportefølje.",
+                        "Avkastning ved forvaltning av midler plassert i selskapsporteføljen skal årlig tilordnes selskapet."
+                    ]
+                },
+                {
+                    "name": "§ 9-10",
+                    "title": "Overskudd på risikoresultat",
+                    "sections": [
+                        "Selskapet skal hvert år beregne risikoresultatet særskilt for hver gruppe av pensjonsordninger, andre kollektivordninger eller kontrakter, og individuelle kontrakter inkludert fripoliser og pensjonskapitalbevis.",
+                        "Som overskudd regnes de på forhånd beregnede risikopremier for en gruppe med fradrag for de faktiske risikokostnader for gruppen. Det skal ved beregningen ses bort fra den fortjeneste for selskapet som er bygget inn i pristariffene for risiko knyttet til person.",
+                        "Overskudd på risikoresultatet skal årlig fordeles mellom de enkelte kontrakter i hver gruppe etter forholdet mellom de risikopremier som er betalt for den enkelte kontrakt. Selskapet kan likevel bestemme at inntil halvparten av årets samlede overskudd på risikoresultatet skal avsettes til risikoutjevningsfondet.",
+                        "Kongen kan gi nærmere regler om at visse typer kontrakter kan unntas fra bestemmelsene i første til tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 9-11",
+                    "title": "Styrking av premiereserve",
+                    "sections": [
+                        "Selskapet kan, med samtykke fra Kredittilsynet, beslutte at hele eller en del av årets overskudd etter § 9-9 første ledd og § 9-10 skal benyttes til nødvendig styrking av premiereserve for forsikringsforpliktelser knyttet til de kontrakter det gjelder.",
+                        "Når hensynet til selskapets soliditet tilsier det, kan Kredittilsynet gi selskapet pålegg om å benytte hele eller en del av overskuddet som angitt i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 9-12",
+                    "title": "Overskudd tilordnet fripoliser og pensjonskapitalbevis med kontraktfastsatte forpliktelser",
+                    "sections": [
+                        "Bestemmelsene i paragrafen her gjelder anvendelsen av overskudd etter § 9-9 første ledd tilordnet fripoliser og pensjonskapitalbevis med kontraktfastsatte forpliktelser. Kongen kan i forskrift fastsette at bestemmelsene i paragrafen her også skal gjelde for andre typer kontrakter.",
+                        "Er selskapets risikoresultat negativt for en gruppe av kontrakter, kan kontraktens andel av risikoresultatet dekkes ved fradrag i overskudd på avkastningsresultatet tilordnet kontrakten.",
+                        "Selskapet har rett til inntil 20 prosent av det overskudd på avkastningsresultatet som er tilordnet kontrakten, i tilfelle etter fradrag for andel av negativt risikoresultat i samsvar med annet ledd. Selskapet skal fastsette i vedtektene hvor høy prosentsats det skal benytte. Det er, innenfor begrensningen i første punktum, adgang til å fastsette forskjellige fordelingsnøkler ut fra selskapets risiko for avkastningsresultatet. Kongen kan gi nærmere regler for slik overskuddsdeling."
+                    ]
+                },
+                {
+                    "name": "§ 9-13",
+                    "title": "Negativt risikoresultat for fripoliser og pensjonskapitalbevis med investeringsvalg",
+                    "sections": [
+                        "Bestemmelsene i paragrafen her gjelder fripoliser og pensjonskapitalbevis tilordnet egen investeringsportefølje med investeringsvalg. Kongen kan i forskrift fastsette at bestemmelsene i paragrafen her også skal gjelde for andre typer kontrakter.",
+                        "Er selskapets risikoresultat negativt for en gruppe av kontrakter, kan kontraktens andel av risikoresultatet dekkes ved fradrag i avkastning tilordnet kontrakten etter § 9-9 annet ledd eller i verdien av investeringsporteføljen tilordnet kontrakten."
+                    ]
+                },
+                {
+                    "name": "§ 9-14",
+                    "title": "Anvendelse av overskudd tilordnet kontrakten",
+                    "sections": [
+                        "Når annet ikke følger av §§ 9-11, 9-12 eller 9-13, gjelder følgende:",
+                        "a)Overskudd etter § 9-9 første og annet ledd og § 9-10 tilordnet kontrakter som er regulert av foretakspensjonsloven eller innskuddspensjonsloven skal fordeles etter reglene om fordeling av avkastning i disse lovene.",
+                        "b)Overskudd tilordnet andre kontrakter skal anvendes i samsvar med det som er bestemt i kontrakten mellom selskapet og forsikringstakeren."
+                    ]
+                },
+                {
+                    "name": "§ 9-15",
+                    "title": "Minstekrav til forsikringsmessige avsetninger",
+                    "sections": [
+                        "Selskapet skal i sin årsbalanse føre opp forsikringsmessige avsetninger. Forsikringsmessige avsetninger er avsetninger til dekning av:",
+                        "a)selskapets forpliktelser under kontrakter med kontraktfastsatte forpliktelser, beregnet etter reglene i §§ 9-16, 9-17 og 9-21,",
+                        "b)selskapets forpliktelser knyttet til verdien av særskilt investeringsportefølje, beregnet etter reglene i §§ 9-18 og 9-21,",
+                        "c)selskapets forpliktelser knyttet til premiefond, innskuddsfond og pensjonsreguleringsfond, beregnet etter reglene i § 9-19, og",
+                        "d)selskapets øvrige forsikringsmessige forpliktelser.",
+                        "Forsikringsmessige avsetninger til dekning av forpliktelser under kontrakter med kontraktfastsatte forpliktelser, som angitt i første ledd bokstav a, omfatter premiereserve, tilleggsavsetninger, kursreguleringsfond, erstatningsavsetning, risikoutjevningsfond og andre tekniske avsetninger. Dette gjelder også avsetninger til dekning av uføre- og etterlatteytelser selv om midler som motsvarer avsetning til dekning av alderspensjon er plassert i særskilt investeringsportefølje.",
+                        "Forsikringsmessige avsetninger til dekning av forpliktelser knyttet til verdien av særskilt investeringsportefølje, som angitt i første ledd bokstav b, omfatter premiereserve, supplerende avsetning for garantiforpliktelser, erstatningsavsetning, risikoutjevningsfond og andre tekniske avsetninger. Avsetningene til dekning av alders-, uføre- og etterlatteytelser knyttet til særskilt investeringsportefølje etter reglene i foretakspensjonsloven § 11-1 kan også omfatte tilleggsavsetninger.",
+                        "Kongen kan gi nærmere regler om forsikringsmessige avsetninger. Det kan gjøres fradrag for gjenforsikret risiko etter regler gitt av Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 9-16",
+                    "title": "Premiereserve for kontraktfastsatte forpliktelser",
+                    "sections": [
+                        "Avsetninger til premiereserve for kontraktfastsatte forpliktelser skal minst utgjøre forskjellen mellom kapitalverdien av selskapets fremtidige forpliktelser og kapitalverdien av de fremtidige nettopremier (prospektiv beregningsmetode). Tilleggsytelser som følge av tilført overskudd medregnes. Nettopremier er premie beregnet som angitt i § 9-5, med fradrag for pris for administrative tjenester og pris for forvaltning.",
+                        "Kongen fastsetter nærmere regler for hvilken rentesats som skal benyttes ved beregning av minstekravene til kapitalverdiene. Endres beregningsrenten, beregnes avsetningene for forpliktelser som oppstår etter endringen, på grunnlag av den nye beregningsrenten.",
+                        "Det årlige kravet til avsetning til premiereserve beregnes med utgangspunkt i sparedelen av årets premie, årlig avkastning i samsvar med beregningsrenten, og det beløpet som etter beregningsgrunnlaget årlig skal tilføres premiereserven som følge av at selskapets forpliktelse overfor forsikrede som er død i løpet av året, er bortfalt. Årlig krav til avsetning skal også omfatte det overskudd som etter § 9-14 skal tilføres premiereserven.",
+                        "Avsetninger til premiereserve skal tilordnes de enkelte kontrakter og de forsikrede på grunnlag av selskapets forpliktelser.",
+                        "Dersom det i løpet av året inntrer forsikringstilfeller som gir rett til utbetaling av uføreytelser eller ytelser til etterlatte, skal avsetningen til premiereserve fullt ut tilsvare kapitalverdien av selskapets fremtidige forpliktelser."
+                    ]
+                },
+                {
+                    "name": "§ 9-17",
+                    "title": "Tilleggsavsetninger",
+                    "sections": [
+                        "For å sikre sine forpliktelser under kontrakter med kontraktfastsatte forpliktelser, kan selskapet ved utgangen av det enkelte år foreta tilleggsavsetninger ut over minstekravet til premiereserve. Kredittilsynet kan, når det finner at soliditetshensyn tilsier det, pålegge selskapet å foreta tilleggsavsetninger.",
+                        "Selskapets tilleggsavsetninger skal være fordelt på de enkelte kontraktene. Selskapet fastsetter årets tilleggsavsetninger, jf. § 9-9 første ledd, i prosent av premiereserven knyttet til den enkelte kontrakt. Kongen kan gi forskrift om adgang til å bruke en høyere prosentsats for kontrakter med høy beregningsrente eller lave tilleggsavsetninger.",
+                        "Dersom avkastningen tilordnet en kontrakt etter § 9-9 første ledd i et år ikke er stor nok til å dekke det årlige avsetningskravet etter § 9-16 tredje ledd, kan avsetningskravet oppfylles ved overføring av tilleggsavsetninger tilordnet kontrakten.",
+                        "Fører tilleggsavsetninger tildelt en kontrakt et år til at de samlede tilleggsavsetninger overstiger et beløp som tilsvarer 12 prosent av premiereserven knyttet til kontrakten, skal det overskytende beløpet tilordnes kontrakten som overskudd. Summen av premiereserve og tilleggsavsetninger knyttet til en kontrakt med kontraktfastsatte forpliktelser kan ellers ikke reduseres på annen måte enn ved utbetaling til forsikrede."
+                    ]
+                },
+                {
+                    "name": "§ 9-18",
+                    "title": "Avsetninger for forpliktelser knyttet til særskilt investeringsportefølje",
+                    "sections": [
+                        "De forsikringsmessige avsetninger til dekning av forpliktelser knyttet til verdien av særskilt investeringsportefølje skal til enhver tid motsvare verdien av den investeringsportefølje som er tilordnet kontrakten. Andelen av overskudd på risikoresultatet medregnes.",
+                        "Dersom en pensjonsordning eller kontrakt uten kontraktfastsatte alderspensjonsytelser gir rett til kontraktfastsatte uføre- eller etterlatteytelser, skal det foretas avsetninger til dekning av slike forpliktelser etter reglene i §§ 9-16 og 9-17. Dersom midler til dekning av uføre- og etterlatteytelsene forvaltes i en særskilt investeringsportefølje etter reglene i foretakspensjonsloven § 11-1, skal det foretas supplerende avsetning etter fjerde ledd.",
+                        "Har selskapet knyttet avkastningsgaranti til en særskilt investeringsportefølje, skal selskapet også foreta supplerende avsetning til dekning av garantiforpliktelsen. Kongen kan gi nærmere regler om beregningen av avsetningens størrelse.",
+                        "Supplerende avsetning til dekning av selskapets forpliktelse etter foretakspensjonsloven § 11-1 fjerde ledd skal tilsvare forskjellen mellom kapitalverdien av selskapets forpliktelser overfor de forsikrede beregnet etter § 9-16 og verdien av investeringsporteføljen."
+                    ]
+                },
+                {
+                    "name": "§ 9-19",
+                    "title": "Premie-, innskudds- og pensjonsreguleringsfond",
+                    "sections": [
+                        "De forsikringsmessige avsetninger for forpliktelser knyttet til premiefond, innskuddsfond og pensjonsreguleringsfond skal tilsvare fondets verdi til enhver tid.",
+                        "§ 9-17 gjelder tilsvarende for slike fond i den grad de skal tilføres avkastning i samsvar med regelen i § 9-9 første ledd.",
+                        "Er midler som motsvarer slike fond plassert i særskilt investeringsportefølje med avkastningsgaranti, gjelder § 9-18 tredje ledd tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 9-20",
+                    "title": "Kursreguleringsfond",
+                    "sections": [
+                        "Kursreguleringsfondet skal tilsvare summen av urealiserte gevinster på finansielle omløpsmidler som inngår i kollektivporteføljen, jf. § 9-7 annet ledd.",
+                        "Kursreguleringsfondet skal ikke tilordnes kontraktene i kollektivporteføljen.",
+                        "Kongen kan gi nærmere regler om kursreguleringsfondet."
+                    ]
+                },
+                {
+                    "name": "§ 9-21",
+                    "title": "Erstatningsavsetning",
+                    "sections": [
+                        "Erstatningsavsetningen skal dekke selskapets forventede erstatningsutbetalinger for forsikringstilfeller som ved regnskapsårets utgang ikke er oppgjort av eller meldt til selskapet. Erstatningsavsetningen skal bare tilsvare midler som ville ha kommet til utbetaling i regnskapsåret dersom erstatningstilfellet var ferdigbehandlet.",
+                        "Erstatningsavsetningen skal ikke fordeles på de enkelte kontrakter.",
+                        "Kongen kan gi nærmere regler om erstatningsavsetningen."
+                    ]
+                },
+                {
+                    "name": "§ 9-22",
+                    "title": "Risikoutjevningsfond",
+                    "sections": [
+                        "Risikoutjevningsfondet kan bare benyttes til å styrke avsetningen til premiereserve vedrørende risiko knyttet til person.",
+                        "Risikoutjevningsfondet skal ikke fordeles på de enkelte kontrakter.",
+                        "Kongen kan gi nærmere regler om risikoutjevningsfondet."
+                    ]
+                },
+                {
+                    "name": "§ 9-23",
+                    "title": "Kontoføring. Kontoutskrift",
+                    "sections": [
+                        "I livs- og pensjonsforsikring skal selskapet opprette og føre en konto for hver forsikring, som skal inneholde regnskap for forsikringen og status pr. 31. desember det enkelte året. Selskapet skal hvert år sende forsikringstakeren utskrift av kontoen.",
+                        "Kredittilsynet gir nærmere regler om dette."
+                    ]
+                },
+                {
+                    "name": "§ 9-24",
+                    "title": "Aktuar",
+                    "sections": [
+                        "Et livsforsikringsselskap skal ha en aktuar til å foreta de nødvendige forsikringstekniske beregninger og undersøkelser. Aktuaren skal godkjennes av Kredittilsynet.",
+                        "Kongen kan gi nærmere regler om vilkår for godkjennelse av aktuar og om aktuarens ansvar, rettigheter og plikter, samt om adgangen til å bruke juridisk person som aktuar."
+                    ]
+                },
+                {
+                    "name": "§ 9-25",
+                    "title": "Endringer i avsetningsgrunnlaget",
+                    "sections": [
+                        "Endrer selskapet grunnlaget for beregning av kapitalverdiene slik at selskapet må foreta forhøyede avsetninger for tidligere overtatte forsikringer, kan Kredittilsynet gi selskapet frist til å oppfylle et nytt avsetningskrav.",
+                        "Forhøyelse av avsetningene skal foretas etter en plan meddelt Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 9-26",
+                    "title": "Livsforsikringsytelser i krig",
+                    "sections": [
+                        "Hvis Norge kommer i krig, kan Kongen bestemme at ytelser etter livsforsikringsavtaler bare skal utbetales delvis. Kongen kan også gjøre andre nødvendige endringer i livsforsikringsavtalene for å dekke underskudd i et livsforsikringsselskap som følge av krig."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10. Kommunale pensjonsordninger",
+            "paragraphs": [
+                {
+                    "name": "§ 10-1",
+                    "title": "Virkeområde",
+                    "sections": [
+                        "Bestemmelsene i dette kapittel gjelder:",
+                        "a)pensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsselskap eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,",
+                        "b)tilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,",
+                        "c)tilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune.",
+                        "Som kommunal pensjonsordning regnes her pensjonsordning som omfattes av første ledd.",
+                        "Departementet kan fastsette nærmere regler til utfylling og avgrensning av bestemmelsene i kapitlet her."
+                    ]
+                },
+                {
+                    "name": "§ 10-2",
+                    "title": "Kommunale konsernlignende forhold",
+                    "sections": [
+                        "En kommune og ett eller flere foretak hvor kommunen har bestemmende innflytelse, eller flere slike foretak, kan opprette felles pensjonsordning. Foretak som kommunen har eller har hatt en eierandel i, eller som har nær tilknytning til kommunen, kan inngå i en slik felles pensjonsordning.",
+                        "Pensjonsordningen kan i samsvar med bestemmelsene i § 10-6 anses som fellesordning for premieberegning. For øvrig gjelder foretakspensjonsloven §§ 12-3 og 12-4 tilsvarende så langt det passer.",
+                        "Ved opphør av tilknytningen til konsernforholdet gjelder foretakspensjonsloven §§ 12-5 til 12-7 tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 10-3",
+                    "title": "Kommunal bransje",
+                    "sections": [
+                        "Et livsforsikringsselskap som driver virksomhet knyttet til både kommunale og andre kollektive pensjonsordninger, skal behandle de kommunale pensjonsordningene som egen bransje. Det skal føres eget regnskap for bransjen."
+                    ]
+                },
+                {
+                    "name": "§ 10-4",
+                    "title": "Årets premier",
+                    "sections": [
+                        "Årlig premie for en pensjonsordning skal tilsvare summen av ordinær årspremie, reguleringspremie og særskilte engangspremier for ytelser som ikke kan premiesettes på forhånd.",
+                        "Premier beregnes etter reglene i § 10-5, jf. §§ 10-7 og 10-8, for så vidt annet ikke følger av reglene i § 10-6 om fellesordning for premieberegning."
+                    ]
+                },
+                {
+                    "name": "§ 10-5",
+                    "title": "Premieberegning",
+                    "sections": [
+                        "Pensjonsordningen skal årlig tilføres en premie som etter beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre den rett til pensjon som medlemmene vil opptjene i løpet av året, med tillegg av årets risikopremier og kostnader for tjenester (ordinær årspremie). Premie for hvert år beregnes ved årets begynnelse og senere i året i takt med lønnsutviklingen.",
+                        "Pensjonsordningen skal i tillegg hvert år tilføres premie til dekning av oppreguleringen i løpet av året av opptjente pensjonsrettigheter og løpende pensjoner (reguleringspremie). Reguleringspremie beregnes på tidspunktet for oppreguleringen ut fra lønnsutviklingen i løpet av året og reguleringen av pensjoner under utbetaling og opptjent rett til pensjon til medlemmer som har fratrådt sin stilling uten rett til utbetaling av pensjon, i samsvar med endringen av folketrygdens grunnbeløp.",
+                        "Pensjonsordningen skal også hvert år tilføres premie til dekning av andre pensjonsrettigheter som medlemmene i tilfelle får i løpet av året, og som ikke kan premiesettes på forhånd ut fra forsikringstekniske beregninger. Slik premie beregnes på det tidspunktet pensjonsrettighetene oppstår.",
+                        "Ved beregninger av premie etter reglene i paragrafen her skal det gjøres fradrag i pensjonsytelsene for de ytelser som, ut fra de til enhver tid gjeldende regler for folketrygden, kan antas å bli utbetalt fra folketrygden (beregnet folketrygd). Departementet kan gi nærmere regler om fastsettelse av beregnet folketrygd."
+                    ]
+                },
+                {
+                    "name": "§ 10-6",
+                    "title": "Fellesordning for premieberegning",
+                    "sections": [
+                        "Bestemmelsene i § 10-5 er ikke til hinder for at det opprettes fellesordninger som består av flere pensjonsordninger, for at premie for de enkelte pensjonsordninger som inngår i en fellesordning, skal bli fastsatt ved beregning basert på prinsipper som vil motvirke at pensjonskostnadene for de enkelte medlemmene for tilsvarende pensjonsrettigheter vil variere med medlemmenes kjønn og alder.",
+                        "En fellesordning opprettet i henhold til første ledd, skal hvert år tilføres premier tilsvarende summen av ordinær årspremie fastsatt etter forsikringstekniske beregninger for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordnings andel av samlet ordinær årspremie til fellesordningen beregnes ut fra forholdet mellom samlet pensjonsgrunnlag for medlemmene i hver av pensjonsordningene, med mindre det er fastsatt i forsikringsvilkårene for pensjonsordningene i fellesordningen at beregningen i stedet skal foretas ut fra brutto alderspensjonsytelse fratrukket beregnet ytelse fra folketrygden for samtlige medlemmer i hver av pensjonsordningene. Kostnader for tjenester kan beregnes og belastes særskilt for hver pensjonsordning.",
+                        "Opptas en arbeidstaker som medlem av en pensjonsordning i løpet av et forsikringsår, belastes pensjonsordningen med en tilleggspremie for den delen av året som da gjenstår. Tillegget skal beregnes ut fra pensjonsordningens andel av samlet ordinær årspremie til fellesordningen og den prosentvise økningen av pensjonsordningens samlede grunnlag for beregning av premie etter annet ledd annet punktum som det nye medlemmet representerer. Avvik fra forsikringsteknisk beregnet premie inngår ved beregningen av ordinær årspremie til fellesordningen i det etterfølgende året.",
+                        "Dersom det i løpet av et forsikringsår opptas en ny pensjonsordning i en fellesordning, skal den ordinære årspremie for pensjonsordningen for resten av året beregnes ut fra den samlede ordinære årspremie til fellesordningen som er beregnet for dette året, og den prosentvise økningen av det samlede grunnlaget for beregning av premie etter annet ledd annet punktum som pensjonsordningen medfører.",
+                        "Det skal fastsettes i forsikringsavtalen om reguleringspremie som nevnt i § 10-5 annet ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning. Ved særskilt beregning skal reguleringspremien beregnes for hver pensjonsordning i fellesordningen ut fra den prosentvise økningen av premiereserven for pensjonsordningen som er påkrevd som følge av oppregulering av medlemmenes opptjente pensjonsrettigheter ut fra lønnsutviklingen. Reguleringspremien for oppregulering av pensjoner under utbetaling og av opptjent rett til arbeidstakere som har fratrådt sin stilling uten rett til utbetaling av pensjon, skal beregnes i forhold til den del av premiereserven som sikrer slike pensjonsrettigheter. Ved gjennomsnittsberegning skal fellesordningen hvert år tilføres reguleringspremier tilsvarende summen av årlige reguleringspremier etter § 10-5 annet ledd for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordnings andel av samlet reguleringspremie til fellesordningen beregnes ut fra forholdet mellom samlet premiereserve for hver av pensjonsordningene på tidspunktet for oppregulering av pensjonsrettighetene. Kostnader for tjenester kan beregnes og belastes særskilt for hver pensjonsordning.",
+                        "Det skal fastsettes i forsikringsavtalen om premier som nevnt i § 10-5 tredje ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning som nevnt i annet ledd.",
+                        "Departementet kan fastsette nærmere regler om fellesordninger for premieberegning."
+                    ]
+                },
+                {
+                    "name": "§ 10-7",
+                    "title": "Premieberegning ut fra lineær opptjening mv.",
+                    "sections": [
+                        "Ved beregning av pensjonsordningenes premier skal det legges til grunn at medlemmenes rett til pensjon opptjenes lineært fra tidspunktet for medlemskap i pensjonsordningen og frem til en pensjonsalder på 67 år eller annen særaldersgrense. Skal tidligere tjenestetid fra statlig eller annen kommunal pensjonsordning medregnes, regnes tidspunktet for medlemskap fra et tilsvarende tidligere tidspunkt.",
+                        "Foretakspensjonsloven § 9-3 gjelder tilsvarende.",
+                        "Dersom et medlem gjør bruk av rett til å fratre med rett til utbetaling av pensjon før nådd pensjonsalder, skal det kreves tilleggspremie som nevnt i § 10-5 tredje ledd."
+                    ]
+                },
+                {
+                    "name": "§ 10-8",
+                    "title": "Endring i forutsetningene for det forsikringstekniske beregningsgrunnlaget",
+                    "sections": [
+                        "Viser det seg at fradraget i pensjonsytelsene for ytelser utbetalt av folketrygden blir mindre enn lagt til grunn ved premieberegningen, skal det beregnes tilleggspremie etter § 10-5 tredje ledd til dekning av differansen. Det gjelder også dersom årsaken er endring i regelverket for folketrygden som medfører at ytelsene fra folketrygden reduseres eller vil bli redusert. Blir fradraget for ytelser fra folketrygden større enn lagt til grunn ved premieberegningen, skal overskytende premiereserve tilføres premiefondet.",
+                        "Viser det seg ellers at vesentlige forutsetninger for beregningsgrunnlag som er benyttet ved beregning av premier i tidligere år svikter, skal det fastsettes nytt beregningsgrunnlag og i tilfelle endrede vilkår for pensjonsordningen. Forbehold om rett til endring av premie i slike tilfeller skal fremgå av vilkårene for pensjonsordningen.",
+                        "Foretakspensjonsloven § 9-5 første og annet ledd gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 10-9",
+                    "title": "Innbetaling av premie",
+                    "sections": [
+                        "Blir premie for et forsikringsår ikke innbetalt ved årets utgang eller ved utløpet av annen frist fastsatt i nytt premievarsel etter forsikringsavtaleloven § 14-2, bortfaller den økning av forsikringsforpliktelsene som den ikke innbetalte premien skulle dekke. Medlemmene i pensjonsordningen eller pensjonsordningene skal i tilfelle varsles om dette. Det kan likevel ikke som følge av slikt bortfall kreves tilbakebetaling av for meget utbetalt pensjon.",
+                        "Departementet kan fastsette nærmere regler om innbetaling av premie."
+                    ]
+                },
+                {
+                    "name": "§ 10-10",
+                    "title": "Minstekrav til premiereserve",
+                    "sections": [
+                        "Premiereserven for pensjonsordningen skal til enhver tid være så stor at den etter det forsikringstekniske beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre rett til opptjent pensjon for medlemmene, herunder rett til uførepensjon og etterlattepensjon.",
+                        "Premiereserven for en pensjonsordning skal minst tilsvare summen av de premiereserver som trengs for å sikre retten til opptjent pensjon for hvert enkelt medlem i pensjonsordningen, herunder premiereserve opptjent av arbeidstakere som har fratrådt sin stilling. Dette gjelder likevel ikke premiereserve for fratrådt arbeidstaker som får medregnet tjenestetiden i annen ordning dersom tilhørende premiereserve er overført. For et medlem som har fått medregnet tjenestetid fra en annen pensjonsordning, jf. § 10-7 første ledd, uten overføring av tilhørende premiereserve, skal det gjøres fradrag tilsvarende den premiereserve som vil være tilstrekkelig for å sikre rett til pensjon opptjent ved slik medregnet tjenestetid.",
+                        "Ved beregningen av premiereserve skal det gjøres fradrag i pensjonsytelsene for de ytelser som, ut fra de til enhver tid gjeldende regler for folketrygden, kan antas å bli utbetalt av folketrygden, jf. § 10-5 fjerde ledd.",
+                        "Ved beregningen av premiereserve skal det også gjøres fradrag for forsikringsforpliktelser som er bortfalt etter § 10-9."
+                    ]
+                },
+                {
+                    "name": "§ 10-11",
+                    "title": "Pensjonsordningens midler",
+                    "sections": [
+                        "En kommunal pensjonsordnings midler tilsvarer premiereserve til sikring av opptjent pensjon til enhver tid, samt tilleggsavsetninger, kursreserve og premiefond."
+                    ]
+                },
+                {
+                    "name": "§ 10-12",
+                    "title": "Rådighet over pensjonsordningens midler",
+                    "sections": [
+                        "Pensjonsordningens midler skal holdes atskilt fra forsikringstakerens midler. Midlene hefter ikke for forsikringstakerens forpliktelser og kan ikke ved pantsettelse eller på annen måte benyttes til å sikre eller å dekke dennes kreditorer.",
+                        "Midlene kan ikke benyttes til å utbetale pensjoner eller andre ytelser til arbeidstakere som ikke er opptatt som medlem.",
+                        "For premiefond knyttet til pensjonsordningen gjelder foretakspensjonsloven §§ 10-2 til 10-4 tilsvarende så langt de passer."
+                    ]
+                },
+                {
+                    "name": "§ 10-13",
+                    "title": "Kapitalforvaltningen",
+                    "sections": [
+                        "Pensjonsordningens midler skal forvaltes i samsvar med de regler for kapitalforvaltningen i livsforsikringsselskaper og pensjonskasser som gjelder til enhver tid, med mindre annet følger av § 10-15.",
+                        "Renten for lån til forsikringstaker eller medlemmer skal settes lik vanlig markedsrente for tilsvarende lån. Lånevilkårene skal gi adgang til å endre renten i samsvar med utviklingen av markedsrenten.",
+                        "Avkastning av midler knyttet til premiefond skal årlig tilføres premiefondet."
+                    ]
+                },
+                {
+                    "name": "§ 10-14",
+                    "title": "Overskudd",
+                    "sections": [
+                        "Overskudd tilført pensjonsordningen skal godskrives forsikringstakeren og overføres til pensjonsordningens premiefond.",
+                        "Overskudd på premiereserve knyttet til pensjon under utbetaling eller knyttet til oppsatt pensjonsrettighet til fratrådt arbeidstaker skal likevel tilføres premiereserven dersom pensjonsytelsen eller pensjonsrettigheten ikke blir regulert i samsvar med årlig endring av grunnbeløpet i folketrygden."
+                    ]
+                },
+                {
+                    "name": "§ 10-15",
+                    "title": "Egen investeringsportefølje",
+                    "sections": [
+                        "Forsikringstakeren kan i samsvar med bestemmelser i regelverket for pensjonsordningen avtale at midler tilsvarende pensjonsordningens premiereserve skal forvaltes som en investeringsportefølje tilordnet pensjonsordningen. Avtalen skal angi hvordan porteføljen skal sammensettes og hvilken adgang det er til å endre sammensetningen, samt den avkastningsgaranti som i tilfelle er knyttet til porteføljen.",
+                        "Avkastning ut over det som er lagt til grunn i pensjonsordningens beregningsgrunnlag overføres til premiefondet.",
+                        "Er avkastningen på investeringsporteføljen i en regnskapsperiode ikke så stor som forutsatt i beregningsgrunnlaget for pensjonsordningen, skal differansen kreves dekket ved overføring fra premiefondet eller tilskudd fra forsikringstakeren. Pensjonsinnretningen svarer overfor de forsikrede for at differansen blir dekket.",
+                        "Foretakspensjonsloven §§ 11-3 til 11-5 gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 10-16",
+                    "title": "Pensjonsinnretningens opplysningsplikt",
+                    "sections": [
+                        "Pensjonsinnretningen skal opprette og føre egen konto for hver pensjonsordning. Kontoen skal inneholde regnskap og status pr. 31. desember for det enkelte år. Nærmere regler fastsettes av Kredittilsynet.",
+                        "Pensjonsinnretningen skal hvert år sende forsikringstakeren utskrift av kontoen for pensjonsordningen sammen med opplysninger som vil være av vesentlig betydning for forsikringstakerens vurdering av forsikringsforholdet. Kredittilsynet gir nærmere regler om dette.",
+                        "Pensjonsinnretningen skal utstede et pensjonsbevis til arbeidstakere som fratrer sin stilling uten rett til straks begynnende pensjon. Pensjonsbeviset skal opplyse hvilke pensjonsrettigheter vedkommende har opptjent (oppsatte rettigheter) på fratredelsestidspunktet. Pensjonsinnretningen skal senere på forespørsel fra innehaveren av pensjonsbeviset gi oppdatert informasjon. Ved flytting av pensjonsordningen som omfatter den oppsatte rettighet i medhold av § 11-11, skal pensjonsinnretningen som pensjonsordningen flyttes fra, informere den fratrådte arbeidstaker."
+                    ]
+                },
+                {
+                    "name": "§ 10-17",
+                    "title": "Flytting av pensjonsordning",
+                    "sections": [
+                        "Pensjonsordningen og dens midler kan flyttes til annen pensjonsinnretning etter reglene i kapittel 11."
+                    ]
+                },
+                {
+                    "name": "§ 10-18",
+                    "title": "Opphør av pensjonsordningen",
+                    "sections": [
+                        "Dersom et foretak med kommunal pensjonsordning går konkurs eller det er truffet vedtak om at foretaket eller dets virksomhet skal avvikles, skal pensjonsordningen opphøre. Det samme gjelder om foretaket slutter å betale premie til pensjonsordningen og premien ikke kan dekkes av midler i premiefondet.",
+                        "Når en pensjonsordning opphører, skal pensjonsordningens midler fordeles mellom medlemmene, pensjonistene og arbeidstakere som har fratrådt sine stillinger på grunnlag av premiereserven knyttet til opptjente pensjonsrettigheter til hver enkelt person, og benyttes til å sikre deres rett til pensjon i pensjonsinnretningen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11. Flytting",
+            "paragraphs": [
+                {
+                    "name": "§ 11-1",
+                    "title": "Virkeområde og flytterett",
+                    "sections": [
+                        "Bestemmelsene i dette kapittel gjelder flytting mellom pensjonsinnretninger av:",
+                        "a)pensjonsordninger i henhold til foretakspensjonsloven,",
+                        "b)pensjonsordninger i henhold til innskuddspensjonsloven,",
+                        "c)pensjonsordninger som omfattes av kapittel 10,",
+                        "d)andre kollektive pensjonsordninger,",
+                        "e)fripoliser, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,",
+                        "f)individuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),",
+                        "g)andre livsforsikringskontrakter.",
+                        "Kontrakt som nevnt i første ledd bokstav a til g kan flyttes til annen pensjonsinnretning. Med flytting menes oppsigelse av kontrakten for overføring av tilhørende midler til en tilsvarende kontrakt opprettet i en annen pensjonsinnretning.",
+                        "Som pensjonsinnretning regnes her forsikringsselskap, pensjonsforetak, bank og forvaltningsselskap for verdipapirfond.",
+                        "Omdanning, sammenslåing og deling av pensjonsordning i forbindelse med flytting kan foretas i henhold til ellers gjeldende regler. Tilsvarende gjelder for sammenslåing og omdanning av fripoliser, pensjonskapitalbevis og andre individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger.",
+                        "Departementet kan gi nærmere regler til utfylling, gjennomføring og avgrensning av reglene i kapitlet her."
+                    ]
+                },
+                {
+                    "name": "§ 11-2",
+                    "title": "Flytting av kollektive pensjonsordninger",
+                    "sections": [
+                        "For foretak som flytter pensjonsordning som nevnt i § 11-1 første ledd bokstav a til c eller en kollektiv livrenteordning, gjelder reglene i §§ 11-2 til 11-10. Som foretak regnes her også kommune eller foretak som har kommunal pensjonsordning.",
+                        "Flytting må omfatte hele pensjonsordningen. Ved flytting av kommunal pensjonsordning omfattes også oppsatte pensjonsrettigheter og midler knyttet til slike rettigheter.",
+                        "Gjelder flyttingen et foretak som har felles pensjonsordning med ett eller flere andre foretak, skal foretaket og dets gruppe av medlemmer med tilhørende del av midlene i pensjonsordningen skilles ut fra den felles pensjonsordningen."
+                    ]
+                },
+                {
+                    "name": "§ 11-3",
+                    "title": "Rettigheter i den nye pensjonsordningen",
+                    "sections": [
+                        "Arbeidstakernes og pensjonistenes rettigheter etter flyttingen skal fastsettes i regelverket for den nye pensjonsordningen.",
+                        "Det nye regelverket kan ikke inneholde bestemmelser som innebærer reduksjon av arbeidstakeres rett til opptjent pensjon med tilhørende premiereserve eller til opptjent pensjonskapital. Pensjonister skal sikres pensjonsytelser med tilhørende premiereserve eller pensjonskapital som minst tilsvarer den rett til ytelser som gjaldt før flyttingen.",
+                        "Bestemmelsene i paragrafen her er ikke til hinder for at regelverket for pensjonsordningen endres etter ellers gjeldende regler med virkning for opptjening av pensjon ved tjenestetid etter flyttingen, og heller ikke for at pensjonsordningens midler etter flyttingen forvaltes helt eller delvis som egen investeringsportefølje etter ellers gjeldende regler."
+                    ]
+                },
+                {
+                    "name": "§ 11-4",
+                    "title": "Medlemmenes uttalerett mv.",
+                    "sections": [
+                        "Før foretaket flytter pensjonsordningen, skal det sørge for at medlemmene mottar fullstendige opplysninger om flyttingen av pensjonsordningen og hvilke rettigheter de vil få i den nye pensjonsordningen. Avgivende og mottakende pensjonsinnretning plikter å påse at foretakets informasjon er korrekt og utfyllende.",
+                        "Spørsmålet om flytting av pensjonsordningen skal forelegges styringsgruppen for pensjonsordningen til uttalelse.",
+                        "Medlemmer i pensjonsordningen skal også gis anledning til å uttale seg. For øvrig kan en arbeidstakerorganisasjon uttale seg på vegne av sine medlemmer. Annet kan fastsettes i tariffavtale."
+                    ]
+                },
+                {
+                    "name": "§ 11-5",
+                    "title": "Oppsigelse. Flyttegebyr",
+                    "sections": [
+                        "Kontrakt om pensjonsordning kan sies opp med en frist på to måneder. Oppsigelse skal skje skriftlig. Kravet om skriftlighet er ikke til hinder for at oppsigelse kan oversendes elektronisk, dersom det er benyttet en betryggende metode som autentiserer avsender og sikrer meldingens innhold.",
+                        "Første ledd er ikke til hinder for at det avtales at oppsigelsesfristen ikke skal utløpe før ved første kvartalsskifte, halvårsskifte eller årsskifte for pensjonsordninger med årspremie beregnet etter reglene i § 10-6.",
+                        "Ved utløpet av fristen for oppsigelse går risiko knyttet til medlemmer og pensjonister i pensjonsordningen over på den pensjonsinnretning pensjonsordningen flyttes til.",
+                        "Foretaket skal betale et flyttegebyr til dekning av kostnader som pensjonsinnretningen har ved å avslutte kontrakten og overføre pensjonsordningens midler til annen pensjonsinnretning. Departementet kan gi nærmere regler om flyttegebyr."
+                    ]
+                },
+                {
+                    "name": "§ 11-6",
+                    "title": "Oppgjørsfrist",
+                    "sections": [
+                        "Ved oppsigelsesfristens utløp skal pensjonsinnretningen overføre pensjonsordningens midler til den nye pensjonsinnretningen. Oppgjørsfristen er likevel to måneder etter utløpet av oppsigelsesfristen når pensjonsordningens midler overstiger NOK 300 mill.",
+                        "Pensjonsinnretningene kan ved avtale fastsette annen frist for etteroppgjør enn det som følger av første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 11-7",
+                    "title": "Beregning av pensjonsordningens midler",
+                    "sections": [
+                        "En ytelsesbasert pensjonsordnings midler omfatter premiereserve til sikring av opptjent pensjon, herunder premiereserve for uføre- og etterlatteytelser, samt tilleggsavsetninger, pensjonistenes overskuddsfond og premiefondet. Pensjonsordningens andel av overskudd i flytteåret omfattes også.",
+                        "I pensjonsordninger med innskuddspensjon omfatter pensjonsordningens midler pensjonskapitalen og innskuddsfondet, samt pensjonsordningens andel av overskudd i flytteåret.",
+                        "Pensjonsordningens midler skal tilsvare forsikringsteknisk beregnet verdi på tidspunktet for oppsigelsesfristens utløp. Ved beregningen kan det tas utgangspunkt i kontoutskriften for siste regnskapsår og senere endringer i tiden fram til utløpet av oppsigelsesfristen. Pensjonsordningens andel av årets overskudd beregnes med utgangspunkt i den dato oppsigelsesfristen utløper.",
+                        "Forvaltes pensjonsordningens midler i egen eller egne investeringsporteføljer, legges markedsverdien av porteføljen ved utløpet av oppsigelsesfristen til grunn ved verdiberegningen. Dette gjelder også avkastnings- og verdisikringsgarantier knyttet til porteføljene. Foretakspensjonsloven § 11-1 fjerde ledd gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 11-8",
+                    "title": "Premiereserve for uføreytelser",
+                    "sections": [
+                        "Premiereserve for uføreytelser til medlemmer som er blitt uføre før utløpet av oppsigelsesfristen, skal tilsvare kravet til full avsetning beregnet etter det beregningsgrunnlag som gjaldt for pensjonsordningen ved utløpet av oppsigelsesfristen. Fastsatt uføregrad legges til grunn selv om uføregraden blir fastsatt etter dette tidspunktet.",
+                        "Medlem som er sykmeldt ved utløpet av oppsigelsesfristen, skal her anses som ufør dersom den sykdom som da var konstatert, har gitt rett til rehabiliterings- og attføringspenger eller uføreytelser innen ett år etter utløpet av oppsigelsesfristen.",
+                        "Tidsfristen i annet ledd kan fravikes ved avtale mellom pensjonsinnretningene. Slik avtale berører ikke foretakets eller de forsikredes rettigheter overfor avgivende pensjonsinnretning etter annet ledd med mindre foretaket samtykker til at forpliktelsene overtas av mottakende pensjonsinnretning."
+                    ]
+                },
+                {
+                    "name": "§ 11-9",
+                    "title": "Oppgjørsmåte",
+                    "sections": [
+                        "Pensjonsordningens midler beregnet etter reglene i §§ 11-7 og 11-8 skal overføres i penger. Det kan avtales mellom pensjonsinnretningene at oppgjør for midler plassert i egen investeringsportefølje skal skje ved overføring av porteføljen.",
+                        "Ved overføring av midler etter utløpet av oppsigelsesfristen skal det svares avkastning av midlene fra utløpet av oppsigelsesfristen og frem til den dag midlene blir overført. Avkastningen beregnes etter renten på folioinnskudd i Norges Bank tillagt to prosentenheter, med mindre en høyere rente avtales mellom pensjonsinnretningene."
+                    ]
+                },
+                {
+                    "name": "§ 11-10",
+                    "title": "Anvendelse av overførte midler",
+                    "sections": [
+                        "Overført premiereserve skal anvendes til sikring av medlemmenes og pensjonistenes rettigheter i samsvar med det nye regelverket for pensjonsordningen og det beregningsgrunnlag som dette bygger på.",
+                        "Tilleggsavsetninger, pensjonistenes overskuddsfond og premiefond skal etter overføringen fortsatt være en del av pensjonsordningens midler og anvendes etter ellers gjeldende regler.",
+                        "Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene til de enkelte medlemmer eller pensjonister, skal manglende premiereserve tilføres fra premiefondet. Resten dekkes i tilfelle ved overførte tilleggsavsetninger eller ved overføringer fra foretaket.",
+                        "Er overført premiereserve knyttet til medlemmenes og pensjonistenes rett til opptjent pensjon større enn nødvendig for å sikre deres rettigheter, skal overskytende premiereserve benyttes til engangspremie for tillegg til pensjonsytelsene. I kommunale pensjonsordninger skal overskytende premiereserve overføres til premiefondet.",
+                        "Pensjonskapital og innskuddsfond i pensjonsordning med innskuddspensjon skal etter overføringen forvaltes i samsvar med det nye regelverket for pensjonsordningen og det beregningsgrunnlag dette i tilfelle bygger på."
+                    ]
+                },
+                {
+                    "name": "§ 11-11",
+                    "title": "Flytting av pensjonsrettigheter utgått fra kollektive pensjonsordninger",
+                    "sections": [
+                        "Ved flytting av en kommunal pensjonsordning skal oppsatte pensjonsrettigheter i pensjonsordningen med tilhørende midler, samtidig overføres til den nye pensjonsinnretningen. Bestemmelsene i § 11-3, § 11-5 tredje og fjerde ledd, § 11-7 første, tredje og fjerde ledd, § 11-8, § 11-9 og § 11-10 første til fjerde ledd gjelder tilsvarende.",
+                        "Ved flytting av andre pensjonsordninger overføres ikke pensjonsrettigheter knyttet til fripoliser eller pensjonskapitalbevis til den nye pensjonsinnretningen, med mindre den som har rett til fripolisen eller pensjonskapitalbeviset krever det etter reglene i § 11-13."
+                    ]
+                },
+                {
+                    "name": "§ 11-12",
+                    "title": "Flytting ved medregning av tidligere tjenestetid",
+                    "sections": [
+                        "Blir en arbeidstaker medlem av pensjonsordning med foretakspensjon som har bestemmelser om medregning av tjenestetid, gjelder reglene i foretakspensjonsloven §§ 4-11 til 4-13. Ved beregningen av de midler som skal overføres, gjelder § 11-7 første, tredje og fjerde ledd tilsvarende. For øvrig gjelder § 11-5 fjerde ledd, § 11-9 og § 11-10 første til fjerde ledd tilsvarende så langt de passer."
+                    ]
+                },
+                {
+                    "name": "§ 11-13",
+                    "title": "Flytting av fripolise og pensjonskapitalbevis",
+                    "sections": [
+                        "Den som har rett til pensjonsrettigheter knyttet til fripolise eller pensjonskapitalbevis, kan flytte kontrakten til en annen pensjonsinnretning.",
+                        "Bestemmelsene om oppsigelsesfrist, risikoovergang og flyttegebyr i § 11-5 første, tredje og fjerde ledd, samt oppgjørsfrist i § 11-6 gjelder tilsvarende.",
+                        "Ved beregning, oppgjør og anvendelse av de midler som skal overføres, gjelder bestemmelsene i §§ 11-7, 11-8, 11-9 og § 11-10 første, andre og femte ledd tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 11-14",
+                    "title": "Flytting av individuelle pensjonsavtaler",
+                    "sections": [
+                        "Den som har en individuell pensjonsavtale, eller en individuell livrenteforsikring, kan flytte kontrakten til en annen pensjonsinnretning.",
+                        "Bestemmelsene om oppsigelsesfrist, risikoovergang og flyttegebyr i § 11-5 første, tredje og fjerde ledd, samt oppgjørsfrist i § 11-6, gjelder tilsvarende.",
+                        "Ved beregningen av de midler som skal overføres, gjelder bestemmelsene i §§ 11-7 og 11-8. Oppgjør foretas etter reglene i § 11-9.",
+                        "Overførte midler skal anvendes til å sikre rettighetene etter den nye pensjonsavtalen etter reglene i § 11-10 første og annet ledd. Er premiereserve for pensjonsforsikring ikke tilstrekkelig til å sikre rettighetene etter den nye kontrakten, kan resten dekkes ved overføring fra premiefondet eller i tilfelle fra tilleggsavsetninger knyttet til forsikringen. Overskytende premiereserve benyttes til å øke ytelsene, med mindre forsikringstakeren krever at midlene skal overføres til premiefond.",
+                        "Person som er oppnevnt som begunstiget under pensjonsavtalen, skal underrettes om flyttingen.",
+                        "For individuelle pensjonsavtaler kan avgivende pensjonsinnretning ta forbehold om at det skal beregnes et fradrag i premiereserven (seleksjonsfradrag). Slikt fradrag kan bare kreves dersom den pensjonsinnretningen kontrakten flyttes til, legger til grunn ny helseprøving av forsikrede. Departementet kan gi nærmere regler."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del V. Skadeforsikring",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 12. Premier, krav til avsetninger mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 12-1",
+                    "title": "Premier",
+                    "sections": [
+                        "Et skadeforsikringsselskap skal benytte premier som står i rimelig forhold til den risiko som overtas og de tjenester som ytes.",
+                        "Selskapets premier skal være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte kontrakter blir oppfylt og skal være betryggende ut fra selskapets økonomi.",
+                        "Selskapet skal påse at premietariffene utformes slik at det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.",
+                        "Kredittilsynet skal føre kontroll for å påse at de premier som benyttes er i samsvar med reglene i første til tredje ledd. Kongen kan forby bruk av premier som Kongen finner er ubetryggende eller urimelige."
+                    ]
+                },
+                {
+                    "name": "§ 12-2",
+                    "title": "Forsikringstekniske avsetninger",
+                    "sections": [
+                        "Et skadeforsikringsselskap skal til enhver tid ha forsvarlige forsikringstekniske avsetninger til sikring av sine forsikringsforpliktelser.",
+                        "Kongen gir nærmere regler om beregningen av avsetningskravene, herunder om sikkerhetsavsetninger og andre avsetninger til dekning av risikofaktorer avledet av forsikringsvirksomheten."
+                    ]
+                },
+                {
+                    "name": "§ 12-3",
+                    "title": "Aktuar- og takseringstjenester",
+                    "sections": [
+                        "Kongen kan gi regler om aktuarkompetanse i skadeforsikringsselskaper. § 9-24 gjelder tilsvarende.",
+                        "Kongen kan gi nærmere regler om takseringstjenester i skadeforsikringsselskap."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Del VI. Forskjellige bestemmelser",
+            "paragraphs": []
+        },
+        {
+            "name": "Kapittel 13. Avvikling mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 13-1",
+                    "title": "Avvikling av forsikringsselskap",
+                    "sections": [
+                        "Vedtak om avvikling, oppløsning eller flytting av forsikringsselskap må godkjennes av Kongen. Dette gjelder ikke hvis selskapets konsesjon trekkes tilbake. I så fall plikter styret straks å iverksette avvikling.",
+                        "Før vedtak som nevnt i første ledd kan godkjennes, skal selskapet godtgjøre at følgende er gjennomført til beskyttelse av forsikringstakerne og de sikrede:",
+                        "1.Selskapet skal gi forsikringstakerne skriftlig informasjon om vedtaket og om hva vedtaket innebærer for forsikringstakerne og de sikredes rettigheter og sikkerhet.",
+                        "2.Dersom vedtaket innebærer endringer av betydning for forsikringstakerne eller de sikredes rettigheter eller for sikkerheten for deres krav, har forsikringstakerne rett til å si opp forsikringsavtalen uten kostnader. Selskapet skal gi forsikringstakerne skriftlig varsel om denne retten samt fastsette en rimelig frist for når oppsigelsen må være foretatt.",
+                        "Etter at vedtak om avvikling eller oppløsning er godkjent, må tegning av nye og fornyelse av eldre forsikringer ikke finne sted.",
+                        "Kredittilsynet trer i tingrettens sted ved anvendelsen av reglene i aksjeloven og allmennaksjeloven kapittel 16. Aksjeloven kapittel 16 får tilsvarende anvendelse på gjensidige selskaper."
+                    ]
+                },
+                {
+                    "name": "§ 13-2",
+                    "title": "Plikt til å avvikle gjensidig selskap",
+                    "sections": [
+                        "Synker forsikringsbestanden i et gjensidig forsikringsselskap under det som er vedtektsfestet etter § 4-3 bokstav c, plikter styret straks og med høyst 14 dagers varsel å sammenkalle det selskapsorganet som har myndighet til å vedta avvikling av selskapet.",
+                        "Blir avvikling ikke vedtatt, og er bestanden fortsatt for lav tre måneder etter at selskapsorganet holdt sitt møte, plikter styret å iverksette avvikling. Tegning av nye og fornyelse av eldre forsikringer må ikke finne sted etter at avvikling er vedtatt eller iverksatt."
+                    ]
+                },
+                {
+                    "name": "§ 13-3",
+                    "title": "Overdragelse av forsikringsbestanden",
+                    "sections": [
+                        "Avviklingsstyret kan inngå avtale med annet forsikringsselskap om overføring av hele forsikringsbestanden. Avtalen må godkjennes av Kredittilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 13-4",
+                    "title": "Omdanning til annen selskapsform",
+                    "sections": [
+                        "Kontrakter inngått med forsikringsselskap før omdanning til annen selskapsform er også etter omdanningen bindende for forsikringsselskapet og dets medkontrahenter."
+                    ]
+                },
+                {
+                    "name": "§ 13-5",
+                    "title": "Fusjon og fisjon",
+                    "sections": [
+                        "Et gjensidig forsikringsselskap kan overdra eiendeler, rettigheter og forpliktelser i sin helhet til et annet gjensidig forsikringsselskap mot at medlemmene blir medlemmer i det overtakende selskapet.",
+                        "Kredittilsynet trer i tingrettens sted ved utøvelse av myndighet som nevnt i aksjeloven § 13-15 og § 14-7, jf § 13-15. Reglene i aksjeloven kapitlene 13 og 14 og § 4-26 gjelder tilsvarende for gjensidige forsikringsselskaper."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 14. Utenlandske forsikringsselskapers virksomhet i Norge",
+            "paragraphs": [
+                {
+                    "name": "§ 14-1",
+                    "title": "Filial av utenlandsk selskap",
+                    "sections": [
+                        "Utenlandsk forsikringsselskap kan drive forsikringsvirksomhet i Norge gjennom filial. Bestemmelsene i kapittel 4, 5 og 13 og §§ 6-3, 6-4, 6-5 og 11-2 gjelder ikke for filialer av utenlandske selskaper.",
+                        "Tillatelse etter første ledd kan kun gis utenlandsk forsikringsselskap som har tillatelse i sitt hjemland til å drive forsikringsvirksomhet og som er underlagt betryggende tilsyn der. Før forsikringsselskapet starter sin virksomhet i Norge gjennom filial, skal det være etablert et tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i forsikringsselskapets hjemland og Kredittilsynet.",
+                        "Et utenlandsk selskap som i sitt hjemland ikke oppfyller kravene i § 1-3, kan opprette flere filialer i Norge i samsvar med § 1-3. Disse må hver for seg oppfylle vilkårene i §§ 14-2 til 14-8. Selskap som har sitt hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde og som driver virksomhet i Norge som skadeforsikringsselskap, kan også overta kredittforsikringer."
+                    ]
+                },
+                {
+                    "name": "§ 14-2",
+                    "title": "Generalagent",
+                    "sections": [
+                        "Selskapet skal utpeke en fullmektig (generalagent) til å lede filialen her i riket. Generalagenten representerer selskapet utad, og har fullmakt til å forplikte selskapet overfor tredjemann, og til å motta søksmål på selskapets vegne. Generalagenten skal være bosatt her i riket.",
+                        "Et selskap må kun ha én generalagent innenfor hver av de forsikringsbransjer som etter § 1-3, jf. § 14-1 tredje ledd, må drives i separate filialer. En generalagent kan imidlertid benytte underagenter.",
+                        "Et norsk selskap med begrenset ansvar kan være generalagent hvis samtlige styremedlemmer er bosatt her i riket. Et selskap av en annen art kan være generalagent hvis alle ansvarlige deltakere er bosatt her i riket."
+                    ]
+                },
+                {
+                    "name": "§ 14-3",
+                    "title": "Norsk rett",
+                    "sections": [
+                        "Dersom ikke annet er bestemt i eller i medhold av lov, skal det utenlandske selskapet i alle rettsforhold som springer ut av filialens virksomhet, være underkastet norsk rett og norske domstolers avgjørelser. Selskapet har verneting der filialen har forretningssted."
+                    ]
+                },
+                {
+                    "name": "§ 14-4",
+                    "title": "Kapitalkrav i skadeforsikring",
+                    "sections": [
+                        "Et utenlandsk skadeforsikringsselskap med filial i Norge skal her i riket være i besittelse av en kapital bestemt etter regler gitt av Kongen."
+                    ]
+                },
+                {
+                    "name": "§ 14-5",
+                    "title": "Kapitalkrav i livsforsikring",
+                    "sections": [
+                        "Et utenlandsk livsforsikringsselskap med filial i Norge skal her i riket være i besittelse av en kapital beregnet etter reglene i §§ 9-15, 9-16 og 9-25. Kongen kan gi regler om minstekrav til kapital her i riket."
+                    ]
+                },
+                {
+                    "name": "§ 14-6",
+                    "title": "Deponering, offentlig administrasjon, avvikling",
+                    "sections": [
+                        "Den kapital som et utenlandsk forsikringsselskap etter §§ 14-4 og 14-5 skal ha her i riket, skal deponeres i norsk bank og forvaltes etter de regler som gjelder for tilsvarende norsk forsikringsselskap. Vedkommende bank er ansvarlig for at kapitalen ikke frigis eller utbetales uten Kredittilsynets samtykke.",
+                        "Dersom det utenlandske selskap kommer under insolvensbehandling i sitt hjemland, eller dersom Kredittilsynet ellers har grunn til å tro at selskapet ikke vil komme til å oppfylle sine forpliktelser etter forsikringsavtaler inngått gjennom filialen i Norge etter hvert som de forfaller, gjelder lov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner kapitlene 3 og 4 tilsvarende så langt de passer for selskapets kapital her i riket.",
+                        "Ved nedleggelse av filialen kan det deponerte beløp ikke frigis før selskapet har dekket alle sine kjente forpliktelser etter forsikringsavtaler inngått gjennom filialen. Før beløpet frigis, skal det innrykkes i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon en oppfordring til mulige rettighetshavere om å melde seg innen en av Kredittilsynet fastsatt frist.",
+                        "Reglene i denne paragrafen gjelder ikke for selskap som har sitt hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde. Kongen kan gi nærmere regler om deponering, om nedleggelse av filial og om fremgangsmåten ved insolvensbehandling fra selskap med hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde som utøver virksomhet gjennom filial i Norge."
+                    ]
+                },
+                {
+                    "name": "§ 14-7",
+                    "title": "Konsesjonssøknad",
+                    "sections": [
+                        "I tillegg til det som følger av kapittel 2, skal konsesjonssøknaden for en utenlandsk filial være bilagt:",
+                        "a)Bevis for at den valgte representant er i besittelse av de i § 14-2 nevnte egenskaper.",
+                        "b)Offisiell bekreftelse på at selskapet er lovlig stiftet i sitt hjemland med opplysninger om hvor lenge det har drevet den anmeldte virksomhet i sitt hjemland, og om hjemlandets tilsynsmyndigheter i de siste tre år har hatt bemerkninger til den måte forsikringsvirksomheten er utøvet.",
+                        "c)Selskapets regnskaper og årsberetninger for de tre siste regnskapsår.",
+                        "d)En erklæring fra selskapets øverste organ om at det forplikter seg til å underkaste seg norsk rett og norske domstolers avgjørelser for de rettsforhold som oppstår av forsikringsvirksomheten i Norge.",
+                        "e)Den originale fullmakt for generalagenten. I fullmakten skal det stå at generalagenten er rette vedkommende også til å motta søksmål for norske domstoler.",
+                        "f)Et eksemplar av selskapets vedtekter.",
+                        "g)En fortegnelse over selskapets styremedlemmer.",
+                        "h)Erklæring om at selskapet er villig til å oppfylle kapitalkravene.",
+                        "Ovennevnte bilag kan av Kredittilsynet kreves oversatt til norsk av godkjent translatør.",
+                        "Filialen skal meldes til Foretaksregisteret etter reglene som gjelder for anmeldelse av utenlandsk foretak.",
+                        "Kongen kan i forskrift fastsette i hvilken utstrekning bestemmelsene i denne paragrafen og bestemmelsene i kapittel 2 skal gjelde for selskap som har sitt hovedsete i en annen stat innenfor Det europeiske økonomiske samarbeidsområde, og fastsette nærmere regler for slike selskapers virksomhet i Norge."
+                    ]
+                },
+                {
+                    "name": "§ 14-8",
+                    "title": "Oppnevnelse av ny generalagent",
+                    "sections": [
+                        "Taper generalagenten noen av de i § 14-2 foreskrevne egenskaper, eller blir han av noen grunn ute av stand til å utøve sitt verv, eller opphører han å fungere som generalagent, skal Kredittilsynet utpeke en annen til på selskapets vegne å motta søksmål, og for øvrig lovlig representere selskapet med hensyn til allerede inngåtte forpliktelser. Denne fungerer inntil hindringen for representanten er opphørt, eller Kredittilsynet har godkjent en annen representant. Kredittilsynet sørger for å kunngjøre dette i Norsk Lysingsblad. Inntil dette er kunngjort, skal enhver forsikringstaker ha rett til å betale forfalt forsikringspremie til Kredittilsynet."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 15. Unntaksbestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 15-1",
+                    "title": "Stat",
+                    "sections": [
+                        "Denne lovens bestemmelser kommer ikke til anvendelse på ordninger som styres av staten. Kongen kan likevel fastsette at denne lov helt eller delvis skal gjelde for Norges Banks pensjonskasse."
+                    ]
+                },
+                {
+                    "name": "§ 15-2",
+                    "title": "Husdyrforsikring",
+                    "sections": [
+                        "Med unntak av § 2-1 kommer denne lovens bestemmelser ikke til anvendelse på forsikring av husdyr administrert av slakterier eller meierier. De skal imidlertid årlig sende inn oppgave over virksomheten til Kredittilsynet. Kredittilsynet kan, hvis det er påkrevet av hensyn til forsikringstakerne, bestemme at også disse ordninger skal være undergitt denne lov helt eller delvis."
+                    ]
+                },
+                {
+                    "name": "§ 15-3",
+                    "title": "Begravelseskasser og hjelpekasser",
+                    "sections": [
+                        "Denne lovens bestemmelser kommer ikke til anvendelse på begravelseskasser og hjelpekasser som yter en maksimumsstøtte lik folketrygdens grunnbeløp. Disse innretninger kan imidlertid av Kredittilsynet pålegges å sende oppgave om sin virksomhet til Kredittilsynet. Kredittilsynet kan, hvis det er påkrevet av hensyn til de berettigede til ytelsene, bestemme at også disse ordninger skal være undergitt denne lov helt eller delvis."
+                    ]
+                },
+                {
+                    "name": "§ 15-4",
+                    "title": "Mindre gjensidige forsikringsselskaper",
+                    "sections": [
+                        "Kongen kan gjøre helt eller delvis unntak fra denne lovens bestemmelser for mindre gjensidige forsikringsselskaper."
+                    ]
+                },
+                {
+                    "name": "§ 15-5",
+                    "title": "Sjøtrygdelag",
+                    "sections": [
+                        "Denne lovens bestemmelser kommer ikke til anvendelse på forsikringsforeninger som går inn under lov 3. juli 1953 nr. 2 om sjøtrygdelag."
+                    ]
+                },
+                {
+                    "name": "§ 15-6",
+                    "title": "Gjenforsikring",
+                    "sections": [
+                        "Kongen kan gjøre helt eller delvis unntak fra denne lovens bestemmelser for selskaper som bare driver gjenforsikringsvirksomhet."
+                    ]
+                },
+                {
+                    "name": "§ 15-7",
+                    "title": "Krigsrisiko til sjøs",
+                    "sections": [
+                        "Kongen kan gjøre helt eller delvis unntak fra denne lovens bestemmelser for selskaper som bare driver forsikring av krigsrisiko til sjøs."
+                    ]
+                },
+                {
+                    "name": "§ 15-8",
+                    "title": "Andre unntak",
+                    "sections": [
+                        "Bestemmelsene i § 3-5 og § 5-1 første ledd gjelder ikke for forsikringsselskaper som ifølge sine vedtekter bare kan overta direkte forsikring for en nærmere angitt krets av forsikringstakere, og eventuelt gjenforsikring i tillegg. Kongen kan for slike selskaper gjøre unntak også fra andre av lovens bestemmelser.",
+                        "Kredittilsynet avgjør i tvilstilfelle om et selskap faller inn under første ledd.",
+                        "Også ellers kan Kongen unnta enkelte selskaper fra deler av loven når særlige hensyn gjør seg gjeldende."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 16. Straffebestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 16-1",
+                    "title": "Straffeansvar",
+                    "sections": [
+                        "Tillits- eller tjenestemenn i institusjoner som er underlagt denne lov og som forsettlig eller uaktsomt overtrer loven eller bestemmelse eller pålegg gitt med hjemmel i loven eller som overtrer ellers gjeldende regelverk for virksomheten eller som medvirker til dette, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel inntil 1 år, dersom forholdet ikke går inn under noen strengere straffebestemmelse.",
+                        "Hvis et pålegg av tilsynet ikke blir etterkommet, kan vedkommende departement bestemme at de personer og/eller den institusjon, institusjonens morselskap eller morselskapet i det konsern institusjonen er en del av, som skal oppfylle pålegget, skal betale en daglig løpende mulkt til forholdet er rettet. Pålegg om mulkt er tvangsgrunnlag for utlegg."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 17. Ikrafttredelses- og overgangsregler",
+            "paragraphs": [
+                {
+                    "name": "§ 17-1",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+                        "Fra den tid loven trer i kraft oppheves lov 10. juni 1988 nr. 39 om forsikringsvirksomhet.",
+                        "Foretak som driver virksomhet som omfattes av loevn her når den trer i kraft, må oppfylle lovens krav innen ett år etter ikrafttredelsen. Eksisterende pensjonskasser må søke om konsesjon innen den nevnte fristen. Det samme gjelder for unntak fra lovens bestemmelser."
+                    ]
+                },
+                {
+                    "name": "§ 17-2",
+                    "title": "Overgangsregler",
+                    "sections": [
+                        "Departementet kan gi nærmere overgangsregler for foretak som driver virksomhet som omfattes av loven her når den trer i kraft.",
+                        "Forskrifter gitt i medhold av lov 10. juni 1988 nr. 39 om forsikringsvirksomhet gjelder inntil noe annet er bestemt."
+                    ]
+                },
+                {
+                    "name": "§ 17-3",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:",
+                        "1.I lov 3. juli 1953 nr. 2 om sjøtrygdelag skal § 2 annet ledd første punktum lyde:",
+                        "Kongen kan fastsetja at eit ymsesidig sjøtrygdelag skal gå inn under forsikringsloven når det trengst etter den verksemd laget driv.",
+                        "2.I lov 17. juli 1953 nr. 2 om erstatning for krigsskade på eiendom og interesse gjøres følgende endringer:",
+                        "§ 25 første ledd annet punktum skal lyde:",
+                        "Om og på hvilke betingelser den tvungne trygd skal gjelde bygninger som er brannforsikret i utenlandsk forsikringsinnretning som ikke har rett til å drive forsikringsvirksomhet her i riket etter forsikringsloven, bestemmes i vedtektene.",
+                        "§ 30 første ledd annet punktum skal lyde:",
+                        "Om og på hvilke betingelser den tvungne trygd skal gjelde løsøre som er brannforsikret i utenlandsk forsikringsinnretning som ikke har rett til å drive forsikringsvirksomhet her i riket etter forsikringsloven, bestemmes i vedtektene.",
+                        "3.I lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven) gjøres følgende endringer:",
+                        "§ 1 første ledd nytt nr. 16 skal lyde:",
+                        "16.innskuddspensjonsforetak,",
+                        "Nåværende nr. 16 blir nytt nr. 18.",
+                        "§ 9 femte ledd skal lyde:",
+                        "De bekjentgjørelser som Kredittilsynet innsender til Norsk Lysingsblad i medhold av forsikringsloven, betales av vedkommende forsikringsselskap.",
+                        "4.I lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) gjøres følgende endringer:",
+                        "§ 3-13 nr. 6 første punktum skal lyde:",
+                        "6.Taushetsplikten er ikke til hinder for at opplysninger om fødselsnummer for personlig skattyter eller organisasjonsnummer for upersonlig skattyter, navn, adresse, den fastsatte nettoformue og nettoinntekt, skatter og avgifter kan gis til finansinstitusjoner (jf. finansieringsvirksomhetsloven), forsikringsvirksomhet (jf. forsikringsloven) og kredittopplysningsvirksomhet.",
+                        "§ 6-11 nr. 4 første punktum skal lyde:",
+                        "4.Bestemmelsene i nr. 1-3 gjelder tilsvarende for sparebanker, gjensidige forsikringsselskaper, kreditt- og hypotekforeninger og selveiende finansieringsforetak som har utstedt grunnfondsbevis, jf. sparebankloven § 2 annet ledd, forsikringsloven § 4-2 annet ledd og finansieringsvirksomhetsloven og for selskaper og sammenslutninger der medlemmene har begrenset ansvar og som noen eier formuesandeler i eller mottar inntektsandeler fra, unntatt",
+                        "a)forbruksforeninger og andre foreninger og lag som skattlegges etter skatteloven §§ 10-50 og 10-51 og",
+                        "b)boligselskaper hvor andelshaverne lignes etter skatteloven § 7-3.",
+                        "5.I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven) skal § 230 annet ledd første punktum lyde:",
+                        "Vitner som har taushetsplikt etter sparebankloven § 21, forretningsbankloven § 18, forsikringsloven § 1-6, finansieringsvirksomhetsloven § 3-14, verdipapirhandelloven § 9-8 eller verdipapirregisterloven § 8-1, plikter å gi forklaring til politiet om forhold som omfattes av taushetsplikten eller taushetsplikt etter avtale.",
+                        "6.I lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven) gjøres følgende endringer:",
+                        "§ 1-4 første ledd nr. 2 skal lyde:",
+                        "2.selskap eller annen institusjon som omfattes av forsikringsloven,",
+                        "§ 2a-17 annet til fjerde ledd skal lyde:",
+                        "Konsernstyret står for forvaltningen av de foretak som inngår i konserngruppen. Konsernstyret skal velges ved likelydende vedtak fattet av de organer som velger styre i de enkelte foretakene. Konsernstyret skal sammensettes i samsvar med sparebankloven § 14 og forsikringsloven § 5-1. Konsernstyret skal ha den kompetansen og det ansvar som tilligger styret etter sparebankloven, forsikringsloven og annet regelverk. Reglene om styrets saksbehandling i både sparebankloven og forsikringsloven får anvendelse. Det skal føres egen styreprotokoll for hvert av de foretak som inngår i konserngruppen.",
+                        "Sparebank og gjensidig forsikringsselskap som inngår i konserngruppe skal ha et virksomhetsstyre på minst tre medlemmer. Virksomhetsstyret har til formål å bidra til at forvaltningen av konserngruppen ikke utøves slik at den kommer i strid med vedkommende foretaks interesser. Virksomhetsstyret velges av det organ som etter sparebankloven og forsikringsloven velger styre. I saker av vesentlig betydning for det enkelte foretak skal konsernstyret innhente virksomhetsstyrets uttalelse før konsernstyret treffer en beslutning. Virksomhetsstyret kan uttale seg om andre saker av betydning for foretaket. Konsernstyret skal utarbeide forslag til instruks, herunder delegasjon, til virksomhetsstyrene. Instruksen skal vedtas av det organ som velger styret og godkjennes av Kredittilsynet.",
+                        "Konsernsjefen ansettes av konsernstyret og skal ha den kompetanse og det ansvar i hvert enkelt foretak som tilligger daglig leder etter sparebankloven, forsikringsloven og annet regelverk. Sparebankloven § 17 første ledd nr. 2 gjelder ikke.",
+                        "§ 2-20 fjerde ledd skal lyde:",
+                        "Selskap som opprettes ved omdannelse av et gjensidig forsikringsselskap betraktes som forsikringsaksjeselskap eller som forsikringsallmennaksjeselskap i forhold til forsikringsloven.",
+                        "§ 3-1 annet ledd nr. 2 skal lyde:",
+                        "2.selskap eller annen institusjon som omfattes av forsikringsloven,",
+                        "7.I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
+                        "§ 5-30 fjerde ledd skal lyde:",
+                        "(4) Som inntekt vunnet ved virksomhet regnes også midler overført fra premiefond i medhold av lov om foretakspensjon §§ 10-4 og 15-3 tredje ledd siste punktum og midler overført fra innskuddsfond i medhold av innskuddspensjonsloven §§ 9-4 og 13-3 annet ledd. Tilsvarende gjelder for midler overført fra premiefond i en kommunal pensjonsordning i medhold av forsikringsloven § 10-12.",
+                        "§ 6-40 femte ledd bokstav a skal lyde:",
+                        "a.renter som sparebank og gjensidige forsikringsselskap, kreditt- og hypotekforening og selveiende finansieringsforetak har utbetalt på grunnfondsbevis, jf. lov om sparebanker § 2 annet ledd, forsikringsloven § 4-2 annet ledd og finansieringsvirksomhetsloven,",
+                        "8.I lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag (finansavtaleloven) skal § 1 annet ledd bokstav e) lyde:",
+                        "e)pensjonsinnretning som omfattes av forsikringsloven.",
+                        "9.I lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven) gjøres følgende endringer:",
+                        "§ 2-2 annet ledd første punktum skal lyde:",
+                        "(2) Pensjonsordning kan også opprettes i pensjonskasse som er i samsvar med bestemmelser gitt i eller i medhold av forsikringsloven.",
+                        "§ 3-4 annet ledd skal lyde:",
+                        "(2) Forsikringsloven kapittel 11 gjelder ved flytting til pensjonsordningen av premiereserve og andre midler knyttet til fripolise for opptjent pensjon.",
+                        "§ 4-9 femte ledd første punktum skal lyde:",
+                        "(5) Midlene knyttet til en fripolise kan overføres til annet livsforsikringsselskap eller pensjonskasse etter reglene i forsikringsloven kapittel 11.",
+                        "§ 4-11 tredje ledd skal lyde:",
+                        "(3) I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i forsikringsloven kapittel 11.",
+                        "10.I lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) skal § 2-2 første ledd lyde:",
+                        "(1) Pensjonsordning etter loven her kan opprettes ved avtale med institusjon som har tillatelse til å drive virksomhet her i riket som bank, livsforsikringsselskap, pensjonskasse, innskuddspensjonsforetak eller forvaltningsselskap for verdipapirfond.",
+                        "11.I lov 1. april 2005 nr. 14 om europeiske selskaper skal § 7 annet ledd annet punktum bokstav c lyde:",
+                        "c)forsikringsloven § 3-6 første ledd,"
+                    ]
+                }
+            ]
+        }
+    ]
+}

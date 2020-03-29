@@ -1,0 +1,28 @@
+{
+    "lawId": "LOV-2005-06-17-93",
+    "lawName": "Lov om endringer i lov 19. juni 1997 nr. 82 om pass (elektronisk lagring av biometrisk personinformasjon i form av ansiktsfoto i pass m.m.)",
+    "shortName": "Endringslov til passloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 6a",
+                    "title": "Rett til innsyn i og retting av biometrisk informasjon om seg selv og sletting av biometrisk informasjon innhentet for utstedelse av pass og til gjennomføring av passkontroll (verifikasjon) mv.",
+                    "sections": [
+                        "Vedkommende som passet er utstedt til har rett til innsyn i personopplysningene som er innført i passet, herunder den biometriske informasjonen, og kan kreve uriktig informasjon rettet eller slettet.",
+                        "Biometrisk personinformasjon som er innhentet til bruk ved personalisering av passet, skal slettes så snart passet er oversendt eller utlevert til passinnehaver.",
+                        "Biometrisk personinformasjon (ansiktsfoto) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter.",
+                        "Biometrisk personinformasjon innhentet i henhold til tredje ledd skal slettes så snart som mulig etter at vedkommendes identitet er verifisert mot gyldig reisedokument, eller når vedkommendes identitet er fastslått på annen måte.",
+                        "Endringene trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

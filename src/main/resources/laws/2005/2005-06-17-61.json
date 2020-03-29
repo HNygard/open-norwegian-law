@@ -1,0 +1,34 @@
+{
+    "lawId": "LOV-2005-06-17-61",
+    "lawName": "Lov om interimsorganisering av ny arbeids- og velferdsetat",
+    "shortName": "Lov om arbeids- og velferdsetaten",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Interimsorganisasjon",
+                    "sections": [
+                        "Det opprettes et organ som skal planlegge og forberede gjennomføringen av statlige oppgaver innenfor en ny arbeids- og velferdsforvaltning. Organet avvikles når den nye statlige arbeids- og velferdsetaten er etablert."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Organets myndighet",
+                    "sections": [
+                        "Organet kan overfor Aetat og trygdeetaten utøve myndighet i spørsmål av betydning for den fremtidige arbeids- og velferdsforvaltningen. Organet representerer Aetat og trygdeetaten også overfor kontraktsmotparter og andre i slike spørsmål.",
+                        "Departementet kan gi nærmere bestemmelser om rekkevidden av organets myndighet og med bindende virkning avgjøre uenighet om organets myndighet."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven trer i kraft fra det tidspunkt Kongen bestemmer."
+                    ]
+                }
+            ]
+        }
+    ]
+}

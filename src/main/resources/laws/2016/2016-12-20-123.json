@@ -1,0 +1,27 @@
+{
+    "lawId": "LOV-2016-12-20-123",
+    "lawName": "Lov om endringer i introduksjonsloven (samordning med andre offentlige ytelser)",
+    "shortName": "Endringslov til introduksjonsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 12",
+                    "title": "Samordning med andre offentlige ytelser",
+                    "sections": [
+                        "Introduksjonsstønaden reduseres i den utstrekning vedkommende har rett til dagpenger under arbeidsløshet, sykepenger eller foreldrepenger, og retten til disse ytelsene er opparbeidet før vedkommende startet i et introduksjonsprogram. Stønaden reduseres tilsvarende for uføretrygd eller arbeidsavklaringspenger vedkommende mottar.",
+                        "Dersom vedkommende mottar overgangsstønad, reduseres introduksjonsstønaden på årsbasis med 40 prosent av den overgangsstønad som overstiger halvparten av folketrygdens grunnbeløp.",
+                        "Barnetrygd og kontantstøtte kommer ikke til fradrag i stønaden.",
+                        "Loven trer i kraft fra den tid Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

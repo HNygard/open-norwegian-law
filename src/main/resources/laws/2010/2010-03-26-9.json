@@ -1,0 +1,1018 @@
+{
+    "lawId": "LOV-2010-03-26-9",
+    "lawName": "Lov om vergemål (vergemålsloven)",
+    "shortName": "Vergemålsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1. Innledende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Lovens saklige virkeområde",
+                    "sections": [
+                        "Loven gjelder personer under vergemål og deres adgang til selv å foreta rettslige handlinger eller råde over sine midler. Loven gjelder også verger for personer under vergemål og vergens kompetanse til å foreta rettslige handlinger eller råde over midler på vegne av personen han eller hun er verge for. For verger for mindreårige gjelder loven likevel bare i den utstrekning kompetansen ikke omfattes av foreldreansvaret etter barneloven.",
+                        "Loven gjelder i tillegg fullmaktsforhold som nevnt i kapittel 10.",
+                        "Loven gjelder bare i den utstrekning kompetanse som nevnt i første og annet ledd ikke er særskilt regulert i annen lov."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "Med personer under vergemål menes",
+                        "a)personer under 18 år,",
+                        "b)personer som har fylt 18 år, og som det er vedtatt vergemål for etter kapittel 4.",
+                        "Med personer som er satt under vergemål, menes personer som det er vedtatt vergemål for etter kapittel 4.",
+                        "Med myndige personer menes personer som har fylt 18 år, og som ikke helt eller delvis er fratatt den rettslige handleevnen.",
+                        "Med samboere menes i denne loven to personer som bor sammen i et ekteskapslignende forhold."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Lovens anvendelse på Svalbard",
+                    "sections": [
+                        "Loven gjelder på Svalbard. Kongen kan i forskrift fastsette at enkelte bestemmelser i loven ikke skal gjelde, og kan fastsette særlige regler for Svalbard under hensyn til de stedlige forholdene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Vergemålsmyndigheten",
+            "paragraphs": [
+                {
+                    "name": "§ 4",
+                    "title": "Vergemålsmyndigheten",
+                    "sections": [
+                        "Fylkesmannen er lokal vergemålsmyndighet. På Svalbard er Sysselmannen lokal vergemålsmyndighet. Det organ Kongen utpeker, er sentral vergemålsmyndighet."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Inndeling i distrikter",
+                    "sections": [
+                        "Hvert fylke utgjør et vergemålsdistrikt. Oslo og Akershus er likevel ett distrikt. Svalbard er et eget vergemålsdistrikt.",
+                        "Fylkesmannen kan i særlige tilfeller bestemme at distriktet skal betjenes av ett eller flere kontorer, og fastsetter området det enkelte kontoret skal ha ansvaret for.",
+                        "Kongen kan gi nærmere regler om vergemålsdistriktene og opprettelse av kontorer innenfor det enkelte vergemålsdistrikt."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Den lokale vergemålsmyndigheten",
+                    "sections": [
+                        "Fylkesmannen behandler saker etter loven her i første instans. Fylkesmannen skal føre tilsyn med vergene i sitt område.",
+                        "Fylkesmannen skal gi vergene i sitt distrikt nødvendig opplæring, veiledning og bistand.",
+                        "Kongen kan i forskrift gi nærmere regler om fylkesmannens plikter etter første og annet ledd, herunder regler om omfanget av tilsynsplikten."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Den sentrale vergemålsmyndigheten",
+                    "sections": [
+                        "Den sentrale vergemålsmyndigheten skal behandle klager over fylkesmannens vedtak og skal føre tilsyn med fylkesmannens oppgaver etter vergemålsloven.",
+                        "Kongen kan i forskrift gi nærmere regler om den sentrale vergemålsmyndigheten, herunder regler om omfanget av tilsynsplikten, retten til innsyn og adgangen til å gi pålegg."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Vergemål for mindreårige",
+            "paragraphs": [
+                {
+                    "name": "§ 8",
+                    "title": "Mindreårige",
+                    "sections": [
+                        "Personer som ikke har fylt 18 år, er mindreårige."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Den mindreåriges rettslige handleevne",
+                    "sections": [
+                        "En mindreårig kan ikke selv foreta rettslige handlinger eller råde over sine midler, med mindre noe annet er særlig bestemt."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Den mindreåriges adgang til å inngå arbeidsavtaler",
+                    "sections": [
+                        "En mindreårig som har fylt 15 år, kan selv inngå arbeidsavtale. En mindreårig som er under 15 år, kan inngå arbeidsavtale med vergens samtykke. En mindreårig kan uansett alder selv si opp en arbeidsavtale.",
+                        "Vergen kan ikke inngå arbeidsavtale på den mindreåriges vegne. Dersom hensynet til den mindreårige krever det, kan vergen med rimelig varsel heve arbeidsavtalen for den mindreårige."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Den mindreåriges adgang til å drive næringsvirksomhet",
+                    "sections": [
+                        "Vergen kan med samtykke fra fylkesmannen gi tillatelse til at en mindreårig som har fylt 15 år, kan drive en bestemt næringsvirksomhet. Fylkesmannen kan samtykke til at den mindreårige i den forbindelse også gis råderett over midler som er under fylkesmannens forvaltning etter kapittel 7. En mindreårig som har fått tillatelse til å drive næringsvirksomhet, kan på egen hånd foreta de disposisjoner som faller innenfor virksomhetens område. Dette gjelder likevel ikke disposisjoner som etter kapittel 6 krever samtykke fra fylkesmannen.",
+                        "Vergen skal føre tilsyn med at den mindreårige ikke handler utenfor den tillatelsen som er gitt.",
+                        "Vergen kan med samtykke fra fylkesmannen trekke tilbake tillatelsen dersom hensynet til den mindreårige krever det. I så fall bestemmer vergen med samtykke fra fylkesmannen om virksomheten skal fortsette for den mindreåriges regning eller avvikles. Tilbakekall etter første punktum får bare virkning for en tredjeperson hvis denne kjente eller burde kjenne til at tillatelsen var kalt tilbake."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Rådighet over midler den mindreårige har tjent eller fått til egen rådighet",
+                    "sections": [
+                        "En mindreårig råder selv over midler som han eller hun har tjent ved eget arbeid eller virksomhet etter fylte 15 år, eller som vergen eller andre har latt den mindreårige få til egen rådighet, samt normal avkastning av slike midler.",
+                        "Rådigheten gir ikke den mindreårige adgang til å foreta disposisjoner som etter kapittel 6 krever samtykke fra fylkesmannen.",
+                        "Dersom hensynet til den mindreårige krever det, kan vergen frata den mindreårige rådigheten over midler som nevnt i første ledd. Er den mindreårige fylt 15 år, kreves det samtykke fra fylkesmannen for å frata den mindreårige rådigheten."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Mindreårige med egen husholdning",
+                    "sections": [
+                        "En mindreårig som har egen husholdning, kan foreta disposisjoner som er vanlige i en husholdning eller for oppfostring av egne barn, unntatt å inngå avtale om leie av husrom. Den mindreårige blir likevel ikke bundet dersom motparten forsto eller burde forstå at avtalen ikke var påkrevd.",
+                        "Misbruker den mindreårige sin disposisjonsrett etter første ledd, kan vergen med samtykke fra fylkesmannen frata den mindreårige disposisjonsretten."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Virkningen av at den mindreårige har handlet ut over sin rett",
+                    "sections": [
+                        "Har en mindreårig disponert med penger som han eller hun har i sin besittelse, kan motparten gjøre avtalen gjeldende mot den mindreårige selv om den mindreårige manglet rett til å råde over pengene. Dette gjelder likevel ikke dersom motparten visste at den mindreårige manglet rett til å råde over pengene, eller motparten ikke var så aktsom som han eller hun burde være etter forholdene.",
+                        "Er en disposisjon ikke bindende for den mindreårige, kan vergen, fylkesmannen eller den mindreårige selv, når vedkommende blir myndig, godkjenne disposisjonen. En godkjent disposisjon har virkning fra det tidspunktet disposisjonen ble foretatt.",
+                        "Hvis motparten ikke forsto eller burde forstå at den mindreårige ikke hadde rett til å binde seg, kan motparten erklære seg ubundet. Erklæringen kan gis til den mindreårige eller vergen. Motparten kan ikke erklære seg ubundet av en avtale som allerede er oppfylt med bindende virkning for den mindreårige.",
+                        "Hvis motparten forsto eller burde forstå at den mindreårige ikke hadde rett til å binde seg, kan motparten først gå fra sine forpliktelser etter utløpet av den frist som måtte være fastsatt i avtalen, eller som med rimelighet måtte forutsettes å medgå for å innhente godkjennelse fra vergen eller fylkesmannen. Har vergen nektet å godkjenne disposisjonen, er motparten uforpliktet."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Partenes plikt til å levere tilbake det som er mottatt",
+                    "sections": [
+                        "Hvis en disposisjon ikke blir gjort bindende for den mindreårige etter § 14 annet ledd, skal hver av partene levere tilbake det de har mottatt. Kan ikke dette skje, skal verdien av det mottatte erstattes. Den mindreårige plikter ikke å erstatte det han eller hun har mottatt, utover det som er kommet ham eller henne til nytte.",
+                        "Har den mindreårige gitt uriktige opplysninger om sin disposisjonsrett og dermed forledet motparten, kan den mindreårige bli pålagt å erstatte tapet i den utstrekning det er rimelig."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Hvem som er verge for den mindreårige",
+                    "sections": [
+                        "Verge for en mindreårig er den som har foreldreansvar for den mindreårige etter reglene i barneloven, og som er myndig. Er den mindreårige uten fungerende verge, skal fylkesmannen oppnevne ny eller midlertidig verge."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Vergens oppgaver. Plikten til å høre den mindreårige mv.",
+                    "sections": [
+                        "Med mindre noe annet er bestemt, handler vergen på den mindreåriges vegne i økonomiske forhold og hvor det ellers følger av annen lovgivning.",
+                        "Har ingen foreldreansvar for den mindreårige, treffer vergen de avgjørelser som tilkommer den som har foreldreansvaret, jf. barneloven § 30. Det samme gjelder når den som har foreldreansvaret, ikke kan ivareta den mindreåriges interesser.",
+                        "En oppnevnt verge skal så vidt mulig rådføre seg med den eller de som har foreldreansvaret, før det treffes avgjørelser av betydning.",
+                        "Er den mindreårige over 12 år, skal vergen høre hva den mindreårige mener før det treffes avgjørelser. Om den mindreåriges medbestemmelsesrett i personlige forhold gjelder reglene i barneloven § 31.",
+                        "En mindreårig som er uenig i vergens avgjørelse, kan bringe spørsmålet inn for fylkesmannen."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Forholdet mellom vergene",
+                    "sections": [
+                        "Når ikke annet er særskilt bestemt, skal den mindreåriges verger handle i fellesskap. Blir vergene ikke enige i et spørsmål av betydning for den mindreårige, treffer fylkesmannen avgjørelsen.",
+                        "En verge kan gi den andre vergen fullmakt til å opptre alene som verge. Fullmakten kan være generell eller gjelde bestemte spørsmål.",
+                        "Hvis en av vergene ikke kan ivareta den mindreåriges interesser for en viss tid eller i visse saker, kan fylkesmannen bestemme at den andre vergen skal ha oppgaven som verge alene.",
+                        "Hvis den mindreårige ikke bor sammen med begge vergene, kan fylkesmannen bestemme at den ene av vergene alene skal disponere over bankkonto som tilhører den mindreårige. Fylkesmannen skal gi finansinstitusjonen melding om vedtaket.",
+                        "Hvis bare den ene vergen møter når begge vergene er forsvarlig varslet om rettergangsskritt, anses den møtende vergen for å ha fullmakt fra den andre vergen til å opptre som verge alene, med mindre noe annet blir opplyst. Det samme gjelder hvis vergen på vegne av den mindreårige undertegner et dokument til vedkommende myndighet."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Opphør av oppgaven som verge",
+                    "sections": [
+                        "Hvis hensynet til den mindreåriges beste tilsier det, kan retten etter begjæring fra fylkesmannen eller fra den andre vergen frata en som har foreldreansvar, vergemålet. For rettens saksbehandling gjelder § 71. Når den mindreårige er over 12 år, og ellers når den mindreåriges modenhet og alder tilsier at han eller hun er i stand til å danne seg en mening om saksforholdet, skal den mindreårige høres før avgjørelsen tas.",
+                        "Når saken reises av fylkesmannen, bærer staten alle kostnadene ved saken. Ansvar for motpartens saksomkostninger pålegges ikke uten at sterke grunner tilsier det. Dommen skal forkynnes for fylkesmannen og den andre vergen, som begge kan anke over dommen uten å ha vært part i saken. Fylkesmannen eller retten kan treffe midlertidig vedtak om fratakelse av vergemålet. I så fall gjelder § 61 tilsvarende.",
+                        "Hvis særlige forhold gjør seg gjeldende, kan fylkesmannen etter anmodning fra en som har foreldreansvaret, frita vedkommende for vergemålet helt eller delvis."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Vergemål for voksne",
+            "paragraphs": [
+                {
+                    "name": "§ 20",
+                    "title": "Vilkår for vergemål",
+                    "sections": [
+                        "Den som har fylt 18 år, og som på grunn av sinnslidelse, herunder demens, psykisk utviklingshemming, rusmiddelmisbruk, alvorlig spilleavhengighet eller alvorlig svekket helbred ikke er i stand til å ivareta sine interesser, kan settes under vergemål hvis det er behov for det.",
+                        "Den som settes under vergemål, skal skriftlig samtykke i opprettelsen av vergemålet, vergemålets omfang og hvem som skal være verge, med mindre han eller hun ikke er i stand til å forstå hva et samtykke innebærer. Det kreves ikke samtykke hvis vergemålet omfatter fratakelse av den rettslige handleevnen.",
+                        "Det kan opprettes vergemål også for personer under 18 år etter reglene i første og annet ledd, når det etter omstendighetene anses nødvendig at vergemålet fortsetter uavbrutt når personen når myndighetsalderen."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Vergemålets innhold og omfang",
+                    "sections": [
+                        "Vergemålet innebærer at det oppnevnes en verge for personen som er satt under vergemål, jf. § 32. I den utstrekning personen har den rettslige handleevnen i behold, jf. § 22, kan han eller hun selv foreta rettslige handlinger og råde over sine midler. Han eller hun kan også kalle tilbake en disposisjon som er foretatt av vergen, så lenge ingen har ervervet rett etter den.",
+                        "Vergemålet kan omfatte økonomiske og personlige forhold.",
+                        "Et vedtak om vergemål skal uttrykkelig ta stilling til omfanget av vergemålet, herunder om det skal begrenses saklig eller i tid. Vergemålet skal ikke gjøres mer omfattende enn nødvendig.",
+                        "Vergemålet kan ikke omfatte kompetansen til å stemme ved valg, inngå ekteskap, erkjenne farskap, samtykke til donasjon av organer, opprette eller tilbakekalle testament, samtykke til tvang eller kompetansen i andre særlig personlige forhold uten særskilt hjemmel i lov."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Særskilte vilkår for vergemål med fratakelse av den rettslige handleevnen",
+                    "sections": [
+                        "En person som er i en tilstand som nevnt i § 20 første ledd, kan fratas sin rettslige handleevne etter reglene i annet og tredje ledd.",
+                        "En person kan fratas den rettslige handleevnen i økonomiske forhold hvis dette er nødvendig for å hindre at han eller hun utsetter sin formue eller andre økonomiske interesser for fare for å bli vesentlig forringet, eller han eller hun blir utnyttet økonomisk på en utilbørlig måte. Fratakelsen av den rettslige handleevnen kan begrenses til å gjelde bestemte eiendeler eller bestemte disposisjoner.",
+                        "En person kan fratas den rettslige handleevnen i personlige forhold på bestemte områder hvis det er betydelig fare for at han eller hun vil handle på en måte som i vesentlig grad vil være egnet til å skade hans eller hennes interesser."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Disposisjonsadgangen for den som er fratatt rettslig handleevne",
+                    "sections": [
+                        "Med mindre noe annet er uttrykkelig bestemt, beholder den som helt eller delvis er fratatt den rettslige handleevnen etter § 22, adgangen til å foreta de disposisjoner som er nevnt i § 10 første ledd første punktum, § 12 første ledd og § 13 første ledd. § 10 annet ledd, § 12 annet og tredje ledd og § 13 annet ledd gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Virkningen av at den som er fratatt den rettslige handleevnen, har handlet ut over sin rett",
+                    "sections": [
+                        "Bestemmelsene i §§ 14 og 15 gjelder tilsvarende når en som helt eller delvis er fratatt handleevnen etter § 22, har inngått en avtale som ikke bindende kunne gjøres på egen hånd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Oppnevning av verger mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 25",
+                    "title": "Oppnevning av verge",
+                    "sections": [
+                        "Når det er truffet vedtak om vergemål, oppnevnes vergen av den fylkesmannen som har myndighet etter § 55. Når retten treffer vedtak om fratakelse av den rettslige handleevnen, kan retten oppnevne vergen hvis det ikke allerede er oppnevnt verge.",
+                        "Det skal fastsettes et mandat for vergen som angir rammene for vergeoppdraget, jf. § 21 tredje ledd.",
+                        "Den som oppnevner vergen, skal gi Folkeregisteret og Løsøreregisteret melding om hvem som er oppnevnt som verge."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Faste verger",
+                    "sections": [
+                        "Fylkesmannen kan engasjere faste verger. Den som engasjeres som fast verge, skal legge frem en uttømmende politiattest. Attesten skal angi om personen er siktet, tiltalt, har vedtatt forelegg eller er dømt for overtredelse av straffebud om økonomisk kriminalitet eller seksuallovbrudd. Kongen gir i forskrift nærmere regler om kravet om politiattest, herunder hvilke straffebud som skal omfattes av attesten, og kan også gi regler om kvalifikasjonskrav, organisering og godtgjøring."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Midlertidig oppnevning av verge",
+                    "sections": [
+                        "Hvis en oppnevnt verge ikke kan utføre sine oppgaver for en viss tid eller for visse saker, eller hvis det medfører betydelige problemer for vergen å utføre dem, kan det oppnevnes en midlertidig verge."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Hvem som kan oppnevnes som verge. Antall verger",
+                    "sections": [
+                        "Den som oppnevnes som verge, må være egnet for vervet og må samtykke i oppnevningen. En person som selv er under vergemål, kan ikke være verge.",
+                        "Den som skal oppnevnes som verge, skal legge frem politiattest som nevnt i § 26. Dette gjelder likevel ikke der nærstående som nevnt i § 94 annet ledd oppnevnes som verge. Haster oppnevningen, kan oppnevningen skje før det er innhentet politiattest.",
+                        "En ektefelle eller samboer kan oppnevnes som verge hvis det må antas å være ubetenkelig. Har den vergetrengende særkullsbarn, skal disse om mulig høres, og ektefellen eller samboeren bør ikke oppnevnes hvis noen av særkullsbarna er imot oppnevningen. På samme måte skal det tas hensyn til hva en ektefelle eller samboer mener, hvis det er aktuelt å oppnevne et særkullsbarn som verge.",
+                        "Har mor eller far skriftlig tilkjennegitt hvem som skal være sitt barns verge etter at han eller hun er død, bør denne personen velges fremfor andre.",
+                        "Hvis det er hensiktsmessig, kan det oppnevnes to verger for den som er satt under vergemål. Bestemmelsen i § 18 første ledd annet punktum gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 29",
+                    "title": "Opphør av vervet som verge",
+                    "sections": [
+                        "En oppnevnt verge kan med rimelig varsel til fylkesmannen kreve å bli løst fra vervet som verge. Fylkesmannen skal da oppnevne en ny verge.",
+                        "Fylkesmannen kan frata en oppnevnt verge vervet som verge dersom dette vil være til det beste for den som er satt under vergemål. Fylkesmannen skal frata en oppnevnt verge vervet dersom hensynet til den som er satt under vergemål, gjør dette nødvendig. Fratas vergen vervet, skal det oppnevnes en ny verge."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Godtgjøring for vergeoppdraget og dekning av utgifter",
+                    "sections": [
+                        "Vergen har krav på godtgjøring for arbeidet som verge og har rett til å få dekket nødvendige utgifter i forbindelse med vergeoppdraget. Er vergen forelder til, barn av eller ektefelle eller samboer til den som er under vergemål, kan det bare gis godtgjøring for arbeidet hvis særlige grunner taler for det. Godtgjøring og utgifter etter første og annet punktum dekkes av den som er under vergemål. Har han eller hun en inntekt eller formue som er lavere enn de grenser som fastsettes av Kongen i forskrift, skal godtgjøringen og utgiftene likevel dekkes av fylkesmannen.",
+                        "Kongen kan i forskrift gi nærmere regler om satser for godtgjøring og utgiftsdekning etter første ledd og kan også fastsette hva som skal anses som særlige grunner etter første ledd annet punktum."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Vergens utførelse av vergeoppdraget",
+            "paragraphs": [
+                {
+                    "name": "§ 31",
+                    "title": "Vergens oppgave",
+                    "sections": [
+                        "Vergen skal innenfor rammen av sitt mandat ivareta interessene til den som er under vergemål."
+                    ]
+                },
+                {
+                    "name": "§ 32",
+                    "title": "Vergens kompetanse",
+                    "sections": [
+                        "Innenfor rammen av sitt mandat foretar vergen rettslige handlinger og råder over midler på vegne av personen han eller hun er verge for, med mindre noe annet er bestemt ved lov eller av en arvelater eller giver."
+                    ]
+                },
+                {
+                    "name": "§ 33",
+                    "title": "Vergens plikt til å høre den som er satt under vergemål, mv.",
+                    "sections": [
+                        "Vergen skal så vidt mulig høre den som er satt under vergemål, før det foretas disposisjoner av større betydning og også når dette ellers fremstår som naturlig.",
+                        "Er den som er satt under vergemål, ikke fratatt den rettslige handleevnen, kan vergen ikke foreta disposisjonen hvis den som er satt under vergemål, motsetter seg det. Dette gjelder likevel ikke hvis han eller hun ikke er i stand til å forstå hva disposisjonen innebærer. Fylkesmannen, eller vergen med fylkesmannens samtykke, kan innhente legeerklæring for å få klargjort om vedkommende er i stand til å forstå hva disposisjonen innebærer.",
+                        "Er den som er satt under vergemål, fratatt den rettslige handleevnen, skal vergen legge vekt på det han eller hun mener. Ektefelle eller samboer skal få uttale seg. Er den som er satt under vergemål, uenig i vergens avgjørelse, kan han eller hun bringe spørsmålet inn for fylkesmannen."
+                    ]
+                },
+                {
+                    "name": "§ 34",
+                    "title": "Vergens habilitet",
+                    "sections": [
+                        "En verge er inhabil til å handle for den som er under vergemål, når vergen eller noen som står vergen nær, har en interesse i saken som strider mot interessene til den som er under vergemål. Følgende personer skal alltid anses å stå vergen nær:",
+                        "a)vergens ektefelle eller samboer,",
+                        "b)vergens slektninger i rett oppstigende og rett nedstigende linje og søsken,",
+                        "c)slektninger i rett oppstigende og rett nedstigende linje og søsken til en person som nevnt i bokstav a,",
+                        "d)ektefelle til eller samboer med noen som er nevnt i bokstav b,",
+                        "e)person som vergen representerer.",
+                        "Er vergen inhabil, skal det oppnevnes en midlertidig verge (setteverge) etter § 27.",
+                        "En far eller mor kan som verge for eget barn ivareta barnets interesser overfor andre av sine barn og overfor andre som nevnt i første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 35",
+                    "title": "Registrering av eiendeler og gjeld mv.",
+                    "sections": [
+                        "Fylkesmannen kan pålegge vergen å foreta registrering og vurdering av eiendelene og gjelden til den som er under vergemål, og sende oppgaven til fylkesmannen.",
+                        "Vergen skal sørge for at finansielle eiendeler som skal forvaltes av fylkesmannen etter kapittel 7, blir oversendt eller stilt til disposisjon for fylkesmannen.",
+                        "Vergen har plikt til å føre regnskap i den utstrekning dette følger av forskrift etter § 53."
+                    ]
+                },
+                {
+                    "name": "§ 36",
+                    "title": "Vergens forvaltning av eiendeler",
+                    "sections": [
+                        "Vergen skal sørge for at de eiendeler som ikke forvaltes av fylkesmannen, holdes i god stand og blir sikret, oppbevart og eventuelt forsikret på en betryggende og sedvanemessig måte.",
+                        "Eiendeler som kan gi avkastning, skal drives eller plasseres på en sedvanemessig måte.",
+                        "Penger som ikke skal forvaltes av fylkesmannen, skal vergen sette på bankonto i eierens navn. Fylkesmannen kan inngå avtale med finansinstitusjonen om hvor mye vergen til enhver tid har rett til å heve. Vergen kan etter avtale med finansinstitusjonen gis tilgang til alminnelige betalingsinstrumenter knyttet til kontoen til den som er under vergemål."
+                    ]
+                },
+                {
+                    "name": "§ 37",
+                    "title": "Vergens disponering av inntekter",
+                    "sections": [
+                        "Vergen dekker utgiftene til den som er under vergemål, med de inntekter vedkommende har. Dette gjelder også inntekter av midler som forvaltes av fylkesmannen. Om vergen ved årsskiftet disponerer mer enn det som er fastsatt etter § 49 første ledd, betales det overskytende til fylkesmannen. Fylkesmannen kan samtykke til at en slik innbetaling unnlates.",
+                        "Fylkesmannen kan fastsette et beløp som vergen ikke må overskride, og bestemme at inntekten av midler som forvaltes av fylkesmannen, for en del ikke skal utbetales til vergen.",
+                        "Strekker inntekten ikke til, kan kapitalen brukes helt eller delvis. Bruk av kapitalen krever fylkesmannens samtykke."
+                    ]
+                },
+                {
+                    "name": "§ 38",
+                    "title": "Drift av næringsvirksomhet",
+                    "sections": [
+                        "Er den som er satt under vergemål, innehaver av eller deltaker i en næringsvirksomhet som han eller hun ikke er skikket til å drive på egen hånd, kan vergen med samtykke fra fylkesmannen bestemme om virksomheten skal fortsette eller avvikles."
+                    ]
+                },
+                {
+                    "name": "§ 39",
+                    "title": "Disposisjoner over fast eiendom, løsøre og livsforsikring mv. og utlån av midler til vergen",
+                    "sections": [
+                        "Vergen skal ha fylkesmannens samtykke til",
+                        "a)å erverve eller avhende fast eiendom eller rettighet som ligger til fast eiendom, samt å gjøre gjeldende eller gi avkall på odelsrett eller annen rettighet i fast eiendom,",
+                        "b)å pantsette fast eiendom eller påhefte den en servitutt,",
+                        "c)å forpakte eller leie bort fast eiendom, herunder bolig,",
+                        "d)å si opp leieavtale eller avtale om bortforpakting,",
+                        "e)å kreve utskiftning eller grenseregulering,",
+                        "f)drift av fast eiendom,",
+                        "g)å begjære bruksendringstillatelse, deling mv. av fast eiendom,",
+                        "h)å erverve livsforsikring, livrente eller føderåd,",
+                        "i)å avhende løsøre hvor dette er av større verdi, er av usedvanlig karakter eller for øvrig kan sies å være av en spesiell interesse for den som er under vergemål, eller dennes nærmeste familie,",
+                        "j)å låne ut midler som tilhører den som er under vergemål, til vergen selv, eller til personer som står i et slikt forhold til vergen som nevnt i § 34. Kongen kan i forskrift gi nærmere regler om vilkårene for slike lån.",
+                        "Det som er bestemt for fast eiendom i første ledd, gjelder tilsvarende for andel eller aksje i boligselskap så langt det passer."
+                    ]
+                },
+                {
+                    "name": "§ 40",
+                    "title": "Gjeldsstiftelse mv.",
+                    "sections": [
+                        "Vergen skal ha fylkesmannens samtykke til å stifte gjeld på vegne av den som er under vergemål. Samtykke kreves også ved pantsettelse av vedkommendes eiendeler.",
+                        "Kravet om samtykke gjelder ikke lån til utdanning i statlig låneinstitusjon. Vergen råder over lånemidlene til fordel for den som er under vergemål, med mindre vergen lar den som er under vergemål, selv få råderetten. Første og annet punktum gjelder tilsvarende for stipend som tildeles fra slik institusjon.",
+                        "Den som er under vergemål, kan ikke pådras kausjonsansvar, og hans eller hennes eiendeler kan ikke stilles som sikkerhet for andres gjeld. Vergen kan med fylkesmannens samtykke gjøre unntak fra første punktum hvis det foreligger særlige grunner."
+                    ]
+                },
+                {
+                    "name": "§ 41",
+                    "title": "Gaver og arveforskudd",
+                    "sections": [
+                        "Vergen kan ikke gi gaver eller stønader på vegne av den som er under vergemål, utover det som følger av skikk og bruk. En mindreårig over 15 år må samtykke til slik gave. Gjelder det større beløp, kreves det samtykke av fylkesmannen, selv om en slik gave følger av skikk og bruk.",
+                        "Med fylkesmannens samtykke kan vergen gi arveforskudd til en livsarving hvis det foreligger et særlig behov for det, eller hvis det foreligger skriftlige nedtegnelser eller andre holdepunkter for at et slikt forskudd er i samsvar med ønsket til den som er under vergemål."
+                    ]
+                },
+                {
+                    "name": "§ 42",
+                    "title": "Avkall og avslag på arv eller gave",
+                    "sections": [
+                        "Vergen skal ha fylkesmannens samtykke til å avslå en gave eller gi avkall eller avslag på arv på vegne av den som er under vergemål, med mindre gaven eller arven må anses å ha en ubetydelig verdi."
+                    ]
+                },
+                {
+                    "name": "§ 43",
+                    "title": "Disposisjoner knyttet til næringsvirksomhet som er arvet",
+                    "sections": [
+                        "Er den som er under vergemål, arving til næringsvirksomhet eller del av slik virksomhet, må vergen ha samtykke av fylkesmannen til på dennes vegne å delta i virksomheten eller å overta aksjer i et aksjeselskap eller allmennaksjeselskap som dannes for å fortsette virksomheten."
+                    ]
+                },
+                {
+                    "name": "§ 44",
+                    "title": "Særregler om forvaltning når ektefelle eller samboer er oppnevnt som verge",
+                    "sections": [
+                        "Er ektefellen eller samboeren til den som er satt under vergemål, oppnevnt som verge, gjelder ikke reglene i kapitlet her om fylkesmannens samtykke. Disposisjoner som nevnt i § 39 første ledd bokstav a og b og § 40 skal likevel ha fylkesmannens samtykke. Finansielle eiendeler som nevnt i kapittel 7 skal forvaltes av vergen og ikke av fylkesmannen. Ektefellen eller samboeren står ikke under fylkesmannens tilsyn etter § 47 første ledd."
+                    ]
+                },
+                {
+                    "name": "§ 45",
+                    "title": "Forhåndssamtykke. Hel eller delvis oppfyllelse av avtalen",
+                    "sections": [
+                        "Krever en disposisjon samtykke enten fra fylkesmannen eller den som er under vergemål, og vergen ikke har fått det på forhånd, skal vergen forbeholde seg en passende frist for å få samtykket.",
+                        "Hvis en slik avtale er helt eller delvis oppfylt, og samtykke ikke blir gitt, gjelder reglene i § 15 første ledd første og annet punktum tilsvarende. Det samme gjelder hvis avtalen er inngått i strid med første ledd, og den annen part går fra den."
+                    ]
+                },
+                {
+                    "name": "§ 46",
+                    "title": "Taushetsplikt for oppnevnt verge",
+                    "sections": [
+                        "En oppnevnt verge plikter å hindre at andre får adgang eller kjennskap til det han eller hun får vite som ledd i vergeoppdraget om noens personlige forhold eller om tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den opplysningen angår. Taushetsplikten gjelder også etter at vergeoppdraget er avsluttet. Vergen kan heller ikke utnytte slike opplysninger i egen virksomhet eller tjeneste eller i arbeid for andre.",
+                        "Opplysningen om at en person er satt under vergemål, er ikke underlagt taushetsplikt. Det samme gjelder opplysningen om at vedkommende er oppnevnt som verge, og opplysninger om rammene for vergeoppdraget.",
+                        "Hvis den som er satt under vergemål, ikke selv kan gi uttrykk for sitt syn, gjelder ikke taushetsplikten overfor vedkommendes ektefelle, samboer, barn, barnebarn, foreldre og søsken i større utstrekning enn det som må antas å være etter hans eller hennes ønske. Taushetsplikten viker for opplysningsplikt og meldeplikt med hjemmel i lov. Forvaltningsloven § 13 annet ledd første punktum og § 13 a gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 47",
+                    "title": "Vergens forhold til fylkesmannen. Klagerett",
+                    "sections": [
+                        "Vergen står under tilsyn av fylkesmannen og plikter å gi de opplysninger om vergemålet som fylkesmannen ber om.",
+                        "Vergen bør rådføre seg med fylkesmannen når han eller hun er i tvil, og når det gjelder avgjørelser av særlig betydning for den som er under vergemål.",
+                        "Vergen kan påklage fylkesmannens vedtak til den sentrale vergemålsmyndigheten."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Fylkesmannens forvaltning av finansielle eiendeler",
+            "paragraphs": [
+                {
+                    "name": "§ 48",
+                    "title": "Finansielle eiendeler som skal forvaltes av fylkesmannen",
+                    "sections": [
+                        "Finansielle eiendeler som eies av personer under vergemål, forvaltes av fylkesmannen, hvis ikke noe annet følger av lov eller annen gyldig bestemmelse.",
+                        "Den som er satt under vergemål, men ikke er fratatt den rettslige handleevnen, må gi samtykke til at fylkesmannen forvalter midlene. Samtykke kreves likevel ikke dersom han eller hun ikke er i stand til å forstå hva samtykket innebærer.",
+                        "Med finansielle eiendeler menes penger, bankinnskudd, andre pengekrav, andeler i selskap med begrenset ansvar, livspoliser og finansielle instrumenter.",
+                        "Med finansielle instrumenter menes det samme som etter lov 29. juni 2007 nr. 75 om verdipapirhandel § 2-2."
+                    ]
+                },
+                {
+                    "name": "§ 49",
+                    "title": "Finansielle eiendeler som ikke skal forvaltes av fylkesmannen",
+                    "sections": [
+                        "Utgjør de finansielle eiendelene til en person under vergemål et beløp som er lavere enn en grense som fastsettes av Kongen i forskrift, skal eiendelene i stedet forvaltes av vergen. Når særlige grunner tilsier det, kan fylkesmannen unnlate å ta midler som overstiger den fastsatte beløpsgrensen, til forvaltning. Fylkesmannen kan også, når særlige grunner tilsier det, ta midler som ligger under den fastsatte beløpsgrensen, til forvaltning.",
+                        "Finansielle eiendeler som en arvelater eller giver har fastsatt at skal forvaltes særskilt etter § 95, skal ikke forvaltes av fylkesmannen.",
+                        "Er ektefellen eller samboeren til den som er satt under vergemål, oppnevnt som verge, gjelder § 44."
+                    ]
+                },
+                {
+                    "name": "§ 50",
+                    "title": "Omgjøring av finansielle eiendeler",
+                    "sections": [
+                        "Fylkesmannen kan omgjøre andre finansielle eiendeler enn penger og bankinnskudd til kontante midler.",
+                        "Andre finansielle eiendeler enn penger og bankinnskudd som er av særlig karakter, eller som eieren må antas å ha en særlig tilknytning til, bør ikke selges med mindre det er nødvendig ut fra eierens behov.",
+                        "Vergen, og om mulig også eieren, skal høres før omgjøring finner sted."
+                    ]
+                },
+                {
+                    "name": "§ 51",
+                    "title": "Forvaltningen av finansielle eiendeler",
+                    "sections": [
+                        "Finansielle eiendeler som skal forvaltes av fylkesmannen og om nødvendig er omgjort til kontante midler etter § 50 første ledd, skal plasseres som bankinnskudd på individuelle konti i bank.",
+                        "Den sentrale vergemålsmyndigheten skal forhandle om innskuddsvilkårene på vegne av fylkesmannen og fastsetter hvilke finansinstitusjoner som skal benyttes for innskuddsformål.",
+                        "Finansielle eiendeler som ikke omgjøres til kontante midler, jf. § 50 annet ledd, skal forvaltes individuelt av fylkesmannen. Fylkesmannen kan gi en bestyrer i oppgave å forvalte slike finansielle eiendeler mot særskilt vederlag av avkastningen av midlene, forutsatt at en slik løsning best tjener interessene til eieren. Reglene i kapittel 6 og § 53 gjelder så langt de passer for bestyrerens forvaltning av eiendelene.",
+                        "Første til tredje ledd gjelder tilsvarende for finansielle eiendeler som etter lov skal forvaltes på samme måte som midler som tilhører personer under vergemål, eller som etter gyldig bestemmelse av arvelater eller giver skal forvaltes av fylkesmannen, jf. §§ 95 og 96."
+                    ]
+                },
+                {
+                    "name": "§ 52",
+                    "title": "Utbetaling ved opphør av vergemål",
+                    "sections": [
+                        "Ved opphør av vergemålet skal fylkesmannen uten unødig opphold sende midlene som har vært forvaltet etter reglene i kapitlet her, til eieren sammen med sluttregnskap.",
+                        "Før midlene kommer til utbetaling kan eieren anmode om at midlene likevel fortsatt skal forvaltes av fylkesmannen. Adgangen til fortsatt forvaltning opphører ved utløpet av det året eieren av midlene fyller 25 år. Fylkesmannen plikter å informere om muligheten for fortsatt forvaltning.",
+                        "Hvis eieren på utbetalingstidspunktet ikke er villig til å ta imot eiendeler eller kvittere for dem, eller overlevering og kvittering av andre grunner ikke er mulig, skal fylkesmannen, med mindre særlige grunner taler mot det, omgjøre midlene i penger som deponeres i Norges Bank etter reglene i lov 17. februar 1939 nr. 2 om deponering i gjeldshøve.",
+                        "Salg kan begjæres gjennom namsmyndighetene etter regler om tvangssalg så langt de passer. Bestemmelsene i tvangsfullbyrdelsesloven § 8-16 første ledd, § 10-6, jf. § 8-16 første ledd, § 11-20 og § 12-6, jf. § 11-20, om det minste bud som kan godtas, gjelder ikke i disse tilfellene.",
+                        "Eieren skal varsles av fylkesmannen om at eiendelene kan bli solgt. Fylkesmannen kan sette en frist for eieren til å motta eiendelene eller kvittere for dem om salg skal unngås. Varslet skjer på en måte fylkesmannen finner betryggende."
+                    ]
+                },
+                {
+                    "name": "§ 53",
+                    "title": "Regnskapsplikt",
+                    "sections": [
+                        "Kongen gir i forskrift nærmere regler om vergens og fylkesmannens regnskapsplikt, herunder revisjon av regnskaper."
+                    ]
+                },
+                {
+                    "name": "§ 54",
+                    "title": "Opplysningsplikt for institusjoner mv.",
+                    "sections": [
+                        "Kongen kan i forskrift gi regler om at når en mindreårig eller en person som er fratatt den rettslige handleevnen, tilføres eiendeler, skal offentlige forvaltningsorganer, finansinstitusjoner, fondsforvaltningsselskaper, verdipapirregistre og verge gi melding til fylkesmannen om dette.",
+                        "Institusjoner og personer som nevnt i første ledd har opplysningsplikt overfor vergen og fylkesmannen for personer som er under vergemål eller begjært satt under vergemål. Kongen kan i forskrift gi nærmere regler om opplysningsplikten.",
+                        "Vergen og fylkesmannen har rett til innsyn i ligning og selvangivelse for personer under vergemål og for personer som er begjært satt under vergemål, når slikt innsyn er nødvendig for at vergen og fylkesmannen skal kunne ivareta sine oppgaver etter loven her."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 8. Saksbehandlingsregler for vergemålsmyndigheten",
+            "paragraphs": [
+                {
+                    "name": "§ 55",
+                    "title": "Fylkesmannens kompetanse mv.",
+                    "sections": [
+                        "Fylkesmannen behandler saker etter loven her i første instans, herunder sak om vergemål der den rettslige handleevnen ikke fratas.",
+                        "Saken behandles av fylkesmannen i det vergemålsdistriktet der personen som saken om vergemål gjelder, har bopel. Om det ikke kan påvises bopel i et bestemt distrikt, behandles saken av fylkesmannen i det distriktet som personen har sterkest tilknytning til.",
+                        "Forvaltningsloven gjelder for vergemålsmyndighetens virksomhet om ikke noe annet følger av loven her."
+                    ]
+                },
+                {
+                    "name": "§ 56",
+                    "title": "Rett til å begjære vergemål",
+                    "sections": [
+                        "Fylkesmannen treffer vedtak om opprettelse eller endring av vergemål av eget tiltak eller etter begjæring fra",
+                        "a)personen selv,",
+                        "b)personens ektefelle, samboer, foreldre, nærmeste livsarving eller søsken,",
+                        "c)vergen, hvis personen allerede er under vergemål,",
+                        "d)behandlende lege eller tilsynslege ved helseinstitusjon der personen er innlagt eller bor.",
+                        "Begjæring som nevnt i første ledd skal begrunnes.",
+                        "Om en person som nevnt i første ledd bokstav b eller c begjærer vergemål eller endring av dette, blir vedkommende part i saken. Personer som nevnt i første ledd bokstav b kan senere tre inn som part i saken.",
+                        "Kongen kan i forskrift gi nærmere bestemmelser om begjæringen."
+                    ]
+                },
+                {
+                    "name": "§ 57",
+                    "title": "Meldeplikt for institusjoner og andre",
+                    "sections": [
+                        "Må det antas at det er behov for vergemål for en person som er innlagt i institusjon eller boform med heldøgns omsorg eller pleie, skal institusjonen eller boformen melde fra til fylkesmannen. Meldeplikten gjelder også ansvarlig for kommunens helse- og sosialtjenester utenfor institusjon. Meldingen skal begrunnes.",
+                        "Kongen kan i forskrift gi nærmere regler om meldeplikten."
+                    ]
+                },
+                {
+                    "name": "§ 58",
+                    "title": "Forhåndsvarsel",
+                    "sections": [
+                        "Straks saken er igangsatt, skal det sendes forhåndsvarsel etter forvaltningsloven § 16 til personen som saken om vergemål gjelder. Forhåndsvarsel kan unnlates dersom",
+                        "a)personen ikke er i stand til å forstå hva saken gjelder,",
+                        "b)personen allerede på annen måte har fått kjennskap til at vedtak skal treffes, eller",
+                        "c)forhåndsvarsel ikke er praktisk mulig."
+                    ]
+                },
+                {
+                    "name": "§ 59",
+                    "title": "Grunnlaget for fylkesmannens avgjørelse",
+                    "sections": [
+                        "Fylkesmannen skal påse at saken er så godt opplyst som mulig før vedtak treffes. Fylkesmannen skal blant annet legge til grunn for vedtaket:",
+                        "a)erklæring fra lege eller annen sakkyndig om hvorvidt personen på grunn av forhold som nevnt i § 20 ikke er i stand til å ivareta sine interesser, og om personen forstår hva et samtykke til vergemål innebærer,",
+                        "b)uttalelse fra pårørende som har begjært vergemål, jf. § 56,",
+                        "c)uttalelse fra institusjon eller tjeneste som har gitt melding etter § 57, og fra institusjon der personen er innlagt,",
+                        "d)samtykkeerklæring der dette kreves, jf. § 20,",
+                        "e)samtale mellom saksbehandler og den som er begjært satt under vergemål, med mindre det må antas at personen ikke kan forstå hva saken gjelder.",
+                        "Helsepersonell og ansatte i sosialtjenesten og barnevernstjenesten kan gi nødvendige og relevante opplysninger til fylkesmannen eller oppnevnt sakkyndig uten hinder av taushetsplikten.",
+                        "Kongen kan i forskrift gi nærmere regler om gjennomføringen av bestemmelsene i første og annet ledd, herunder regler om at fylkesmannen kan kreve fremlagt slik dokumentasjon som er nevnt i første ledd bokstav a og c."
+                    ]
+                },
+                {
+                    "name": "§ 60",
+                    "title": "Underretning til nære familiemedlemmer",
+                    "sections": [
+                        "Når en person begjæres satt under vergemål, skal fylkesmannen underrette ektefellen eller samboeren og eventuelle barn over 18 år om begjæringen. Disse skal også underrettes om avgjørelsen i saken, om klage og om begjæring om endringer av vergemålet. Har personen ikke nære familiemedlemmer som nevnt i første punktum, skal foreldrene underrettes på samme måte."
+                    ]
+                },
+                {
+                    "name": "§ 61",
+                    "title": "Midlertidig vedtak",
+                    "sections": [
+                        "Dersom det er nødvendig for å avverge vesentlig skade eller ulempe for den som begjæringen om vergemål gjelder, og vilkårene etter § 20 antas å foreligge, kan fylkesmannen treffe midlertidig vedtak om vergemål inntil det foreligger endelig avgjørelse i saken. Dersom vilkårene i § 22 antas å foreligge, kan fylkesmannen på samme vilkår som nevnt i første punktum treffe midlertidig avgjørelse om hel eller delvis fratakelse av den rettslige handleevnen.",
+                        "Reglene i § 59 første ledd bokstav e og § 58 om forhåndsvarsel skal følges, med mindre det er en nærliggende fare for at formålet med den midlertidige avgjørelsen da ikke blir oppnådd.",
+                        "Når det er truffet en midlertidig avgjørelse etter første ledd, skal vedtaket straks sendes til tinglysing eller registrering, jf. § 77.",
+                        "Fylkesmannen skal straks bringe vedtak om midlertidig fratakelse av den rettslige handleevnen inn for tingretten."
+                    ]
+                },
+                {
+                    "name": "§ 62",
+                    "title": "Avvisning",
+                    "sections": [
+                        "En begjæring om vergemål kan avvises av fylkesmannen dersom det går frem av begjæringen at de forhold som påberopes, ikke kan gi grunnlag for opprettelse av vergemål. Det samme gjelder når begjæringen er avslått tidligere, og den nye begjæringen ikke inneholder nye opplysninger av betydning."
+                    ]
+                },
+                {
+                    "name": "§ 63",
+                    "title": "Opphevelse av eller endring av vergemålet",
+                    "sections": [
+                        "Et vedtak om vergemål skal oppheves eller endres hvis vilkårene for vergemålet ikke lenger er til stede eller forholdene tilsier det. Dersom den som er satt under vergemål etter eget samtykke, trekker samtykket tilbake, skal vergemålet oppheves.",
+                        "Er vergemålet fastsatt ved dom, avgjøres krav om endring av dommen ved nytt søksmål, jf. § 75. Hvis fylkesmannen finner det ubetenkelig, og den eller de som har brakt saken om vergemål inn for retten, ikke motsetter seg det, kan fylkesmannen bestemme at personen ikke lenger skal være under vergemål eller være fratatt den rettslige handleevnen."
+                    ]
+                },
+                {
+                    "name": "§ 64",
+                    "title": "Klage",
+                    "sections": [
+                        "Fylkesmannens vedtak om opprettelsen av vergemålet kan påklages til den sentrale vergemålsmyndigheten av den som er satt under vergemål, av dennes verge, av den som har begjært vergemålet, og av dem som kan begjære vergemål etter § 56 første ledd bokstav b."
+                    ]
+                },
+                {
+                    "name": "§ 65",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "Opplysningen om at en person er satt under vergemål, er ikke undergitt taushetsplikt."
+                    ]
+                },
+                {
+                    "name": "§ 66",
+                    "title": "Rett til å behandle personopplysninger",
+                    "sections": [
+                        "Vergemålsmyndigheten har rett til å behandle sensitive og ikke-sensitive personopplysninger som er nødvendige som ledd i saksbehandlingen etter loven her. Opplysningene kan brukes til administrasjon og saksbehandling og for å utarbeide statistikk, og de kan som ledd i dette utveksles mellom fylkesmennene og mellom fylkesmennene og den sentrale vergemålsmyndigheten. I den utstrekning det er nødvendig, kan relevante opplysninger om den som er satt under vergemål, utleveres til vergen. Utlevering kan ellers skje der det følger av lov."
+                    ]
+                },
+                {
+                    "name": "§ 67",
+                    "title": "Vurdering av tvungen forvaltning",
+                    "sections": [
+                        "I forbindelse med opprettelsen av vergemålet skal fylkesmannen vurdere om midler som er underlagt tvungen forvaltning i medhold av folketrygdloven § 22-4, folketrygdloven § 22-6, kommunehelsetjenesteloven § 6-8 eller sosialtjenesteloven § 7-11, i stedet skal forvaltes av vergen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 9. Saksbehandlingsregler for domstolene",
+            "paragraphs": [
+                {
+                    "name": "§ 68",
+                    "title": "Rettens kompetanse i vergemålssaker mv.",
+                    "sections": [
+                        "Vergemål med fratakelse av den rettslige handleevnen besluttes av tingretten. Retten kan oppnevne verge, jf. 25 første ledd annet punktum.",
+                        "Retten kan overprøve vedtak om vergemål etter § 55 og vedtak om avslag på begjæring om opphevelse av vergemål etter § 63. Innenfor rammene av vergemålsloven prøver retten alle sider av saken.",
+                        "Mekling i forliksrådet foretas ikke.",
+                        "Søksmål i vergemålssaker etter første og annet ledd reises ved tingretten der personen vergemålssaken gjelder, har sitt alminnelige verneting."
+                    ]
+                },
+                {
+                    "name": "§ 69",
+                    "title": "Kompetanse til å reise sak mv.",
+                    "sections": [
+                        "Sak om vergemål kan reises av dem som er nevnt i § 56 første ledd bokstav a til d, og av fylkesmannen. Sak reises ved stevning til retten.",
+                        "Personen vergemålssaken gjelder, kan, selv om han eller hun er fratatt den rettslige handleevnen, på egen hånd begjære forenklet domsbehandling dersom han eller hun har evne til å forstå hva saken gjelder."
+                    ]
+                },
+                {
+                    "name": "§ 70",
+                    "title": "Tingrettens sammensetning",
+                    "sections": [
+                        "Tingretten settes med to meddommere, hvorav den ene eller begge kan være fagkyndige som oppnevnes av retten."
+                    ]
+                },
+                {
+                    "name": "§ 71",
+                    "title": "Rettens behandling av vergemålssaker",
+                    "sections": [
+                        "For rettens saksbehandling i saker om vergemål, jf. § 68 første og annet ledd, gjelder de alminnelige reglene i rettergangslovgivningen så langt de passer, om ikke noe annet følger av loven her.",
+                        "Saken skal prioriteres og behandles så hurtig som hensynet til en forsvarlig saksbehandling gjør mulig. Retten avgjør om hovedforhandlingen skal holdes i rettslokalet, på sykehuset eller i den institusjonen der personen er.",
+                        "Retten skal gjøre partene oppmerksom på adgangen til å begjære saken behandlet for lukkede dører.",
+                        "Reglene i § 60 om underretning til nære familiemedlemmer gjelder tilsvarende for retten.",
+                        "Retten sørger for at saken blir tilstrekkelig opplyst. Retten har i den forbindelse krav på å få bistand fra politiet. Helsepersonell, ansatte i sosialtjenesten og ansatte i barnevernstjenesten kan gi nødvendige og relevante opplysninger til oppnevnt sakkyndig og avgi vitneforklaring uten hinder av taushetsplikt."
+                    ]
+                },
+                {
+                    "name": "§ 72",
+                    "title": "Møteplikt under hovedforhandlingen",
+                    "sections": [
+                        "Personen vergemålssaken gjelder, og i tilfelle vergen, skal innkalles til hovedforhandlingen.",
+                        "Uteblir personen, eller er personen ikke i stand til å møte, skal retten før avgjørelse treffes sørge for en muntlig samtale med personen utenfor hovedforhandlingen, med mindre personen ikke er i stand til å forstå hva saken gjelder, eller en slik samtale ikke er mulig å få til. Hvis retten enstemmig finner det ubetenkelig, kan rettens leder eller oppnevnt sakkyndig gjennomføre samtalen alene.",
+                        "Dersom det er oppnevnt sakkyndig, skal denne, med mindre særlige grunner foreligger, møte under hovedforhandlingen. Det samme gjelder den som har begjært vergemålet."
+                    ]
+                },
+                {
+                    "name": "§ 73",
+                    "title": "Avgjørelse ved dom. Anke",
+                    "sections": [
+                        "Avgjørelse i saken treffes ved dom.",
+                        "Dommen kan påankes av personen vergemålssaken gjelder, dennes verge, den eller de som har begjært vergemål, og av de som kan begjære vergemål etter § 56 første ledd bokstav b.",
+                        "Lagmannsretten er ankeinstans. Bestemmelsen i § 70 gjelder tilsvarende."
+                    ]
+                },
+                {
+                    "name": "§ 74",
+                    "title": "Avvisning",
+                    "sections": [
+                        "En sak om vergemål kan avvises av retten dersom det går frem av stevningen at de forhold som påberopes, ikke kan gi grunnlag for opprettelse av vergemål. Det samme gjelder når saken er avslått tidligere, og den nye stevningen ikke inneholder nye opplysninger av betydning."
+                    ]
+                },
+                {
+                    "name": "§ 75",
+                    "title": "Rettskraft. Endring av dom",
+                    "sections": [
+                        "Rettens dom i sak om opprettelse av vergemål eller fratakelse av den rettslige handleevnen trer i kraft straks.",
+                        "Ved anke kan tingretten som har avsagt dommen, eller ankeinstansen bestemme at anken skal ha oppsettende virkning.",
+                        "Når rettskraftig dom foreligger, kan ny sak ikke reises før det er gått ett år.",
+                        "Krav om endring av dommen avgjøres ved nytt søksmål. Den som er fratatt den rettslige handleevnen, kan reise søksmål på egen hånd dersom han eller hun har evne til å forstå hva saken gjelder."
+                    ]
+                },
+                {
+                    "name": "§ 76",
+                    "title": "Kostnadene ved saken. Oppnevning av prosessfullmektig",
+                    "sections": [
+                        "Staten bærer alle kostnadene ved saken når ikke annet følger av særskilt lovbestemmelse. Om en privat part har reist søksmålet, kan denne pålegges ansvar for egne kostnader om søksmålet synes ubegrunnet.",
+                        "Retten skal gjøre den som en sak om fratakelse av den rettslige handleevnen gjelder, oppmerksom på retten til å få oppnevnt advokat på det offentliges bekostning, jf. rettshjelpsloven § 16.",
+                        "Dersom personen ikke selv sørger for prosessfullmektig, skal retten av eget tiltak oppnevne prosessfullmektig hvis saksøkte ikke er i stand til å forstå hva saken gjelder. Kongen kan gi nærmere regler om utvalg av advokater som retten kan oppnevne en prosessfullmektig fra."
+                    ]
+                },
+                {
+                    "name": "§ 77",
+                    "title": "Registrering av vedtak om fratakelse av den rettslige handleevnen",
+                    "sections": [
+                        "Dom om fratakelse av den rettslige handleevnen skal tinglyses eller registreres i",
+                        "a)Løsøreregisteret,",
+                        "b)grunnboka og andre lignende realregistre hvis personen eier fast eiendom eller andre registrerte eiendeler,",
+                        "c)Enhetsregisteret og Foretaksregisteret, hvis personen er innehaver av eller ansvarlig deltaker i et foretak som er innført der,",
+                        "d)Verdipapirsentralen.",
+                        "Den retten som har besluttet fratakelsen av den rettslige handleevnen, skal sørge for slik tinglysing eller registrering som nevnt i første ledd. Om retten opphever eller endrer avgjørelsen om fratakelse av den rettslige handleevnen, skal retten sørge for at endringen blir registrert.",
+                        "Tredjepersoners stilling reguleres av de tinglysingsrettslige regler. Fratakelse av den rettslige handleevnen kan ikke gjøres gjeldende overfor den som i god tro har inngått avtale med vedkommende om eiendeler som nevnt i nr. 2 før den påbudte meldingen er innført i dagbok eller register."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 10. Fremtidsfullmakter mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 78",
+                    "title": "Definisjon",
+                    "sections": [
+                        "En fremtidsfullmakt er en fullmakt til én eller flere personer om å representere fullmaktsgiveren etter at fullmaktsgiveren på grunn av sinnslidelse, herunder demens, eller alvorlig svekket helbred ikke lenger er i stand til å ivareta sine interesser innen de områdene som omfattes av fullmakten."
+                    ]
+                },
+                {
+                    "name": "§ 79",
+                    "title": "Fullmaktsgiveren og fullmektigen",
+                    "sections": [
+                        "En fremtidsfullmakt kan opprettes av den som har fylt 18 år og har evnen til å forstå fullmaktens betydning.",
+                        "Den som utpekes som fullmektig, må på tidspunktet fullmakten trer i kraft, ha fylt 18 år og ikke være satt under vergemål. En juridisk person kan ikke utpekes til fullmektig i en fremtidsfullmakt.",
+                        "Fullmakten kan utpeke en annen fullmektig for det tilfellet at fullmektigen blir midlertidig eller varig forhindret fra å utføre sitt oppdrag."
+                    ]
+                },
+                {
+                    "name": "§ 80",
+                    "title": "Fullmaktens innhold og omfang",
+                    "sections": [
+                        "En fremtidsfullmakt kan omfatte økonomiske og personlige forhold. Den kan begrenses til å gjelde bestemte områder.",
+                        "Det skal gå klart frem av fullmakten at den skal gjelde etter at fullmaktsgiveren har kommet i en tilstand som nevnt i § 78.",
+                        "Kompetansen til å stemme ved valg, inngå ekteskap, erkjenne farskap, samtykke til donasjon av organer, opprette eller tilbakekalle testament eller samtykke til tvang og kompetansen i andre særlig personlige forhold kan ikke omfattes av fullmakten uten særskilt hjemmel i lov.",
+                        "Hvis ikke noe annet følger av fremtidsfullmakten, kan fullmektigen samtykke til behandling av personopplysninger på vegne av fullmaktsgiveren innenfor fullmaktens område."
+                    ]
+                },
+                {
+                    "name": "§ 81",
+                    "title": "Formkrav",
+                    "sections": [
+                        "En fremtidsfullmakt skal gjøres skriftlig med to vitner som fullmaktsgiveren har godtatt, og som er til stede sammen og vet at dokumentet skal være en fremtidsfullmakt. Mens vitnene er til stede, skal fullmaktsgiveren skrive under dokumentet eller vedkjenne seg sin underskrift. Vitnene skal underskrive dokumentet mens fullmaktsgiveren er til stede, og etter hans eller hennes ønske.",
+                        "Vitnene må ha fylt 18 år og må ha evne til å forstå betydningen av underskriften. Fullmektigen kan ikke være vitne. Det samme gjelder fullmektigens ektefelle, samboer, foreldre, barn og barnebarn.",
+                        "Er reglene i paragrafen her ikke fulgt, er dokumentet ugyldig som fremtidsfullmakt."
+                    ]
+                },
+                {
+                    "name": "§ 82",
+                    "title": "Opplysninger fullmakten bør inneholde",
+                    "sections": [
+                        "En fremtidsfullmakt bør dateres.",
+                        "Vitnene bør i påskrift på dokumentet opplyse om fullmaktsgiveren har opprettet fullmakten av fri vilje og hadde evne til å forstå betydningen av handlingen, og om eventuelle andre forhold som kan ha betydning for fullmaktens gyldighet. Påskriften bør inneholde opplysning om vitnenes fødselsdato og adresse."
+                    ]
+                },
+                {
+                    "name": "§ 83",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "En fremtidsfullmakt trer i kraft når fullmaktsgiveren er i en slik tilstand som beskrevet i § 78.",
+                        "Fullmektigen skal ta stilling til når fullmakten er i kraft. Fullmektigen skal snarest mulig underrette fullmaktsgiveren og fullmaktsgiverens ektefelle eller samboer om fullmaktens ikrafttredelse og om dens innhold. Hvis fullmaktsgiveren ikke har ektefelle eller samboer, skal andre nære slektninger underrettes."
+                    ]
+                },
+                {
+                    "name": "§ 84",
+                    "title": "Stadfesting",
+                    "sections": [
+                        "Fullmektigen kan be fylkesmannen om å stadfeste ikrafttredelsen av en fremtidsfullmakt. Stadfesting skal skje hvis fullmakten er opprettet i samsvar med § 81 første ledd, og fullmaktsgiveren er i en tilstand som nevnt i § 78.",
+                        "Stadfesting skal likevel ikke skje hvis",
+                        "a)det er klart at fullmaktsgiveren ikke hadde fylt 18 år eller manglet evnen til å forstå disposisjonens betydning når fremtidsfullmakten ble opprettet, jf. § 79 første ledd,",
+                        "b)det er klart at vitnene ikke oppfylte kravene i § 81 annet ledd, eller",
+                        "c)det er grunn til å anta at fullmektigen ikke er egnet for oppdraget.",
+                        "Fullmektigen skal legge frem fremtidsfullmakten, bevis for at pårørende er varslet, jf. § 83 annet ledd, og en legeerklæring om fullmaktsgiverens aktuelle helsetilstand. Slik legeerklæring kan fullmektigen innhente uten hinder av taushetsplikt. Fylkesmannen sørger for sakens opplysning ellers.",
+                        "Blir ikrafttredelsen stadfestet, skal fullmektigen motta en attest om dette. Stadfestingen skal registreres i samsvar med § 77.",
+                        "Kongen kan gi nærmere regler om stadfesting og registrering av stadfestingen."
+                    ]
+                },
+                {
+                    "name": "§ 85",
+                    "title": "Fullmektigens oppgaver",
+                    "sections": [
+                        "Fullmektigen skal handle i samsvar med fullmakten og fremme fullmaktsgiverens interesser og rettigheter.",
+                        "Før fullmektigen treffer avgjørelser skal fullmaktsgiveren høres hvis dette kan skje uten betydelige vanskeligheter. Det er ikke nødvendig å høre fullmaktsgiveren hvis han eller hun ikke kan forstå sakens betydning.",
+                        "Fullmektigen skal holde fullmaktsgiverens midler atskilt fra sine egne. Fullmektigen skal oppbevare tilstrekkelig dokumentasjon om de avgjørelser som blir tatt på fullmaktsgiverens vegne."
+                    ]
+                },
+                {
+                    "name": "§ 86",
+                    "title": "Inhabilitet mv.",
+                    "sections": [
+                        "Fullmektigen kan ikke representere fullmaktsgiveren i saker der han eller hun ville vært inhabil som verge, jf. § 34. Fullmektigen kan likevel gjennomføre disposisjoner etter §§ 87 og 88 og disposisjoner som fullmakten særskilt angir at fullmaktsgiveren skal kunne gjennomføre.",
+                        "Hvis fullmektigen er inhabil, kan fullmektigen og personer nevnt i § 56 begjære at fylkesmannen oppnevner en verge med et mandat begrenset til de forhold som gjør fullmektigen inhabil."
+                    ]
+                },
+                {
+                    "name": "§ 87",
+                    "title": "Gaver",
+                    "sections": [
+                        "En fullmektig kan gi sedvanlige gaver på fullmaktsgiverens vegne. Andre gaver kan bare gis hvis det er angitt særskilt i fullmakten."
+                    ]
+                },
+                {
+                    "name": "§ 88",
+                    "title": "Vederlag og dekning av utgifter",
+                    "sections": [
+                        "Om ikke noe annet er avtalt eller fastsatt i fullmakten, kan fullmektigen dekke sine nødvendige utgifter av fullmaktsgiverens midler. Om ikke noe annet er avtalt eller fastsatt i fullmakten, kan fullmektigen, når det er rimelig, også beregne seg et passende vederlag."
+                    ]
+                },
+                {
+                    "name": "§ 89",
+                    "title": "Tilbakekall av fremtidsfullmakt",
+                    "sections": [
+                        "Et løfte om ikke å tilbakekalle en fremtidsfullmakt er ikke bindende.",
+                        "Fullmaktsgiveren kan tilbakekalle fremtidsfullmakten hvis han eller hun har evnen til å forstå betydningen av dette.",
+                        "Tilbakekall skjer ved at fullmaktsgiveren krever fullmakten tilbake eller får den ødelagt. Fullmektigen plikter etter krav fra fullmaktsgiveren å levere fullmakten tilbake. Har en tredjeperson fått en særskilt erklæring om at fremtidsfullmakten er tilbakekalt, gjelder dette som tilbakekall overfor ham eller henne."
+                    ]
+                },
+                {
+                    "name": "§ 90",
+                    "title": "Opplysnings- og regnskapsplikt",
+                    "sections": [
+                        "Det kan fastsettes i en fremtidsfullmakt at fullmektigen skal ha opplysnings- eller regnskapsplikt overfor en tredjeperson.",
+                        "Fullmektigen skal på begjæring fra fylkesmannen legge frem de opplysningene om fullmaktsforholdet som fylkesmannen krever. Fylkesmannen kan pålegge fullmektigen å føre regnskap og gi fylkesmannen innsyn i dette der det er nødvendig for å sikre fullmaktsgiverens interesser."
+                    ]
+                },
+                {
+                    "name": "§ 91",
+                    "title": "Vergemål for fullmaktsgiveren",
+                    "sections": [
+                        "De som er nevnt i § 56, kan begjære at fullmaktsgiveren settes under vergemål. Det samme kan den som i fremtidsfullmakten er utpekt som fullmektig. Fylkesmannen kan også av eget tiltak behandle sak om opprettelse av vergemål for fullmaktsgiveren.",
+                        "Fylkesmannen eller retten skal vurdere om vilkårene for vergemål er oppfylt, jf. kapittel 4. Ved vurderingen av om det er behov for vergemål, skal det legges vekt på om fullmektigen ivaretar fullmaktsgiverens interesser som forutsatt i fremtidsfullmakten, og om det er behov for ytterligere bistand.",
+                        "Hvis det opprettes vergemål for fullmaktsgiveren som erstatter fullmakten, skal fylkesmannen om mulig kalle fullmakten tilbake samtidig. § 89 tredje ledd gjelder tilsvarende. Om vergemålet setter fullmakten delvis til side, skal fylkesmannen om mulig foreta en påtegning om dette på fullmakten."
+                    ]
+                },
+                {
+                    "name": "§ 92",
+                    "title": "Forholdet til avtaleloven",
+                    "sections": [
+                        "Avtalelovens bestemmelser gjelder tilsvarende for fullmakt etter kapitlet her og for fullmektigens disposisjoner og ansvar, med mindre noe annet fremgår av loven her."
+                    ]
+                },
+                {
+                    "name": "§ 93",
+                    "title": "Faste betalingsoppdrag",
+                    "sections": [
+                        "Skriftlig fullmakt til en finansinstitusjon eller betalingsmottaker om at det som fast oppdrag skal foretas en bestemt angitt betaling på fullmaktsgiverens vegne, er gyldig også etter at fullmaktsgiveren er kommet i en tilstand som nevnt i § 78.",
+                        "En verge kan innenfor sitt mandat kalle tilbake fullmakter som nevnt i første ledd. Det samme kan en fullmektig etter en fremtidsfullmakt hvis fremtidsfullmakten omfatter representasjon av fullmaktsgiveren i økonomiske forhold."
+                    ]
+                },
+                {
+                    "name": "§ 94",
+                    "title": "Nærståendes representasjonsrett",
+                    "sections": [
+                        "Nærstående har etter reglene i denne paragrafen rett til å representere et familiemedlem som på grunn av sinnslidelse, herunder demens, eller alvorlig svekket helbred, ikke lenger er i stand til å ivareta sine økonomiske interesser. Den nærstående har rett til på familiemedlemmets vegne å foreta økonomiske disposisjoner som gjelder familiemedlemmets bolig og daglige underhold. Den nærstående har også rett til å sørge for betaling av offentlige skatter og avgifter og av forpliktelser som følger av gyldige låneavtaler familiemedlemmet har inngått. Den nærstående kan si opp betalingsoppdrag som nevnt i § 93.",
+                        "Som nærstående regnes følgende personer som har fylt 18 år, og som ikke er under vergemål:",
+                        "a)ektefelle eller samboer",
+                        "b)barn",
+                        "c)barnebarn",
+                        "d)foreldre.",
+                        "En nærstående har bare representasjonsrett dersom samtlige medlemmer med høyere prioritet etter rekkefølgen som følger av første punktum, skriftlig har frasagt seg retten til å representere familiemedlemmet.",
+                        "Nærståendes representasjonsrett etter denne paragrafen gjelder ikke hvis det er oppnevnt verge for familiemedlemmet, og heller ikke i den utstrekning forholdet omfattes av en fremtidsfullmakt.",
+                        "§ 85 gjelder tilsvarende."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 11. Forskjellige bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 95",
+                    "title": "Særskilt forvaltning etter bestemmelse av giver og arvelater",
+                    "sections": [
+                        "Denne loven begrenser ikke en givers eller arvelaters adgang til ved gave eller testament å bestemme at gave eller arv som tilfaller en person under vergemål, skal forvaltes eller brukes på en bestemt måte. Med mindre det er i strid med arvelaterens eller giverens bestemmelser om alternativ forvaltning eller bruk, gjelder lovens regler om forvaltning og regnskapsføring av midler tilhørende personer som er under vergemål.",
+                        "Giverens bestemmelse må være skriftlig og datert.",
+                        "Hvis det vil være åpenbart uheldig for den som er under vergemål, at midlene står til hans eller hennes rådighet, kan vergen med fylkesmannens samtykke frata vedkommende råderetten over dem. På samme vilkår kan vergen med fylkesmannens samtykke bestemme at midlene skal forvaltes etter reglene i denne lov.",
+                        "Arvelaterens og giverens disposisjoner som nevnt i første og annet ledd må være truffet senest ved gavens oppfyllelse eller fremgå av testamentet."
+                    ]
+                },
+                {
+                    "name": "§ 96",
+                    "title": "Midler som ved lov er bestemt at skal forvaltes etter denne lov",
+                    "sections": [
+                        "Når det ved lov er bestemt at midlene til en person som ikke er under vergemål, skal behandles etter de regler som gjelder for midler til personer under vergemål, kan fylkesmannen oppnevne en bestyrer til å forestå forvaltningen av dem. Reglene i kapittel 6 og 7 gjelder for bestyrerens forvaltning så langt de passer.",
+                        "Bestyreren utfører sitt oppdrag mot vederlag av avkastningen av midlene. Er avkastningen ikke tilstrekkelig til å dekke omkostningene, kan fylkesmannen i særskilte tilfeller samtykke i at vederlaget dekkes av selve forvaltningskapitalen. Fylkesmannen avgjør på hvilken måte dekning kan skje."
+                    ]
+                },
+                {
+                    "name": "§ 97",
+                    "title": "Forvaltning av andre midler enn de som tilhører personer under vergemål",
+                    "sections": [
+                        "Fylkesmannen kan overta forvaltningen av legatmidler og andre midler som fylkesmannen etter denne lov ikke har plikt til å forvalte. I så fall gjelder reglene i kapittel 7.",
+                        "Kongen kan i forskrift gi nærmere regler om gjennomføringen av denne bestemmelsen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 12. Saker med tilknytning til utlandet",
+            "paragraphs": [
+                {
+                    "name": "§ 98",
+                    "title": "Fylkesmannens myndighet i vergemålssaker der personen ikke er bosatt i Norge",
+                    "sections": [
+                        "Om en norsk statsborger har flyttet fra Norge, kan sak etter loven her i særlige tilfeller behandles av fylkesmannen der personen hadde sin siste bopel i Norge."
+                    ]
+                },
+                {
+                    "name": "§ 99",
+                    "title": "Fylkesmannens myndighet i internasjonale forhold når det gjelder stadfesting av fremtidsfullmakter mv.",
+                    "sections": [
+                        "Fylkesmannen kan stadfeste en fremtidsfullmakt hvis fullmaktsgiveren er bosatt i Norge. Hvis fullmaktsgiveren ikke er bosatt i Norge, men fullmakten gjelder eiendom i Norge, kan fylkesmannen stadfeste fullmakten så langt det gjelder denne eiendommen. Hvis fylkesmannen kan stadfeste en fremtidsfullmakt etter første og annet punktum, kan fylkesmannen også registrere fullmakten i samsvar med § 84 fjerde ledd.",
+                        "Fylkesmannen har myndighet etter § 86 annet ledd, § 90 annet ledd og § 91 hvis fullmaktsgiveren er bosatt i Norge. Hvis fullmaktsgiveren ikke er bosatt i Norge, har fylkesmannen slik myndighet hvis det etter omstendighetene er grunn for fylkesmannen til å gripe inn."
+                    ]
+                },
+                {
+                    "name": "§ 100",
+                    "title": "Fremtidsfullmakter og lovvalg",
+                    "sections": [
+                        "Når det gjelder gyldighet, omfang, endring og opphør av en fremtidsfullmakt, anvendes loven i den staten hvor fullmaktsgiveren var bosatt når fremtidsfullmakten ble opprettet, om ikke fullmaktsgiveren skriftlig har bestemt at en annen stats lov som nevnt i annet ledd skal anvendes.",
+                        "Fullmaktsgiveren kan bestemme at anvendelig lov ikke skal være den lov som følger av første ledd, men i stedet",
+                        "a)loven i en stat der fullmaktsgiveren er statsborger,",
+                        "b)loven i en stat der fullmaktsgiveren tidligere har vært bosatt, eller",
+                        "c)loven i en stat der fullmaktsgiveren har fast eiendom, så langt det gjelder denne eiendommen.",
+                        "Henvisningene til annen stats lov omfatter ikke bestemmelser som hører til den internasjonale privatretten.",
+                        "Ved fylkesmannens og domstolenes behandling av saker etter kapitlet her anvendes norsk rett."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 13. Ikraftsettings- og overgangsregler. Endringer i andre lover",
+            "paragraphs": [
+                {
+                    "name": "§ 101",
+                    "title": "Ikraftsetting. Overgangsregler",
+                    "sections": [
+                        "1.Loven gjelder fra den tid Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.",
+                        "2.Beslutninger truffet med hjemmel i lov 28. november 1898 om Umyndiggjørelse eller lov 22. april 1927 nr. 3 om vergemål for umyndige skal gjelde også etter ikrafttredelsen av loven her. Beslutninger nevnt i første punktum kan likevel oppheves eller endres med hjemmel i loven her.",
+                        "3.Kongen kan i forskrift gi nærmere overgangsregler."
+                    ]
+                },
+                {
+                    "name": "§ 102",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:",
+                        "1. Lov 28. november 1898 om Umyndiggjørelse oppheves.",
+                        "2. I lov 31. mai 1918 nr. 4 om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer skal § 22 lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Blir fullmaktsgiveren på grunn av sinnslidelse, herunder demens, eller alvorlig svekket helbred ute av stand til å inngå rettslig bindende disposisjoner, får en disposisjon fullmektigen deretter foretar, ikke annen virkning enn den ville ha hatt om fullmaktsgiveren selv hadde foretatt den, med mindre noe annet følger av reglene i vergemålsloven kapittel 10.",
+                    "sections": [
+                        "Blir fullmaktsgiveren fratatt den rettslige handleevnen etter vergemålsloven § 22, får en disposisjon fullmektigen deretter foretar, ikke annen virkning enn den ville ha hatt om fullmaktsgiveren selv hadde foretatt den.",
+                        "Blir fullmaktsgiveren satt under vergemål, kan vergen innenfor sitt mandat kalle tilbake fullmakter.",
+                        "3. I lov 17. juli 1925 nr. 11 om Svalbard gjøres følgende endringer:",
+                        "§ 14 oppheves.",
+                        "§ 15 oppheves.",
+                        "4. Lov 22. april 1927 nr. 3 om vergemål for umyndige oppheves.",
+                        "5. I lov 3. mars 1972 nr. 5 om arv m.m. gjøres følgende endringer:",
+                        "§ 45 annet ledd oppheves.",
+                        "§ 74 annet ledd oppheves. Nåværende tredje ledd blir nytt annet ledd.",
+                        "6. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven) skal ny § 93 g lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 93 g",
+                    "title": "Rettigheter som etter loven her tilkommer fornærmede og etterlatte, utøves av vergen når den fornærmede eller etterlatte er under 18 år, med mindre noe annet følger av lov. Er vergene uenige seg imellom om utøvelsen av rettighetene, skal det oppnevnes en setteverge.",
+                    "sections": [
+                        "En mindreårig som har fylt 15 år, kan på ethvert tidspunkt i saken selv utøve rettighetene som fornærmet eller etterlatt, med mindre den mindreårige er i en tilstand som beskrevet i vergemålsloven § 20.",
+                        "Rettigheter som nevnt i første ledd utøves av vergen når den fornærmede eller etterlatte fullt ut er fratatt den rettslige handleevnen. Det samme gjelder en fornærmet eller etterlatt som delvis er fratatt den rettslige handleevnen når fratakelsen av handleevnen må anses å omfatte det å utøve prosessuelle rettigheter.",
+                        "7. I lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag (finansavtaleloven) skal § 25 lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Kontohaver under vergemål",
+                    "sections": [
+                        "(1) En mindreårig som har fylt 15 år, kan inngå avtale om konto for midler han eller hun har rett til å disponere over, jf. vergemålsloven § 12. Den mindreårige kan selv disponere over en slik konto ved kontante innskudd og uttak, med mindre institusjonen har fått melding fra fylkesmannen om at den mindreårige er fratatt rådigheten over midlene etter vergemålsloven § 12 tredje ledd.",
+                        "(2) Midler som etter vergemålsloven eller vedtak om vergemål bare kan disponeres av vergen eller fylkesmannen, skal ikke settes inn på konto som personen under vergemål har rett til å disponere over på egen hånd.",
+                        "(3) En verge kan inngå avtale om konto i den mindreåriges navn uten den andre vergens samtykke. Ved avtaleinngåelsen skal vergen opplyse om det finnes andre verger for den mindreårige. Dersom det finnes flere verger, skal institusjonen informere den andre vergen om opprettelsen av kontoen.",
+                        "(4) Har en kontohaver under vergemål flere verger, disponerer de kontoen i fellesskap med mindre de skriftlig har gitt melding om noe annet, fylkesmannen har besluttet at en av vergene skal disponere kontoen, jf. vergemålsloven § 18 fjerde ledd, eller en gaveyter eller arvelater har besluttet at arven eller gaven skal forvaltes på en bestemt måte, jf. vergemålsloven § 95.",
+                        "(5) Opplysninger som institusjonen etter loven her skal meddele kontohaveren, skal gis verge eller fylkesmannen med mindre opplysningene gjelder midler personen under vergemål har rett til å disponere over på egen hånd.",
+                        "8. I lov 2. juli 1999 nr. 63 om pasientrettigheter (pasientrettighetsloven) skal § 1-3 bokstav b annet punktum lyde:",
+                        "Dersom pasienten er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner, personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten, myndige barn, foreldre eller andre med foreldreansvaret, myndige søsken, besteforeldre, andre familiemedlemmer som står pasienten nær, verge eller fremtidsfullmektig med kompetanse på det personlige området."
+                    ]
+                }
+            ]
+        }
+    ]
+}

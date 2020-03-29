@@ -1,0 +1,71 @@
+{
+    "lawId": "LOV-2017-04-28-20",
+    "lawName": "Lov om endringer i plan- og bygningsloven (mer effektive planprosesser, forenklinger mv.)",
+    "shortName": "Endringslov til plan- og bygningsloven (mer effektive planprosesser, forenklinger mv.)",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 12-14",
+                    "title": "Endring og oppheving av reguleringsplan",
+                    "sections": [
+                        "For utfylling, endring og oppheving av reguleringsplan gjelder samme bestemmelser som for utarbeiding av ny plan.",
+                        "Kommunestyret kan delegere myndigheten til å treffe vedtak om endringer i reguleringsplan når endringene i liten grad vil påvirke gjennomføringen av planen for øvrig, ikke går utover hovedrammene i planen, og heller ikke berører hensynet til viktige natur- og friluftsområder.",
+                        "Før det treffes slikt vedtak, skal saken forelegges berørte myndigheter, og eierne og festerne av eiendommer som direkte berøres av vedtaket, og andre berørte, skal gis anledning til å uttale seg. Jf. for øvrig § 1-9.",
+                        "Kommunestyret kan delegere myndigheten til å treffe vedtak om å oppheve plan som i det vesentlige er i strid med overordnet plan. Før det treffes slikt vedtak, skal eierne og festerne av eiendommer som direkte berøres av vedtaket, gis anledning til å uttale seg. Jf. for øvrig § 1-9.",
+                        "Ny § 12-16 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-16",
+                    "title": "Sentral godkjenning for planforetak",
+                    "sections": [
+                        "Sentral godkjenning for planforetak gis til foretak som er kvalifisert til å utarbeide reguleringsplaner. Godkjenning gis når foretaket kan dokumentere at det oppfyller krav fastsatt i forskrift.",
+                        "Departementet kan gi forskrift om krav for å få sentral godkjenning, herunder krav om nødvendige kvalifikasjoner, betalt skatt og merverdiavgift, oppfyllelse av krav i arbeidsmiljøloven, allmenngjøringsloven og revisjon av kvalitetssikringssystemer. Departementet kan gi forskrift om at den sentrale godkjenningen også kan inneholde opplysninger om foretakenes forsikringer, godkjenninger foretakene har etter andre ordninger mv.",
+                        "Departementet kan gi forskrift om behandlingen av søknader om sentral godkjenning, tilbaketrekking, ordningens omfang og organisering, tidsfrister for behandling av søknader om sentral godkjenning og konsekvenser av fristoverskridelse. Departementet kan gi forskrift om innholdet i registeret over sentralt godkjente foretak. Departementet kan gi forskrift om gebyr for sentral godkjenning. Gebyret skal ikke overskride selvkost.",
+                        "Sentral godkjenning for planforetak gis av det godkjenningsorganet som departementet bestemmer. Vedtak om godkjenning registreres i et sentralt, åpent register.",
+                        "Ny § 12-17 skal lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12-17",
+                    "title": "Tilbaketrekking av sentral godkjenning for planforetak",
+                    "sections": [
+                        "Sentral godkjenning for planforetak skal trekkes tilbake dersom godkjent foretak ikke lenger innehar de nødvendige kvalifikasjonene for å ha godkjenning for planforetak. Før det treffes vedtak om tilbaketrekking, skal foretaket gis varsel med frist til å uttale seg. Når særlig formildende hensyn gjør seg gjeldende, kan tilbaketrekking av sentral godkjenning for planforetak likevel unnlates. Ved mindre alvorlige overtredelser kan det gis advarsel.",
+                        "§ 13-1 nytt andre ledd skal lyde:",
+                        "Dersom en søknad om tillatelse til tiltak ikke er avgjort, kan kommunen bare vedta et midlertidig forbud dersom søkeren er varslet om dette innen utløpet av de saksbehandlingsfrister som følger av § 21-7, og dersom forbudet vedtas senest innen åtte uker etter utløpet av fristen.",
+                        "Nåværende andre og tredje ledd blir tredje og nytt fjerde ledd.",
+                        "§ 15-2 tredje ledd skal lyde:",
+                        "Krav etter første ledd må være satt fram senest tre år etter at reguleringsplanen er gjort kjent etter § 12-12 fjerde ledd, eller vedtak er kunngjort etter § 12-12 femte ledd. Er grunnen bebygd, har eieren eller festeren det samme krav når bebyggelsen er fjernet. Kravet må i så fall være satt fram senest tre år etter dette tidspunkt.",
+                        "§ 15-3 andre ledd skal lyde:",
+                        "Krav om erstatning må være satt fram senest tre år etter at vedtak er gjort kjent etter § 12-12 fjerde ledd, eller at reguleringsplanen er kunngjort etter § 12-12 femte ledd.",
+                        "§ 16-2 første ledd skal lyde:",
+                        "Kommunestyret kan foreta ekspropriasjon til gjennomføring av reguleringsplan. Kommunestyrets adgang til å foreta ekspropriasjon i medhold av reguleringsplan bortfaller dersom ikke kommunestyrets vedtak om ekspropriasjon er gjort innen 10 år etter at planen er kunngjort etter § 12-12 femte ledd.",
+                        "§ 19-2 tredje ledd skal lyde:",
+                        "Ved dispensasjon fra loven og forskriften til loven skal det legges særlig vekt på dispensasjonens konsekvenser for helse, miljø, jordvern, sikkerhet og tilgjengelighet.",
+                        "§ 21-7 første ledd skal lyde:",
+                        "Søknad om tillatelse etter § 20-2 skal avgjøres av kommunene innen 12 uker etter at fullstendig søknad foreligger, med mindre annet følger av andre, tredje eller fjerde ledd. Ved overskridelse av fristen skal kommunen tilbakebetale byggesaksgebyret etter nærmere bestemmelser i forskrift, jf. § 21-8 tredje ledd.",
+                        "§ 21-7 nytt femte ledd skal lyde:",
+                        "Plangrunnlaget som gjaldt ved utløpet av fristen, skal ved overskridelse av fristen legges til grunn for avgjørelsen. Dette gjelder ikke dersom tiltakshaveren innen utløpet av fristen har mottatt forhåndsvarsel om midlertidig forbud mot tiltak, og dette forbudet deretter blir vedtatt innen åtte uker, jf. § 13-1 første ledd. Denne bestemmelse gjelder ikke for statlige og regionale planbestemmelser etter §§ 6-3 og 8-5, eller for statlig arealplan etter § 6-4.",
+                        "Nåværende femte til syvende ledd blir sjette til åttende ledd.",
+                        "§ 29-4 fjerde ledd skal lyde:",
+                        "Nærmere bestemmelser, herunder regler om avstand mellom byggverk, beregningsmåten for høyde, avstand fra nabogrense og areal på bygning som nevnt i tredje ledd bokstav b, gis ved forskrift.",
+                        "§ 32-8 første ledd bokstav h skal lyde:",
+                        "h)tross skriftlig pålegg ikke oppfyller plikten etter § 31-3 første ledd til å holde byggverk og installasjoner i stand",
+                        "§ 33-1 første ledd skal lyde:",
+                        "Kommunestyret selv kan gi forskrift om gebyr til kommunen for behandling av søknad om tillatelse, utferdigelse av kart og attester og for andre arbeid som det etter denne lov eller forskrift påhviler kommunen å utføre, herunder behandling av private planforslag. Gebyret for behandling av slikt planforslag kan omfatte kommunens arbeid frem til det blir avgjort om forslaget skal fremmes, jf. § 12-11.",
+                        "§ 33-2 andre ledd skal lyde:",
+                        "Eieren eller brukeren må varsles før undersøkelse finner sted, og kan i tilfelle kreve bekreftelse fra kommunen om at den har gitt samtykke til undersøkelsen. Om gjennomføring av undersøkelsen gjelder forvaltningsloven § 15. Lider en eier eller rettighetshaver tap ved undersøkelsen, gjelder oreigningslova § 19 om erstatning.",
+                        "Loven trer i kraft fra det tidspunktet Kongen bestemmer."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

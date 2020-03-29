@@ -1,0 +1,41 @@
+{
+    "lawId": "LOV-2007-06-29-95",
+    "lawName": "Lov om endringer i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)",
+    "shortName": "Endringslov til luftfartsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 7-25",
+                    "title": "Kontroll av personer m.v.",
+                    "sections": [
+                        "Når hensynet til sikkerheten i luftfarten tilsier det, kan kontroll av personer, reisegods, gods og øvrige gjenstander som befinner seg på landingsplasser og andre luftfartsanlegg, foretas i samsvar med forskrifter gitt av departementet.",
+                        "Departementet kan, på samme vilkår, gi forskrifter om at innehaver av landingsplass til allmenn bruk (etter § 7-5), flyselskaper, fraktagenter eller andre som driver virksomhet i tilknytning til landingsplass og andre luftfartsanlegg, skal utarbeide og gjennomføre en sikkerhetsinstruks.",
+                        "Kapittel XVI overskriften skal lyde:",
+                        "Ny § 16-3 skal lyde:"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel XVI. Særlige regler om gjennomføring av EØS-avtalen, EFTA-konvensjonen og ECAA-avtalen",
+            "paragraphs": [
+                {
+                    "name": "§ 16-3",
+                    "title": "Forskriftsfullmakt – ECAA-avtalen",
+                    "sections": [
+                        "Departementet kan gi forskrifter om gjennomføring av ECAA-avtalen (European Common Aviation Area) av 9. juni 2006 med senere endringer om etablering av et felles europeisk luftfartsmarked.",
+                        "Regler gitt i medhold av første ledd skal gå foran lovens alminnelige bestemmelser.",
+                        "Loven trer i kraft straks."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

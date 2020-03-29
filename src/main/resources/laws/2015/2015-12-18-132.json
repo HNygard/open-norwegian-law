@@ -1,0 +1,25 @@
+{
+    "lawId": "LOV-2015-12-18-132",
+    "lawName": "Lov om endringar i EØS-høringsloven (elektronisk administrativt samarbeid)",
+    "shortName": "Endringslov til EØS-høringsloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": [
+                {
+                    "name": "§ 13 a",
+                    "title": "Elektronisk administrativt samarbeid i EØS",
+                    "sections": [
+                        "Departementet kan gi forskrifter om elektronisk system for elektronisk administrativt samarbeid i EØS, herunder bestemmelser om virkeområdet for og effektiv bruk av systemet og om personvern.",
+                        "Lova gjeld frå den tida Kongen fastset."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "paragraphs": []
+        }
+    ]
+}

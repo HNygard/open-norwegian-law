@@ -1,0 +1,31 @@
+{
+    "lawId": "LOV-2018-12-20-107",
+    "lawName": "Lov om endringer i tolloven",
+    "shortName": "Endringslov til tolloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "I",
+            "paragraphs": []
+        },
+        {
+            "name": "II",
+            "paragraphs": [
+                {
+                    "name": "§ 12-18",
+                    "title": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+                    "sections": [
+                        "(1) Tollmyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+                        "(2) Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.",
+                        "Endringen under I trer i kraft fra den tid Kongen bestemmer.",
+                        "Endringen under II trer i kraft 1. juli 2019."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "III",
+            "paragraphs": []
+        }
+    ]
+}

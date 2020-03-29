@@ -1,0 +1,332 @@
+{
+    "lawId": "LOV-2017-05-22-29",
+    "lawName": "Lov om taubaner (taubaneloven)",
+    "shortName": "Taubaneloven",
+    "authorityDescription": null,
+    "chapters": [
+        {
+            "name": "Kapittel 1. Innledende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Lovens formål",
+                    "sections": [
+                        "Loven skal sikre at taubaner blir anlagt, bygget, drevet, vedlikeholdt og fjernet slik at taubaner ikke fører til skade på person, eiendom eller miljø."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Virkeområde",
+                    "sections": [
+                        "Loven gjelder for taubaner og all aktivitet knyttet til taubanevirksomhet.",
+                        "Loven gjelder for Svalbard og Jan Mayen med mindre Kongen bestemmer noe annet."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I denne loven menes med",
+                        "a)taubane: anlegg konstruert, produsert, montert og tatt i bruk for å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av eller beveges med tau som er plassert i eller langs en trasé",
+                        "b)taubanevirksomhet: foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere taubaner",
+                        "c)taubaneulykke: uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på taubane som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker",
+                        "d)alvorlig taubanehendelse: uønsket hendelse på taubane som under andre omstendigheter kunne ha ført til en taubaneulykke",
+                        "e)taubanehendelse: enhver annen uønsket hendelse enn en ulykke på taubane, som har sammenheng med driften, og som innvirker på driftssikkerheten."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Myndighet etter loven",
+                    "sections": [
+                        "Departementet er myndighet etter denne loven.",
+                        "Departementet kan gi forskrifter om:",
+                        "a)bestemmelser om definisjon av taubane og taubanevirksomhet, samt helt eller delvis unntak fra loven",
+                        "b)saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av taubane",
+                        "c)tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, magnetinduktiv prøving, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt",
+                        "d)godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet",
+                        "e)godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell",
+                        "f)universell utforming av byggverk, innretninger og billettsystemer",
+                        "g)plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje",
+                        "h)behandling av personopplysninger",
+                        "i)tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles",
+                        "j)hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning",
+                        "k)gebyr, årsgebyr og sektoravgift",
+                        "l)krav til naboeiendommer",
+                        "m)gjennomføring av EØS-avtalen på taubaneområdet",
+                        "Departementets myndighet etter første ledd kan delegeres til privat institusjon."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Tillatelse og krav til taubanevirksomheten",
+            "paragraphs": [
+                {
+                    "name": "§ 5",
+                    "title": "Taubanevirksomhetens plikter",
+                    "sections": [
+                        "Taubanevirksomheten skal drive taubanen på en sikker måte og sikre at vilkårene som er satt for taubanen i eller i medhold av denne loven, er oppfylt.",
+                        "Taubanevirksomheten skal stanse driften om hensynet til sikkerheten tilsier det."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Krav om driftstillatelse",
+                    "sections": [
+                        "En taubane skal ikke tas i bruk før departementet har gitt driftstillatelse.",
+                        "For søknad om driftstillatelse etter denne loven skal saksbehandlingsfrist være fire uker. Tjenesteloven § 11 andre ledd gjelder ikke for driftstillatelser etter denne loven."
+                    ]
+                },
+                {
+                    "name": "§ 7",
+                    "title": "Plikt til sikkerhetsstyringssystem (internkontrollsystem)",
+                    "sections": [
+                        "Taubanevirksomheten skal etablere et system for å sikre og dokumentere at kravene i eller i medhold av denne loven er oppfylt."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Erstatnings- og forsikringsplikt",
+                    "sections": [
+                        "Taubanevirksomheten er uansett skyld ansvarlig for skade forårsaket av taubanen.",
+                        "Taubanevirksomheten skal ha forsikring og sikkerhetsstillelse for erstatningsansvar som kan oppstå på grunn av virksomheten. Manglende sikkerhetsstillelse medfører tilbakekall av driftstillatelsen.",
+                        "Forsikringsselskapet hvor taubanen er forsikret, skal varsle tilsynsmyndigheten om bortfall av sikkerhetsstillelsen."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Varslings-, rapporterings- og taushetsplikt",
+            "paragraphs": [
+                {
+                    "name": "§ 9",
+                    "title": "Varslingsplikt",
+                    "sections": [
+                        "Taubanevirksomheten skal straks varsle politiet om taubaneulykke med ikke ubetydelig personskade.",
+                        "Taubanevirksomheten skal varsle tilsynsmyndigheten om taubaneulykke eller alvorlig taubanehendelse."
+                    ]
+                },
+                {
+                    "name": "§ 10",
+                    "title": "Rapporteringsplikt",
+                    "sections": [
+                        "Taubanevirksomheten skal rapportere opplysninger om taubaneulykker, alvorlige taubanehendelser og taubanehendelser til tilsynsmyndigheten."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "Enhver som utfører arbeid eller tjeneste for tilsynsmyndigheten, har taushetsplikt etter forvaltningsloven om det de får kjennskap til under utføring av arbeidet eller tjenesten. Forvaltningsloven § 13 b første ledd nr. 6 gjelder likevel ikke.",
+                        "Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert etter § 10. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre, eller opplysningene er nødvendige for å forklare årsaken til en taubaneulykke eller taubanehendelse.",
+                        "Taushetsplikt etter første og andre ledd er ikke til hinder for at opplysningene bringes videre i den grad den som har krav på taushet samtykker, eller dersom opplysningene har statistisk form eller er alminnelig tilgjengelig andre steder.",
+                        "Opplysninger som er taushetsbelagt etter andre ledd, kan gis videre til utenlandske og internasjonale myndigheter og organisasjoner når dette følger av internasjonale avtaler som Norge har inngått.",
+                        "Opplysninger som tilsynsmyndigheten mottar i medhold av § 10, kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Tilsyn. Reaksjoner ved lovbrudd",
+            "paragraphs": [
+                {
+                    "name": "§ 12",
+                    "title": "Tilsynsmyndighet",
+                    "sections": [
+                        "Departementet, eller den departementet delegerer oppgaven til, skal føre tilsyn med at loven med tilhørende forskrifter overholdes (tilsynsmyndigheten)."
+                    ]
+                },
+                {
+                    "name": "§ 13",
+                    "title": "Tilsynsmyndighetens adgang til virksomheten",
+                    "sections": [
+                        "Tilsynsmyndigheten skal til enhver tid ha uhindret adgang til ethvert sted som omfattes av loven. En representant for taubanevirksomheten har rett til, og kan pålegges, å være til stede under tilsynet. Tilsynsmyndigheten kan likevel bestemme at representanter for taubanevirksomheten ikke skal være til stede ved intervjuer av arbeidstakere hvis tilstedeværelsen ikke kan skje uten vesentlig ulempe, eller hvis formålet med tilsynet kan settes i fare."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Opplysningsplikt",
+                    "sections": [
+                        "Enhver som er underlagt tilsyn, skal uten hinder av taushetsplikt legge frem opplysninger som tilsynsmyndigheten mener er nødvendige for å kunne utføre tilsynet. Tilsynsmyndigheten kan bestemme i hvilken form opplysningene skal gis."
+                    ]
+                },
+                {
+                    "name": "§ 15",
+                    "title": "Pålegg om korrigerende tiltak",
+                    "sections": [
+                        "Ved forhold i strid med bestemmelser gitt i eller i medhold av denne loven, kan tilsynet gi pålegg om korrigerende tiltak. Ved utferdigelsen av pålegg skal det settes en frist for oppfyllelse. Samtidig med utferdigelsen av pålegg kan det fastsettes tvangsmulkt."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Pålegg om øyeblikkelig stans eller opphør av bruk",
+                    "sections": [
+                        "Tilsynsmyndigheten kan pålegge øyeblikkelig stans av driften helt eller delvis eller opphør av bruk med øyeblikkelig virkning dersom det avdekkes forhold som kan medføre fare for helse, miljø eller sikkerhet. Slikt pålegg kan gis uten forhåndsvarsel. Om nødvendig kan tilsynsmyndigheten kreve bistand av politiet for gjennomføring av pålegg om stans eller opphør av bruk."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Tilbakekall av driftstillatelse",
+                    "sections": [
+                        "Tilsynsmyndigheten kan trekke tilbake driftstillatelse ved brudd på vilkår eller krav som er satt for taubanen.",
+                        "Tilsynsmyndigheten skal trekke tilbake driftstillatelsen dersom taubanevirksomheten går konkurs.",
+                        "Tilbakekall av driftstillatelse gjelder inntil taubanevirksomheten ved ny søknad kan dokumentere at det forhold som forårsaket tilbakekallet, er rettet og vilkårene for driftstillatelse for øvrig er oppfylt."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "Tilsynsmyndigheten kan fastsette en tvangsmulkt dersom et pålegg ikke er oppfylt innen den fastsatte fristen. Tvangsmulkten kan varsles i pålegget. Tvangsmulkten starter når den fastsatte fristen er utløpt, og løper fram til pålegget er oppfylt.",
+                        "Tvangsmulktens størrelse skal beregnes ut fra hvor viktig det er at pålegget blir gjennomført, og hvilke kostnader det vil ha.",
+                        "Tvangsmulkt påløper ikke dersom etterlevelse blir umulig og årsaken til dette ikke ligger hos den ansvarlige.",
+                        "Tilsynsmyndigheten kan i særlige tilfeller redusere eller frafalle påløpt tvangsmulkt.",
+                        "Tvangsmulkt er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Overtredelsesgebyr",
+                    "sections": [
+                        "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som overtrer bestemmelser gitt i eller i medhold av denne loven.",
+                        "Når tilsynsmyndigheten skal avgjøre om et overtredelsesgebyr skal ilegges, og når sanksjonen skal utmåles, skal den særlig legge vekt på disse forholdene:",
+                        "a)overtredelsens grovhet og omfang",
+                        "b)om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak",
+                        "c)om overtredelsen er gjentatt",
+                        "d)om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen",
+                        "e)overtrederens økonomiske evne.",
+                        "Overtredelsesgebyret tilfaller statskassen."
+                    ]
+                },
+                {
+                    "name": "§ 20",
+                    "title": "Straff",
+                    "sections": [
+                        "Den som forsettlig eller uaktsomt bryter bestemmelser i eller i medhold av denne loven, straffes med bøter hvis forholdet ikke går under en strengere straffebestemmelse.",
+                        "Den som uaktsomt eller forsettlig overtrer forbudet i §§ 21 eller 22, straffes med bøter eller fengsel inntil ett år."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Ruspåvirkning, pliktavhold og testing av ruspåvirkning",
+            "paragraphs": [
+                {
+                    "name": "§ 21",
+                    "title": "Ruspåvirkning mv.",
+                    "sections": [
+                        "Ingen må føre eller forsøke å føre taubane eller utføre eller forsøke å utføre oppgaver knyttet til sikkerheten ved taubanen:",
+                        "a)med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,",
+                        "b)med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,",
+                        "c)under påvirkning av et annet berusende eller bedøvende middel enn alkohol, eller",
+                        "d)når sykdom, legemidler, tretthet eller lignende årsak gjør vedkommende uskikket til å utføre tjenesten på betryggende måte.",
+                        "Overskrider konsentrasjonen i blodet av annet berusende eller bedøvende middel grenser fastsatt i forskrift gitt med hjemmel i vegtrafikkloven § 22 sjette ledd, eller en mengde slikt middel i kroppen som kan føre til så stor konsentrasjon av slikt middel i blodet, regnes han i alle tilfeller for påvirket etter første ledd bokstav c.",
+                        "Bruk av legemiddel i tråd med helsekrav og medisinske krav som er fastsatt i eller med hjemmel i vegtrafikkloven, skal ikke medføre at en person regnes som påvirket.",
+                        "Villfarelse med hensyn til alkoholkonsentrasjonens størrelse fritar ikke for straff. Det samme gjelder villfarelse med hensyn til størrelsen av konsentrasjonen av andre berusende eller bedøvende midler.",
+                        "Den som forbudet i første ledd gjelder for, må ikke nyte alkohol eller ta andre berusende eller bedøvende midler i de første seks timer etter at tjenesten er avsluttet når vedkommende forstår eller må forstå at det kan bli politietterforskning på grunn av utførelsen av tjenesten. Dette forbudet gjelder likevel ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at slik prøve ikke skal tas."
+                    ]
+                },
+                {
+                    "name": "§ 22",
+                    "title": "Pliktavhold",
+                    "sections": [
+                        "Personell med oppgaver som kan påvirke sikkerheten på taubanen, må ikke bruke alkohol eller andre berusende eller bedøvende midler i tjenestetiden.",
+                        "Tjenestetiden omfatter tidsrommet fra den tid da personell i henhold til sine tjenesteplikter påbegynner sitt arbeid, og til det avsluttes. Forbudet gjelder også i et tidsrom av åtte timer før tjenestetiden begynner."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Testing av ruspåvirkning",
+                    "sections": [
+                        "Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel når det er grunn til å tro at personen har overtrådt bestemmelsene i § 21 eller § 22, eller personen med eller uten skyld er innblandet i en taubaneulykke eller taubanehendelse eller det blir krevd som ledd i kontroll av taubanevirksomheten.",
+                        "Dersom testresultatet eller andre forhold gir grunn til å tro at bestemmelsene i § 21 eller § 22 er overtrådt, kan politiet foreta særskilt undersøkelse av om det forekommer tegn eller symptomer på ruspåvirkning, og framstille personen for utåndingsprøve, blodprøve, spyttprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik framstilling skal i alminnelighet finne sted når personen nekter å medvirke til alkotest eller foreløpig test av om personen er påvirket av annet berusende eller bedøvende middel. Utåndingsprøve tas av politiet. Blodprøve og spyttprøve kan tas av lege, sykepleier, helsesekretær eller bioingeniør. Klinisk legeundersøkelse foretas når det er mistanke om påvirkning av andre midler enn alkohol eller andre særlige grunner taler for det."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Andre bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 24",
+                    "title": "Gebyr og avgift",
+                    "sections": [
+                        "Departementet kan kreve gebyrer for å behandle søknader om å få eller opprettholde tillatelser o.l. i eller i medhold av loven og for tilsyn som gjennomføres for å sikre at loven eller vedtak i medhold av loven blir fulgt. Gebyrene settes slik at de samlet ikke overstiger tilsynsmyndighetens kostnader med saksbehandlingen eller tilsynet.",
+                        "Departementet kan kreve gebyr som skal dekke kostnader knyttet til godkjenning av virksomheter etter § 4 andre ledd bokstav d) og godkjenning eller sertifisering av personell etter § 4 andre ledd bokstav e).",
+                        "Gebyret er tvangsgrunnlag for utlegg.",
+                        "Departementet kan fastsette en generell sektoravgift som skal dekke tilsynskostnadene til tilsynsmyndigheten dersom det ikke anses hensiktsmessig å pålegge den enkelte taubanevirksomhet gebyr direkte."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Transportvilkår for rutegående taubane, tilbakehold mv.",
+                    "sections": [
+                        "Reglene i jernbaneloven §§ 7 og 7 a gjelder på samme måte for taubaner som driver ordinær persontransport, og som inngår i kollektivtransporttilbudet i et fylke."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Krav til naboeiendommer",
+                    "sections": [
+                        "Det er forbudt å oppføre en bygning eller annen installasjon, plante, grave ut eller fylle opp innenfor 20 meter regnet fra taubanens midtlinje. Dette gjelder ikke om det foreligger en avtale med taubanevirksomheten eller annet følger av reguleringsplanen.",
+                        "Taubanevirksomheten kan pålegge eieren av eller rettighetshaveren til en naboeiendom å fjerne trær og annen vegetasjon innenfor 20-metersgrensen etter første ledd dersom hensynet til taubanens eller omgivelsenes sikkerhet krever det. Hvis pålegget ikke følges, kan taubanevirksomheten selv fjerne vegetasjonen.",
+                        "Eieren eller rettighetshaveren har krav på vederlag etter skjønn for skader og ulemper som følger av tiltakene i andre ledd, og for eventuelle utgifter knyttet til dette."
+                    ]
+                },
+                {
+                    "name": "§ 27",
+                    "title": "Fjerning av taubane",
+                    "sections": [
+                        "Taubaner som ikke lenger er i drift, skal fjernes.",
+                        "Taubanevirksomheten som har eller hadde den siste driftstillatelsen for taubanen, er sammen med eieren solidarisk ansvarlig for fjerningen.",
+                        "Departementet kan fjerne taubanen for taubanevirksomhetens eller eierens regning og risiko hvis den ikke er fjernet innen en fastsatt frist. Utgiftene til fjerning er tvangsgrunnlag for utlegg."
+                    ]
+                },
+                {
+                    "name": "§ 28",
+                    "title": "Ekspropriasjon",
+                    "sections": [
+                        "Departementet kan gi tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for anleggelse av taubane.",
+                        "Ved ekspropriasjon av nødvendig grunn og rettigheter for anleggelse av taubane gjelder reglene i lov 23. oktober 1959 om oreigning av fast eiendom og lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Avsluttende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 29",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra det tidspunktet Kongen bestemmer."
+                    ]
+                },
+                {
+                    "name": "§ 30",
+                    "title": "Opphevelse og endringer i andre lover",
+                    "sections": [
+                        "Fra det tidspunktet loven trer i kraft, oppheves lov 14. juni 1912 nr. 1 om taugbaner og løipestrenger.",
+                        "Fra det samme tidspunktet skal lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. § 12 lyde:"
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "(Tilsyn med omsetning av samtrafikkomponenter m.v.)",
+                    "sections": [
+                        "Tilsynsmyndigheten kan pålegge den som bringer i omsetning en samtrafikkomponent, å begrense anvendelsesområdet, forby bruk eller tilbakekalle samtrafikkomponenten fra markedet dersom det foreligger risiko for at samtrafikkomponenten ikke oppfyller de grunnleggende kravene. Enhver plikter å gi tilsynsmyndigheten de opplysninger den krever for å få utført sine oppgaver, samt for samme formål å gi tilsynsmyndigheten adgang til lokaler og utstyr knyttet til samtrafikkomponent.",
+                        "Departementet kan gi nærmere forskrifter om tilsyn med omsetning av samtrafikkomponenter.",
+                        "Fra det samme tidspunktet skal lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom § 30 nr. 1 oppheves."
+                    ]
+                },
+                {
+                    "name": "§ 31",
+                    "title": "Overgangsbestemmelser",
+                    "sections": [
+                        "Forskrifter og vedtak gitt i medhold av bestemmelser i lov 14. juni 1912 nr. 1 om taugbaner og løipestrenger gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i lov."
+                    ]
+                }
+            ]
+        }
+    ]
+}
