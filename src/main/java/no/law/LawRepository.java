@@ -1,7 +1,15 @@
 package no.law;
 
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class LawRepository {
     public static Map<String, Law> laws = new HashMap<>();
@@ -53,7 +61,7 @@ public class LawRepository {
         law.chapters.get(1).paragraphs = new ArrayList<>();
         law.chapters.get(1).paragraphs.add(paragraph3);
 
-        laws.put(law.getLawId(), law);
+   //     laws.put(law.getLawId(), law);
 
         law = new Law("LOV-1970-06-19-69",
                 "Lov om offentlighet i forvaltningen (offentlighetsloven)",
@@ -61,7 +69,37 @@ public class LawRepository {
                 Collections.singleton("Offentleglova"),
                 LocalDate.of(1970, 6, 19)
         );
-        laws.put(law.getLawId(), law);
+       // laws.put(law.getLawId(), law);
+
+        URL b = LawReference.class.getResource("/laws");
+        List<Path> collect2;
+        try {
+            collect2 = Files.walk(Paths.get(b.getFile())).collect(Collectors.toList());
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        Map<String, Law> collect = collect2.stream()
+                .map(Path::toFile)
+                .filter(File::isFile)
+                .filter(f -> f.getAbsolutePath().endsWith(".json"))
+                .map(f -> {
+                    try {
+                        FileReader fileReader = new FileReader(f);
+                        return LawGson.getGson().fromJson(fileReader, Law.class);
+                    } catch (Throwable e) {
+                        throw new RuntimeException("Unable to read JSON: " + f.getAbsolutePath(), e);
+                    }
+                })
+                .collect(Collectors.toMap(
+                        Law::getLawId,
+                        f -> {
+                            Collection<String> otherNames = (f.getPossibleNamesForLaw() != null) ? f.getPossibleNamesForLaw() : new ArrayList<>();
+                            Law law1 = new Law(f.getLawId(), f.getFullName(), f.getShortName(), otherNames, f.getAnnounementDate());
+                            law1.chapters = f.chapters;
+                            return law1;
+                        }
+                ));
+        laws.putAll(collect);
     }
 
     public static Law getLaw(String lawId) {

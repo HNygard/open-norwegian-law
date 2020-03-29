@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -32,6 +34,18 @@ public class Law implements LawReference {
             lawName = lawName.substring(0, lawName.length() - 1);
         }
 
+
+        if (announcementDate == null) {
+            Pattern pattern = Pattern.compile("^LOV-([0-9]{4})-([0-9]{2})-([0-9]{2})-[0-9]*$");
+            Matcher matcher = pattern.matcher(lawId);
+            matcher.matches();
+            announcementDate = LocalDate.of(
+                    Integer.parseInt(matcher.group(1)),
+                    Integer.parseInt(matcher.group(2)),
+                    Integer.parseInt(matcher.group(3))
+            );
+        }
+
         this.lawId = lawId;
         this.lawName = lawName;
         this.shortName = shortName;
@@ -41,10 +55,10 @@ public class Law implements LawReference {
         allPossibleNamesForLaw.add(lawId);
         allPossibleNamesForLaw.add(lawName);
         allPossibleNamesForLaw.add(shortName);
-        allPossibleNamesForLaw.add(shortName + " (" + announcementDate.getYear() + ")");
+        allPossibleNamesForLaw.add(shortName + " (" + this.announcementDate.getYear() + ")");
         otherNames.forEach(name -> {
             allPossibleNamesForLaw.add(name);
-            allPossibleNamesForLaw.add(name + " (" + announcementDate.getYear() + ")");
+            allPossibleNamesForLaw.add(name + " (" + this.announcementDate.getYear() + ")");
         });
 
         // Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).
