@@ -18,12 +18,7 @@
                     "name": "§ 2",
                     "title": "Verkeområdet til lova",
                     "sections": [
-                        "Lova gjeld for",
-                        "a)staten, fylkeskommunane og kommunane,",
-                        "b)andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,",
-                        "c)sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, og",
-                        "d)sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.",
-                        "Bokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.",
+                        "Lova gjeld for\na)staten, fylkeskommunane og kommunane,\nb)andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,\nc)sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, og\nd)sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.\nBokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.",
                         "Kongen kan gi forskrift om at lova ikkje skal gjelde for sjølvstendige rettssubjekt eller for visse dokument hos sjølvstendige rettssubjekt som er omfatta av første ledd bokstavane c eller d, dersom det må reknast som nødvendig ut frå omsynet til arten av verksemda, konkurransesituasjonen eller andre særlege tilhøve. Det same gjeld dersom det gjeld unntak frå innsynsretten for det alt vesentlege av dokumenta til verksemda og særlege tungtvegande omsyn tilseier det. Kongen kan gi forskrift om at lova heilt eller delvis skal gjelde for sjølvstendige rettssubjekt som er knytte til stat eller kommune utan å oppfylle vilkåra i første ledd bokstav c eller d, eller som er unnatekne etter første ledd andre punktum.",
                         "Lova gjeld ikkje for Stortinget, Riksrevisjonen, Stortingets ombodsmann for forvaltninga og andre organ for Stortinget.",
                         "Lova gjeld ikkje for gjeremål som domstolane har etter rettsstellovene. Lova gjeld heller ikkje for gjeremål som andre organ har etter rettsstellovene i eigenskap av rettsstellorgan. Lova gjeld dessutan ikkje for gjeremål som politiet og påtalemakta har etter straffeprosessloven. Kongen kan gi forskrifter om kva lover som skal reknast som rettsstellover, og om at enkelte gjeremål etter rettsstellovene likevel skal vere omfatta av lova.",
@@ -49,12 +44,7 @@
                     "sections": [
                         "Med dokument er meint ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lytting, framsyning, overføring eller liknande.",
                         "Saksdokument for organet er dokument som er komne inn til eller lagde fram for eit organ, eller som organet sjølv har oppretta, og som gjeld ansvarsområdet eller verksemda til organet. Eit dokument er oppretta når det er sendt ut av organet. Dersom dette ikkje skjer, skal dokumentet reknast som oppretta når det er ferdigstilt.",
-                        "Følgjande skal ikkje reknast som saksdokument for organet:",
-                        "a)dokument som inngår i bibliotek- eller museumssamling,",
-                        "b)dokument som private har overlate til offentleg arkiv for bevaring,",
-                        "c)dokument som er overlate til eit organ for offentleggjering i periodisk skrift som blir gitt ut av organet,",
-                        "d)avis, tidsskrift, reklamemateriell og liknande som organet mottek utan at det er knytt til ei bestemt sak i organet, og",
-                        "e)dokument som ein medarbeidar i organet har motteke i annan eigenskap enn som tilsett i organet.",
+                        "Følgjande skal ikkje reknast som saksdokument for organet:\na)dokument som inngår i bibliotek- eller museumssamling,\nb)dokument som private har overlate til offentleg arkiv for bevaring,\nc)dokument som er overlate til eit organ for offentleggjering i periodisk skrift som blir gitt ut av organet,\nd)avis, tidsskrift, reklamemateriell og liknande som organet mottek utan at det er knytt til ei bestemt sak i organet, og\ne)dokument som ein medarbeidar i organet har motteke i annan eigenskap enn som tilsett i organet.",
                         "Omgrepet organ femner i lova her om alle verksemder som lova gjeld for."
                     ]
                 },
@@ -123,10 +113,7 @@
                     "name": "§ 12",
                     "title": "Unntak for resten av dokumentet",
                     "sections": [
-                        "Når organet gjer unntak frå innsyn for delar av eit dokument, kan det også gjere unntak for resten av dokumentet dersom",
-                        "a)desse delane aleine vil gi eit klart misvisande inntrykk av innhaldet,",
-                        "b)det vil vere urimeleg arbeidskrevjande for organet å skilje dei ut, eller",
-                        "c)dei unnatekne opplysningane utgjer den vesentlegaste delen av dokumentet."
+                        "Når organet gjer unntak frå innsyn for delar av eit dokument, kan det også gjere unntak for resten av dokumentet dersom\na)desse delane aleine vil gi eit klart misvisande inntrykk av innhaldet,\nb)det vil vere urimeleg arbeidskrevjande for organet å skilje dei ut, eller\nc)dei unnatekne opplysningane utgjer den vesentlegaste delen av dokumentet."
                     ]
                 }
             ]
@@ -148,11 +135,7 @@
                     "title": "Dokument utarbeidde for eiga saksførebuing (organinterne dokument)",
                     "sections": [
                         "Eit organ kan gjere unntak frå innsyn for dokument som organet har utarbeidd for si eiga interne saksførebuing.",
-                        "Første ledd gjeld ikkje:",
-                        "a)dokument eller del av dokument som inneheld den endelege avgjerda til organet i ei sak,",
-                        "b)generelle retningslinjer for saksbehandlinga til organet,",
-                        "c)føredrag til saker som er avgjorde av Kongen i statsråd, og",
-                        "d)presedenskort og liknande, men ikkje dersom kortet gjengir organinterne vurderingar.",
+                        "Første ledd gjeld ikkje:\na)dokument eller del av dokument som inneheld den endelege avgjerda til organet i ei sak,\nb)generelle retningslinjer for saksbehandlinga til organet,\nc)føredrag til saker som er avgjorde av Kongen i statsråd, og\nd)presedenskort og liknande, men ikkje dersom kortet gjengir organinterne vurderingar.",
                         "Kongen kan gi forskrift om at det ikkje skal kunne gjerast unntak etter første ledd i paragrafen her for bestemte dokument i bestemte statlege eller statleg tilknytte organ."
                     ]
                 },
@@ -170,11 +153,7 @@
                     "name": "§ 16",
                     "title": "Innsyn i interne dokument hos kommunane og fylkeskommunane",
                     "sections": [
-                        "Unntaka i §§ 14 og 15 gjeld ikkje:",
-                        "a)saksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,",
-                        "b)sakliste til møte i folkevalde organ i kommunar og fylkeskommunar,",
-                        "c)dokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, og",
-                        "d)dokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.",
+                        "Unntaka i §§ 14 og 15 gjeld ikkje:\na)saksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,\nb)sakliste til møte i folkevalde organ i kommunar og fylkeskommunar,\nc)dokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, og\nd)dokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.",
                         "§ 14 gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekretariatet til utvalet.",
                         "Unntaket i § 14 gjeld ikkje for dokument frå eller til eit kommunalt eller fylkeskommunalt særlovsorgan eller eit kommunalt eller fylkeskommunalt føretak etter kommuneloven kapittel 11.",
                         "Unntaket i § 14 gjeld heller ikkje for dokument frå eller til ei kommunal eller fylkeskommunal eining på område der einingane har sjølvstendig avgjerdsrett. Unntaket i § 14 gjeld likevel for dokument i saker der administrasjonssjefen eller kommunerådet gjennomfører kontrolltiltak overfor ei eining, og for utkast til vedtak og innstillingar som blir lagde fram for administrasjonssjefen eller kommunerådet før det blir gjort vedtak, eller før ei innstilling blir lagd fram for eit folkevalt organ. Unntaket i § 14 gjeld også for merknader frå administrasjonssjefen eller kommunerådet til slike utkast som er nemnde i førre punktum."
@@ -205,10 +184,7 @@
                     "name": "§ 20",
                     "title": "Unntak av omsyn til Noregs utanrikspolitiske interesser",
                     "sections": [
-                        "Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd av omsyn til Noregs utanrikspolitiske interesser dersom:",
-                        "a)det følgjer av folkerettslege reglar at Noreg har plikt til å nekte innsyn i opplysningane,",
-                        "b)opplysningane er mottekne under føresetnad av eller det følgjer av fast praksis at dei ikkje skal offentleggjerast, eller",
-                        "c)opplysningane gjeld norske forhandlingsposisjonar, forhandlingsstrategiar eller liknande og forhandlingane ikkje er avslutta. Etter at forhandlingane er avslutta, kan det framleis gjerast unntak for slike opplysningar dersom det er grunn til å tru at det vil bli teke opp igjen forhandlingar om den same saka.",
+                        "Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd av omsyn til Noregs utanrikspolitiske interesser dersom:\na)det følgjer av folkerettslege reglar at Noreg har plikt til å nekte innsyn i opplysningane,\nb)opplysningane er mottekne under føresetnad av eller det følgjer av fast praksis at dei ikkje skal offentleggjerast, eller\nc)opplysningane gjeld norske forhandlingsposisjonar, forhandlingsstrategiar eller liknande og forhandlingane ikkje er avslutta. Etter at forhandlingane er avslutta, kan det framleis gjerast unntak for slike opplysningar dersom det er grunn til å tru at det vil bli teke opp igjen forhandlingar om den same saka.",
                         "Opplysningar i offisielle dokument som blir utveksla mellom Noreg og ein mellomstatleg organisasjon i saker som gjeld internasjonal normutvikling som kan få verknad for norsk rett, kan det gjerast unntak for etter første ledd bokstav b berre dersom det er påkravd av omsyn til tungtvegande utanrikspolitiske interesser. Det same gjeld opplysningar om norske forhandlingsposisjonar etter at posisjonane er lagde fram i forhandlingane.",
                         "I andre høve enn dei som er nemnde i første og andre ledd, kan det gjerast unntak frå innsyn for opplysningar når det er påkravd av særleg tungtvegande utanrikspolitiske interesser."
                     ]
@@ -350,8 +326,7 @@
                         "3. I lov 12. mai 1961 nr. 2 om opphavsrett til åndsverk m.v. skal § 27 første ledd lyde:",
                         "Vern etter denne lov er ikke til hinder for dokumentinnsyn etter forvaltningsloven og offentleglova eller annen lovgivning.",
                         "4. Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker blir endra slik:",
-                        "§ 2 første ledd bokstav f skal lyde:",
-                        "f)dokument: en logisk avgrenset informasjonsmengde som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende.",
+                        "§ 2 første ledd bokstav f skal lyde:\nf)dokument: en logisk avgrenset informasjonsmengde som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende.",
                         "§ 17 annet ledd første punktum skal lyde:",
                         "Dersom det under saksforberedelsen mottar opplysninger om en part eller den virksomhet han driver eller planlegger, og parten etter §§ 18 til 19 har rett til å gjøre seg kjent med disse opplysninger, skal de forelegges ham til uttalelse.",
                         "§ 17 tredje ledd skal lyde:",
@@ -395,16 +370,11 @@
                     "name": "§ 18 d",
                     "title": "(innsyn i interne dokumenter hos kommunene og fylkeskommunene).",
                     "sections": [
-                        "Unntakene i §§ 18 a og 18 b gjelder ikke:",
-                        "a)saksframlegg med vedlegg til et kommunalt eller fylkeskommunalt folkevalgt organ,",
-                        "b)saksliste til møte i folkevalgte organer i kommuner og fylkeskommuner,",
-                        "c)dokument fra eller til kommunale og fylkeskommunale kontrollutvalg, revisjonsorgan og klagenemnder, og",
-                        "d)dokument i saker der en kommunal eller fylkeskommunal enhet opptrer som ekstern part overfor en annen slik enhet.",
+                        "Unntakene i §§ 18 a og 18 b gjelder ikke:\na)saksframlegg med vedlegg til et kommunalt eller fylkeskommunalt folkevalgt organ,\nb)saksliste til møte i folkevalgte organer i kommuner og fylkeskommuner,\nc)dokument fra eller til kommunale og fylkeskommunale kontrollutvalg, revisjonsorgan og klagenemnder, og\nd)dokument i saker der en kommunal eller fylkeskommunal enhet opptrer som ekstern part overfor en annen slik enhet.",
                         "§ 18 a gjelder likevel for dokument som blir utvekslet mellom kommunale og fylkeskommunale kontrollutvalg og utvalgets sekretariat.",
                         "Unntaket i § 18 a gjelder ikke for dokument fra eller til et kommunalt eller fylkeskommunalt særlovsorgan eller et kommunalt eller fylkeskommunalt foretak etter kommuneloven kapittel 11.",
                         "Unntaket i § 18 a gjelder heller ikke for dokument fra eller til en kommunal eller fylkeskommunal enhet på områder der enhetene har selvstendig avgjørelsesmyndighet. Unntaket i § 18 a gjelder likevel for dokument i saker der administrasjonssjefen eller kommunerådet gjennomfører kontrolltiltak overfor en enhet, og for utkast til vedtak og innstillinger som blir lagt fram for administrasjonssjefen eller kommunerådet før det blir fattet vedtak eller før en innstilling blir lagt fram for et folkevalgt organ. Unntaket i § 18 a gjelder også for administrasjonssjefens eller kommunerådets merknader til slike utkast som nevnt i forrige punktum.",
-                        "§ 19 første ledd bokstav a skal lyde:",
-                        "a)som er av betydning for Norges utenrikspolitiske interesser eller nasjonale forsvars- og sikkerhetsinteresser, når slike opplysninger kan unntas etter offentleglova §§ 20 og 21,",
+                        "§ 19 første ledd bokstav a skal lyde:\na)som er av betydning for Norges utenrikspolitiske interesser eller nasjonale forsvars- og sikkerhetsinteresser, når slike opplysninger kan unntas etter offentleglova §§ 20 og 21,",
                         "§ 19 tredje ledd første punktum skal lyde:",
                         "Kongen kan gi forskrifter som for særskilte saksområder utfyller eller nærmere fastlegger hvordan §§ 18 til 19 skal anvendes.",
                         "§ 20 annet ledd første punktum skal lyde:",
@@ -447,10 +417,7 @@
                     "name": "§ 12",
                     "title": "Forholdet til offentleglova",
                     "sections": [
-                        "Offentleglova gjelder for saker som behandles etter denne lov. Uten hinder av taushetsplikt skal følgende opplysninger likevel alltid være offentlige, med mindre de faller inn under offentleglova §§ 20 og 21:",
-                        "a)beskrivelse av den genmodifiserte organismen, brukerens navn og adresse, formålet med bruken og bruksstedet",
-                        "b)metoder og planer for overvåking og beredskap",
-                        "c)vurderinger av hvilke virkninger som kan forutses.",
+                        "Offentleglova gjelder for saker som behandles etter denne lov. Uten hinder av taushetsplikt skal følgende opplysninger likevel alltid være offentlige, med mindre de faller inn under offentleglova §§ 20 og 21:\na)beskrivelse av den genmodifiserte organismen, brukerens navn og adresse, formålet med bruken og bruksstedet\nb)metoder og planer for overvåking og beredskap\nc)vurderinger av hvilke virkninger som kan forutses.",
                         "14. I lov 7. juni 1996 nr. 31 om Den norske kirke skal § 38 første ledd lyde:",
                         "Forvaltningsloven og offentleglova gjelder for den virksomhet som drives av lovbestemte kirkelige organer.",
                         "15. I lov 28. juni 1996 nr. 54 om studentsamskipnader skal § 13 lyde:",
@@ -480,8 +447,7 @@
                         "23. I lov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet blir desse endringane gjorde:",
                         "§ 3 første ledd skal lyde:",
                         "(1) Denne loven innskrenker ikke retten til opplysninger etter offentleglova, forvaltningsloven eller annen lovgivning.",
-                        "§ 5 første ledd bokstav a skal lyde:",
-                        "a)ethvert forvaltningsorgan som er omfattet av offentleglova § 2.",
+                        "§ 5 første ledd bokstav a skal lyde:\na)ethvert forvaltningsorgan som er omfattet av offentleglova § 2.",
                         "§ 6 skal lyde:",
                         "Det er ikke adgang til å ta betaling for den miljøinformasjon som noen har rett til å få utlevert etter loven her, med mindre annet er bestemt i forskrift fastsatt i medhold av denne loven eller offentleglova § 8.",
                         "§ 11 første ledd skal lyde:",
