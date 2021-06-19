@@ -17,6 +17,7 @@ public class LawTest {
 
         Law.Paragraph paragraph1 = new Law.Paragraph();
         paragraph1.name = "§ 1";
+        paragraph1.title = "Første";
         paragraph1.sections = new ArrayList<>();
         paragraph1.sections.add(new Law.Section("Første ledd. Mye tekst."));
         paragraph1.sections.add(new Law.Section("Andre ledd. Mye tekst."));
@@ -25,6 +26,7 @@ public class LawTest {
 
         Law.Paragraph paragraph2 = new Law.Paragraph();
         paragraph2.name = "§ 2";
+        paragraph2.title = "Andre";
         paragraph2.sections = new ArrayList<>();
         paragraph2.sections.add(new Law.Section("Første ledd. Mye tekst."));
         law.chapters.get(0).paragraphs.add(paragraph2);
@@ -32,6 +34,7 @@ public class LawTest {
 
         Law.Paragraph paragraph3 = new Law.Paragraph();
         paragraph3.name = "§ 3";
+        paragraph3.title = "Tredje";
         paragraph3.sections = new ArrayList<>();
         paragraph3.sections.add(new Law.Section("Kapittel 2, første ledd i § 3."));
         law.chapters.get(1).paragraphs = new ArrayList<>();
@@ -42,19 +45,19 @@ public class LawTest {
                         "\n" +
                         "Kapittel 1\n" +
                         "\n" +
-                        "§ 1\n" +
+                        "§ 1. Første\n" +
                         "\n" +
                         "Første ledd. Mye tekst.\n" +
                         "\n" +
                         "Andre ledd. Mye tekst.\n" +
                         "\n" +
-                        "§ 2\n" +
+                        "§ 2. Andre\n" +
                         "\n" +
                         "Første ledd. Mye tekst.\n" +
                         "\n" +
                         "Kapittel 2\n" +
                         "\n" +
-                        "§ 3\n" +
+                        "§ 3. Tredje\n" +
                         "\n" +
                         "Kapittel 2, første ledd i § 3.",
                 law.toString()
