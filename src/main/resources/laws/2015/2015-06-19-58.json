@@ -2,7 +2,7 @@
     "lawId": "LOV-2015-06-19-58",
     "lawName": "Lov om krav til kassasystem (kassasystemlova)",
     "shortName": "Kassasystemlova",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.120 LS (2014–2015), Innst.355 L (2014–2015), Lovvedtak 122 (2014–2015). Stortingets første og andre gongs behandling hv. 15. og 18. juni 2015. Fremja av Finansdepartementet.",
     "chapters": [
         {
             "paragraphs": [
@@ -17,13 +17,7 @@
                     "name": "§ 2",
                     "title": "Definisjonar",
                     "sections": [
-                        "I denne lova tyder",
-                        "a)kontantsal: sal av varer og tenester der kjøparen si betalingsplikt overfor seljar blir gjort opp ved levering, ved bruk av betalingskort eller kontantar som betalingsmiddel. Sal over internett eller ved oppkrav blir ikkje rekna som kontantsal,",
-                        "b)betalingskort: debetkort, kredittkort og faktureringskort,",
-                        "c)kontantar: andre betalingsmiddel enn betalingskort,",
-                        "d)kassasystem: kassaapparat eller anna elektronisk system for registrering av kontantsal og utskrift av salskvittering,",
-                        "e)leverandør av kassasystem: produsent eller importør som enten sjølv eller gjennom forhandlar sel eller tilbyr kassasystem mv. for sal, utleige eller utlån til bokføringspliktig som nemnt i § 1, og forhandlarar og andre som tilpassar kassasystem for dei bokføringspliktige,",
-                        "f)ID-nummeret til kassasystemet: ein unik identifikator for kassasystemet."
+                        "I denne lova tyder\na)\tkontantsal: sal av varer og tenester der kjøparen si betalingsplikt overfor seljar blir gjort opp ved levering, ved bruk av betalingskort eller kontantar som betalingsmiddel. Sal over internett eller ved oppkrav blir ikkje rekna som kontantsal,\nb)\tbetalingskort: debetkort, kredittkort og faktureringskort,\nc)\tkontantar: andre betalingsmiddel enn betalingskort,\nd)\tkassasystem: kassaapparat eller anna elektronisk system for registrering av kontantsal og utskrift av salskvittering,\ne)\tleverandør av kassasystem: produsent eller importør som enten sjølv eller gjennom forhandlar sel eller tilbyr kassasystem mv. for sal, utleige eller utlån til bokføringspliktig som nemnt i § 1, og forhandlarar og andre som tilpassar kassasystem for dei bokføringspliktige,\nf)\tID-nummeret til kassasystemet: ein unik identifikator for kassasystemet."
                     ]
                 },
                 {

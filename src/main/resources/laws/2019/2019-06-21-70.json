@@ -2,7 +2,7 @@
     "lawId": "LOV-2019-06-21-70",
     "lawName": "Lov om havner og farvann (havne- og farvannsloven)",
     "shortName": "Havne- og farvannsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.86 L (2018–2019) og Prop.108 L (2018–2019), Innst.301 L (2018–2019), Lovvedtak 65 (2018–2019). Stortingets første og andre gangs behandling hhv. 4. og 11. juni 2019. Fremmet av Samferdselsdepartementet.\nFølgende lover oppheves:\n1\tLov 17. april 2009 nr. 19 om havner og farvann (havne- og farvannsloven).\n2\tLov 15. august 2014 nr. 61 om losordningen.\nEndringer i følgende lover:\n1\tLov 13. juni 1997 nr. 42 om Kystvakten (kystvaktloven).\n2\tLov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova).\n3\tLov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven).\n4\tLov 20. april 2018 nr. 8 om grensetilsyn og grensekontroll av personer (grenseloven).",
     "chapters": [
         {
             "name": "Kapittel 1. Innledende bestemmelser",
@@ -30,16 +30,7 @@
                     "name": "§ 3",
                     "title": "Definisjoner",
                     "sections": [
-                        "I denne loven menes med",
-                        "a)eier: den registrerte og den reelle eier",
-                        "b)fartøy: enhver flytende innretning som er laget for å bevege seg gjennom vannet",
-                        "c)farvann: områder der fartøy kan ferdes",
-                        "d)havn: kai eller kaier med tilknyttede sjø- og landområder som er tilrettelagt for mottak og fortøyning av fartøy i næringsvirksomhet eller offentlig tjeneste, og andre områder som er tilknyttet disse",
-                        "e)havneanlegg: arealer, bygninger, innretninger og annen infrastruktur som brukes i havnevirksomhet, herunder kaier, terminalbygninger, laste-, losse- og omlastningsinnretninger og lager- og administrasjonsbygninger",
-                        "f)kommunens sjøområde: område hvor kommunen har planmyndighet etter plan- og bygningsloven med unntak av hoved- og biled",
-                        "g)los: person ansatt i lostjenesten med lossertifikat utstedt etter denne loven",
-                        "h)losing: veiledning ved los under navigering og manøvrering av fartøy",
-                        "i)reder: den som er utpekt som driftsansvarlig selskap i fartøyets sikkerhetsstyringssertifikat, og andre som står for sentrale funksjoner knyttet til driften av fartøyet."
+                        "I denne loven menes med\na)\teier: den registrerte og den reelle eier\nb)\tfartøy: enhver flytende innretning som er laget for å bevege seg gjennom vannet\nc)\tfarvann: områder der fartøy kan ferdes\nd)\thavn: kai eller kaier med tilknyttede sjø- og landområder som er tilrettelagt for mottak og fortøyning av fartøy i næringsvirksomhet eller offentlig tjeneste, og andre områder som er tilknyttet disse\ne)\thavneanlegg: arealer, bygninger, innretninger og annen infrastruktur som brukes i havnevirksomhet, herunder kaier, terminalbygninger, laste-, losse- og omlastningsinnretninger og lager- og administrasjonsbygninger\nf)\tkommunens sjøområde: område hvor kommunen har planmyndighet etter plan- og bygningsloven med unntak av hoved- og biled\ng)\tlos: person ansatt i lostjenesten med lossertifikat utstedt etter denne loven\nh)\tlosing: veiledning ved los under navigering og manøvrering av fartøy\ni)\treder: den som er utpekt som driftsansvarlig selskap i fartøyets sikkerhetsstyringssertifikat, og andre som står for sentrale funksjoner knyttet til driften av fartøyet."
                     ]
                 },
                 {
@@ -74,13 +65,7 @@
                     "name": "§ 7",
                     "title": "Regulering av ferdsel",
                     "sections": [
-                        "Departementet kan fatte enkeltvedtak eller gi forskrift om regulering av ferdsel i farvann, blant annet om",
-                        "a)fartsbegrensning",
-                        "b)farleder, seilingsleder, trafikkseparering og andre rutetiltak",
-                        "c)forbud mot eller vilkår for at fartøy eller grupper av fartøy bruker bestemte farleder eller farvann",
-                        "d)at fartøy eller grupper av fartøy skal bruke bestemte farleder eller farvann",
-                        "e)forbud mot dykking eller bruk av bemannet eller ubemannet undervannsfartøy",
-                        "f)stans, ankring og fortøyning."
+                        "Departementet kan fatte enkeltvedtak eller gi forskrift om regulering av ferdsel i farvann, blant annet om\na)\tfartsbegrensning\nb)\tfarleder, seilingsleder, trafikkseparering og andre rutetiltak\nc)\tforbud mot eller vilkår for at fartøy eller grupper av fartøy bruker bestemte farleder eller farvann\nd)\tat fartøy eller grupper av fartøy skal bruke bestemte farleder eller farvann\ne)\tforbud mot dykking eller bruk av bemannet eller ubemannet undervannsfartøy\nf)\tstans, ankring og fortøyning."
                     ]
                 },
                 {
@@ -96,12 +81,7 @@
                     "name": "§ 9",
                     "title": "Regulering av bruk av kommunens sjøområde",
                     "sections": [
-                        "Kommunen kan fatte enkeltvedtak eller gi forskrift av hensyn til sikker ferdsel i kommunens sjøområde om",
-                        "a)forbud mot oppankring og om bruk av fastsatte ankringsposisjoner for fartøy som skal anløpe havn",
-                        "b)bruk av taubåtassistanse eller fortøyningsassistanse for fartøy ved anløp til og avgang fra havn",
-                        "c)snøtømming i sjø",
-                        "d)dykking",
-                        "e)hvor sjøfly kan lande og starte.",
+                        "Kommunen kan fatte enkeltvedtak eller gi forskrift av hensyn til sikker ferdsel i kommunens sjøområde om\na)\tforbud mot oppankring og om bruk av fastsatte ankringsposisjoner for fartøy som skal anløpe havn\nb)\tbruk av taubåtassistanse eller fortøyningsassistanse for fartøy ved anløp til og avgang fra havn\nc)\tsnøtømming i sjø\nd)\tdykking\ne)\thvor sjøfly kan lande og starte.",
                         "Forskrifter gitt i medhold av første ledd bokstav a) skal godkjennes av departementet.",
                         "Forskrifter etter §§ 7 og 13 går foran forskrifter etter denne paragrafen."
                     ]
@@ -113,10 +93,7 @@
                         "Navigasjonsinnretninger og farvannsskilt skal ikke utsettes for handlinger som kan føre til at de ikke virker som de skal, blant annet ved fortøyning i eller fjerning, flytting, endring eller tildekking av navigasjonsinnretningen eller farvannsskiltet.",
                         "Departementet har ansvaret for navigasjonsinnretninger og farvannsskilt.",
                         "Navigasjonsinnretninger og farvannsskilt kan bare settes opp, fjernes, flyttes, endres eller tildekkes etter tillatelse fra departementet. Det kan fastsettes vilkår for slik tillatelse etter § 16.",
-                        "Departementet kan ved enkeltvedtak gi pålegg om",
-                        "a)etablering, drift og vedlikehold av navigasjonsinnretninger eller farvannsskilt",
-                        "b)fjerning, flytting eller endring av navigasjonsinnretninger eller farvannsskilt",
-                        "c)skjerming, endring eller fjerning av lys eller andre innretninger som kan påvirke navigasjon eller ferdsel.",
+                        "Departementet kan ved enkeltvedtak gi pålegg om\na)\tetablering, drift og vedlikehold av navigasjonsinnretninger eller farvannsskilt\nb)\tfjerning, flytting eller endring av navigasjonsinnretninger eller farvannsskilt\nc)\tskjerming, endring eller fjerning av lys eller andre innretninger som kan påvirke navigasjon eller ferdsel.",
                         "Pålegg etter fjerde ledd bokstav a kan rettes til eiere av eller ansvarlige for virksomhet, innretning eller anlegg som kan påvirke navigasjon eller ferdsel. Pålegg etter fjerde ledd bokstav b og c kan rettes til den som eier eller er ansvarlig for innretningen.",
                         "Departementet kan gi forskrift om tekniske krav til navigasjonsinnretninger og farvannsskilt og om hvordan de skal brukes, utformes og vedlikeholdes."
                     ]
@@ -153,16 +130,7 @@
                     "sections": [
                         "Tiltak som kan påvirke sikkerheten, ferdselen eller forsvars- og beredskapsinteresser i farvannet, kan ikke etableres uten tillatelse. Som tiltak regnes både innretninger, naturinngrep og aktiviteter. Det kan ikke gis tillatelse til tiltak som vil stride mot bestemmelser gitt i eller i medhold av denne loven.",
                         "Kommunen er tillatelsesmyndighet for tiltak som nevnt i første ledd som skal settes i verk i kommunens sjøområde. Departementet er tillatelsesmyndighet for tiltak som skal settes i verk i farvannet for øvrig. Det samme gjelder tiltak som skal settes i verk innenfor kommunens sjøområde, men som kan påvirke sikkerheten eller fremkommeligheten i hovedled eller biled.",
-                        "Uten hensyn til hvor tiltaket skal iverksettes, er departementet tillatelsesmyndighet for søknader som gjelder",
-                        "a)akvakulturanlegg og andre merdanlegg i sjø",
-                        "b)energianlegg i sjø",
-                        "c)rørledninger for olje og gass",
-                        "d)broer",
-                        "e)luftspenn",
-                        "f)innretninger, installasjoner og anlegg for petroleumsvirksomhet, herunder slep og oppankring av slike",
-                        "g)tiltak som krysser en kommunegrense, med mindre kommunene har inngått samarbeid som omfatter myndighetsutøvelse etter loven",
-                        "h)tiltak som kan skape vesentlige hindringer eller ulempe for den alminnelige ferdsel, herunder sprengning, større slep, omlasting fra skip til skip, seismiske undersøkelser og utprøving av utstyr",
-                        "i)tiltak som kan påvirke forsvars- og beredskapsinteresser i farvannet.",
+                        "Uten hensyn til hvor tiltaket skal iverksettes, er departementet tillatelsesmyndighet for søknader som gjelder\na)\takvakulturanlegg og andre merdanlegg i sjø\nb)\tenergianlegg i sjø\nc)\trørledninger for olje og gass\nd)\tbroer\ne)\tluftspenn\nf)\tinnretninger, installasjoner og anlegg for petroleumsvirksomhet, herunder slep og oppankring av slike\ng)\ttiltak som krysser en kommunegrense, med mindre kommunene har inngått samarbeid som omfatter myndighetsutøvelse etter loven\nh)\ttiltak som kan skape vesentlige hindringer eller ulempe for den alminnelige ferdsel, herunder sprengning, større slep, omlasting fra skip til skip, seismiske undersøkelser og utprøving av utstyr\ni)\ttiltak som kan påvirke forsvars- og beredskapsinteresser i farvannet.",
                         "Myndigheten etter denne loven og kommunen som plan- og bygningsmyndighet skal foreta en effektiv og samordnet behandling av søknader om tillatelse. Tillatelse til tiltak etter denne paragrafen kan ikke gis i strid med vedtatte arealplaner etter plan- og bygningsloven uten etter dispensasjon fra plan- og bygningsmyndigheten.",
                         "Dersom tiltaket krever tillatelse, skal myndigheten etter loven gi søkeren skriftlig melding innen fire uker etter at søknaden er mottatt. I meldingen skal det opplyses om forventet saksbehandlingstid.",
                         "Departementet kan gi forskrift om hvilke tiltak som omfattes av paragrafen. Slik forskrift kan inneholde bestemmelser om at visse typer tiltak er unntatt fra krav om tillatelse dersom tiltaket er meldt til myndigheten etter loven innen en fastsatt frist før tiltaket settes i verk. Departementet kan gi forskrift om krav til søknader."
@@ -179,14 +147,7 @@
                     "name": "§ 16",
                     "title": "Vilkår for og bortfall av tillatelse",
                     "sections": [
-                        "Tillatelse etter § 14 kan gis med vilkår om blant annet",
-                        "a)undersøkelser",
-                        "b)utførelse, utstyr og dimensjonering",
-                        "c)tidsbegrensning",
-                        "d)bruk",
-                        "e)vedlikehold",
-                        "f)miljøovervåkning",
-                        "g)fjerning og opprydning.",
+                        "Tillatelse etter § 14 kan gis med vilkår om blant annet\na)\tundersøkelser\nb)\tutførelse, utstyr og dimensjonering\nc)\ttidsbegrensning\nd)\tbruk\ne)\tvedlikehold\nf)\tmiljøovervåkning\ng)\tfjerning og opprydning.",
                         "Det kan settes som vilkår at den som får en tillatelse, skal dekke utgiftene til å oppfylle vilkår nevnt i første ledd.",
                         "Dersom tiltaket kan volde vesentlig ulempe for annen bruk av farvannet, kan det settes som vilkår at tiltakshaveren skal legge til rette for slik bruk et annet sted eller yte tilskudd til dette formålet. Det kan også settes som vilkår at tiltakshaveren uten hensyn til skyld skal erstatte skade på og tap av redskap og utstyr som benyttes i annen næringsvirksomhet i farvannet. Erstatningsansvaret kan lempes eller falle bort dersom tiltakshaveren sannsynliggjør at skaden skyldes grov uaktsomhet fra den skadelidte.",
                         "Tillatelse etter § 14 faller bort hvis arbeidet med et tiltak ikke er satt i gang senest tre år etter at tillatelsen ble gitt. Det samme gjelder hvis arbeidet med tiltaket blir innstilt i mer enn to år. Fristen kan forlenges én gang med opptil tre år."
@@ -239,11 +200,7 @@
                         "Lospliktige fartøy skal bruke los med sertifikat eller navigatør med farledsbevis for farvannet eller ha tillatelse til autonom kystseilas i farvannet. Hvis los med sertifikat for farvannet ikke kan tilvises, kan det tilvises en annen los som er kjent i farvannet.",
                         "Skipsfører og reder er ansvarlige for å oppfylle losplikten etter første ledd.",
                         "Dersom en skipsfører eller reder finner at det er nødvendig med veiledning fra andre enn fartøyets faste navigatører, skal det benyttes los. Dette gjelder ikke for fartøy under militær kommando.",
-                        "Departementet kan gi forskrift om",
-                        "a)hvor losplikten gjelder",
-                        "b)hvilke fartøy som er lospliktige",
-                        "c)hvilke fartøy som skal bruke los, hvilke som kan bruke navigatør med farledsbevis, og hvilke som kan seile med tillatelse til autonom kystseilas",
-                        "d)bestilling av los.",
+                        "Departementet kan gi forskrift om\na)\thvor losplikten gjelder\nb)\thvilke fartøy som er lospliktige\nc)\thvilke fartøy som skal bruke los, hvilke som kan bruke navigatør med farledsbevis, og hvilke som kan seile med tillatelse til autonom kystseilas\nd)\tbestilling av los.",
                         "Ved fastsettelse av losplikt skal det legges vekt på farvannets beskaffenhet og på om fartøyet på grunn av sin størrelse, last eller antall passasjerer kan utgjøre en risiko for tap av menneskeliv, skade på miljøet eller tap av verdier.",
                         "Departementet kan fastsette forskrifter om losplikt av hensyn til rikets sikkerhet."
                     ]
@@ -267,11 +224,7 @@
                         "Losen skal av sikkerhetshensyn ha minst tolv timers tjenestefrihet fra losing hvert døgn. Dette gjelder ikke for fartøy under militær kommando ved beredskap og i krig.",
                         "Ved anvendelse av skadeserstatningsloven § 2-1 regnes losen for å være i fartøyets tjeneste under losingen. Reglene i denne loven innebærer ellers ikke unntak fra gjeldende erstatningsregler. Losen plikter å erstatte skade som losen volder ved feil eller forsømmelse i tjenesten etter gjeldende erstatningsregler, jf. skadeserstatningsloven § 2-3.",
                         "Departementet kan gi forskrift med nærmere bestemmelser om losens plikter ved losing.",
-                        "Departementet kan gi forskrift om krav til losen. Forskriften kan blant annet inneholde bestemmelser om",
-                        "a)helsekrav til og legeundersøkelse av loser",
-                        "b)krav til utdanning og eksaminering av loser",
-                        "c)vilkår for å få, utvide og opprettholde lossertifikat, herunder krav til farvannskunnskap",
-                        "d)krav til lossertifikaters form, utstedelse og innhold."
+                        "Departementet kan gi forskrift om krav til losen. Forskriften kan blant annet inneholde bestemmelser om\na)\thelsekrav til og legeundersøkelse av loser\nb)\tkrav til utdanning og eksaminering av loser\nc)\tvilkår for å få, utvide og opprettholde lossertifikat, herunder krav til farvannskunnskap\nd)\tkrav til lossertifikaters form, utstedelse og innhold."
                     ]
                 },
                 {
@@ -290,11 +243,7 @@
                     "title": "Autonom kystseilas",
                     "sections": [
                         "Rederen kan etter søknad få tillatelse fra departementet til autonom kystseilas. Tillatelse til autonom kystseilas gir rett til å seile i angitte lospliktige farleder eller områder med angitte fartøy uten los.",
-                        "I tillatelsen kan det settes vilkår om blant annet",
-                        "a)undersøkelser og trinnvis uttesting",
-                        "b)krav til fartøyets navigasjons- og manøvreringssystem",
-                        "c)begrensninger for seilas",
-                        "d)krav til farvannskompetanse for personell tilknyttet uttesting og drift av autonom kystseilas og krav om at los skal konsulteres.",
+                        "I tillatelsen kan det settes vilkår om blant annet\na)\tundersøkelser og trinnvis uttesting\nb)\tkrav til fartøyets navigasjons- og manøvreringssystem\nc)\tbegrensninger for seilas\nd)\tkrav til farvannskompetanse for personell tilknyttet uttesting og drift av autonom kystseilas og krav om at los skal konsulteres.",
                         "Søknaden kan ikke innvilges hvis fartøyet ikke vil kunne navigere eller manøvrere sikkert i området, eller det vil kunne oppstå fare for tap av menneskeliv, skade på miljø eller tap av verdier.",
                         "Rederen skal iverksette alle tiltak som er nødvendige for å forebygge og hindre at seilasen forårsaker tap av menneskeliv, skade på miljø eller tap av verdier.",
                         "Departementet kan gi forskrift om tillatelse til autonom kystseilas. Forskriften kan inneholde bestemmelser om krav til søknaden, om funksjoner som skal være ivaretatt for at fartøyet skal kunne navigere og manøvrere sikkert, og om begrensninger for autonom kystseilas."
@@ -345,10 +294,7 @@
                     "title": "Sikring av havner og havneanlegg",
                     "sections": [
                         "Eiere og operatører av havner og havneanlegg skal gjøre de tiltak som er nødvendige for å forebygge terrorhandlinger og andre ulovlige handlinger rettet mot havnen, havneanlegg eller fartøy i havnen.",
-                        "Departementet kan i forskrift gi nærmere bestemmelser om sikring av havner og havneanlegg, herunder",
-                        "a)hvilke havner og havneanlegg som skal omfattes av første ledd",
-                        "b)hvilke tiltak som skal regnes som nødvendige for sikring av havner og havneanlegg",
-                        "c)krav om uttømmende og utvidet politiattest for personer som utfører oppgaver av betydning for sikring av havn og havneanlegg."
+                        "Departementet kan i forskrift gi nærmere bestemmelser om sikring av havner og havneanlegg, herunder\na)\thvilke havner og havneanlegg som skal omfattes av første ledd\nb)\thvilke tiltak som skal regnes som nødvendige for sikring av havner og havneanlegg\nc)\tkrav om uttømmende og utvidet politiattest for personer som utfører oppgaver av betydning for sikring av havn og havneanlegg."
                     ]
                 },
                 {
@@ -396,12 +342,7 @@
                     "title": "Losavgifter",
                     "sections": [
                         "Lospliktige fartøy skal betale losavgifter.",
-                        "Departementet kan gi forskrift om",
-                        "a)losberedskapsavgift og losingsavgift for fartøy som bruker los",
-                        "b)losberedskapsavgift for fartøy som bruker navigatør med farledsbevis eller har tillatelse til autonom kystseilas",
-                        "c)avgift for behandling av søknad om og utstedelse av farledsbevis og tillatelse til autonom kystseilas",
-                        "d)rabattordninger for avgiften",
-                        "e)avgiftens utforming."
+                        "Departementet kan gi forskrift om\na)\tlosberedskapsavgift og losingsavgift for fartøy som bruker los\nb)\tlosberedskapsavgift for fartøy som bruker navigatør med farledsbevis eller har tillatelse til autonom kystseilas\nc)\tavgift for behandling av søknad om og utstedelse av farledsbevis og tillatelse til autonom kystseilas\nd)\trabattordninger for avgiften\ne)\tavgiftens utforming."
                     ]
                 },
                 {
@@ -409,10 +350,7 @@
                     "title": "Farvannsavgift",
                     "sections": [
                         "Kommunen kan i forskrift bestemme at det skal betales farvannsavgift for fartøy som anløper havn og innretninger for drift av akvakulturanlegg i kommunens sjøområde. I forskriften kan det fastsette rabattordninger.",
-                        "Farvannsavgiften kan bare dekke kommunens kostnader til",
-                        "a)nødvendig isbryting og fjerning av gjenstander som hindrer sjøtransporten eller er til fare for ferdselen i kommunens sjøområde, jf. § 6",
-                        "b)utøvelse av offentlig myndighet med hjemmel i denne loven med forskrifter",
-                        "c)farvannsskilt og navigasjonsinnretninger som kommunen eier.",
+                        "Farvannsavgiften kan bare dekke kommunens kostnader til\na)\tnødvendig isbryting og fjerning av gjenstander som hindrer sjøtransporten eller er til fare for ferdselen i kommunens sjøområde, jf. § 6\nb)\tutøvelse av offentlig myndighet med hjemmel i denne loven med forskrifter\nc)\tfarvannsskilt og navigasjonsinnretninger som kommunen eier.",
                         "Departementet kan gi forskrift om kommunens administrasjon av farvannsavgiften. Departementet kan i forskrift også oppstille andre rammer for det nærmere innholdet i forskrifter som gis i medhold av første ledd.",
                         "Departementet kan gi forskrift om at eiere eller operatører av havner eller havneterminaler som er organisert som eget rettssubjekt, skal kreve inn farvannsavgift på vegne av kommunen mot dekning av kostnadene ved innkrevingen."
                     ]
@@ -517,12 +455,7 @@
                     "name": "§ 46",
                     "title": "Endring og tilbakekall av tillatelse",
                     "sections": [
-                        "Myndigheten etter loven kan oppheve eller endre vilkårene i tillatelse som er gitt i eller i medhold av denne loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersom",
-                        "a)det viser seg at sikkerheten eller fremkommeligheten blir vesentlig dårligere enn det som var ventet da tillatelsen ble gitt",
-                        "b)skaden eller ulempen ved tillatelsen kan reduseres uten nevneverdig kostnad for innehaveren av tillatelsen",
-                        "c)det har funnet sted grove eller gjentatte overtredelser av denne loven eller forskrift eller enkeltvedtak gitt i medhold av loven",
-                        "d)innehaveren av tillatelsen ikke etterkommer pålegg etter § 42, eller",
-                        "e)det følger av andre regler om adgang til omgjøring.",
+                        "Myndigheten etter loven kan oppheve eller endre vilkårene i tillatelse som er gitt i eller i medhold av denne loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersom\na)\tdet viser seg at sikkerheten eller fremkommeligheten blir vesentlig dårligere enn det som var ventet da tillatelsen ble gitt\nb)\tskaden eller ulempen ved tillatelsen kan reduseres uten nevneverdig kostnad for innehaveren av tillatelsen\nc)\tdet har funnet sted grove eller gjentatte overtredelser av denne loven eller forskrift eller enkeltvedtak gitt i medhold av loven\nd)\tinnehaveren av tillatelsen ikke etterkommer pålegg etter § 42, eller\ne)\tdet følger av andre regler om adgang til omgjøring.",
                         "Endring og tilbakekall av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbakekall kan gjøres betinget av at bestemte forhold utbedres eller endres.",
                         "Ved avgjørelser etter denne paragrafen skal det tas hensyn til det økonomiske tapet og de ulempene som en endring eller et tilbakekall kan påføre innehaveren av tillatelsen, og de fordelene og ulempene som endringen eller tilbakekallet kan medføre ellers.",
                         "Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbakekall av tillatelser etter denne loven."
@@ -532,10 +465,7 @@
                     "name": "§ 47",
                     "title": "Tap av retten til farledsbevis",
                     "sections": [
-                        "Innehaveren av farledsbevis eller kadettfarledsbevis kan tape retten til farledsbeviset dersom vedkommende",
-                        "a)overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs",
-                        "b)bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset, eller",
-                        "c)viser seg å være åpenbart uskikket til å ha farledsbeviset eller kadettfarledsbeviset.",
+                        "Innehaveren av farledsbevis eller kadettfarledsbevis kan tape retten til farledsbeviset dersom vedkommende\na)\tovertrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs\nb)\tbryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset, eller\nc)\tviser seg å være åpenbart uskikket til å ha farledsbeviset eller kadettfarledsbeviset.",
                         "Tilsynsmyndigheten kan fatte vedtak om rettighetstap for opptil to år. Rettighetstapet kan gjøres betinget eller innebære begrensninger i farledsbeviset. Rettighetstap ut over to år avgjøres ved dom.",
                         "Departementet kan gi forskrift med nærmere bestemmelser om tap av retten til farledsbevis eller kadettfarledsbevis."
                     ]
@@ -544,10 +474,7 @@
                     "name": "§ 48",
                     "title": "Endring og tilbakekall av tillatelse til autonom kystseilas",
                     "sections": [
-                        "Myndigheten etter loven kan oppheve eller endre vilkårene i tillatelse til autonom kystseilas eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersom",
-                        "a)det viser seg at sikkerheten eller fremkommeligheten blir vesentlig dårligere enn det som var ventet da tillatelsen ble gitt",
-                        "b)forutsetningene for tillatelsen ikke lenger er til stede, eller",
-                        "c)det har funnet sted brudd på vilkår for tillatelsen eller overtredelse av bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs.",
+                        "Myndigheten etter loven kan oppheve eller endre vilkårene i tillatelse til autonom kystseilas eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersom\na)\tdet viser seg at sikkerheten eller fremkommeligheten blir vesentlig dårligere enn det som var ventet da tillatelsen ble gitt\nb)\tforutsetningene for tillatelsen ikke lenger er til stede, eller\nc)\tdet har funnet sted brudd på vilkår for tillatelsen eller overtredelse av bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs.",
                         "Endring og tilbakekall av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbakekall kan gjøres betinget av at bestemte forhold utbedres eller endres.",
                         "Ved avgjørelser etter paragrafen her skal det tas hensyn til det økonomiske tapet og de ulempene som en endring eller et tilbakekall kan påføre innehaveren av tillatelsen, og de fordelene og ulempene som endringen eller tilbakekallet kan medføre ellers.",
                         "Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbakekall av tillatelse til autonom kystseilas."
@@ -557,9 +484,7 @@
                     "name": "§ 49",
                     "title": "Adgang til å nekte et fartøy losing",
                     "sections": [
-                        "Departementet kan fatte enkeltvedtak om ikke å tilvise los eller om å avbryte losing, dersom seilasen",
-                        "a)medfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller",
-                        "b)utgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier.",
+                        "Departementet kan fatte enkeltvedtak om ikke å tilvise los eller om å avbryte losing, dersom seilasen\na)\tmedfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller\nb)\tutgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier.",
                         "Departementet skal umiddelbart underrette fartøyet om hvorfor det nektes losing etter første ledd.",
                         "Departementet kan gi forskrift om i hvilke tilfeller det kan fattes vedtak etter første ledd, og hvordan slike saker skal behandles."
                     ]
@@ -568,10 +493,7 @@
                     "name": "§ 50",
                     "title": "Overtredelsesgebyr",
                     "sections": [
-                        "Departementet kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer",
-                        "a)enkeltvedtak eller forskrift gitt i medhold av § 7, § 8 første ledd, § 9 første ledd, § 28 andre ledd, § 38 tredje ledd og § 39 andre ledd",
-                        "b)pålegg gitt i medhold av § 17 tredje ledd og § 20 første og andre ledd og § 38 andre ledd",
-                        "c)§ 10 første og tredje ledd, § 11, § 13 første ledd første punktum, § 14 første ledd første punktum, § 17 første og andre ledd, §§ 21, 22, 23, 24 og 30 og § 38 første ledd.",
+                        "Departementet kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer\na)\tenkeltvedtak eller forskrift gitt i medhold av § 7, § 8 første ledd, § 9 første ledd, § 28 andre ledd, § 38 tredje ledd og § 39 andre ledd\nb)\tpålegg gitt i medhold av § 17 tredje ledd og § 20 første og andre ledd og § 38 andre ledd\nc)\t§ 10 første og tredje ledd, § 11, § 13 første ledd første punktum, § 14 første ledd første punktum, § 17 første og andre ledd, §§ 21, 22, 23, 24 og 30 og § 38 første ledd.",
                         "I forskrifter som fastsettes i medhold av denne loven, kan departementet bestemme at den som forsettlig eller uaktsomt overtrer forskriften, kan ilegges overtredelsesgebyr.",
                         "Selv om ingen enkeltperson har utvist skyld, kan et foretak ilegges overtredelsesgebyr hvis det har overtrådt handlingsnormene i første eller andre ledd.",
                         "Overtredelsesgebyr utmåles i det enkelte tilfellet innenfor en øvre ramme som fastsettes av departementet i forskrift. For øvrig gjelder forvaltningsloven §§ 44 og 46."
@@ -611,25 +533,9 @@
                     "name": "§ 54",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid som loven settes i kraft, gjøres følgende endringer i andre lover:",
-                        "1. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 12 første ledd lyde:",
-                        "Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt",
-                        "a)lov 14. juni 1884 nr. 3 om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet",
-                        "b)lov 21. juni 1963 nr. 12 om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster",
-                        "c)sjøloven kapittel 6 A. Politiets kompetanse etter sjøloven § 145 og regler gitt i medhold av den, gjelder tilsvarende for Kystvakten",
-                        "d)lov 29. november 1996 nr. 72 om petroleumsvirksomhet",
-                        "e)småbåtloven kapittel 3",
-                        "f)skipssikkerhetsloven, med unntak av kapittel 5",
-                        "g)utlendingsloven",
-                        "h)grenseloven, og",
-                        "i)havne- og farvannsloven.",
-                        "2. I lov 17. juni 2005 nr. 79 om akvakultur skal § 6 første ledd bokstav d tredje strekpunkt lyde:",
-                        "havne- og farvannsloven, og",
-                        "3. I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy gjøres følgende endringer:",
-                        "§ 7 andre ledd bokstav b oppheves.",
-                        "Nåværende bokstav c blir bokstav b.",
-                        "4. I lov 20. april 2018 nr. 8 om grensetilsyn og grensekontroll av personer skal § 28 andre ledd nr. 2 lyde:",
-                        "2. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 3 andre ledd andre punktum lyde:",
+                        "Fra den tid som loven settes i kraft, gjøres følgende endringer i andre lover:\n1. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 12 første ledd lyde:",
+                        "Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt\na)\tlov 14. juni 1884 nr. 3 om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet\nb)\tlov 21. juni 1963 nr. 12 om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster\nc)\tsjøloven kapittel 6 A. Politiets kompetanse etter sjøloven § 145 og regler gitt i medhold av den, gjelder tilsvarende for Kystvakten\nd)\tlov 29. november 1996 nr. 72 om petroleumsvirksomhet\ne)\tsmåbåtloven kapittel 3\nf)\tskipssikkerhetsloven, med unntak av kapittel 5\ng)\tutlendingsloven\nh)\tgrenseloven, og\ni)\thavne- og farvannsloven.\n2. I lov 17. juni 2005 nr. 79 om akvakultur skal § 6 første ledd bokstav d tredje strekpunkt lyde:",
+                        "havne- og farvannsloven, og\n3. I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy gjøres følgende endringer:\n§ 7 andre ledd bokstav b oppheves.\nNåværende bokstav c blir bokstav b.\n4. I lov 20. april 2018 nr. 8 om grensetilsyn og grensekontroll av personer skal § 28 andre ledd nr. 2 lyde:\n2. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 3 andre ledd andre punktum lyde:",
                         "Kontroll kan likevel ikke skje på land, med mindre dette fremstår som åpenbart nødvendig, eller kontrollen gjelder overholdelse av grenseloven for personer som har gått eller skal gå ombord i eller i land fra fartøy."
                     ]
                 }

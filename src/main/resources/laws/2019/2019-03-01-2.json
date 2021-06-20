@@ -2,7 +2,7 @@
     "lawId": "LOV-2019-03-01-2",
     "lawName": "Lov om register over reelle rettighetshavere",
     "shortName": "Lov om register over reelle rettighetshavere",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.109 L (2017–2018), Innst.143 L (2018–2019), Lovvedtak 38 (2018–2019). Stortingets første og andre gangs behandling hhv. 7. og 12. februar 2019. Fremmet av Finansdepartementet.",
     "chapters": [
         {
             "name": "Kapittel 1. Innledende bestemmelser",
@@ -41,12 +41,7 @@
                     "title": "Innhenting av opplysninger om reelle rettighetshavere",
                     "sections": [
                         "(1) Registreringspliktige skal identifisere den juridiske personens, enhetens eller sammenslutningens eller det utenlandske juridiske arrangementets reelle rettighetshavere. Ved identifiseringen gjelder kriteriene i hvitvaskingsloven § 14.",
-                        "(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:",
-                        "a)navn",
-                        "b)fødselsnummer eller D-nummer",
-                        "c)bostedsland",
-                        "d)statsborgerskap",
-                        "Dersom en reell rettighetshaver ikke har fødselsnummer eller D-nummer, skal det i stedet innhentes opplysninger om fødselsdato.",
+                        "(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:\na)\tnavn\nb)\tfødselsnummer eller D-nummer\nc)\tbostedsland\nd)\tstatsborgerskap\nDersom en reell rettighetshaver ikke har fødselsnummer eller D-nummer, skal det i stedet innhentes opplysninger om fødselsdato.",
                         "(3) Den registreringspliktige skal dokumentere grunnlaget for identifiseringen av hvem som er reelle rettighetshavere. Dersom den registreringspliktige mener det ikke er noen reell rettighetshaver i en juridisk person eller et utenlandsk juridisk arrangement, skal vurderingen begrunnes og dokumenteres. Dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan identifisere disse, skal vurderingen begrunnes og dokumenteres.",
                         "(4) Registreringspliktige skal ved endringer i relevante forhold identifisere nye reelle rettighetshavere og for øvrig oppdatere innhentede opplysninger om reelle rettighetshavere.",
                         "(5) Departementet kan i forskrift gi nærmere regler om innhenting av opplysninger om reelle rettighetshavere, herunder fastsette unntak."

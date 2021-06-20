@@ -2,7 +2,7 @@
     "lawId": "LOV-2015-12-04-95",
     "lawName": "Lov om fastsettelse av referanserenter",
     "shortName": "Referanserenteloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.142 L (2014–2015), Innst.30 L (2015–2016), Lovvedtak 3 (2015–2016). Stortingets første og andre gangs behandling hhv. 12. og 17. november 2015. Fremmet av Finansdepartementet.",
     "chapters": [
         {
             "paragraphs": [
@@ -18,10 +18,7 @@
                     "name": "§ 2",
                     "title": "Definisjoner",
                     "sections": [
-                        "(1) Med allment brukte referanserenter menes enhver rente som",
-                        "a)fastsettes jevnlig på grunnlag av markedspriser eller anslag på priser fremskaffet av finansforetak,",
-                        "b)gjøres offentlig tilgjengelig, og",
-                        "c)brukes for å bestemme betalinger i eller verdien av finansielle instrumenter eller finansielle avtaler.",
+                        "(1) Med allment brukte referanserenter menes enhver rente som\na)\tfastsettes jevnlig på grunnlag av markedspriser eller anslag på priser fremskaffet av finansforetak,\nb)\tgjøres offentlig tilgjengelig, og\nc)\tbrukes for å bestemme betalinger i eller verdien av finansielle instrumenter eller finansielle avtaler.",
                         "(2) Med administrator av fastsettelse av allment brukte referanserenter menes den som forestår fastsettelse av en allment brukt referanserente."
                     ]
                 },
@@ -36,11 +33,7 @@
                     "name": "§ 4",
                     "title": "Forskriftshjemler",
                     "sections": [
-                        "Departementet kan i forskrift fastsette unntak fra loven og nærmere regler om virksomhet som er regulert i loven, herunder om:",
-                        "a)hvilke renter som skal anses som allment brukte referanserenter etter § 2 første ledd,",
-                        "b)krav til organisering og interne rutiner for styring, overvåking, kontroll, dokumentasjon og klageprosess hos administratoren,",
-                        "c)krav til administratorens innhenting og bruk av grunnlagsdata og beregning, fastsettelse og offentliggjøring av referanserenter,",
-                        "d)krav til organisering og interne rutiner for styring, overvåking, kontroll og dokumentasjon av bidrag til fastsettelse av referanserenter fra foretak under tilsyn fra Finanstilsynet."
+                        "Departementet kan i forskrift fastsette unntak fra loven og nærmere regler om virksomhet som er regulert i loven, herunder om:\na)\thvilke renter som skal anses som allment brukte referanserenter etter § 2 første ledd,\nb)\tkrav til organisering og interne rutiner for styring, overvåking, kontroll, dokumentasjon og klageprosess hos administratoren,\nc)\tkrav til administratorens innhenting og bruk av grunnlagsdata og beregning, fastsettelse og offentliggjøring av referanserenter,\nd)\tkrav til organisering og interne rutiner for styring, overvåking, kontroll og dokumentasjon av bidrag til fastsettelse av referanserenter fra foretak under tilsyn fra Finanstilsynet."
                     ]
                 },
                 {

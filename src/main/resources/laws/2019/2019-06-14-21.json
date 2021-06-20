@@ -2,7 +2,7 @@
     "lawId": "LOV-2019-06-14-21",
     "lawName": "Lov om arv og dødsboskifte (arveloven)",
     "shortName": "Arveloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.107 L (2017–2018), Innst.252 L (2018–2019), Lovvedtak 55 (2018–2019). Stortingets første og andre gangs behandling hhv. 9. og 14. mai 2019. Fremmet av Justis- og beredskapsdepartementet.\nFølgende lover oppheves:\n1\tLov 21. februar 1930 om skifte.\n2\tLov 3. mars 1972 nr. 5 om arv m.m.\nEndringer i følgende lover:\n1\tLov 28. juni 1974 nr. 58 om odelsretten og åsetesretten (odelslova).\n2\tLov 17. desember 1982 nr. 86 om rettsgebyr (rettsgebyrloven).\n3\tLov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett (dekningsloven).\n4\tLov 4. juli 1991 nr. 45 om rett til felles bolig og innbo når husstandsfellesskap opphører.\n5\tLov 4. juli 1991 nr. 47 om ekteskap.\n6\tLov 26. juni 1992 nr. 86 om tvangsfullbyrdelse (tvangsfullbyrdelsesloven).\n7\tLov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd (gravferdsloven).\n8\tLov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).\n9\tLov 26. mars 2010 nr. 9 om vergemål (vergemålsloven).\n10\tLov 12. mai 2015 nr. 27 om forsvunne personar.\n11\tLov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven).",
     "chapters": [
         {
             "name": "Første del. Innledende bestemmelser",
@@ -301,10 +301,7 @@
                     "name": "§ 32",
                     "title": "Retten til uskifte",
                     "sections": [
-                        "Den som var samboer med arvelateren ved dødsfallet og har, har hatt eller venter barn med arvelateren, har overfor arvelaterens andre arvinger etter loven rett til å overta følgende av arvelaterens eiendeler uskiftet:",
-                        "a)felles bolig og innbo",
-                        "b)bil og fritidsbolig med innbo som tjente til felles bruk for samboerne.",
-                        "Samboeren kan på samme måte overta også andre eiendeler uskiftet hvis det er fastsatt i testament eller arvingene samtykker. § 14 annet og tredje ledd gjelder tilsvarende.",
+                        "Den som var samboer med arvelateren ved dødsfallet og har, har hatt eller venter barn med arvelateren, har overfor arvelaterens andre arvinger etter loven rett til å overta følgende av arvelaterens eiendeler uskiftet:\na)\tfelles bolig og innbo\nb)\tbil og fritidsbolig med innbo som tjente til felles bruk for samboerne.\nSamboeren kan på samme måte overta også andre eiendeler uskiftet hvis det er fastsatt i testament eller arvingene samtykker. § 14 annet og tredje ledd gjelder tilsvarende.",
                         "Samboeren har rett til uskifte med arvelaterens særskilte livsarving bare hvis denne arvingen samtykker. § 15 gjelder tilsvarende.",
                         "Hvis arvelateren eller den lengstlevende samboeren sitter i uskifte fra før av når arvelateren dør, må det første uskifteboet skiftes før det kan etableres uskifte etter arvelateren.",
                         "§ 14 sjette ledd og §§ 16 og 18 gjelder tilsvarende."
@@ -413,11 +410,7 @@
                     "name": "§ 44",
                     "title": "Ugyldighet ved testasjon til fordel for testamentsvitne mv.",
                     "sections": [
-                        "En disposisjon i testamentet til fordel for et av testamentsvitnene er ugyldig. Det samme gjelder en disposisjon til fordel for følgende personer som står vitnet nær:",
-                        "a)ektefellen eller samboeren",
-                        "b)ektefellens eller samboerens barn",
-                        "c)slektning i rett opp- eller nedstigende linje eller søsken",
-                        "d)ektefellen eller samboeren til slektning i rett opp- eller nedstigende linje.",
+                        "En disposisjon i testamentet til fordel for et av testamentsvitnene er ugyldig. Det samme gjelder en disposisjon til fordel for følgende personer som står vitnet nær:\na)\tektefellen eller samboeren\nb)\tektefellens eller samboerens barn\nc)\tslektning i rett opp- eller nedstigende linje eller søsken\nd)\tektefellen eller samboeren til slektning i rett opp- eller nedstigende linje.",
                         "En disposisjon i testamentet til fordel for noen som vitnet er ansatt hos på testasjonstiden, er ugyldig. Som ansettelse regnes også funksjon som styremedlem og liknende i selskap, forening, stiftelse eller offentlig institusjon. Disposisjonen er likevel gyldig når tilknytningen trolig ikke har hatt betydning for innholdet i testamentet.",
                         "En person kan være testamentsvitne selv om han eller hun er innsatt som testamentsfullbyrder, jf. § 99."
                     ]
@@ -548,12 +541,7 @@
                     "name": "§ 58",
                     "title": "Supplerende tolkningsregler",
                     "sections": [
-                        "Når det ikke er grunn til å tro at testator mente noe annet, skal disse reglene gjelde:",
-                        "a)Strekker ikke arven til, skal den som etter testamentet skal arve en bestemt ting, gå foran den som skal arve en pengesum.",
-                        "b)Om en testamentsarving dør før testator eller av andre grunner ikke kan ta imot arven, trer testamentsarvingens livsarvinger i testamentsarvingens sted.",
-                        "c)Har noen innsatt sin ektefelle eller samboer som testamentsarving, og samlivet tok slutt før testator døde, faller testasjonen bort.",
-                        "d)Den som etter testamentet skal arve en bestemt ting, kan ikke kreve vederlag for heftelser som hviler på tingen. Arvingen kan heller ikke kreve penger hvis tingen ikke finnes i boet.",
-                        "e)Er det mer enn ett testament etter testator, gjelder alle, hvis ikke et yngre testament tilbakekaller eller står i strid med noe som er bestemt før. Hvis boet ikke strekker til, skal nyere disposisjoner gå foran eldre."
+                        "Når det ikke er grunn til å tro at testator mente noe annet, skal disse reglene gjelde:\na)\tStrekker ikke arven til, skal den som etter testamentet skal arve en bestemt ting, gå foran den som skal arve en pengesum.\nb)\tOm en testamentsarving dør før testator eller av andre grunner ikke kan ta imot arven, trer testamentsarvingens livsarvinger i testamentsarvingens sted.\nc)\tHar noen innsatt sin ektefelle eller samboer som testamentsarving, og samlivet tok slutt før testator døde, faller testasjonen bort.\nd)\tDen som etter testamentet skal arve en bestemt ting, kan ikke kreve vederlag for heftelser som hviler på tingen. Arvingen kan heller ikke kreve penger hvis tingen ikke finnes i boet.\ne)\tEr det mer enn ett testament etter testator, gjelder alle, hvis ikke et yngre testament tilbakekaller eller står i strid med noe som er bestemt før. Hvis boet ikke strekker til, skal nyere disposisjoner gå foran eldre."
                     ]
                 },
                 {
@@ -580,19 +568,14 @@
                     "title": "Tilbakekall og endring av felles testament og gjensidig testament",
                     "sections": [
                         "Et tilbakekall eller en endring av et felles testament eller gjensidig testament er gyldig bare hvis den andre testatoren har fått kunnskap om tilbakekallet eller endringen før arvelaterens død. Tilbakekallet eller endringen er likevel gyldig hvis det var umulig eller urimelig vanskelig å varsle den andre testatoren, eller hvis denne som følge av tilbakekallet eller endringen får minst like god rett til arv som det som fulgte av testamentet.",
-                        "Hvis et felles testament eller gjensidig testament sier noe om fordelingen av arven når begge testatorene er døde, gjelder følgende regler for den lengstlevendes adgang til å endre testamentet når han eller hun har overtatt arven etter testamentet:",
-                        "a)Den lengstlevende testatoren kan endre bare det som er bestemt om arv til den lengstlevendes egne arvinger etter loven eller til noen som er, eller må antas å være, innsatt som arving etter særskilt ønske fra den lengstlevende. Første punktum gjelder ikke hvis det er grunn til å tro at testatorene har ment å gi den lengstlevende en snevrere eller videre adgang til å endre testamentet.",
-                        "b)Hvis den lengstlevende uten testamentet ville ha arvet alt etter den førstavdøde etter reglene i § 9 annet ledd, kan den lengstlevende endre testamentet hvis ikke noe annet klart fremgår av testamentet."
+                        "Hvis et felles testament eller gjensidig testament sier noe om fordelingen av arven når begge testatorene er døde, gjelder følgende regler for den lengstlevendes adgang til å endre testamentet når han eller hun har overtatt arven etter testamentet:\na)\tDen lengstlevende testatoren kan endre bare det som er bestemt om arv til den lengstlevendes egne arvinger etter loven eller til noen som er, eller må antas å være, innsatt som arving etter særskilt ønske fra den lengstlevende. Første punktum gjelder ikke hvis det er grunn til å tro at testatorene har ment å gi den lengstlevende en snevrere eller videre adgang til å endre testamentet.\nb)\tHvis den lengstlevende uten testamentet ville ha arvet alt etter den førstavdøde etter reglene i § 9 annet ledd, kan den lengstlevende endre testamentet hvis ikke noe annet klart fremgår av testamentet."
                     ]
                 },
                 {
                     "name": "§ 62",
                     "title": "Supplerende tolkningsregler for felles testament og gjensidig testament",
                     "sections": [
-                        "Har den lengstlevende testatoren overtatt arven etter et felles testament eller gjensidig testament, gjelder følgende regler hvis testatorene ikke etterlater seg livsarvinger, og det ikke er grunn til å tro at testatorene mente noe annet da testamentet ble opprettet:",
-                        "a)Den lengstlevende testatoren rår i levende live som en eier over hele formuen selv om testamentet gir den førstavdødes arvinger arverett. Den lengstlevende kan når som helst gi én eller flere av arvingene fullt eller delvis arveoppgjør.",
-                        "b)Hvis testamentet bestemmer noe om arverett for den førstavdødes arvinger, men ikke om den nærmere fordelingen mellom den førstavdødes arvinger og den lengstlevendes arvinger, skal på skiftet etter at den lengstlevende er død, den ene halvparten av den samlede formuen gå til den førstavdødes arvinger og den andre halvparten gå til den lengstlevendes arvinger.",
-                        "c)Hvis testamentet ikke bestemmer noe om arvefordelingen etter den lengstlevendes død, rår han eller hun som en eier over hele formuen også ved testament. Har den lengstlevende ikke bestemt annet ved testament, går halvparten av den samlede formuen til den førstavdødes arvinger etter §§ 5 og 6, med mindre den lengstlevende på dødsfallstidspunktet er gift på nytt eller har samboer med arverett etter loven."
+                        "Har den lengstlevende testatoren overtatt arven etter et felles testament eller gjensidig testament, gjelder følgende regler hvis testatorene ikke etterlater seg livsarvinger, og det ikke er grunn til å tro at testatorene mente noe annet da testamentet ble opprettet:\na)\tDen lengstlevende testatoren rår i levende live som en eier over hele formuen selv om testamentet gir den førstavdødes arvinger arverett. Den lengstlevende kan når som helst gi én eller flere av arvingene fullt eller delvis arveoppgjør.\nb)\tHvis testamentet bestemmer noe om arverett for den førstavdødes arvinger, men ikke om den nærmere fordelingen mellom den førstavdødes arvinger og den lengstlevendes arvinger, skal på skiftet etter at den lengstlevende er død, den ene halvparten av den samlede formuen gå til den førstavdødes arvinger og den andre halvparten gå til den lengstlevendes arvinger.\nc)\tHvis testamentet ikke bestemmer noe om arvefordelingen etter den lengstlevendes død, rår han eller hun som en eier over hele formuen også ved testament. Har den lengstlevende ikke bestemt annet ved testament, går halvparten av den samlede formuen til den førstavdødes arvinger etter §§ 5 og 6, med mindre den lengstlevende på dødsfallstidspunktet er gift på nytt eller har samboer med arverett etter loven."
                     ]
                 }
             ]
@@ -607,9 +590,7 @@
                         "Testator kan levere testamentet, i original, til oppbevaring og registrering hos enhver tingrett. Testator skal ved innleveringen oppgi navn og fødselsnummer. Testamentet kan leveres i lukket omslag, og testator kan kreve at det oppbevares slik. Testator kan få testamentet tilbake ved å møte opp personlig ved enhver tingrett. Testamentet kan også tilbakeleveres på annen betryggende måte hvis det ikke er tvil om at tilbakeleveringen skjer i samsvar med testators vilje.",
                         "Retten skal ikke gi opplysninger til andre enn testator om at den har et testament til oppbevaring. Er testator under vergemål, har fylkesmannen likevel rett til å få opplyst at tingretten har et testament til oppbevaring, men det kan ikke gis opplysninger om innholdet. Fylkesmannen kan informere vergen om at det foreligger et testament hvis dette kan ha betydning for vergens utførelse av vergeoppdraget.",
                         "Oppbevaring og registrering som nevnt i første ledd har ikke betydning for testamentets gyldighet. Hvis testator tilbakekaller eller endrer et testament som er innlevert til oppbevaring, bør tingretten få melding om dette.",
-                        "Retten skal sørge for at et testament som er levert til oppbevaring, legges frem når testator er død. Hvis noen uten egen skyld lider tap fordi et testament som er levert til oppbevaring, ikke blir fremlagt, kan vedkommende kreve erstatning fra staten. Erstatning kan bare gis:",
-                        "a)hvis det er gjort feil i registreringen, slik at testamentet ikke blir funnet, eller",
-                        "b)hvis retten unnlater å legge frem et testament enda den vet eller burde vite at testator er død, og at testamentet er innlevert for oppbevaring.",
+                        "Retten skal sørge for at et testament som er levert til oppbevaring, legges frem når testator er død. Hvis noen uten egen skyld lider tap fordi et testament som er levert til oppbevaring, ikke blir fremlagt, kan vedkommende kreve erstatning fra staten. Erstatning kan bare gis:\na)\thvis det er gjort feil i registreringen, slik at testamentet ikke blir funnet, eller\nb)\thvis retten unnlater å legge frem et testament enda den vet eller burde vite at testator er død, og at testamentet er innlevert for oppbevaring.",
                         "Departementet kan i forskrift gi nærmere regler om innlevering, registrering, oppbevaring, utlevering og fremleggelse av testamenter og kan i forskriften gjøre unntak fra reglene i denne paragrafen."
                     ]
                 },
@@ -723,11 +704,7 @@
                     "title": "Avkorting i arv",
                     "sections": [
                         "Har en livsarving mottatt en ytelse av økonomisk verdi fra arvelateren, skal ytelsen avkortes i livsarvingens arv hvis dette var satt som en betingelse for ytelsen. En betingelse om avkorting bør være skriftlig og gjort kjent for de andre livsarvingene.",
-                        "Hvis ikke noe annet er satt som betingelse for ytelsen, skal følgende gjelde for avkortingen:",
-                        "a)Avkortingsbeløpet settes til verdien av ytelsen da den ble mottatt.",
-                        "b)Hvis avkortingsbeløpet er større enn livsarvingens rett til arv, plikter ikke arvingen å tilbakeføre noe til dødsboet.",
-                        "c)Hvis livsarvingen som har mottatt ytelsen, dør før arvelateren, skal avkortingen gjøres i arven til livsarvingens livsarvinger.",
-                        "d)Avkortingsbeløpet får betydning bare for fordelingen mellom livsarvingene og deres linjer og ikke for beregningen av ektefellens andel av felleseiet eller ektefellens eller samboerens arv, eller for hva arvelateren kan rå over ved testament."
+                        "Hvis ikke noe annet er satt som betingelse for ytelsen, skal følgende gjelde for avkortingen:\na)\tAvkortingsbeløpet settes til verdien av ytelsen da den ble mottatt.\nb)\tHvis avkortingsbeløpet er større enn livsarvingens rett til arv, plikter ikke arvingen å tilbakeføre noe til dødsboet.\nc)\tHvis livsarvingen som har mottatt ytelsen, dør før arvelateren, skal avkortingen gjøres i arven til livsarvingens livsarvinger.\nd)\tAvkortingsbeløpet får betydning bare for fordelingen mellom livsarvingene og deres linjer og ikke for beregningen av ektefellens andel av felleseiet eller ektefellens eller samboerens arv, eller for hva arvelateren kan rå over ved testament."
                     ]
                 }
             ]
@@ -776,11 +753,7 @@
                     "name": "§ 80",
                     "title": "Formkrav for testamenter",
                     "sections": [
-                        "Selv om et testament ikke oppfyller formkravene i kapittel 7, er det likevel formgyldig hvis det oppfyller formkravene",
-                        "a)på det stedet der testamentet ble opprettet",
-                        "b)i en stat der testatoren var statsborger enten ved dødsfallet eller da testamentet ble opprettet",
-                        "c)på det stedet der testatoren hadde domisil eller sitt vanlige bosted enten ved dødsfallet eller da testamentet ble opprettet, eller",
-                        "d)på det stedet der en fast eiendom ligger, så langt testamentet gjelder denne eiendommen.",
+                        "Selv om et testament ikke oppfyller formkravene i kapittel 7, er det likevel formgyldig hvis det oppfyller formkravene\na)\tpå det stedet der testamentet ble opprettet\nb)\ti en stat der testatoren var statsborger enten ved dødsfallet eller da testamentet ble opprettet\nc)\tpå det stedet der testatoren hadde domisil eller sitt vanlige bosted enten ved dødsfallet eller da testamentet ble opprettet, eller\nd)\tpå det stedet der en fast eiendom ligger, så langt testamentet gjelder denne eiendommen.",
                         "Reglene i første ledd gjelder tilsvarende for tilbakekall eller endring av et testament. Formkravene til tilbakekall er oppfylt også når tilbakekallet oppfyller formkravene i den staten der testamentet var gyldig etter første ledd."
                     ]
                 },
@@ -853,11 +826,7 @@
                     "name": "§ 88",
                     "title": "Oppgaver etter loven som kan delegeres til saksbehandlere",
                     "sections": [
-                        "Hvis arbeidsforholdene gjør det hensiktsmessig, kan domstollederen delegere følgende oppgaver etter denne loven til en saksbehandler ved domstolen:",
-                        "a)å utstede formuesfullmakter og bankboksfullmakter, jf. § 92",
-                        "b)å utstede skifteattester og uskifteattester, jf. §§ 118 og 97",
-                        "c)å fastsette sikkerheten for skifteomkostningene, jf. § 132",
-                        "d)å oppnevne bostyrer, jf. § 134 annet ledd.",
+                        "Hvis arbeidsforholdene gjør det hensiktsmessig, kan domstollederen delegere følgende oppgaver etter denne loven til en saksbehandler ved domstolen:\na)\tå utstede formuesfullmakter og bankboksfullmakter, jf. § 92\nb)\tå utstede skifteattester og uskifteattester, jf. §§ 118 og 97\nc)\tå fastsette sikkerheten for skifteomkostningene, jf. § 132\nd)\tå oppnevne bostyrer, jf. § 134 annet ledd.",
                         "Finner domstollederen det ubetenkelig, og arbeidsforholdene gjør det hensiktsmessig, kan domstollederen også delegere til en saksbehandler å styre skiftesamlinger og å avgjøre andre administrative spørsmål.",
                         "Departementet kan i forskrift gi nærmere regler om delegasjon til saksbehandlere av oppgaver i forbindelse med dødsfalls- og bobehandlingen."
                     ]
@@ -999,11 +968,7 @@
                     "name": "§ 101",
                     "title": "Proklamaets innhold. Kunngjøring",
                     "sections": [
-                        "Proklamaet skal inneholde:",
-                        "a)arvelaterens navn, fødselsnummer og bopel",
-                        "b)en oppfordring til kreditorene om å melde sine krav og med opplysning om at kravene ellers vil gå tapt, jf. § 102 første ledd annet punktum",
-                        "c)fristen for å melde krav, jf. § 102 første ledd første punktum",
-                        "d)opplysninger om hvem krav skal meldes til.",
+                        "Proklamaet skal inneholde:\na)\tarvelaterens navn, fødselsnummer og bopel\nb)\ten oppfordring til kreditorene om å melde sine krav og med opplysning om at kravene ellers vil gå tapt, jf. § 102 første ledd annet punktum\nc)\tfristen for å melde krav, jf. § 102 første ledd første punktum\nd)\topplysninger om hvem krav skal meldes til.",
                         "Krav skal meldes til den retten som behandler boet, eller til den som er oppnevnt som bostyrer. Ved privat skifte skal krav meldes til en person med bopel i Norge.",
                         "Proklamaet kunngjøres i Norsk lysingsblad og ved to innrykk i en avis som er alminnelig lest på stedet der arvelateren hadde sin siste bopel. Omkostningene ved kunngjøringen dekkes av boet under offentlig skifte og i andre tilfeller av den som har krevd proklama."
                     ]
@@ -1021,10 +986,7 @@
                     "name": "§ 103",
                     "title": "Forhold som har samme virkning som å melde krav",
                     "sections": [
-                        "Samme virkning som å melde krav har det:",
-                        "a)at arvingene erkjenner kravets riktighet overfor kreditor, bostyreren eller tingretten",
-                        "b)at kravet er blitt meldt under gjeldsforhandling eller konkurs i skyldnerens bo hvis dødsfallet fant sted før gjeldsforhandlingen eller konkursen ble avsluttet",
-                        "c)at sak er anlagt mot arvingene.",
+                        "Samme virkning som å melde krav har det:\na)\tat arvingene erkjenner kravets riktighet overfor kreditor, bostyreren eller tingretten\nb)\tat kravet er blitt meldt under gjeldsforhandling eller konkurs i skyldnerens bo hvis dødsfallet fant sted før gjeldsforhandlingen eller konkursen ble avsluttet\nc)\tat sak er anlagt mot arvingene.",
                         "I tilfelle som nevnt i første ledd bokstav c gjelder foreldelsesloven § 15 nr. 2 og § 22 nr. 1 tilsvarende.",
                         "Saksanlegg overfor en enkelt av arvingene avbryter ikke fristen for de andre. Den saksøkte kan likevel holde sitt regresskrav åpent hvis han eller hun innen en måned etter utløpet av proklamafristen melder kravet på foreskrevet måte."
                     ]
@@ -1124,12 +1086,7 @@
                     "title": "Retten til å overta eiendeler som er i felleseie",
                     "sections": [
                         "Hvis det ikke vil være åpenbart urimelig, har ektefellen rett til å overta bestemte eiendeler som han eller hun fullt ut eller for det vesentlige har brakt inn i felleseiet.",
-                        "Hvis det ikke vil være åpenbart urimelig, har ektefellen rett til å overta følgende eiendeler uten hensyn til hvem av ektefellene som har brakt eiendelen inn i felleseiet:",
-                        "a)boligeiendom som har vært brukt som felles bolig",
-                        "b)andel eller aksje i boligselskap eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til",
-                        "c)løsøre som har hørt til innboet i ektefellenes felles bolig",
-                        "d)løsøre som ektefellen trenger til å fortsette sin næring.",
-                        "Har boligen vært brukt også til ervervsvirksomhet eller andre formål, gjelder første punktum bare hvis det hovedsakelige formålet har vært å tjene som felles bolig, og de øvrige arvingene ikke har rimelig grunn til å motsette seg at eiendelen blir overtatt av ektefellen.",
+                        "Hvis det ikke vil være åpenbart urimelig, har ektefellen rett til å overta følgende eiendeler uten hensyn til hvem av ektefellene som har brakt eiendelen inn i felleseiet:\na)\tboligeiendom som har vært brukt som felles bolig\nb)\tandel eller aksje i boligselskap eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til\nc)\tløsøre som har hørt til innboet i ektefellenes felles bolig\nd)\tløsøre som ektefellen trenger til å fortsette sin næring.\nHar boligen vært brukt også til ervervsvirksomhet eller andre formål, gjelder første punktum bare hvis det hovedsakelige formålet har vært å tjene som felles bolig, og de øvrige arvingene ikke har rimelig grunn til å motsette seg at eiendelen blir overtatt av ektefellen.",
                         "Ektefellens rett etter denne paragrafen til å overta eiendom gjelder også eiendom som noen annen har odels- eller åsetesrett til.",
                         "Ved offentlig skifte gjelder § 104 første ledd tredje punktum tilsvarende.",
                         "Ved salg av eiendeler i boet til andre enn arvingene har ektefellen forkjøpsrett under ellers like vilkår."
@@ -1189,19 +1146,7 @@
                     "name": "§ 119",
                     "title": "Oppgaver ved gjennomføringen av et privat skifte",
                     "sections": [
-                        "Den eller de av arvingene som skifteattesten er utstedt til, gjennomfører det private skiftet. Oppgavene kan likevel fordeles til andre. Boet skal skiftes innen rimelig tid og på en måte som ivaretar arvingenes og øvrige rettighetshaveres interesser. Følgende oppgaver skal eller bør normalt utføres:",
-                        "a)Det skal skaffes oversikt over arvingene i boet og omfanget av den enkeltes arverett.",
-                        "b)Det skal skaffes oversikt over arvelaterens eiendeler og forpliktelser.",
-                        "c)Det skal sørges for at krav som eventuelt følger av arvelaterens gyldige testament, blir oppfylt, jf. § 124. Personer som ikke deltar i skiftebehandlingen, skal varsles om sine rettigheter i boet.",
-                        "d)Boets eiendeler skal tas vare på. Eiendelene skal sikres, holdes i stand og eventuelt forsikres på en betryggende og sedvanemessig måte.",
-                        "e)Det bør vurderes om det skal utstedes proklama hvis dette ikke allerede er gjort. Det skal utstedes proklama hvis en arving krever det etter § 121.",
-                        "f)Arvelaterens løpende forpliktelser (for eksempel som følge av abonnementer, medlemskap eller avtaler om varer eller tjenester) bør avsluttes.",
-                        "g)Det skal leveres skattemelding for inneværende år og for foregående år dersom denne ikke allerede er levert, slik at rett fastsetting av skatt kan legges til grunn for booppgjøret.",
-                        "h)Boets og arvelaterens forpliktelser skal dekkes, eller det skal settes av midler til dette, jf. §§ 122 og 123. Boets utestående krav skal inndrives.",
-                        "i)Det skal avklares om arvinger ønsker å overta eiendeler på skiftet eller om eiendelene skal selges, jf. §§ 104 til 115. Det skal gjennomføres salg av de eiendelene som skal selges.",
-                        "j)Det bør settes opp et forslag til fordelingen av eiendelene i boet. Når arvingene har blitt enige om fordelingen, bør det settes opp et dokument som viser hvordan boet er fordelt, og som undertegnes av arvingene.",
-                        "k)Eiendeler skal overføres til arvingene etter den fordelingen det er enighet om. Det bør sørges for omregistrering i offentlige registre. Ved overføring av fast eiendom bør det sørges for tinglysing.",
-                        "l)Dokumentasjon som viser at kreditorene har fått dekning, bør oppbevares på en betryggende måte. Det bør føres en oversikt over de ut- og innbetalingene som er foretatt under skiftet."
+                        "Den eller de av arvingene som skifteattesten er utstedt til, gjennomfører det private skiftet. Oppgavene kan likevel fordeles til andre. Boet skal skiftes innen rimelig tid og på en måte som ivaretar arvingenes og øvrige rettighetshaveres interesser. Følgende oppgaver skal eller bør normalt utføres:\na)\tDet skal skaffes oversikt over arvingene i boet og omfanget av den enkeltes arverett.\nb)\tDet skal skaffes oversikt over arvelaterens eiendeler og forpliktelser.\nc)\tDet skal sørges for at krav som eventuelt følger av arvelaterens gyldige testament, blir oppfylt, jf. § 124. Personer som ikke deltar i skiftebehandlingen, skal varsles om sine rettigheter i boet.\nd)\tBoets eiendeler skal tas vare på. Eiendelene skal sikres, holdes i stand og eventuelt forsikres på en betryggende og sedvanemessig måte.\ne)\tDet bør vurderes om det skal utstedes proklama hvis dette ikke allerede er gjort. Det skal utstedes proklama hvis en arving krever det etter § 121.\nf)\tArvelaterens løpende forpliktelser (for eksempel som følge av abonnementer, medlemskap eller avtaler om varer eller tjenester) bør avsluttes.\ng)\tDet skal leveres skattemelding for inneværende år og for foregående år dersom denne ikke allerede er levert, slik at rett fastsetting av skatt kan legges til grunn for booppgjøret.\nh)\tBoets og arvelaterens forpliktelser skal dekkes, eller det skal settes av midler til dette, jf. §§ 122 og 123. Boets utestående krav skal inndrives.\ni)\tDet skal avklares om arvinger ønsker å overta eiendeler på skiftet eller om eiendelene skal selges, jf. §§ 104 til 115. Det skal gjennomføres salg av de eiendelene som skal selges.\nj)\tDet bør settes opp et forslag til fordelingen av eiendelene i boet. Når arvingene har blitt enige om fordelingen, bør det settes opp et dokument som viser hvordan boet er fordelt, og som undertegnes av arvingene.\nk)\tEiendeler skal overføres til arvingene etter den fordelingen det er enighet om. Det bør sørges for omregistrering i offentlige registre. Ved overføring av fast eiendom bør det sørges for tinglysing.\nl)\tDokumentasjon som viser at kreditorene har fått dekning, bør oppbevares på en betryggende måte. Det bør føres en oversikt over de ut- og innbetalingene som er foretatt under skiftet."
                     ]
                 },
                 {
@@ -1225,11 +1170,7 @@
                     "title": "Dekning av boets og arvelaterens forpliktelser",
                     "sections": [
                         "Arvingene skal sørge for at boets og arvelaterens forpliktelser dekkes under skiftet, med mindre forpliktelsen er bortfalt ved dødsfallet eller ved proklama.",
-                        "Forpliktelsene bør dekkes i denne rekkefølgen:",
-                        "a)begravelsesomkostningene",
-                        "b)skifteomkostningene og andre massekrav",
-                        "c)fortrinnsberettigede krav etter dekningsloven §§ 9-3 og 9-4",
-                        "d)andre krav.",
+                        "Forpliktelsene bør dekkes i denne rekkefølgen:\na)\tbegravelsesomkostningene\nb)\tskifteomkostningene og andre massekrav\nc)\tfortrinnsberettigede krav etter dekningsloven §§ 9-3 og 9-4\nd)\tandre krav.",
                         "Er eiendelene i boet ikke tilstrekkelige til å dekke alle forpliktelsene i boet, eller er dette uklart, skal forpliktelsene dekkes i rekkefølgen som følger av annet ledd.",
                         "§ 144 om forsinkelsesrente og mellomrente gjelder tilsvarende."
                     ]
@@ -1279,13 +1220,7 @@
                     "name": "§ 127",
                     "title": "Hvem som kan kreve offentlig skifte",
                     "sections": [
-                        "Tingretten åpner offentlig skifte i boet når det kreves av:",
-                        "a)en arving",
-                        "b)en kreditor som har tatt utlegg i en arvings krav på arv",
-                        "c)en arvings konkursbo",
-                        "d)fylkesmannen på vegne av en arving som er under vergemål, eller arvingens verge hvis dette omfattes av vergens mandat",
-                        "e)den som har et krav mot arvelateren, hvis det ikke er krevd privat skifte innen fristen etter § 117 første ledd",
-                        "f)den som har et krav mot arvelateren, hvis sannsynligheten for å få dekning vesentlig forringes som følge av arvingenes forhold.",
+                        "Tingretten åpner offentlig skifte i boet når det kreves av:\na)\ten arving\nb)\ten kreditor som har tatt utlegg i en arvings krav på arv\nc)\ten arvings konkursbo\nd)\tfylkesmannen på vegne av en arving som er under vergemål, eller arvingens verge hvis dette omfattes av vergens mandat\ne)\tden som har et krav mot arvelateren, hvis det ikke er krevd privat skifte innen fristen etter § 117 første ledd\nf)\tden som har et krav mot arvelateren, hvis sannsynligheten for å få dekning vesentlig forringes som følge av arvingenes forhold.",
                         "Som arving etter første ledd bokstav a til d regnes ikke arving som etter testament bare skal motta et bestemt, avgrenset gode av liten verdi. En slik arving kan likevel kreve offentlig skifte hvis vedkommende, når det har gått ett år etter dødsfallet, ennå ikke har mottatt det han eller hun har krav på, og de øvrige arvingene kan bebreides for dette.",
                         "Er arvingen mindreårig, fratatt rettslig handleevne på det økonomiske området eller i en tilstand som nevnt i § 139 annet ledd annet punktum, er det vergen som må kreve offentlig skifte på vegne av arvingen etter første ledd bokstav a."
                     ]
@@ -1646,13 +1581,7 @@
                     "name": "§ 168",
                     "title": "Hva som behandles som skiftetvist",
                     "sections": [
-                        "Som skiftetvist behandles:",
-                        "a)tvist om det skal åpnes offentlig skifte",
-                        "b)tvist om rett til arv og omfanget av arvekrav",
-                        "c)tvist om krav meldt mot arvelateren og tvist om boets motkrav så langt de kan bringes til motregning. Er ansvaret for arvelaterens forpliktelser overtatt etter §§ 20, 35 eller 116, må skiftetvisten reises av en som har overtatt ansvaret for forpliktelsene",
-                        "d)tvist om krav på bestemte ting som er i boets eller ektefellens besittelse",
-                        "e)tvist om krav mot boet",
-                        "f)tvist om boets krav mot en tredjeperson, herunder krav mot en arving når kravet ikke er knyttet til stillingen som arving.",
+                        "Som skiftetvist behandles:\na)\ttvist om det skal åpnes offentlig skifte\nb)\ttvist om rett til arv og omfanget av arvekrav\nc)\ttvist om krav meldt mot arvelateren og tvist om boets motkrav så langt de kan bringes til motregning. Er ansvaret for arvelaterens forpliktelser overtatt etter §§ 20, 35 eller 116, må skiftetvisten reises av en som har overtatt ansvaret for forpliktelsene\nd)\ttvist om krav på bestemte ting som er i boets eller ektefellens besittelse\ne)\ttvist om krav mot boet\nf)\ttvist om boets krav mot en tredjeperson, herunder krav mot en arving når kravet ikke er knyttet til stillingen som arving.",
                         "En tvist behandles likevel ikke som skiftetvist hvis den overføres til allmennprosess etter § 173, hvis den etter ufravikelige vernetingsregler hører under en annen domstol, eller hvis den skal behandles etter andre prosessregler.",
                         "En tvist behandles ikke som skiftetvist hvis den er anlagt ved en annen domstol før det ble åpnet offentlig skifte. Gjelder tvisten spørsmål som nevnt i første ledd bokstav b til f, kan den tingretten som har ansvaret for skiftebehandlingen, med partenes samtykke, be om at saken overføres til denne som skiftetvist. Beslutning om overføring treffes av den tingretten som tvisten er brakt inn for. Hvis den tingretten som tvisten er brakt inn for, motsetter seg overføring, avgjøres spørsmålet av den lagmannsretten som er overordnet den tingretten som har ansvaret for skiftebehandlingen.",
                         "En tvist behandles heller ikke som skiftetvist hvis den før det ble åpnet offentlig skifte ble anlagt etter andre prosessregler ved den tingretten som har ansvaret for skiftebehandlingen. Gjelder tvisten spørsmål som nevnt i første ledd bokstav b til f, kan tingretten med partenes samtykke beslutte at saken skal behandles som skiftetvist."
@@ -1789,23 +1718,17 @@
                     "name": "§ 181",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:",
-                        "1. I lov 4. juli 1991 nr. 47 om ekteskap gjøres følgende endringer:",
-                        "§ 69 første ledd første punktum skal lyde:",
-                        "Blir ikke ektefellene enige om verdien av eiendeler som den enkelte skal beholde etter § 66 eller overta etter § 67, fastsettes verdien etter begjæring ved skiftetakst.",
-                        "§ 69 annet ledd annet punktum skal lyde:",
-                        "I andre tilfeller skal verdsettelsen knyttes til verdien på det tidspunktet det blir bestemt hvem som skal overta eiendelen, hvis ikke noe annet blir avtalt.",
-                        "§ 77 tredje ledd skal lyde:",
-                        "Om forholdet ellers mellom den gjenlevende ektefellen og avdødes arvinger, herunder om retten til å overta eiendeler ved delingen, gjelder reglene i arveloven.",
-                        "Ny § 78 a skal lyde:"
+                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:\n1. I lov 4. juli 1991 nr. 47 om ekteskap gjøres følgende endringer:\n§ 69 første ledd første punktum skal lyde:",
+                        "Blir ikke ektefellene enige om verdien av eiendeler som den enkelte skal beholde etter § 66 eller overta etter § 67, fastsettes verdien etter begjæring ved skiftetakst.\n§ 69 annet ledd annet punktum skal lyde:",
+                        "I andre tilfeller skal verdsettelsen knyttes til verdien på det tidspunktet det blir bestemt hvem som skal overta eiendelen, hvis ikke noe annet blir avtalt.\n§ 77 tredje ledd skal lyde:",
+                        "Om forholdet ellers mellom den gjenlevende ektefellen og avdødes arvinger, herunder om retten til å overta eiendeler ved delingen, gjelder reglene i arveloven.\nNy § 78 a skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 78 a",
                     "title": "Tap av retten til deling av felleseie",
                     "sections": [
-                        "Blir en ektefelle dømt for en straffbar handling mot den avdøde ektefellen, og handlingen forårsaket dødsfallet, kan retten bestemme at deling av felleseiemidler ikke skal finne sted. Arveloven § 72 tredje og fjerde ledd gjelder tilsvarende så langt de passer.",
-                        "Etter § 93 skal ny del V lyde:"
+                        "Blir en ektefelle dømt for en straffbar handling mot den avdøde ektefellen, og handlingen forårsaket dødsfallet, kan retten bestemme at deling av felleseiemidler ikke skal finne sted. Arveloven § 72 tredje og fjerde ledd gjelder tilsvarende så langt de passer.\nEtter § 93 skal ny del V lyde:"
                     ]
                 }
             ]
@@ -1836,12 +1759,7 @@
                     "name": "§ 96",
                     "title": "Åpning av offentlig skifte",
                     "sections": [
-                        "Har ektefellene formue som er felleseie, skal det åpnes offentlig skifte",
-                        "a)hvis en ektefelle krever det,",
-                        "b)hvis det kreves av en arving eller kreditor som har rett til å kreve deling etter § 57,",
-                        "c)hvis en ektefelle er fratatt rettslig handleevne, med mindre vergen skriftlig samtykker i at boet skiftes privat,",
-                        "d)hvis en ektefelle er fraværende utenfor riket eller hans eller hennes oppholdssted ikke er kjent.",
-                        "Krav etter første punktum bokstav a og b kan fremmes inntil bindende avtale om oppgjøret er inngått mellom ektefellene.",
+                        "Har ektefellene formue som er felleseie, skal det åpnes offentlig skifte\na)\thvis en ektefelle krever det,\nb)\thvis det kreves av en arving eller kreditor som har rett til å kreve deling etter § 57,\nc)\thvis en ektefelle er fratatt rettslig handleevne, med mindre vergen skriftlig samtykker i at boet skiftes privat,\nd)\thvis en ektefelle er fraværende utenfor riket eller hans eller hennes oppholdssted ikke er kjent.\nKrav etter første punktum bokstav a og b kan fremmes inntil bindende avtale om oppgjøret er inngått mellom ektefellene.",
                         "Har ektefellene fullstendig særeie, skal det åpnes offentlig skifte hvis begge ektefellene krever det. Ektefellene må kreve offentlig skifte innen to år etter at ekteskapet ble oppløst, jf. § 25.",
                         "Det kan ikke åpnes offentlig skifte hvis det ikke stilles fullgod sikkerhet for skifteomkostningene."
                     ]
@@ -1851,12 +1769,7 @@
                     "title": "Stedlig og internasjonal kompetanse",
                     "sections": [
                         "Hvis ikke noe annet er fastsatt ved overenskomst med fremmed stat, kan det kreves skiftebehandling i Norge når en av ektefellene har sitt vanlige bosted her. Hvis ingen av ektefellene har sitt vanlige bosted her, men minst en av dem har en annen klar tilknytning til Norge, kan det skiftes her hvis ektefellene i fellesskap begjærer det og skiftemyndigheten finner det hensiktsmessig. Skiftebehandling for norsk skiftemyndighet gjennomføres etter norsk lov.",
-                        "Skiftebehandling foretas ved norsk domstol i den rettskretsen",
-                        "a)der ektefellene hadde sitt siste felles bosted hvis noen av dem ved skiftets åpning bor i rettskretsen,",
-                        "b)der en av dem bor, hvis de ikke har hatt felles bosted i riket, eller ingen av dem bor i den rettskretsen der de hadde sitt siste felles bosted,",
-                        "c)der en av dem oppholder seg, hvis ingen av dem har bosted i riket,",
-                        "d)der en fast eiendom som omfattes av skiftet, ligger, og ektefellene ikke har hatt felles bosted i riket,",
-                        "e)der ektefellene har avtalt at skiftet skal behandles, forutsatt at avtalen er inngått etter at tvisten har oppstått.",
+                        "Skiftebehandling foretas ved norsk domstol i den rettskretsen\na)\tder ektefellene hadde sitt siste felles bosted hvis noen av dem ved skiftets åpning bor i rettskretsen,\nb)\tder en av dem bor, hvis de ikke har hatt felles bosted i riket, eller ingen av dem bor i den rettskretsen der de hadde sitt siste felles bosted,\nc)\tder en av dem oppholder seg, hvis ingen av dem har bosted i riket,\nd)\tder en fast eiendom som omfattes av skiftet, ligger, og ektefellene ikke har hatt felles bosted i riket,\ne)\tder ektefellene har avtalt at skiftet skal behandles, forutsatt at avtalen er inngått etter at tvisten har oppstått.",
                         "Er mer enn én tingrett kompetent til å gjennomføre skiftet, foretas det ved den tingretten som først mottar skiftebegjæring."
                     ]
                 },
@@ -1891,11 +1804,7 @@
                     "sections": [
                         "Offentlig skifte etter § 96 første ledd omfatter eiendeler som er felleseie, og særeiemidler som er av betydning for delingen av felleseiet mellom ektefellene, jf. særlig § 58 tredje ledd bokstav c, § 63 og § 73.",
                         "Offentlig skifte etter § 96 annet ledd omfatter begge ektefellenes særeiemidler.",
-                        "Under offentlig skifte kan tingretten, hvis en av ektefellene krever det, også behandle:",
-                        "a)rett til bidrag etter kapittel 16,",
-                        "b)spørsmål om gyldigheten av en ektepakt og hva som hører til en ektefelles særeie, og spørsmål om tolkingen av ektepakten og om den helt eller delvis skal settes til side, jf. § 46 annet ledd,",
-                        "c)spørsmål om bruksrett til felles bolig og leien for slik bruksrett etter § 68,",
-                        "d)andre krav som er nødvendige for gjennomføringen av skiftet."
+                        "Under offentlig skifte kan tingretten, hvis en av ektefellene krever det, også behandle:\na)\trett til bidrag etter kapittel 16,\nb)\tspørsmål om gyldigheten av en ektepakt og hva som hører til en ektefelles særeie, og spørsmål om tolkingen av ektepakten og om den helt eller delvis skal settes til side, jf. § 46 annet ledd,\nc)\tspørsmål om bruksrett til felles bolig og leien for slik bruksrett etter § 68,\nd)\tandre krav som er nødvendige for gjennomføringen av skiftet."
                     ]
                 },
                 {
@@ -1957,37 +1866,15 @@
                     "name": "§ 109",
                     "title": "Plikt til å sørge for tinglysing eller registrering",
                     "sections": [
-                        "Retten skal sørge for at overføring av fast eiendom som ledd i booppgjøret tinglyses i grunnboken. Om en ektefelle gis rett til pant i fast eiendom eller realregistrerbart løsøre, skal retten sørge for at pantet tinglyses eller registreres. Gebyr for tinglysing eller annen registrering i et realregister dekkes av ektefellene i fellesskap.",
-                        "Nåværende del V blir ny del VI.",
-                        "Nåværende kapittel 18 blir nytt kapittel 19.",
-                        "Nåværende § 94 blir ny § 110.",
-                        "Nåværende § 95 blir ny § 111.",
-                        "Nåværende § 96 blir ny § 112.",
-                        "2. I lov 28. juni 1974 nr. 58 om odelsretten og åsetesretten skal § 56 første ledd nytt fjerde punktum lyde:",
-                        "Er det gjeld i buet, skal taksten minst svare til gjelda, men likevel ikkje overstige odelstaksten.",
-                        "3. I lov 17. desember 1982 nr. 86 om rettsgebyr gjøres følgende endringer:",
-                        "§ 16 nr. 1 skal lyde:",
-                        "1.For konkursbo som åpnes av tingretten, og for åpning av offentlig skifte etter ekteskapsloven kapittel 18 eller husstandsfellesskapsloven § 3 a betales 25 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd. For dødsbo som åpnes av tingretten, betales 18 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd.",
-                        "§ 16 nr. 3 skal lyde:",
-                        "3.For forberedende rettsmøte etter arveloven, ekteskapsloven eller husstandsfellesskapsloven betales 2 ganger rettsgebyret. Åpner tingretten bobehandling, betales i stedet gebyr etter nr. 1.",
-                        "§ 18 annet og tredje ledd skal lyde:",
+                        "Retten skal sørge for at overføring av fast eiendom som ledd i booppgjøret tinglyses i grunnboken. Om en ektefelle gis rett til pant i fast eiendom eller realregistrerbart løsøre, skal retten sørge for at pantet tinglyses eller registreres. Gebyr for tinglysing eller annen registrering i et realregister dekkes av ektefellene i fellesskap.\nNåværende del V blir ny del VI.\nNåværende kapittel 18 blir nytt kapittel 19.\nNåværende § 94 blir ny § 110.\nNåværende § 95 blir ny § 111.\nNåværende § 96 blir ny § 112.\n2. I lov 28. juni 1974 nr. 58 om odelsretten og åsetesretten skal § 56 første ledd nytt fjerde punktum lyde:",
+                        "Er det gjeld i buet, skal taksten minst svare til gjelda, men likevel ikkje overstige odelstaksten.\n3. I lov 17. desember 1982 nr. 86 om rettsgebyr gjøres følgende endringer:\n§ 16 nr. 1 skal lyde:\n1.\tFor konkursbo som åpnes av tingretten, og for åpning av offentlig skifte etter ekteskapsloven kapittel 18 eller husstandsfellesskapsloven § 3 a betales 25 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd. For dødsbo som åpnes av tingretten, betales 18 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd.\n§ 16 nr. 3 skal lyde:\n3.\tFor forberedende rettsmøte etter arveloven, ekteskapsloven eller husstandsfellesskapsloven betales 2 ganger rettsgebyret. Åpner tingretten bobehandling, betales i stedet gebyr etter nr. 1.\n§ 18 annet og tredje ledd skal lyde:",
                         "Blir et dødsbo eller konkursbo innstilt eller tilbakelevert, betales halvparten av fullt gebyr. Det samme gjelder ved innstilling av bobehandlingen eller tilbakelevering etter ekteskapsloven §§ 106 og 107, jf. husstandsfellesskapsloven § 3 a.",
-                        "Har det i et bo vært oppnevnt bostyrer etter arveloven § 134 annet ledd, ekteskapsloven § 100 eller husstandsfellesskapsloven § 3 a, betales halvparten av fullt gebyr såfremt oppnevningen ikke er blitt tilbakekalt etter arveloven § 157, jf. ekteskapsloven § 100 første ledd annet punktum og husstandsfellesskapsloven § 3 a annet punktum.",
-                        "§ 20 første punktum skal lyde:",
-                        "For begjæring fra en arving om utstedelse av proklama etter arveloven § 93 betales 4 ganger rettsgebyret.",
-                        "4. I lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett gjøres følgende endringer:",
-                        "§ 9-2 første og annet ledd skal lyde:",
+                        "Har det i et bo vært oppnevnt bostyrer etter arveloven § 134 annet ledd, ekteskapsloven § 100 eller husstandsfellesskapsloven § 3 a, betales halvparten av fullt gebyr såfremt oppnevningen ikke er blitt tilbakekalt etter arveloven § 157, jf. ekteskapsloven § 100 første ledd annet punktum og husstandsfellesskapsloven § 3 a annet punktum.\n§ 20 første punktum skal lyde:",
+                        "For begjæring fra en arving om utstedelse av proklama etter arveloven § 93 betales 4 ganger rettsgebyret.\n4. I lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett gjøres følgende endringer:\n§ 9-2 første og annet ledd skal lyde:",
                         "Foran all annen gjeld skal dekkes rimelige omkostninger ved skyldnerens begravelse. Ved konkurs gjelder dette når dødsfallet har funnet sted før konkursåpningen.",
-                        "Etter fordringer som nevnt i første ledd skal følgende fordringer dekkes foran annen gjeld:",
-                        "1)omkostningene ved bobehandlingen, derunder rimelige omkostninger påført en rekvirent i forbindelse med begjæring om rådighetsforbud før konkurs dersom begjæringen er tatt til følge, og rimelige omkostninger i forbindelse med begjæring om åpning av konkurs, når ikke begjæringen er avgjort eller tilbakekalt før konkursåpningen,",
-                        "2)andre forpliktelser påført skyldnerens bo under bobehandlingen.",
-                        "Nåværende annet ledd blir nytt tredje ledd.",
-                        "5. I lov 4. juli 1991 nr. 45 om rett til felles bolig og innbo når husstandsfellesskap opphører gjøres følgende endringer:",
-                        "§ 2 annet ledd tredje punktum skal lyde:",
-                        "Om skiftetakst, oppgjør og verdsettelsestidspunkt gjelder arveloven § 106, § 107 og § 115 annet punktum tilsvarende.",
-                        "§ 3 fjerde ledd skal lyde:",
-                        "Om oppgjør og skiftetakst gjelder ekteskapsloven § 69 første ledd og annet ledd annet punktum og § 70 annet og fjerde ledd og arveloven § 106 tilsvarende.",
-                        "Ny § 3 a skal lyde:"
+                        "Etter fordringer som nevnt i første ledd skal følgende fordringer dekkes foran annen gjeld:\n1)\tomkostningene ved bobehandlingen, derunder rimelige omkostninger påført en rekvirent i forbindelse med begjæring om rådighetsforbud før konkurs dersom begjæringen er tatt til følge, og rimelige omkostninger i forbindelse med begjæring om åpning av konkurs, når ikke begjæringen er avgjort eller tilbakekalt før konkursåpningen,\n2)\tandre forpliktelser påført skyldnerens bo under bobehandlingen.\nNåværende annet ledd blir nytt tredje ledd.\n5. I lov 4. juli 1991 nr. 45 om rett til felles bolig og innbo når husstandsfellesskap opphører gjøres følgende endringer:\n§ 2 annet ledd tredje punktum skal lyde:",
+                        "Om skiftetakst, oppgjør og verdsettelsestidspunkt gjelder arveloven § 106, § 107 og § 115 annet punktum tilsvarende.\n§ 3 fjerde ledd skal lyde:",
+                        "Om oppgjør og skiftetakst gjelder ekteskapsloven § 69 første ledd og annet ledd annet punktum og § 70 annet og fjerde ledd og arveloven § 106 tilsvarende.\nNy § 3 a skal lyde:"
                     ]
                 },
                 {
@@ -1995,13 +1882,8 @@
                     "title": "Dersom samboerskap mellom to personer som nevnt i arveloven § 2 tredje ledd opphører mens begge lever, og begge samboerne krever det, skal det foretas offentlig skifte av samboernes samtlige eiendeler og gjeld. Reglene i ekteskapsloven kapittel 18 gjelder i så fall tilsvarende så langt de passer.",
                     "sections": [
                         "6. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse skal § 4-8 første ledd første punktum lyde:",
-                        "Et tvangsgrunnlag overfor en person som senere er avgått ved døden, er også tvangsgrunnlag overfor den avdødes arving som har overtatt ansvaret for den avdødes forpliktelser, og overfor gjenlevende ektefelle eller samboer i uskifte.",
-                        "7. I lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd skal § 9 femte ledd nytt tredje punktum lyde:",
-                        "Er boet ikke overtatt til privat skifte eller uskifte innen fristene etter arveloven, og det heller ikke er åpnet offentlig skifte eller utstedt fullmakt etter arveloven § 95, har tingretten fullmakt til å disponere over arvelaterens eiendeler slik at kommunen får dekket sitt krav mot boet.",
-                        "8. I lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister skal § 6-2 første ledd bokstav a lyde:",
-                        "a)familiesaker, unntatt saker som bare gjelder deling av reisekostnader ved samvær,",
-                        "9. I lov 26. mars 2010 nr. 9 om vergemål gjøres følgende endringer:",
-                        "§ 41 paragrafoverskriften skal lyde:"
+                        "Et tvangsgrunnlag overfor en person som senere er avgått ved døden, er også tvangsgrunnlag overfor den avdødes arving som har overtatt ansvaret for den avdødes forpliktelser, og overfor gjenlevende ektefelle eller samboer i uskifte.\n7. I lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd skal § 9 femte ledd nytt tredje punktum lyde:",
+                        "Er boet ikke overtatt til privat skifte eller uskifte innen fristene etter arveloven, og det heller ikke er åpnet offentlig skifte eller utstedt fullmakt etter arveloven § 95, har tingretten fullmakt til å disponere over arvelaterens eiendeler slik at kommunen får dekket sitt krav mot boet.\n8. I lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister skal § 6-2 første ledd bokstav a lyde:\na)\tfamiliesaker, unntatt saker som bare gjelder deling av reisekostnader ved samvær,\n9. I lov 26. mars 2010 nr. 9 om vergemål gjøres følgende endringer:\n§ 41 paragrafoverskriften skal lyde:"
                     ]
                 },
                 {
@@ -2009,11 +1891,8 @@
                     "title": "Gaver, arveforskudd og uskifte",
                     "sections": [
                         "§ 41 nytt tredje ledd lyde:",
-                        "Vergen kan på vegne av personen under vergemål begjære uskifte (jf. arveloven §§ 14 og 32) eller kreve skifte av uskifteformuen (jf. arveloven §§ 28 og 39) bare med samtykke fra fylkesmannen.",
-                        "10. I lov 12. mai 2015 nr. 27 om forsvunne personar skal § 19 nytt fjerde ledd lyde:",
-                        "Arvelova § 70 første ledd gjeld tilsvarande.",
-                        "11. I lov 27. mai 2016 nr. 14 om skatteforvaltning skal § 3-3 bokstav k lyde:",
-                        "k)til den alminnelige namsmannen og tingrett til bruk i skiftesak, når en innsynsbegjæring gjelder fastsetting av skatt for avdøde, og det ikke foreligger formell beslutning om skifteform. Det samme gjelder for avdødes ektefelle, samboer og arving, jf. arveloven § 2 første og tredje ledd, når vedkommende kan vise til saklig behov for innsyn. Det samme gjelder også for den som har fullmakt etter arveloven § 92 første eller annet ledd. Når skifteform er valgt, er det den eller de som representerer boet, som har rett til innsyn."
+                        "Vergen kan på vegne av personen under vergemål begjære uskifte (jf. arveloven §§ 14 og 32) eller kreve skifte av uskifteformuen (jf. arveloven §§ 28 og 39) bare med samtykke fra fylkesmannen.\n10. I lov 12. mai 2015 nr. 27 om forsvunne personar skal § 19 nytt fjerde ledd lyde:",
+                        "Arvelova § 70 første ledd gjeld tilsvarande.\n11. I lov 27. mai 2016 nr. 14 om skatteforvaltning skal § 3-3 bokstav k lyde:\nk)\ttil den alminnelige namsmannen og tingrett til bruk i skiftesak, når en innsynsbegjæring gjelder fastsetting av skatt for avdøde, og det ikke foreligger formell beslutning om skifteform. Det samme gjelder for avdødes ektefelle, samboer og arving, jf. arveloven § 2 første og tredje ledd, når vedkommende kan vise til saklig behov for innsyn. Det samme gjelder også for den som har fullmakt etter arveloven § 92 første eller annet ledd. Når skifteform er valgt, er det den eller de som representerer boet, som har rett til innsyn."
                     ]
                 }
             ]

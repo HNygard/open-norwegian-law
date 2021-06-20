@@ -2,7 +2,7 @@
     "lawId": "LOV-2017-06-16-56",
     "lawName": "Lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten",
     "shortName": "Lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.68 L (2016–2017), Innst.327 L (2016–2017), Lovvedtak 92 (2016–2017). Stortingets første og andre gangs behandling hhv. 1. og 6. juni 2017. Fremmet av Helse- og omsorgsdepartementet.\nEndringer i følgende lover:\n1\tLov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven).\n2\tLov 2. juli 1999 nr. 64 om om helsepersonell m.v.  (helsepersonelloven).",
     "chapters": [
         {
             "paragraphs": [
@@ -26,9 +26,7 @@
                     "name": "§ 3",
                     "title": "Definisjoner",
                     "sections": [
-                        "I loven menes med",
-                        "a)alvorlig hendelse: dødsfall eller betydelig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko.",
-                        "b)alvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser."
+                        "I loven menes med\na)\talvorlig hendelse: dødsfall eller betydelig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko.\nb)\talvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser."
                     ]
                 },
                 {
@@ -155,11 +153,7 @@
                     "title": "Forbud mot sanksjoner fra arbeidsgiver",
                     "sections": [
                         "En arbeidstaker som avgir forklaring etter § 10 skal ikke som følge av dette utsettes for noen form for sanksjoner fra arbeidsgiverens side.",
-                        "Første ledd gjelder ikke",
-                        "a)tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner",
-                        "b)dersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling",
-                        "c)dersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet",
-                        "d)dersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter § 10."
+                        "Første ledd gjelder ikke\na)\ttiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner\nb)\tdersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling\nc)\tdersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet\nd)\tdersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter § 10."
                     ]
                 },
                 {
@@ -180,17 +174,14 @@
                     "name": "§ 21",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:",
-                        "1. I lov 2. juli 1999 nr. 64 om helsepersonell m.v. gjøres følgende endringer:",
-                        "Ny § 12 a skal lyde:"
+                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:\n1. I lov 2. juli 1999 nr. 64 om helsepersonell m.v. gjøres følgende endringer:\nNy § 12 a skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 12 a",
                     "title": "Undersøkelser mv. etter pålegg fra Statens undersøkelseskommisjon for helse- og omsorgstjenesten",
                     "sections": [
-                        "Helsepersonell skal medvirke til eller underkaste seg utåndingsprøve, blodprøve og klinisk legeundersøkelse som pålegges av undersøkelseskommisjonen etter lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 9 andre ledd.",
-                        "Ny § 30 a skal lyde:"
+                        "Helsepersonell skal medvirke til eller underkaste seg utåndingsprøve, blodprøve og klinisk legeundersøkelse som pålegges av undersøkelseskommisjonen etter lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 9 andre ledd.\nNy § 30 a skal lyde:"
                     ]
                 },
                 {
@@ -198,9 +189,7 @@
                     "title": "Opplysninger til Statens undersøkelseskommisjon for helse- og omsorgstjenesten",
                     "sections": [
                         "Helsepersonell skal gi undersøkelseskommisjonen adgang til virksomhetens lokaler og opplysninger etter lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 9.",
-                        "Helsepersonell skal forklare seg for Statens undersøkelseskommisjon for helse- og omsorgstjenesten etter lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 10.",
-                        "2. I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. gjøres følgende endringer:",
-                        "§ 3-3 a overskriften skal lyde:"
+                        "Helsepersonell skal forklare seg for Statens undersøkelseskommisjon for helse- og omsorgstjenesten etter lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 10.\n2. I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. gjøres følgende endringer:\n§ 3-3 a overskriften skal lyde:"
                     ]
                 },
                 {

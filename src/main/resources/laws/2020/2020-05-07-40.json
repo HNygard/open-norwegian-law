@@ -1,0 +1,282 @@
+{
+    "lawId": "LOV-2020-05-07-40",
+    "lawName": "Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommunikasjon (bredbåndsutbyggingsloven)",
+    "shortName": "Bredbåndsutbyggingsloven",
+    "authorityDescription": "Prop.35 LS (2019–2020), Innst.195 L (2019–2020), Lovvedtak 63 (2019–2020). Stortingets første og andre gangs behandling hhv. 31. mars og 3. april 2020. Fremmet av Kommunal- og moderniseringsdepartementet.\nEndringer i følgende lover:\n1\tLov 21. juni 1963 nr. 23 om vegar (veglova).\n2\tLov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven).",
+    "chapters": [
+        {
+            "name": "Kapittel 1. Innledende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 1",
+                    "title": "Formål",
+                    "sections": [
+                        "Lovens formål er å bidra til kostnadseffektiv etablering av høyhastighetsnett for elektronisk kommunikasjon ved å sikre tilgang til, og informasjon om, passiv fysisk infrastruktur og bygge- og anleggsarbeider."
+                    ]
+                },
+                {
+                    "name": "§ 2",
+                    "title": "Saklig virkeområde",
+                    "sections": [
+                        "Loven gjelder tilgang til fysisk infrastruktur som er egnet til framføring av høyhastighetsnett for elektronisk kommunikasjon. Slik fysisk infrastruktur omfatter elektronisk kommunikasjonsnett, elektrisitetsnett, vann- og avløpsnett, infrastruktur for oppvarming og transporttjenester, herunder jernbane- og vegnett, havner og flyplasser. Tilgang til veggrunnen omfattes ikke, mens tilgang til eventuelle trekkrør i veggrunnen omfattes. Ledninger eller rør til framføring av vannforsyning og drikkevann omfattes ikke av loven.",
+                        "Loven gjelder samordning av bygge- og anleggsarbeider som helt eller delvis er offentlig finansiert. Loven gjelder også etablering av fysisk infrastruktur for høyhastighetsnett i bygninger og tilgang til slik infrastruktur i bygninger for bredbåndsutbyggere.",
+                        "Ved eventuell motstrid mellom ekomloven og denne loven, har ekomloven forrang."
+                    ]
+                },
+                {
+                    "name": "§ 3",
+                    "title": "Geografisk virkeområde",
+                    "sections": [
+                        "Loven gjelder for norsk land- og sjøterritorium. Loven gjelder ikke Svalbard, Jan Mayen og bilandene.",
+                        "Kongen kan fastsette unntaks- og særregler som følger av internasjonale overenskomster Norge er part i.",
+                        "Kongen kan gi forskrift om lovens anvendelse på Svalbard og på kontinentalsokkelen, og kan fastsette særlige regler av hensyn til stedlige forhold."
+                    ]
+                },
+                {
+                    "name": "§ 4",
+                    "title": "Myndighet etter loven",
+                    "sections": [
+                        "Myndighet etter loven er departementet. Departementet kan bestemme at andre offentlige organer eller private skal ha myndighet på begrensede områder etter loven, når ikke annet er bestemt."
+                    ]
+                },
+                {
+                    "name": "§ 5",
+                    "title": "Definisjoner",
+                    "sections": [
+                        "I loven menes med:\n\t1Nettoperatør: virksomhet som tilbyr tilgang til elektronisk kommunikasjonsnett som brukes til offentlig elektronisk  kommunikasjonstjeneste, eller som har råderett over passiv fysisk infrastruktur beregnet for å levere:\na)\ttjeneste for produksjon, transport eller distribusjon av gass, elektrisitet og offentlig belysning, oppvarming og vann, herunder transport av avløpsvann, dreneringssystemer og fjerning av avfall\nb)\ttransporttjeneste, herunder jernbaner, veier, havner og lufthavner\n\t2Bredbåndsutbygger: virksomhet som tilbyr eller planlegger å tilby tilgang til høyhastighetsnett som brukes til offentlig elektronisk kommunikasjonstjeneste.\n\t3Fysisk infrastruktur: passivt element i et nett som er egnet til å gi plass til andre nettelementer uten selv å bli et aktivt element i nettet, eksempelvis rør, master, kabelkanaler, kulverter, inspeksjonsbrønner, kummer, kabinetter, bygninger eller adkomst til bygninger, antenneanlegg, tårn og stolper. Kabler for elektronisk kommunikasjon, herunder mørk fiber, og ledninger og rør til framføring av vannforsyning og drikkevann omfattes ikke.\n\t4Høyhastighetsnett: elektronisk kommunikasjonsnett som kan levere elektroniske kommunikasjonstjenester med nedstrømshastighet på minst 30 Mbit/s.\n\t5Større renoveringsarbeider: bygge- og anleggsarbeider i eller på bygning som omfatter hele eller vesentlige deler av den fysiske infrastrukturen i bygningen som er egnet for framføring av elektronisk kommunikasjonsnett.\n\t6Tilkoblingspunkt: et fysisk punkt i eller utenfor bygningen som bredbåndsutbyggeren har tilgang til og som den fysiske infrastrukturen i bygningen kan kobles til."
+                    ]
+                },
+                {
+                    "name": "§ 6",
+                    "title": "Taushetsplikt",
+                    "sections": [
+                        "Nettoperatør og bredbåndsutbygger og enhver som utfører arbeid eller tjeneste for disse, plikter å bevare taushet om informasjon om andre nettoperatørers eller bredbåndsutbyggeres infrastruktur eller forretningsforhold som vedkommende gjennom sin virksomhet får kjennskap til. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller tjenesten.",
+                        "Informasjonen kan ikke nyttes i egen virksomhet til annet enn å bidra til etablering av høyhastighetsnett for elektronisk kommunikasjon.",
+                        "Nettoperatør og bredbåndsutbygger plikter å gjennomføre forholdsmessige tiltak for å hindre at uvedkommende får kjennskap til informasjonen.",
+                        "Plikten etter første og annet ledd gjelder enhver som bistår tvisteløsningsorganet, jf. § 15."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 2. Tilgang til og informasjon om fysisk infrastruktur",
+            "paragraphs": [
+                {
+                    "name": "§ 7",
+                    "title": "Tilgang til fysisk infrastruktur",
+                    "sections": [
+                        "Nettoperatør skal imøtekomme enhver rimelig anmodning fra bredbåndsutbygger om tilgang til fysisk infrastruktur for utbygging av høyhastighetsnett. Anmodningen skal være skriftlig og angi tidsramme for utbyggingen og hvilke deler av utbyggingen som anmodningen gjelder. Svar på anmodningen skal gis innen to måneder fra mottak av fullstendig anmodning.",
+                        "Tilgangen etter første ledd skal gis på rettferdige og rimelige vilkår, herunder prisvilkår.",
+                        "Avslag på tilgang skal være basert på objektive, transparente og forholdsmessige kriterier, slik som:\n1\tteknisk egnethet\n2\tplassbegrensninger\n3\tsikkerhet og folkehelse\n4\tnettsikkerhet og -integritet, herunder hensyn til kritisk infrastruktur\n5\trisiko for vesentlige forstyrrelser av andre tjenester som leveres over samme fysiske infrastruktur\n6\ttilbud fra nettoperatør om tilgang til annen egnet fysisk infrastruktur, under forutsetning av at denne tilbys på rimelige vilkår",
+                        "Avslag skal begrunnes skriftlig, og inneholde en vurdering i samsvar med tredje ledd. Anmodningen kan bringes inn for tvisteløsningsorganet til avgjørelse, jf. § 15, dersom nettoperatøren avslår, eller avtale ikke er inngått innen to måneder etter mottak av anmodning.",
+                        "Departementet kan gi forskrift om tilgang til fysisk infrastruktur og om vilkår for slik tilgang, herunder om prisvilkår."
+                    ]
+                },
+                {
+                    "name": "§ 8",
+                    "title": "Tilgang til informasjon om eksisterende fysisk infrastruktur",
+                    "sections": [
+                        "Nettoperatør skal etter anmodning fra bredbåndsutbygger, gi tilgang til følgende minimumssett av opplysninger om eksisterende fysisk infrastruktur:\n1\tlokalisering og framføringsrute\n2\tinfrastrukturtype og gjeldende anvendelse og kontaktinformasjon",
+                        "Anmodningen skal være skriftlig og spesifisere området hvor det planlegges å etablere høyhastighetsnett.",
+                        "Tilgang til informasjon om fysisk infrastruktur etter første ledd skal gis på forholdsmessige, ikke-diskriminerende og transparente vilkår og senest ti virkedager fra mottak av anmodningen.",
+                        "Nettoperatør kan avslå å levere ut opplysninger etter første ledd dersom nettoperatør allerede har gjort opplysningene offentlig tilgjengelige i elektronisk format, opplysningene er tilgjengelige gjennom sentral informasjonstjeneste, jf. § 20, eller opplysningene faller inn under § 12.",
+                        "Tvister om tilgang til informasjon om eksisterende fysisk infrastruktur kan bringes inn for tvisteløsningsorganet til avgjørelse, jf. § 15.",
+                        "Departementet kan gi forskrift om hvilken informasjon det skal gis tilgang til, når denne skal gis og om unntak fra plikten til å gi tilgang til informasjon om fysisk infrastruktur."
+                    ]
+                },
+                {
+                    "name": "§ 9",
+                    "title": "Befaring",
+                    "sections": [
+                        "Nettoperatør skal imøtekomme enhver rimelig anmodning fra bredbåndsutbygger om befaring av aktuelle deler av den fysiske infrastrukturen.",
+                        "Anmodningen skal være skriftlig og angi nærmere hvilke elementer i den fysiske infrastrukturen som planlegges benyttet til framføring av høyhastighetsnett. Anmodningen skal besvares så snart som mulig og befaring som innvilges skal skje senest én måned fra anmodningen er mottatt, med mindre annet er avtalt mellom partene. Befaring skal gjennomføres på vilkår som er forholdsmessige, ikke-diskriminerende og transparente. Plikten til å gi tilgang til befaring kan begrenses, jf. § 12.",
+                        "Tvister om befaring kan bringes inn for tvisteløsningsorganet til avgjørelse, jf. § 15.",
+                        "Departement kan gi forskrift om befaring og om unntak fra plikten etter første ledd."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 3. Samordning og informasjon om bygge- og anleggsarbeider",
+            "paragraphs": [
+                {
+                    "name": "§ 10",
+                    "title": "Samordning av bygge- og anleggsarbeider",
+                    "sections": [
+                        "Nettoperatør som er ansvarlig for utførelsen av bygge- eller anleggsarbeider som helt eller delvis er finansiert med offentlige midler, skal på transparente og ikke-diskriminerende vilkår imøtekomme enhver rimelig anmodning fra bredbåndsutbygger om samordning av bygge- eller anleggsarbeidene for utbygging av høyhastighetsnett for elektronisk kommunikasjon. Anmodningen om samordning skal være skriftlig.",
+                        "Plikten etter første ledd gjelder ikke dersom\n1\tsamordning vil medføre ekstra kostnader for det opprinnelige tiltaket\n2\tsamordning vil påvirke kontrollen med koordineringen av arbeidet\n3\tanmodning om samordning ikke er inngitt så snart som mulig og ved søknadspliktige arbeider, senest én måned før nettoperatør har sendt endelig søknad om godkjenning av bygge- eller anleggsarbeidet\n4\tunntakene i § 12 kommer til anvendelse",
+                        "Dersom det ikke oppnås enighet om samordning av bygge- og anleggsarbeidene etter første ledd, herunder om fordelingen av de totale anleggskostnadene, innen én måned fra dato for anmodning om samordning, kan saken bringes inn for tvisteløsningsorganet til avgjørelse, jf. § 15.",
+                        "Departementet kan gi forskrift om samordning av bygge- og anleggsarbeider og unntak fra plikten etter første ledd. Herunder kan departementet gi forskrift om fordeling av kostnader."
+                    ]
+                },
+                {
+                    "name": "§ 11",
+                    "title": "Informasjon om planlagte bygge- og anleggsarbeider",
+                    "sections": [
+                        "Nettoperatør som har fått innvilget eller søkt om tillatelse til bygge- og anleggsarbeid eller som planlegger å søke om slik tillatelse i løpet av de neste seks måneder, skal etter anmodning gi bredbåndsutbygger tilgang til følgende opplysninger om pågående eller planlagte bygge- og anleggsarbeider for etablering av fysisk infrastruktur:\n1\tlokalisering og type bygge- eller anleggsarbeider\n2\thvilke deler av fysisk infrastruktur som vil bli berørt\n3\tforventet dato for oppstart av bygge- og anleggsarbeider og varighet\n4\tkontaktinformasjon til den ansvarlige hos nettoperatør",
+                        "Opplysningene skal gis på forholdsmessige, ikke-diskriminerende og transparente vilkår, og innen ti virkedager fra mottak av anmodning.",
+                        "Nettoperatør kan avslå å levere ut opplysninger etter første ledd dersom opplysningene allerede er offentlig tilgjengelige i elektronisk format, eller opplysningene er tilgjengelige gjennom den sentrale informasjonstjenesten. Nettoperatør kan nekte eller begrense tilgang til opplysninger når unntakene i § 12 kommer til anvendelse.",
+                        "Anmodning etter første ledd skal være skriftlig og angi det geografiske området hvor høyhastighetsnett planlegges etablert.",
+                        "Tvister om tilgang til informasjon om planlagte bygge- og anleggsarbeider kan bringes inn for tvisteløsningsorganet til avgjørelse, jf. § 15.",
+                        "Departementet kan gi forskrift om plikten til å utlevere informasjon og om unntak fra denne plikten."
+                    ]
+                },
+                {
+                    "name": "§ 12",
+                    "title": "Unntak fra plikt til å gi informasjon, samordning og adgang til befaring",
+                    "sections": [
+                        "Reglene i §§ 10, 11 og 21 gjelder ikke for arbeider av begrenset økonomisk verdi, størrelse og varighet, eller når kritisk infrastruktur berøres.",
+                        "Tilgangen til informasjon etter §§ 8, 11 eller 21 eller til befaring etter § 9 kan nektes eller begrenses, hvor dette er nødvendig av hensyn til:\n1\tnettsikkerhet og nettets integritet\n2\tnasjonale sikkerhetsinteresser\n3\tsikkerhet og folkehelse\n4\tdrifts- eller forretningshemmeligheter",
+                        "Avslag eller begrensninger i informasjon som gis ut, eller i adgangen til befaring, kan bringes inn for tvisteløsningsorganet i henhold til § 15."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 4. Fysisk infrastruktur i bygninger",
+            "paragraphs": [
+                {
+                    "name": "§ 13",
+                    "title": "Etablering av fysisk infrastruktur i bygninger",
+                    "sections": [
+                        "Tiltakshaver skal sikre at alle bygninger som skal oppføres, eller som gjennomgår større renoveringsarbeider, og hvor det normalt oppholder seg sluttbrukere, er klargjort innvendig med fysisk infrastruktur for framføring av høyhastighetsnett fram til nettermineringspunktene, jf. ekomloven § 1-5 nummer 8.",
+                        "Tiltakshaver skal sikre at alle bygninger med flere bruks- eller eierseksjoner som skal oppføres, eller som gjennomgår større renoveringsarbeider, har tilkoblingspunkt.",
+                        "Første og annet ledd gjelder ikke for fritidsboliger, kirkebygg, monumenter, bygninger av historisk verdi, bygninger som er utpekt som skjermingsverdige objekter og bygninger hvor kostnadene for klargjøring for høyhastighetsnett vil være uforholdsmessig høye.",
+                        "Departementet kan gi forskrift om etablering av infrastruktur i bygninger og gjøre unntak fra plikten etter første og annet ledd."
+                    ]
+                },
+                {
+                    "name": "§ 14",
+                    "title": "Tilgang til fysisk infrastruktur i bygninger",
+                    "sections": [
+                        "Alle som eier eller har bruksrett til tilkoblingspunkt eller fysisk infrastruktur i bygninger med flere bruks- eller eierseksjoner skal imøtekomme enhver rimelig anmodning fra bredbåndsutbygger om tilgang til slik infrastruktur. Anmodning om tilgang skal være skriftlig og angi tilkoblingspunktet eller den fysiske infrastrukturen anmodningen gjelder. Tilgangen skal gis på ikke-diskriminerende og rimelige vilkår, herunder pris.",
+                        "Plikten etter første ledd gjelder kun dersom duplisering av slik infrastruktur ikke er teknisk mulig eller økonomisk effektivt.",
+                        "Avslag på anmodning etter første ledd skal gis skriftlig innen to måneder etter at anmodningen er mottatt. Dersom partene ikke er enig om tilgang innen to måneder etter mottak av anmodningen, kan tvisten bringes inn for tvisteløsningsorganet til avgjørelse i henhold til § 15.",
+                        "Departementet kan gi forskrift om tilgang til tilkoblingspunktet og til fysisk infrastruktur i bygning."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 5. Tvisteløsning og tilsyn mv.",
+            "paragraphs": [
+                {
+                    "name": "§ 15",
+                    "title": "Tvisteløsningsorgan",
+                    "sections": [
+                        "Tvisteløsningsorganet skal behandle tvister i saker etter §§ 7, 8, 9, 10, 11, 12 og 14. Tvister kan bringes inn for tvisteløsningsorganet av en part eller annen med rettslig klageinteresse.",
+                        "Nasjonal kommunikasjonsmyndighet er tvisteløsningsorgan. Tvisteløsningsorganet kan nedsette en ekspertgruppe som skal bistå ved avgjørelse av tvister. Ekspertgruppen skal normalt ha deltakere med teknisk, økonomisk og juridisk kompetanse fra myndighetene til sektorer som er berørt av tiltaket.",
+                        "Nettoperatør plikter å gi tvisteløsningsorganet, herunder ekspertgruppen, uhindret tilgang til virksomheten og lokaler med utstyr, samt opplysninger som er nødvendige for å kunne avgjøre tvister.",
+                        "Tvisteløsningsorganet skal fatte vedtak i saker etter § 7 uten ugrunnet opphold og senest fire måneder etter at fullstendig anmodning om behandling er mottatt. I saker etter §§ 8, 9, 10, 11 og 14 skal vedtak fattes uten ugrunnet opphold og senest to måneder etter at fullstendig anmodning om behandling er mottatt. Fristene kan kun fravikes i særlige tilfeller.",
+                        "Så lenge en sak er til behandling i tvisteløsningsorganet, kan ikke saken bringes inn for tingretten.",
+                        "Vedtak som er fattet av tvisteløsningsorganet kan ikke påklages, men kan overprøves ved søksmål for tingretten. Søksmål må bringes inn for tingretten innen to måneder etter at vedtaket er forkynt for partene, jf. tvisteloven § 9-2 fjerde ledd.",
+                        "Departementet kan gi forskrift om organiseringen og saksbehandlingsreglene for tvisteløsningsorganet, og om nettoperatørens plikt til å bistå i tvisteløsningen."
+                    ]
+                },
+                {
+                    "name": "§ 16",
+                    "title": "Tilsyn",
+                    "sections": [
+                        "Nasjonal kommunikasjonsmyndighet skal føre tilsyn med at krav fastsatt i eller i medhold av loven er oppfylt. Nasjonal kommunikasjonsmyndighet kan pålegge nettoperatør å utlevere opplysninger som er nødvendige for gjennomføringen av tilsynet.",
+                        "Nasjonal kommunikasjonsmyndighet kan nytte bistand fra andre ved utførelsen av tilsynet og kan foreta kontroll uten forhåndsvarsel.",
+                        "Departementet kan gi forskrift om tilsyn."
+                    ]
+                },
+                {
+                    "name": "§ 17",
+                    "title": "Medvirkning ved stedlig tilsyn",
+                    "sections": [
+                        "Nettoperatør har plikt til å sørge for at Nasjonal kommunikasjonsmyndighet har uhindret adgang til fysisk infrastruktur og lokaler med utstyr knyttet til pliktene etter loven. Plikten gjelder også for den som eier eller har bruksrett til fysisk infrastruktur i bygning.",
+                        "Den som har plikt etter første ledd eller som utfører oppdrag for den som plikten retter seg mot, skal gjøre nødvendig dokumentasjon tilgjengelig for myndigheten og kan pålegges å være til stede under tilsynet."
+                    ]
+                },
+                {
+                    "name": "§ 18",
+                    "title": "Pålegg om retting og endring mv.",
+                    "sections": [
+                        "Nasjonal kommunikasjonsmyndighet kan ved enkeltvedtak pålegge retting eller opphør av ulovlige forhold og fastsette vilkår som skal sikre samsvar med krav fastsatt i eller i medhold av loven. Nasjonal kommunikasjonsmyndighet kan blant annet gi pålegg om avtaleinngåelse mellom nettoperatører, om avtalevilkår og om tilgang til infrastrukturen."
+                    ]
+                },
+                {
+                    "name": "§ 19",
+                    "title": "Tvangsmulkt",
+                    "sections": [
+                        "For å sikre at krav fastsatt i eller i medhold av loven oppfylles, kan Nasjonal kommunikasjonsmyndighet fatte vedtak om tvangsmulkt."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 6. Sentral informasjonstjeneste",
+            "paragraphs": [
+                {
+                    "name": "§ 20",
+                    "title": "Sentral informasjonstjeneste",
+                    "sections": [
+                        "Nasjonal kommunikasjonsmyndighet skal være sentral informasjonstjeneste og skal gjøre tilgjengelig opplysninger om:\n1\teksisterende fysisk infrastruktur\n2\tplanlagte og pågående bygge- og anleggsarbeider\n3\tsøknads- og tillatelsesprosedyrer for bygge- og anleggsarbeider ved utbygging av høyhastighetsnett",
+                        "Nasjonal kommunikasjonsmyndighet skal sørge for at opplysningene i informasjonstjenesten gjøres tilgjengelig i elektronisk format på en oversiktlig måte, og skal sikre vern av kommunikasjon og data i tjenesten.",
+                        "Nasjonal kommunikasjonsmyndighet kan selv utføre oppgavene som sentral informasjonstjeneste eller sette tjenesten ut til ekstern tjenesteleverandør.",
+                        "Departementet kan gi forskrift om organisering, saksbehandlingsregler og frister for sentral informasjonstjeneste."
+                    ]
+                },
+                {
+                    "name": "§ 21",
+                    "title": "Plikt til å gi opplysninger til sentral informasjonstjeneste",
+                    "sections": [
+                        "Nettoperatør skal gi sentral informasjonstjeneste opplysninger om eksisterende fysisk infrastruktur, jf. § 8, og skal oppdatere opplysningene innen to måneder etter endringer i den fysiske infrastrukturen. Plikten gjelder kun opplysninger om infrastruktur som allerede finnes i elektronisk format, og med forbehold for unntakene i § 12.",
+                        "Nettoperatør skal uten ugrunnet opphold gi opplysninger om planlagte og pågående bygge- og anleggsarbeider til sentral informasjonstjeneste.",
+                        "Offentlig organ som på grunn av sin virksomhet har opplysninger om nettoperatørers fysiske infrastruktur som nevnt i § 8 første ledd i elektronisk format, skal gi opplysningene til sentral informasjonstjeneste i elektronisk format dersom denne informasjonen ikke allerede er tilgjengelig gjennom den sentrale informasjonstjenesten.",
+                        "Departementet kan gi forskrift om opplysningsplikt til sentral informasjonstjeneste eller unntak fra denne."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kapittel 7. Avsluttende bestemmelser",
+            "paragraphs": [
+                {
+                    "name": "§ 22",
+                    "title": "Gebyr og sektoravgift",
+                    "sections": [
+                        "Nasjonal kommunikasjonsmyndighet kan kreve gebyr og sektoravgift av tilbydere av elektronisk kommunikasjonsnett og -tjeneste, jf. ekomloven § 1-5, til dekning av kostnadene knyttet til forvaltningen av denne lov, tilsyn, opprettelse og drift av tvisteløsningsorgan, og opprettelse og drift av sentral informasjonstjeneste.",
+                        "Departementet kan gi forskrift med nærmere regler om gebyr og sektoravgift."
+                    ]
+                },
+                {
+                    "name": "§ 23",
+                    "title": "Innkreving av tvangsmulkt, gebyr, sektoravgift mv.",
+                    "sections": [
+                        "Endelig vedtak om gebyr og sektoravgift etter § 22 og tvangsmulkt etter § 19 er tvangsgrunnlag for utlegg.",
+                        "Innkreving av krav som nevnt i første ledd, kan pålegges Statens innkrevingssentral. Innkrevingssentralen kan også kreve inn utestående fordringer ved å stifte utleggspant for kravet dersom panterett kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. panteloven kapittel 5."
+                    ]
+                },
+                {
+                    "name": "§ 24",
+                    "title": "Saksbehandlingsregler",
+                    "sections": [
+                        "Når annet ikke er bestemt, gjelder lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) for behandling av saker etter denne lov."
+                    ]
+                },
+                {
+                    "name": "§ 25",
+                    "title": "Endringer i andre lover",
+                    "sections": [
+                        "Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:",
+                        "1. I lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon skal § 4-4 annet ledd lyde:",
+                        "Myndigheten kan pålegge enhver kabeleier plikt til felles utnyttelse av kabler i bygning eller til første tilkoblingspunkt hvor dette er plassert utenfor bygning, når duplisering av slik infrastruktur er vanskelig å gjennomføre, eller ikke er samfunnsøkonomisk effektivt.",
+                        "2. I lov 21. juni 1963 nr. 23 om vegar skal § 32 andre og nytt tredje ledd lyde:",
+                        "Departementet kan gi forskrift om vilkår for løyve, sakshandsaming, utgiftsdeling og gebyr i samband med løyve etter denne paragrafen og § 30.",
+                        "Dersom ein frist som er fastsett i eit vedtak om igangsetting og avslutning av leidningsarbeid, fjerning eller flytting av leidningar, eller istandsetting av veggrunn etter leidningsarbeid, er overskriden, kan vegstyresmakta gjere vedtak om tvangsmulkt. Vedtaket om tvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan gi forskrift om fastsetjing, utrekning og ettergiving av tvangsmulkt."
+                    ]
+                },
+                {
+                    "name": "§ 26",
+                    "title": "Ikrafttredelse",
+                    "sections": [
+                        "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
+                    ]
+                }
+            ]
+        }
+    ]
+}

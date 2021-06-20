@@ -2,7 +2,7 @@
     "lawId": "LOV-2017-06-16-51",
     "lawName": "Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)",
     "shortName": "Likestillings- og diskrimineringsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.81 L (2016–2017), Innst.389 L (2016–2017), Lovvedtak 118 (2016–2017). Stortingets første og andre gangs behandling hhv. 12. og 15. juni 2017. Fremmet av Barne- og likestillingsdepartementet.\nFølgende lover oppheves:\n1\tLov 21. juni 2013 nr. 58 om forbud mot diskriminering på grunn av seksuell orientering, kjønnsidentitet og kjønnsuttrykk (diskrimineringsloven om seksuell orientering).\n2\tLov 21. juni 2013 nr. 59 om likestilling mellom kjønnene (likestillingsloven).\n3\tLov 21. juni 2013 nr. 60 om forbud mot diskriminering på grunn av etnisitet, religion og livssyn (diskrimineringsloven om etnisitet).\n3\tLov 21. juni 2013 nr. 61 om forbud mot diskriminering på grunn av nedsatt funksjonsevne (diskriminerings- og tilgjengelighetsloven).\nEndringer i følgende lover:\n1\tLov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven).\n2\tLov 23. mai 1997 nr. 31 om eierseksjoner (eierseksjonsloven).\n3\tLov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven).\n4\tLov 26. mars 1999 nr. 17 om husleieavtaler (husleieloven).\n5\tLov 6. juni 2003 nr. 38 om bustadbyggjelag (bustadbyggjelagslova).\n6\tLov 6. juni 2003 nr. 39 om burettslag (burettslagslova).\n7\tLov 17. juni 2005 nr. 62 om arbeidsmiljø-, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).\n8\tLov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven).",
     "chapters": [
         {
             "name": "Kapittel 1 Innledende bestemmelser",
@@ -80,10 +80,7 @@
                     "name": "§ 9",
                     "title": "Lovlig forskjellsbehandling",
                     "sections": [
-                        "Forskjellsbehandling er ikke i strid med forbudet i § 6 når den",
-                        "a)har et saklig formål",
-                        "b)er nødvendig for å oppnå formålet og",
-                        "c)ikke er uforholdsmessig inngripende overfor den eller de som forskjellsbehandles.",
+                        "Forskjellsbehandling er ikke i strid med forbudet i § 6 når den\na)\thar et saklig formål\nb)\ter nødvendig for å oppnå formålet og\nc)\tikke er uforholdsmessig inngripende overfor den eller de som forskjellsbehandles.",
                         "I arbeidsforhold og ved valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere er direkte forskjellsbehandling på grunn av kjønn, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet og kjønnsuttrykk bare tillatt hvis denne egenskapen har avgjørende betydning for utøvelsen av arbeidet eller yrket, og vilkårene i første ledd er oppfylt.",
                         "Aldersgrenser som følger av lov eller forskrift, og fordelaktige priser på grunn av alder, er ikke i strid med forbudet i § 6."
                     ]
@@ -92,10 +89,7 @@
                     "name": "§ 10",
                     "title": "Lovlig forskjellsbehandling på grunn av graviditet, fødsel, amming og permisjon ved fødsel eller adopsjon",
                     "sections": [
-                        "Forskjellsbehandling på grunn av",
-                        "a)graviditet, fødsel og amming, herunder fravær etter arbeidsmiljøloven §§ 12-1, 12-2, 12-3 første ledd første punktum, 12-4 og 12-8, og",
-                        "b)permisjon forbeholdt hver av foreldrene, jf. folketrygdloven § 14-12 første ledd",
-                        "er bare tillatt der forskjellsbehandlingen er nødvendig for å beskytte kvinnen, fosteret eller barnet i forbindelse med graviditet, fødsel eller amming, eller der det foreligger andre åpenbare grunner. Forskjellsbehandlingen må ikke være uforholdsmessig inngripende overfor den som forskjellsbehandles.",
+                        "Forskjellsbehandling på grunn av\na)\tgraviditet, fødsel og amming, herunder fravær etter arbeidsmiljøloven §§ 12-1, 12-2, 12-3 første ledd første punktum, 12-4 og 12-8, og\nb)\tpermisjon forbeholdt hver av foreldrene, jf. folketrygdloven § 14-12 første ledd\ner bare tillatt der forskjellsbehandlingen er nødvendig for å beskytte kvinnen, fosteret eller barnet i forbindelse med graviditet, fødsel eller amming, eller der det foreligger andre åpenbare grunner. Forskjellsbehandlingen må ikke være uforholdsmessig inngripende overfor den som forskjellsbehandles.",
                         "Ved forskjellsbehandling på grunn av permisjon ved fødsel eller adopsjon i perioder som ikke omfattes av første ledd, gjelder § 9 første ledd.",
                         "Ved ansettelse og oppsigelse er forskjellsbehandling på grunn av graviditet, fødsel, amming og permisjon ved fødsel eller adopsjon aldri tillatt. Dette gjelder også ved forlengelse av midlertidig stilling."
                     ]
@@ -104,10 +98,7 @@
                     "name": "§ 11",
                     "title": "Adgang til positiv særbehandling",
                     "sections": [
-                        "Positiv særbehandling på grunn av forhold som nevnt i § 6 første ledd er tillatt hvis",
-                        "a)særbehandlingen er egnet til å fremme lovens formål,",
-                        "b)det er et rimelig forhold mellom formålet man ønsker å oppnå og hvor inngripende særbehandlingen er for den eller de som stilles dårligere og",
-                        "c)særbehandlingen opphører når formålet med den er oppnådd."
+                        "Positiv særbehandling på grunn av forhold som nevnt i § 6 første ledd er tillatt hvis\na)\tsærbehandlingen er egnet til å fremme lovens formål,\nb)\tdet er et rimelig forhold mellom formålet man ønsker å oppnå og hvor inngripende særbehandlingen er for den eller de som stilles dårligere og\nc)\tsærbehandlingen opphører når formålet med den er oppnådd."
                     ]
                 },
                 {
@@ -164,13 +155,7 @@
                     "sections": [
                         "Offentlige og private virksomheter rettet mot allmennheten har plikt til universell utforming av virksomhetens alminnelige funksjoner.",
                         "Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, inkludert informasjons- og kommunikasjonsteknologi (IKT), slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse.",
-                        "Plikten gjelder ikke utforming eller tilrettelegging som innebærer en uforholdsmessig byrde for virksomheten. Ved vurderingen skal det særlig legges vekt på",
-                        "a)effekten av å fjerne barrierer for personer med funksjonsnedsettelse",
-                        "b)om virksomhetens alminnelige funksjoner er av offentlig art",
-                        "c)kostnadene ved tilretteleggingen",
-                        "d)virksomhetens ressurser",
-                        "e)sikkerhetshensyn",
-                        "f)vernehensyn.",
+                        "Plikten gjelder ikke utforming eller tilrettelegging som innebærer en uforholdsmessig byrde for virksomheten. Ved vurderingen skal det særlig legges vekt på\na)\teffekten av å fjerne barrierer for personer med funksjonsnedsettelse\nb)\tom virksomhetens alminnelige funksjoner er av offentlig art\nc)\tkostnadene ved tilretteleggingen\nd)\tvirksomhetens ressurser\ne)\tsikkerhetshensyn\nf)\tvernehensyn.",
                         "Plikten etter første ledd anses som oppfylt dersom virksomheten oppfyller krav til universell utforming i lov eller forskrift.",
                         "Kongen kan gi forskrift om innholdet i plikten til universell utforming på områder som ikke er omfattet av krav i annen lov eller forskrift."
                     ]
@@ -198,10 +183,7 @@
                     "sections": [
                         "Barn med funksjonsnedsettelse har rett til egnet individuell tilrettelegging av kommunale barnehagetilbud, for å sikre likeverdige utviklings- og aktivitetsmuligheter.",
                         "Personer med funksjonsnedsettelse har rett til egnet individuell tilrettelegging av kommunale tjenestetilbud etter helse- og omsorgstjenesteloven av varig karakter for den enkelte, for å sikre et likeverdig tilbud.",
-                        "Retten etter første og andre ledd gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på",
-                        "a)tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse",
-                        "b)kostnadene ved tilretteleggingen",
-                        "c)virksomhetens ressurser."
+                        "Retten etter første og andre ledd gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på\na)\ttilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse\nb)\tkostnadene ved tilretteleggingen\nc)\tvirksomhetens ressurser."
                     ]
                 },
                 {
@@ -209,10 +191,7 @@
                     "title": "Rett til individuell tilrettelegging for elever og studenter",
                     "sections": [
                         "Elever og studenter med funksjonsnedsettelse ved skole- og utdanningsinstitusjoner har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter.",
-                        "Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på",
-                        "a)tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse",
-                        "b)kostnadene ved tilretteleggingen",
-                        "c)virksomhetens ressurser."
+                        "Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på\na)\ttilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse\nb)\tkostnadene ved tilretteleggingen\nc)\tvirksomhetens ressurser."
                     ]
                 },
                 {
@@ -220,10 +199,7 @@
                     "title": "Rett til individuell tilrettelegging for arbeidssøkere og arbeidstakere",
                     "sections": [
                         "Arbeidstakere og arbeidssøkere med funksjonsnedsettelse har rett til egnet individuell tilrettelegging av ansettelsesprosess, arbeidsplass og arbeidsoppgaver, for å sikre at de kan få eller beholde arbeid, ha tilgang til opplæring og annen kompetanseutvikling samt utføre og ha mulighet til fremgang i arbeidet, på lik linje med andre.",
-                        "Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på",
-                        "a)tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse",
-                        "b)kostnadene ved tilretteleggingen",
-                        "c)virksomhetens ressurser."
+                        "Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på\na)\ttilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse\nb)\tkostnadene ved tilretteleggingen\nc)\tvirksomhetens ressurser."
                     ]
                 },
                 {
@@ -231,10 +207,7 @@
                     "title": "Rett til individuell tilrettelegging for gravide arbeidssøkere, arbeidstakere, elever og studenter",
                     "sections": [
                         "Gravide elever og studenter har rett til egnet individuell tilrettelegging av lærested, undervisning og eksamen. Gravide arbeidstakere og arbeidssøkere har rett til egnet individuell tilrettelegging av ansettelsesprosess, arbeidsplass og arbeidsoppgaver.",
-                        "Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på",
-                        "a)tilretteleggingens effekt for å fjerne barrierer for kvinners deltakelse i utdanning og arbeid",
-                        "b)kostnadene ved tilretteleggingen",
-                        "c)virksomhetens ressurser."
+                        "Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på\na)\ttilretteleggingens effekt for å fjerne barrierer for kvinners deltakelse i utdanning og arbeid\nb)\tkostnadene ved tilretteleggingen\nc)\tvirksomhetens ressurser."
                     ]
                 }
             ]
@@ -261,11 +234,7 @@
                     "title": "Arbeidsgivers plikt til å arbeide for likestilling",
                     "sections": [
                         "Alle arbeidsgivere skal, innenfor sin virksomhet, arbeide aktivt, målrettet og planmessig for å fremme likestilling og hindre diskriminering på grunn av kjønn, graviditet, permisjon ved fødsel og adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet og kjønnsuttrykk. Arbeidet skal blant annet omfatte rekruttering, lønns- og arbeidsvilkår, forfremmelse, utviklingsmuligheter, tilrettelegging, mulighet for å kombinere arbeid og familieliv og forebygging av trakassering.",
-                        "I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhet",
-                        "a)undersøke om det finnes risiko for diskriminering eller andre hindre for likestilling,",
-                        "b)analysere årsakene til identifiserte risikoer,",
-                        "c)iverksette tiltak som er egnet til å motvirke diskriminering, og bidra til økt likestilling og mangfold i virksomheten og",
-                        "d)vurdere resultater av arbeidet etter bokstav a til c.",
+                        "I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhet\na)\tundersøke om det finnes risiko for diskriminering eller andre hindre for likestilling,\nb)\tanalysere årsakene til identifiserte risikoer,\nc)\tiverksette tiltak som er egnet til å motvirke diskriminering, og bidra til økt likestilling og mangfold i virksomheten og\nd)\tvurdere resultater av arbeidet etter bokstav a til c.",
                         "Arbeidet som nevnt i andre ledd skal skje fortløpende og i samarbeid med de ansattes representanter."
                     ]
                 },
@@ -280,12 +249,7 @@
                     "name": "§ 28",
                     "title": "Kjønnsbalanse i offentlige utvalg mv.",
                     "sections": [
-                        "Når et offentlig organ oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv., skal begge kjønn være representert på følgende måte:",
-                        "a)Har utvalget to eller tre medlemmer, skal begge kjønn være representert.",
-                        "b)Har utvalget fire eller fem medlemmer, skal hvert kjønn være representert med minst to.",
-                        "c)Har utvalget seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.",
-                        "d)Har utvalget ni medlemmer, skal hvert kjønn være representert med minst fire.",
-                        "e)Har utvalget flere medlemmer, skal hvert kjønn være representert med minst 40 pst.",
+                        "Når et offentlig organ oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv., skal begge kjønn være representert på følgende måte:\na)\tHar utvalget to eller tre medlemmer, skal begge kjønn være representert.\nb)\tHar utvalget fire eller fem medlemmer, skal hvert kjønn være representert med minst to.\nc)\tHar utvalget seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.\nd)\tHar utvalget ni medlemmer, skal hvert kjønn være representert med minst fire.\ne)\tHar utvalget flere medlemmer, skal hvert kjønn være representert med minst 40 pst.",
                         "Første ledd gjelder også ved oppnevning og valg av varamedlemmer.",
                         "Departementet kan gi dispensasjon fra kravet om kjønnsbalanse dersom det ikke har latt seg gjøre å finne et tilstrekkelig antall kvalifiserte medlemmer av begge kjønn.",
                         "Første ledd gjelder ikke for utvalg mv. som etter lov bare skal ha medlemmer fra direkte valgte forsamlinger. For utvalg mv. valgt av folkevalgte organer i kommuner og fylkeskommuner, gjelder bestemmelsene i kommuneloven.",
@@ -301,12 +265,7 @@
                     "name": "§ 29",
                     "title": "Diskrimineringsforbudet i arbeidsforhold mv.",
                     "sections": [
-                        "Forbudene i kapittel 2 gjelder alle sider av et arbeidsforhold. Dette omfatter blant annet",
-                        "a)utlysning av stilling,",
-                        "b)ansettelse, omplassering og forfremmelse,",
-                        "c)opplæring og kompetanseutvikling,",
-                        "d)lønns- og arbeidsvilkår og",
-                        "e)opphør.",
+                        "Forbudene i kapittel 2 gjelder alle sider av et arbeidsforhold. Dette omfatter blant annet\na)\tutlysning av stilling,\nb)\tansettelse, omplassering og forfremmelse,\nc)\topplæring og kompetanseutvikling,\nd)\tlønns- og arbeidsvilkår og\ne)\topphør.",
                         "Første ledd gjelder tilsvarende for arbeidsgiveres valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere."
                     ]
                 },
@@ -314,12 +273,7 @@
                     "name": "§ 30",
                     "title": "Forbud mot innhenting av opplysninger i ansettelsesprosesser",
                     "sections": [
-                        "Arbeidsgivere må ikke i ansettelsesprosessen, herunder under intervju eller på annen måte, innhente opplysninger om en søkers",
-                        "a)graviditet, adopsjon eller planer om å få barn",
-                        "b)religion eller livssyn",
-                        "c)etnisitet",
-                        "d)funksjonsnedsettelse",
-                        "e)seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk.",
+                        "Arbeidsgivere må ikke i ansettelsesprosessen, herunder under intervju eller på annen måte, innhente opplysninger om en søkers\na)\tgraviditet, adopsjon eller planer om å få barn\nb)\treligion eller livssyn\nc)\tetnisitet\nd)\tfunksjonsnedsettelse\ne)\tseksuelle orientering, kjønnsidentitet eller kjønnsuttrykk.",
                         "Innhenting av opplysninger om etnisitet, religion, livssyn, funksjonsnedsettelse og samlivsform er likevel tillatt hvis opplysningene har avgjørende betydning for utøvelsen av arbeidet eller yrket.",
                         "Innhenting av opplysninger om søkerens samlivsform, religion eller livssyn er tillatt hvis virksomheten har som formål å fremme bestemte livssyn eller religiøse syn, og arbeidstakers stilling vil ha betydning for å gjennomføre formålet. Dersom slike opplysninger vil bli krevet, må dette oppgis i utlysningen av stillingen."
                     ]
@@ -344,10 +298,7 @@
                     "name": "§ 33",
                     "title": "Arbeidstakeres rettigheter ved foreldrepermisjon",
                     "sections": [
-                        "Arbeidstakere som er eller har vært i foreldrepermisjon etter arbeidsmiljøloven § 12-5, har rett til å",
-                        "a)vende tilbake til samme, eventuelt tilsvarende, stilling,",
-                        "b)nyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet og",
-                        "c)fremme lønnskrav og bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.",
+                        "Arbeidstakere som er eller har vært i foreldrepermisjon etter arbeidsmiljøloven § 12-5, har rett til å\na)\tvende tilbake til samme, eventuelt tilsvarende, stilling,\nb)\tnyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet og\nc)\tfremme lønnskrav og bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.",
                         "Første ledd gjelder ikke fastsettelse eller endringer av lønns- og arbeidsvilkår som er en følge av andre forhold enn foreldrepermisjon.",
                         "Paragrafen her gjelder tilsvarende ved andre permisjoner knyttet til graviditet og fødsel etter arbeidsmiljøloven §§ 12-2 til 12-8."
                     ]
@@ -390,22 +341,14 @@
                     "title": "Bevisbyrde",
                     "sections": [
                         "Diskriminering skal anses å ha skjedd hvis det foreligger omstendigheter som gir grunn til å tro at diskriminering har skjedd, og den ansvarlige ikke sannsynliggjør at diskriminering likevel ikke har skjedd.",
-                        "Dette gjelder ved påståtte brudd på",
-                        "a)bestemmelsene i kapittel 2, med unntak av § 13 sjette ledd,",
-                        "b)reglene om universell utforming i §§ 17 og 18,",
-                        "c)reglene om individuell tilrettelegging i §§ 20 til 23 og",
-                        "d)§§ 29, 30, 33 og 34."
+                        "Dette gjelder ved påståtte brudd på\na)\tbestemmelsene i kapittel 2, med unntak av § 13 sjette ledd,\nb)\treglene om universell utforming i §§ 17 og 18,\nc)\treglene om individuell tilrettelegging i §§ 20 til 23 og\nd)\t§§ 29, 30, 33 og 34."
                     ]
                 },
                 {
                     "name": "§ 38",
                     "title": "Oppreisning og erstatning",
                     "sections": [
-                        "Den som er blitt behandlet i strid med",
-                        "a)bestemmelsene i kapittel 2, med unntak av § 13 sjette ledd",
-                        "b)reglene om individuell tilrettelegging i §§ 20 til 23",
-                        "c)§§ 29, 30, 33 og 34",
-                        "kan kreve oppreisning og erstatning.",
+                        "Den som er blitt behandlet i strid med\na)\tbestemmelsene i kapittel 2, med unntak av § 13 sjette ledd\nb)\treglene om individuell tilrettelegging i §§ 20 til 23\nc)\t§§ 29, 30, 33 og 34\nkan kreve oppreisning og erstatning.",
                         "I arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, gjelder arbeidsgivers ansvar uavhengig av om arbeidsgiver kan bebreides. På andre samfunnsområder gjelder ansvaret dersom den ansvarlige kan bebreides.",
                         "Erstatningen skal dekke økonomisk tap som følge av den ulovlige behandlingen. Oppreisning for ikke-økonomisk skade fastsettes til det som er rimelig ut fra skadens art og omfang, partenes forhold og omstendighetene for øvrig."
                     ]
@@ -414,12 +357,7 @@
                     "name": "§ 39",
                     "title": "Straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap",
                     "sections": [
-                        "Den som i fellesskap med minst to andre personer grovt overtrer forbudet mot å",
-                        "a)diskriminere på grunn av etnisitet, religion eller livssyn i § 6,",
-                        "b)trakassere på grunn av etnisitet, religion eller livssyn i § 13,",
-                        "c)gjengjelde på grunn av etnisitet, religion eller livssyn i § 14 eller",
-                        "d)instruere om å diskriminere på grunn av etnisitet, religion eller livssyn i § 15,",
-                        "straffes med bøter eller fengsel inntil tre år. Den som tidligere er ilagt straff for overtredelse av denne bestemmelsen, kan straffes selv om overtredelsen ikke er grov.",
+                        "Den som i fellesskap med minst to andre personer grovt overtrer forbudet mot å\na)\tdiskriminere på grunn av etnisitet, religion eller livssyn i § 6,\nb)\ttrakassere på grunn av etnisitet, religion eller livssyn i § 13,\nc)\tgjengjelde på grunn av etnisitet, religion eller livssyn i § 14 eller\nd)\tinstruere om å diskriminere på grunn av etnisitet, religion eller livssyn i § 15,\nstraffes med bøter eller fengsel inntil tre år. Den som tidligere er ilagt straff for overtredelse av denne bestemmelsen, kan straffes selv om overtredelsen ikke er grov.",
                         "Ved vurderingen av om en overtredelse er grov, skal det særlig legges vekt på graden av utvist skyld, om overtredelsen er rasistisk motivert, om den har karakter av trakassering, om den innebærer en kroppskrenkelse eller alvorlig krenkelse av noens psykiske integritet, om den er egnet til å skape frykt og om den er begått mot en person som er under 18 år.",
                         "Før tiltale tas ut for forhold som nevnt i første ledd, skal det vurderes om det vil være tilstrekkelig med sivilrettslige reaksjoner.",
                         "Reglene om bevisbyrde i § 37 første ledd gjelder ikke ved håndhevingen av denne bestemmelsen."
@@ -466,53 +404,38 @@
                     "name": "§ 44",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1. Lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner:",
-                        "§ 48 nr. 5 tredje og fjerde punktum oppheves.",
-                        "2. Lov 23. mai 1997 nr. 31 om eierseksjoner § 3 a skal lyde:"
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n1. Lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner:\n§ 48 nr. 5 tredje og fjerde punktum oppheves.\n2. Lov 23. mai 1997 nr. 31 om eierseksjoner § 3 a skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 3 a",
                     "title": "Forbud mot diskriminering",
                     "sections": [
-                        "I vedtektene kan det ikke settes vilkår for å være sameier som tar hensyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstendigheter kan ikke regnes som saklig grunn til å nekte godkjenning av en sameier eller bruker av eiendommen eller tillegges vekt ved bruk av eventuell forkjøpsrett. Ved diskriminering gjelder likestillings- og diskrimineringsloven.",
-                        "3. Lov 17. juli 1998 nr. 56 om årsregnskap:",
-                        "§ 3-3 sjette og syvende ledd oppheves.",
-                        "§ 3-3a tiende og ellevte ledd oppheves.",
-                        "4. Lov 26. mars 1999 nr. 17 om husleieavtaler § 1-8 skal lyde:"
+                        "I vedtektene kan det ikke settes vilkår for å være sameier som tar hensyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstendigheter kan ikke regnes som saklig grunn til å nekte godkjenning av en sameier eller bruker av eiendommen eller tillegges vekt ved bruk av eventuell forkjøpsrett. Ved diskriminering gjelder likestillings- og diskrimineringsloven.\n3. Lov 17. juli 1998 nr. 56 om årsregnskap:\n§ 3-3 sjette og syvende ledd oppheves.\n§ 3-3a tiende og ellevte ledd oppheves.\n4. Lov 26. mars 1999 nr. 17 om husleieavtaler § 1-8 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 1-8",
                     "title": "Forbud mot diskriminering",
                     "sections": [
-                        "Ved utleie av husrom kan det ikke tas hensyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstendigheter kan ikke regnes som saklig grunn til å nekte opptak i husstand, framleie, personskifte eller tillegges vekt ved opphør av leieforholdet. Ved diskriminering gjelder likestillings- og diskrimineringsloven.",
-                        "5. Lov 6. juni 2003 nr. 38 om bustadbyggjelag § 1-4 skal lyde:"
+                        "Ved utleie av husrom kan det ikke tas hensyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstendigheter kan ikke regnes som saklig grunn til å nekte opptak i husstand, framleie, personskifte eller tillegges vekt ved opphør av leieforholdet. Ved diskriminering gjelder likestillings- og diskrimineringsloven.\n5. Lov 6. juni 2003 nr. 38 om bustadbyggjelag § 1-4 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 1-4",
                     "title": "Forbod mot diskriminering",
                     "sections": [
-                        "I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstende kan ikkje reknast som sakleg grunn til å nekte godkjenning av ein andelseigar eller ha vekt ved tildeling av bustad. Ved diskriminering gjeld likestillings- og diskrimineringsloven.",
-                        "6. Lov 6. juni 2003 nr. 39 om burettslag § 1-5 skal lyde:"
+                        "I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstende kan ikkje reknast som sakleg grunn til å nekte godkjenning av ein andelseigar eller ha vekt ved tildeling av bustad. Ved diskriminering gjeld likestillings- og diskrimineringsloven.\n6. Lov 6. juni 2003 nr. 39 om burettslag § 1-5 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 1-5",
                     "title": "Forbod mot diskriminering",
                     "sections": [
-                        "I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstende kan ikkje reknast som sakleg grunn til å nekte godkjenning av ein andelseigar eller brukar eller ha vekt ved bruk av forkjøpsrett. Ved diskriminering gjeld likestillings- og diskrimineringsloven.",
-                        "7. Lov 17. juni 2005 nr. 62 om arbeidsmiljø-, arbeidstid og stillingsvern",
-                        "§ 13-1 fjerde ledd skal lyde:",
-                        "(4) Ved diskriminering på grunn av kjønn, graviditet, permisjon i forbindelse med fødsel og adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet eller kjønnsuttrykk gjelder likestillings- og diskrimineringsloven.",
-                        "§ 13-4 tredje ledd skal lyde:",
-                        "(3) Arbeidsgiver kan heller ikke innhente opplysninger som angitt i likestillings- og diskrimineringsloven § 30.",
-                        "8. Lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip",
-                        "§ 10-1 fjerde ledd skal lyde:",
-                        "(4) Ved diskriminering på grunn av kjønn, graviditet, permisjon i forbindelse med fødsel og adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet eller kjønnsuttrykk gjelder likestillings- og diskrimineringsloven.",
-                        "§ 10-4 tredje ledd skal lyde:",
+                        "I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstende kan ikkje reknast som sakleg grunn til å nekte godkjenning av ein andelseigar eller brukar eller ha vekt ved bruk av forkjøpsrett. Ved diskriminering gjeld likestillings- og diskrimineringsloven.\n7. Lov 17. juni 2005 nr. 62 om arbeidsmiljø-, arbeidstid og stillingsvern\n§ 13-1 fjerde ledd skal lyde:",
+                        "(4) Ved diskriminering på grunn av kjønn, graviditet, permisjon i forbindelse med fødsel og adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet eller kjønnsuttrykk gjelder likestillings- og diskrimineringsloven.\n§ 13-4 tredje ledd skal lyde:",
+                        "(3) Arbeidsgiver kan heller ikke innhente opplysninger som angitt i likestillings- og diskrimineringsloven § 30.\n8. Lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip\n§ 10-1 fjerde ledd skal lyde:",
+                        "(4) Ved diskriminering på grunn av kjønn, graviditet, permisjon i forbindelse med fødsel og adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet eller kjønnsuttrykk gjelder likestillings- og diskrimineringsloven.\n§ 10-4 tredje ledd skal lyde:",
                         "(3) Arbeidsgiver kan heller ikke innhente opplysninger som angitt i likestillings- og diskrimineringsloven § 30."
                     ]
                 }

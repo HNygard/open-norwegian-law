@@ -2,7 +2,7 @@
     "lawId": "LOV-2015-08-07-83",
     "lawName": "Midlertidig lov om beskyttelse av og kontroll med geografisk informasjon av hensyn til rikets sikkerhet",
     "shortName": "Midlertidig lov om kontroll med geografisk informasjon",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.86 L (2014–2015), Innst.334 L (2014–2015), Lovvedtak 107 (2014–2015). Stortingets første og andre gangs behandling hhv. 12. og 15. juni 2015. Fremmet av Forsvarsdepartementet.",
     "chapters": [
         {
             "paragraphs": [
@@ -25,9 +25,7 @@
                     "name": "§ 3",
                     "title": "Forbud mot opptak, mangfoldiggjøring eller offentliggjøring av dybdedata",
                     "sections": [
-                        "Med bøter eller fengsel inntil 1 år straffes den som uten samtykke av Kongen, eller den Kongen bemyndiger, og som ikke kan anses nødvendig for en sikker navigering i den alminnelige seilingsleden,",
-                        "a)opptar, mangfoldiggjør eller offentliggjør kart eller kartskisser over rikets havner, fjorder eller innløp eller norsk territorialfarvann, eller",
-                        "b)foretar målinger eller andre lodninger",
+                        "Med bøter eller fengsel inntil 1 år straffes den som uten samtykke av Kongen, eller den Kongen bemyndiger, og som ikke kan anses nødvendig for en sikker navigering i den alminnelige seilingsleden,\na)\topptar, mangfoldiggjør eller offentliggjør kart eller kartskisser over rikets havner, fjorder eller innløp eller norsk territorialfarvann, eller\nb)\tforetar målinger eller andre lodninger",
                         "Dersom forholdet rammes av et straffebud med høyere strafferamme enn 1 år, vil forholdet bedømmes etter den aktuelle bestemmelsen.",
                         "Kongen gir forskrift om vilkår for samtykke som nevnt i første ledd."
                     ]

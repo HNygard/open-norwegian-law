@@ -2,7 +2,7 @@
     "lawId": "LOV-2017-06-16-64",
     "lawName": "Lov om overføring av ansvar for kollektivtransport",
     "shortName": "Lov om overføring av ansvar for kollektivtransport",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.91 L (2016–2017), Innst.376 L (2016–2017), Lovvedtak 107 (2016–2017). Stortingets første og andre gangs behandling hhv. 8. og 12. juni 2017. Fremmet av Kommunal- og moderniseringsdepartementet.\nEndringer i følgende lover:\n1\tLov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m.  (jernbaneloven).\n2\tLov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova).",
     "chapters": [
         {
             "paragraphs": [
@@ -18,10 +18,7 @@
                     "name": "§ 2",
                     "title": "Overføring av ansvar for kollektivtransport og vilkår for overføringen",
                     "sections": [
-                        "Kongen i statsråd kan vedta overføring av ansvar for kollektivtransport fra fylkeskommunen til kommunen dersom kommunen kan dokumentere at den:",
-                        "a)omfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,",
-                        "b)har et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og",
-                        "c)har et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.",
+                        "Kongen i statsråd kan vedta overføring av ansvar for kollektivtransport fra fylkeskommunen til kommunen dersom kommunen kan dokumentere at den:\na)\tomfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,\nb)\thar et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og\nc)\thar et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.",
                         "Ved overføring av ansvar for kollektivtransport etter første ledd overtar kommunen ansvaret for kollektivtransporttilbudet innenfor kommunens grenser. Kommunen bestemmer selv omfanget av kollektivtransporttilbudet."
                     ]
                 },
@@ -53,15 +50,10 @@
                     "name": "§ 6",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1. I lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. skal § 7 andre ledd lyde:",
-                        "Når fylkeskommunen eller kommunen gir tilskudd til lokal jernbane innen et fylke eller en kommune, fastsetter fylkeskommunen eller kommunen transportvilkår. Fylkeskommunens eller kommunens vedtak i saker om godkjenning av ruteplan, takster og tilskudd kan ikke påklages til departementet.",
-                        "2. I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy gjøres følgende endringer:",
-                        "§ 13 andre ledd skal lyde:",
-                        "(2) Med den avgrensinga som følgjer av første ledd, gjev fylkeskommunen løyve til rutetransport etter §§ 6 og 7. Kommunen gjev likevel løyve innanfor kommunegrensa når ansvar for kollektivtransport er overført til kommunen i samsvar med lov om overføring av ansvar for kollektivtransport.",
-                        "§ 22 nytt sjette ledd skal lyde:",
-                        "(6) Dersom kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport, gjeld første til femte ledd tilsvarande for kommunen.",
-                        "§ 23 nytt andre ledd skal lyde:",
+                        "Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover:\n1. I lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. skal § 7 andre ledd lyde:",
+                        "Når fylkeskommunen eller kommunen gir tilskudd til lokal jernbane innen et fylke eller en kommune, fastsetter fylkeskommunen eller kommunen transportvilkår. Fylkeskommunens eller kommunens vedtak i saker om godkjenning av ruteplan, takster og tilskudd kan ikke påklages til departementet.\n2. I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy gjøres følgende endringer:\n§ 13 andre ledd skal lyde:",
+                        "(2) Med den avgrensinga som følgjer av første ledd, gjev fylkeskommunen løyve til rutetransport etter §§ 6 og 7. Kommunen gjev likevel løyve innanfor kommunegrensa når ansvar for kollektivtransport er overført til kommunen i samsvar med lov om overføring av ansvar for kollektivtransport.\n§ 22 nytt sjette ledd skal lyde:",
+                        "(6) Dersom kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport, gjeld første til femte ledd tilsvarande for kommunen.\n§ 23 nytt andre ledd skal lyde:",
                         "(2) Første ledd gjeld òg for kommunen der kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport."
                     ]
                 }
