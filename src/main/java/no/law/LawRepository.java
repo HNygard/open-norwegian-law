@@ -1,7 +1,19 @@
 package no.law;
 
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.time.LocalDate;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
 
 public class LawRepository {
     public static Map<String, Law> laws = new HashMap<>();
@@ -53,7 +65,7 @@ public class LawRepository {
         law.chapters.get(1).paragraphs = new ArrayList<>();
         law.chapters.get(1).paragraphs.add(paragraph3);
 
-        laws.put(law.getLawId(), law);
+        //laws.put(law.getLawId(), law);
 
         law = new Law("LOV-1970-06-19-69",
                 "Lov om offentlighet i forvaltningen (offentlighetsloven)",
@@ -61,28 +73,35 @@ public class LawRepository {
                 Collections.singleton("Offentleglova"),
                 LocalDate.of(1970, 6, 19)
         );
-        laws.put(law.getLawId(), law);
+        //laws.put(law.getLawId(), law);
 
-        /*
-        URL b = LawReference.class.getResource("/laws");
-        List<Path> collect2;
+
+        // :: Read laws from JSON files i resources/laws
+        List<Law> lawList = new ArrayList<>();
         try {
-            collect2 = Files.walk(Paths.get(b.getFile())).collect(Collectors.toList());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+            String scannedPackage = "laws/**";
+            PathMatchingResourcePatternResolver scanner = new PathMatchingResourcePatternResolver();
+            Resource[] resources = scanner.getResources(scannedPackage);
+
+            for (Resource resource : resources) {
+                if (!resource.getFilename().endsWith(".json")) {
+                    continue;
+                }
+                BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(resource.getInputStream()));
+                StringBuffer lines = new StringBuffer();
+                String line;
+                while ((line = bufferedReader.readLine()) != null) {
+                    lines.append(line);
+                }
+                bufferedReader.close();
+                lawList.add(LawGson.getGson().fromJson(lines.toString(), Law.class));
+            }
         }
-        Map<String, Law> collect = collect2.stream()
-                .map(Path::toFile)
-                .filter(File::isFile)
-                .filter(f -> f.getAbsolutePath().endsWith(".json"))
-                .map(f -> {
-                    try {
-                        FileReader fileReader = new FileReader(f);
-                        return LawGson.getGson().fromJson(fileReader, Law.class);
-                    } catch (Throwable e) {
-                        throw new RuntimeException("Unable to read JSON: " + f.getAbsolutePath(), e);
-                    }
-                })
+        catch (IOException e) {
+            throw new RuntimeException("Unable to read laws from resources: " + e.getMessage(), e);
+        }
+
+        Map<String, Law> collect = lawList.stream()
                 .collect(Collectors.toMap(
                         Law::getLawId,
                         f -> {
@@ -93,7 +112,6 @@ public class LawRepository {
                         }
                 ));
         laws.putAll(collect);
-        */
     }
 
     public static Law getLaw(String lawId) {
