@@ -24,6 +24,9 @@
 .law-chapter-paragraph-section-sentence {
     background-color: lightsteelblue;
 }
+.law-chapter-paragraph-section-numbered-sentence {
+    background-color: #deb8d3;
+}
 
 /* :: Other styling */
 .law-chapter {

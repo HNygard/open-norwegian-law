@@ -5,6 +5,7 @@ import no.law.lawreference.NorwegianNumbers;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
@@ -229,10 +230,24 @@ public class Law implements LawReference {
 
         public Section(String text) {
             this.text = text;
-            this.sentences = Stream.of(text.split("\\."))
-                    .map(sentence -> sentence.trim() + ".")
-                    .map(Sentence::new)
-                    .collect(Collectors.toList());
+
+            this.sentences = new ArrayList<>();
+
+            List<String> strings = Arrays.asList(text.split("\n"));
+            for(String line : strings) {
+                Pattern numberOrLetterPattern = Pattern.compile("^([a-zA-Z0-9])\\)\t");
+                Matcher matcher = numberOrLetterPattern.matcher(line);
+                if (matcher.find()) {
+                    this.sentences.add(new NumberedSentence(matcher.group(1), line.substring("a) ".length())));
+                }
+                else {
+                    this.sentences.addAll(Stream.of(line.split("\\."))
+                            .map(sentence -> sentence.trim() + ".")
+                            .map(Sentence::new)
+                            .collect(Collectors.toList()));
+                }
+            }
+
         }
 
         public String toString() {
@@ -240,7 +255,11 @@ public class Law implements LawReference {
         }
 
         public String toHtml() {
-            return "<div class=\"law-chapter-paragraph-section\">" + text.replaceAll("\n", "<br>\n") + "</div>";
+            return "<div class=\"law-chapter-paragraph-section\">" +
+                    sentences.stream()
+                            .map(Sentence::toHtml)
+                            .collect(Collectors.joining("<br>\n"))
+                    + "</div>";
         }
 
         @Override
@@ -256,6 +275,16 @@ public class Law implements LawReference {
                 if (sentences.get(ref) != null) {
                     return Collections.singletonList(sentences.get(ref));
                 }
+            }
+            if (lawRef.getLetterRef() != null) {
+                return sentences.stream()
+                        .filter(s -> {
+                            if (!(s instanceof NumberedSentence)) {
+                                return false;
+                            }
+                            return ((NumberedSentence) s).numberOrLetter.equals(lawRef.getLetterRef());
+                        })
+                        .collect(Collectors.toList());
             }
 
             return Collections.singletonList(this);
@@ -275,7 +304,42 @@ public class Law implements LawReference {
 
         @Override
         public String toHtml() {
-            return "<div class=\"law-chapter-paragraph-section-sentence\">" + text + "</div>";
+            return "<span class=\"law-chapter-paragraph-section-sentence\">" + text + "</span>";
+        }
+
+        @Override
+        public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
+            throw new RuntimeException("Not implemented.");
+        }
+
+        @Override
+        public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+            throw new RuntimeException("Not implemented.");
+        }
+    }
+
+    public static class NumberedSentence extends Sentence {
+        private final String numberOrLetter;
+        private final String text;
+
+        public NumberedSentence(String numberOrLetter, String text) {
+            super(text);
+            this.numberOrLetter = numberOrLetter;
+            this.text = text;
+        }
+
+        public String toString() {
+            return numberOrLetter + ")\t" + text;
+        }
+
+        @Override
+        public String toHtml() {
+            return "<span class=\"law-chapter-paragraph-section-numbered-sentence\">"
+                    + "<span class=\"law-chapter-paragraph-section-numbered-sentence-letter-or-number\">"
+                    + numberOrLetter + ")"
+                    + "</span> "
+                    + text
+                    + "</span>";
         }
 
         @Override

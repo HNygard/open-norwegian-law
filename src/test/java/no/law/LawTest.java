@@ -40,6 +40,13 @@ public class LawTest {
         law.chapters.get(1).paragraphs = new ArrayList<>();
         law.chapters.get(1).paragraphs.add(paragraph3);
 
+        Law.Paragraph paragraph4 = new Law.Paragraph();
+        paragraph4.name = "§ 4";
+        paragraph4.title = "Fjerde";
+        paragraph4.sections = new ArrayList<>();
+        paragraph4.sections.add(new Law.Section("Tekst tekst test.\na) Første bokstav\nb) Andre bokstav"));
+        law.chapters.get(1).paragraphs.add(paragraph4);
+
         Assertions.assertEquals(
                 "Lov om testing\n" +
                         "\n" +
@@ -59,7 +66,13 @@ public class LawTest {
                         "\n" +
                         "§ 3. Tredje\n" +
                         "\n" +
-                        "Kapittel 2, første ledd i § 3.",
+                        "Kapittel 2, første ledd i § 3.\n" +
+                        "\n" +
+                        "§ 4. Fjerde\n" +
+                        "\n" +
+                        "Tekst tekst test.\n" +
+                        "a) Første bokstav\n" +
+                        "b) Andre bokstav",
                 law.toString()
         );
     }

@@ -124,5 +124,15 @@ public class LawReferenceFinderTest {
         Assertions.assertEquals(Law.Sentence.class, lawRef.get(0).getClass());
         Assertions.assertEquals("Lova skal òg leggje til rette for vidarebruk av offentleg informasjon.",
                 lawRef.get(0).toString());
+
+        // => § 20 bokstav b
+        lawReference.addParagraph("§ 20");
+        lawReference.addLetter("b");
+        lawReference.addSentence(null);
+        lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(1, lawRef.size());
+        Assertions.assertEquals(Law.NumberedSentence.class, lawRef.get(0).getClass());
+        Assertions.assertEquals("b)\topplysningane er mottekne under føresetnad av eller det følgjer av fast praksis at dei ikkje skal offentleggjerast, eller",
+                lawRef.get(0).toString());
     }
 }

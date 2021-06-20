@@ -13,6 +13,7 @@ public class LawReferenceFinder {
     private Law law;
     private String paragraphRef;
     private String sectionRef;
+    private String letterRef;
     private String sentenceRef;
 
     public LawReferenceFinder() {
@@ -36,6 +37,15 @@ public class LawReferenceFinder {
     public LawReferenceFinder(String lawId, String paragraph, String section, String sentence) {
         this(lawId, paragraph, section);
         this.sentenceRef = sentence;
+    }
+
+    public LawReferenceFinder(String lawId, String paragraph, String section, String sentence, String letter) {
+        this(lawId, paragraph, section, sentence);
+        this.letterRef = letter;
+    }
+
+    public static LawReferenceFinder withLetter(String lawId, String paragraph, String section, String letter) {
+        return new LawReferenceFinder(lawId, paragraph, section, null, letter);
     }
 
     public void law(String rawLawId, LocalDate date, String name) {
@@ -80,6 +90,14 @@ public class LawReferenceFinder {
         this.sectionRef = sectionRef;
     }
 
+    public String getLetterRef() {
+        return letterRef;
+    }
+
+    public void addLetter(String letterRef) {
+        this.letterRef = letterRef;
+    }
+
     public String getSentenceRef() {
         return sentenceRef;
     }
@@ -96,7 +114,8 @@ public class LawReferenceFinder {
         return Objects.equals(law, that.law)
                 && Objects.equals(paragraphRef, that.paragraphRef)
                 && Objects.equals(sectionRef, that.sectionRef)
-                && Objects.equals(sentenceRef, that.sentenceRef);
+                && Objects.equals(sentenceRef, that.sentenceRef)
+                && Objects.equals(letterRef, that.letterRef);
     }
 
     @Override
@@ -114,6 +133,9 @@ public class LawReferenceFinder {
         }
         if (sectionRef != null) {
             result += " " + sectionRef + " ledd";
+        }
+        if (letterRef != null) {
+            result += " bokstav " + letterRef;
         }
         if (sentenceRef != null) {
             result += " " + sentenceRef + " punktum";
