@@ -2,7 +2,7 @@
     "lawId": "LOV-2005-06-17-101",
     "lawName": "Lov om eigedomsregistrering",
     "shortName": "Eigedomsregistreringslova",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.70 (2004–2005), Innst.O.nr.118 (2004–2005) og Besl.O.nr.104 (2004–2005). Odels- og lagtingsvedtak hhv. 9. og 14. juni 2005. Fremmet av Miljøverndepartementet.\nFølgende lover oppheves:\n1\tLov 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (Delingsloven).\n2\tLov 9. juli 1923 nr. 1 om anbringelse av signaler og merker for målearbeider.\nEndringer i følgende lover:\n1\tLov 17. juli 1925 nr. 11 om Svalbard.\n2\tLov 7. juni 1935 nr. 2 om tinglysing.\n3\tLov 15. mars 1940 nr. 3 om vassdragene.\n4\tLov 23. oktober 1959 nr. 3 om oreigning av fast eigedom.\n5\tLov 30. juni 1972 nr. 70 om bergverk.\n6\tLov 9. juni 1978 nr. 50 om kulturminner.\n7\tLov 21. desember 1979 nr. 77 om jordskifte o.a. (jordskifteloven).\n8\tLov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven).\n9\tLov 14. juni 1985 nr. 77 Plan- og bygningslov.\n10\tLov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova).\n11\tLov 29. november 1996 nr. 72 om petroleumsvirksomhet.\n12\tLov 20. desember 1996 nr. 106 om tomtefeste.\n13\tLov 23. mai 1997 nr. 31 om eierseksjoner (eierseksjonsloven).\n14\tLov 28. november 2003 nr. 98 om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv.",
     "chapters": [
         {
             "name": "Kapittel 1 Formål, verkeområde og definisjonar",
@@ -27,21 +27,7 @@
                     "name": "§ 3",
                     "title": "Definisjonar",
                     "sections": [
-                        "I denne lova tyder:",
-                        "a)matrikkelen: landet sitt offisielle register over fast eigedom, og under dette bygningar, bustader og adresser, jf. § 4,",
-                        "b)matrikkeleining: grunneigedom, anleggseigedom, eigarseksjon, jordsameige eller festegrunn, jf. § 5,",
-                        "c)matrikkelnummer: den offisielle nemninga for kvar enkelt matrikkeleining,",
-                        "d)matrikkelbrev: attestert utskrift av matrikkelen som viser alle registrerte opplysningar om ei matrikkeleining ved oppgitt dato,",
-                        "e)matrikkelføring: føre opplysningar i matrikkelen,",
-                        "f)matrikulering: føre ei ny matrikkeleining inn i matrikkelen, jf. § 10,",
-                        "g)sentral matrikkelstyresmakt: det statsorganet som forvaltar matrikkelen,",
-                        "h)oppmålingsforretning: den tenesta som går ut på å klarleggje og beskrive grenser og rettar til fast eigedom, og gi nødvendig dokumentasjon for krav om matrikkelføring, jf. § 33,",
-                        "i)landmålarføretak: føretak eller offentleg eining som i medhald av § 38 er godkjent for å gjennomføre oppmålingsforretning,",
-                        "j)ansvarleg landmålar: fagleg leiar i landmålarføretak,",
-                        "k)geodetisk grunnlag: referanseramme som gjer det mogleg å bestemme eintydige geodetisk relaterte koordinatar,",
-                        "l)grunnlagsmåling: etablering, kontroll og vedlikehald av geodetisk grunnlag,",
-                        "m)fastmerke: varig merkt punkt til bruk i grunnlagsmålingar eller for å gjere geodetisk grunnlag tilgjengeleg for kart- og oppmålingsarbeid,",
-                        "n)signal: merke, instrument eller konstruksjon som blir brukt for å vise eller kontrollere plasseringa til eit fastmerke."
+                        "I denne lova tyder:\na)\tmatrikkelen: landet sitt offisielle register over fast eigedom, og under dette bygningar, bustader og adresser, jf. § 4,\nb)\tmatrikkeleining: grunneigedom, anleggseigedom, eigarseksjon, jordsameige eller festegrunn, jf. § 5,\nc)\tmatrikkelnummer: den offisielle nemninga for kvar enkelt matrikkeleining,\nd)\tmatrikkelbrev: attestert utskrift av matrikkelen som viser alle registrerte opplysningar om ei matrikkeleining ved oppgitt dato,\ne)\tmatrikkelføring: føre opplysningar i matrikkelen,\nf)\tmatrikulering: føre ei ny matrikkeleining inn i matrikkelen, jf. § 10,\ng)\tsentral matrikkelstyresmakt: det statsorganet som forvaltar matrikkelen,\nh)\toppmålingsforretning: den tenesta som går ut på å klarleggje og beskrive grenser og rettar til fast eigedom, og gi nødvendig dokumentasjon for krav om matrikkelføring, jf. § 33,\ni)\tlandmålarføretak: føretak eller offentleg eining som i medhald av § 38 er godkjent for å gjennomføre oppmålingsforretning,\nj)\tansvarleg landmålar: fagleg leiar i landmålarføretak,\nk)\tgeodetisk grunnlag: referanseramme som gjer det mogleg å bestemme eintydige geodetisk relaterte koordinatar,\nl)\tgrunnlagsmåling: etablering, kontroll og vedlikehald av geodetisk grunnlag,\nm)\tfastmerke: varig merkt punkt til bruk i grunnlagsmålingar eller for å gjere geodetisk grunnlag tilgjengeleg for kart- og oppmålingsarbeid,\nn)\tsignal: merke, instrument eller konstruksjon som blir brukt for å vise eller kontrollere plasseringa til eit fastmerke."
                     ]
                 }
             ]
@@ -62,12 +48,7 @@
                     "name": "§ 5",
                     "title": "Matrikkeleiningar",
                     "sections": [
-                        "Følgjande objekt kan opprettast som eigne matrikkeleiningar:",
-                        "a)grunneigedom, eigedom som er avgrensa ved eigedomsgrenser på jordoverflata og som med dei avgrensingane som følgjer av at det eventuelt er oppretta anleggseigedom etter bokstav b, strekkjer seg så langt nedover i grunnen og oppover i lufta som privat eigedomsrett rekk etter alminnelege reglar,",
-                        "b)anleggseigedom, ein bygning eller konstruksjon, eller eit avgrensa fysisk volum som er tillate utbygt, og som er utskilt som eigen eigedom. Fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn kan også opprettast som anleggseigedom,",
-                        "c)eigarseksjon,",
-                        "d)jordsameige, grunnareal som ligg i sameige mellom fleire grunneigedommar, og der sameigepartane inngår i grunneigedommane, og",
-                        "e)festegrunn, del av grunneigedom eller jordsameige som nokon har festerett til eller som kan festast bort, eller som nokon har ein tilsvarande eksklusiv og langvarig bruksrett til.",
+                        "Følgjande objekt kan opprettast som eigne matrikkeleiningar:\na)\tgrunneigedom, eigedom som er avgrensa ved eigedomsgrenser på jordoverflata og som med dei avgrensingane som følgjer av at det eventuelt er oppretta anleggseigedom etter bokstav b, strekkjer seg så langt nedover i grunnen og oppover i lufta som privat eigedomsrett rekk etter alminnelege reglar,\nb)\tanleggseigedom, ein bygning eller konstruksjon, eller eit avgrensa fysisk volum som er tillate utbygt, og som er utskilt som eigen eigedom. Fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn kan også opprettast som anleggseigedom,\nc)\teigarseksjon,\nd)\tjordsameige, grunnareal som ligg i sameige mellom fleire grunneigedommar, og der sameigepartane inngår i grunneigedommane, og\ne)\tfestegrunn, del av grunneigedom eller jordsameige som nokon har festerett til eller som kan festast bort, eller som nokon har ein tilsvarande eksklusiv og langvarig bruksrett til.",
                         "Ny matrikkeleining er oppretta når eininga er ført inn i matrikkelen.",
                         "Einingar, under dette rettar, som er tildelte matrikkelnummer etter tidlegare regelverk, blir rekna som matrikkeleining og kan stå oppført i matrikkelen."
                     ]
@@ -81,12 +62,7 @@
                     "name": "§ 6",
                     "title": "Krav om oppmålingsforretning før matrikkelføring",
                     "sections": [
-                        "Oppmålingsforretning skal haldast før følgjande kan førast inn i matrikkelen:",
-                        "a)ny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige,",
-                        "b)umatrikulert grunneigedom eller umatrikulert festegrunn,",
-                        "c)registrering av uregistrert jordsameige eller endring i registrert sameigefordeling,",
-                        "d)opplysningar om arealoverføring, grensejustering og klarlegging av eksisterande grense, eller",
-                        "e)eigarseksjon som omfattar uteareal, eller nytt eller endra uteareal til eksisterande eigarseksjon.",
+                        "Oppmålingsforretning skal haldast før følgjande kan førast inn i matrikkelen:\na)\tny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige,\nb)\tumatrikulert grunneigedom eller umatrikulert festegrunn,\nc)\tregistrering av uregistrert jordsameige eller endring i registrert sameigefordeling,\nd)\topplysningar om arealoverføring, grensejustering og klarlegging av eksisterande grense, eller\ne)\teigarseksjon som omfattar uteareal, eller nytt eller endra uteareal til eksisterande eigarseksjon.",
                         "Oppmålingsforretning er ikkje nødvendig for å matrikkelføre samanslåing etter § 18, referanse til avtale om eksisterande grense etter § 19, eller fastsetjing av samla fast eigedom etter § 20."
                     ]
                 },
@@ -95,9 +71,7 @@
                     "title": "Krav om klarlagt grense før tinglysing av heimelsovergang",
                     "sections": [
                         "Grensene for grunneigedom, anleggseigedom eller festegrunn skal vere klarlagde i oppmålingsforretning, eller tilsvarande forretning etter anna eller tidlegare lovgiving, før dokument som gir grunnboksheimel til eigedommen eller festegrunnen kan tinglysast.",
-                        "Dette gjeld likevel ikkje dersom:",
-                        "a)eininga er så stor at det er urimeleg å krevje oppmåling av alle grensene, eller",
-                        "b)det av andre grunnar ikkje er formålstenleg å krevje at alle grensene blir klarlagde.",
+                        "Dette gjeld likevel ikkje dersom:\na)\teininga er så stor at det er urimeleg å krevje oppmåling av alle grensene, eller\nb)\tdet av andre grunnar ikkje er formålstenleg å krevje at alle grensene blir klarlagde.",
                         "Kommunen avgjer kva for eigedommar som fyller vilkåra i første og andre ledd, og noterer dette i matrikkelen.",
                         "Tinglysing kan likevel finne stad dersom heimelsovergangen er ledd i arv, skifte eller tvangsfullføring, eller gjeld festerett for ei tid av 10 år eller kortare, jf. tinglysingslova § 12a.",
                         "Oppmålingsforretning skal vere halden og matrikkelført før det kan tinglysast festekontrakt til eksisterande festegrunn, dersom festeforholdet omfattar grunn utanfor dei eksisterande grensene for festegrunnen.",
@@ -123,18 +97,8 @@
                     "name": "§ 9",
                     "title": "Kven som kan krevje matrikkelføring av ny matrikkeleining",
                     "sections": [
-                        "Matrikulering av ny grunneigedom, anleggseigedom eller festegrunn kan krevjast av:",
-                        "a)den som har grunnboksheimel som eigar av grunneigedom, anleggseigedom eller registrert jordsameige som den nye eininga blir delt frå eller oppretta på,",
-                        "b)den som ved rettskraftig avgjerd ved domstolane er kjent som eigar eller festar, eller er tilkjent rett til å krevje at eit bestemt grunnstykke eller anlegg blir oppretta som eiga matrikkeleining,",
-                        "c)den som lovleg har overteke grunn eller anlegg ved ekspropriasjon,",
-                        "d)den som lovleg har etablert, eller fått løyve til å etablere, fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn,",
-                        "e)den som med heimel i lov utøver eigarrådvelde over grunnen når ingen har grunnboksheimel til denne,",
-                        "f)staten, fylkeskommunen eller kommunen når grunnen er tileigna til offentleg veg- eller jernbaneformål,",
-                        "g)staten eller kommunen dersom forretninga gjeld frådeling av heile teigar, eller når eininga blir delt av kommunegrense, eller",
-                        "h)den som har innløyst festegrunn etter føresegnene i lov om tomtefeste.",
-                        "Matrikulering av umatrikulert grunneigedom eller festegrunn kan også krevjast av:",
-                        "a)nokon som har gjort det sannsynleg at dei eig, fester eller har del i grunneigedom eller festegrunn, eller",
-                        "b)staten, fylkeskommune eller kommune.",
+                        "Matrikulering av ny grunneigedom, anleggseigedom eller festegrunn kan krevjast av:\na)\tden som har grunnboksheimel som eigar av grunneigedom, anleggseigedom eller registrert jordsameige som den nye eininga blir delt frå eller oppretta på,\nb)\tden som ved rettskraftig avgjerd ved domstolane er kjent som eigar eller festar, eller er tilkjent rett til å krevje at eit bestemt grunnstykke eller anlegg blir oppretta som eiga matrikkeleining,\nc)\tden som lovleg har overteke grunn eller anlegg ved ekspropriasjon,\nd)\tden som lovleg har etablert, eller fått løyve til å etablere, fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn,\ne)\tden som med heimel i lov utøver eigarrådvelde over grunnen når ingen har grunnboksheimel til denne,\nf)\tstaten, fylkeskommunen eller kommunen når grunnen er tileigna til offentleg veg- eller jernbaneformål,\ng)\tstaten eller kommunen dersom forretninga gjeld frådeling av heile teigar, eller når eininga blir delt av kommunegrense, eller\nh)\tden som har innløyst festegrunn etter føresegnene i lov om tomtefeste.",
+                        "Matrikulering av umatrikulert grunneigedom eller festegrunn kan også krevjast av:\na)\tnokon som har gjort det sannsynleg at dei eig, fester eller har del i grunneigedom eller festegrunn, eller\nb)\tstaten, fylkeskommune eller kommune.",
                         "Matrikulering av nytt jordsameige kan krevjast av dei som har grunnboksheimel som eigarar av grunneigedommane som skipar sameiget, saman med den som har grunnboksheimel som eigar av grunneigedommen som den nye eininga blir delt frå eller oppretta på, etter nærare reglar fastsette av departementet i forskrift."
                     ]
                 },
@@ -145,10 +109,7 @@
                         "Før ny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige kan opprettast i matrikkelen, må det liggje føre løyve etter plan- og bygningslova § 93 bokstav h. For innføring av ny eigarseksjon må det liggje føre kommunalt seksjoneringsvedtak etter eigarseksjonslova § 9.",
                         "Ny matrikkeleining kan berre opprettast når det er klart kva for matrikkeleining eller matrikkeleiningar den nye eininga blir utskilt frå eller oppretta på.",
                         "Kommunen skal etter søknad opprette ny matrikkeleining med delar frå fleire matrikkeleiningar med ulike heimelshavarar dersom vilkåra for å slå saman delane elles er oppfylte.",
-                        "Kommunen skal etter søknad opprette ny matrikkeleining sjølv om nokon av dei eksisterande grensene ikkje er merkte og målte, dersom dette ikkje er til ulempe for utnytting av matrikkeleininga, og:",
-                        "a)det er godtgjort at vedkommande grense er omstridd,",
-                        "b)eininga er så stor at det er urimeleg å krevje oppmåling av vedkommande grense, eller",
-                        "c)det av andre grunnar ikkje er formålstenleg å krevje måling eller merking av vedkommande grense.",
+                        "Kommunen skal etter søknad opprette ny matrikkeleining sjølv om nokon av dei eksisterande grensene ikkje er merkte og målte, dersom dette ikkje er til ulempe for utnytting av matrikkeleininga, og:\na)\tdet er godtgjort at vedkommande grense er omstridd,\nb)\teininga er så stor at det er urimeleg å krevje oppmåling av vedkommande grense, eller\nc)\tdet av andre grunnar ikkje er formålstenleg å krevje måling eller merking av vedkommande grense.",
                         "Når det ligg føre særlege grunnar, kan kommunen etter søknad føre ny matrikkeleining inn i matrikkelen utan at oppmålingsforretninga er avslutta. Kommunen skal stille krav til førebels merking og beskriving av grensene, og setje frist for fullføring av oppmålingsforretninga. Dersom fristen ikkje blir halden, kan kommunen gjere vedtak om å fullføre forretninga for heimelshavar si rekning.",
                         "Ny matrikkeleining kan også førast inn i matrikkelen når opprettinga er bestemt av jordskifteretten.",
                         "Departementet kan i forskrift gi nærare reglar om matrikkelføring av ny matrikkeleining, under dette om unnatak frå plikt til matrikulering."
@@ -159,9 +120,7 @@
                     "title": "Særskilt om matrikulering av anleggseigedom",
                     "sections": [
                         "Ved oppretting av anleggseigedom må det liggje føre dokumentasjon for nødvendig godkjenning etter plan- og bygningslova som viser grensene for den bygningen eller konstruksjonen som blir søkt oppretta som anleggseigedom. Det same gjeld når eksisterande bygning og konstruksjon skal opprettast som anleggseigedom. Matrikulering av anleggseigedom som gjeld anlegg som ikkje eksisterer, kan først skje når vilkåra for igangsetting av tiltaket etter plan- og bygningslova er oppfylte. Vedkommande anleggseigedom skal vere ei sjølvstendig funksjonell eining, klart og varig skilt frå den eller dei grunneigedommane eller anleggseigedommane den nye anleggseigedommen eventuelt blir skilt frå.",
-                        "Anleggseigedom som skal delast frå annan eigedom, kan berre opprettast dersom:",
-                        "a)bygningen eller konstruksjonen strekkjer seg inn over eller under ein annan eigedom, og",
-                        "b)den delen av ein eigedom som ligg over eller under anleggseigedommen framleis kan utnyttast til eit sjølvstendig formål.",
+                        "Anleggseigedom som skal delast frå annan eigedom, kan berre opprettast dersom:\na)\tbygningen eller konstruksjonen strekkjer seg inn over eller under ein annan eigedom, og\nb)\tden delen av ein eigedom som ligg over eller under anleggseigedommen framleis kan utnyttast til eit sjølvstendig formål.",
                         "Grensene for anleggseigedommen skal svare til dei fysiske yttergrensene for eininga, med nødvendige tilpassingar. Anleggseigedom i undergrunnen skal omfatte nødvendig tryggleikssone.",
                         "Anleggseigedom kan ikkje opprettast for bygning eller konstruksjon, eller del av bygning eller konstruksjon, som tenleg kan etablerast som eigarseksjonssameige.",
                         "Dersom anleggseigedom og grunneigedom skal utnyttast under eitt, må det liggje føre dokument om dette og fråsegn om at eigedommane ikkje kan omsetjast eller pantsetjast kvar for seg."
@@ -217,9 +176,7 @@
                     "name": "§ 17",
                     "title": "Klarlegging av eksisterande grense",
                     "sections": [
-                        "Følgjande kan krevje matrikkelføring av klarlegging av eksisterande grenser utført som særskilt forretning:",
-                        "a)nokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, eller",
-                        "b)staten, fylkeskommune eller kommune."
+                        "Følgjande kan krevje matrikkelføring av klarlegging av eksisterande grenser utført som særskilt forretning:\na)\tnokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, eller\nb)\tstaten, fylkeskommune eller kommune."
                     ]
                 },
                 {
@@ -245,7 +202,7 @@
                     "name": "§ 20",
                     "title": "Fastsetjing av samla fast eigedom",
                     "sections": [
-                        "Kommunen kan fastsetje at to eller fleire matrikkeleiningar som har same eigar og som blir nytta under eitt, og som i økonomisk samanheng står fram som éin eigedom, skal registrerast i matrikkelen som ein samla fast eigedom. Eigar kan krevje slik registrering når vilkåra er til stades.",
+                        "Kommunen kan fastsetje at to eller fleire matrikkeleiningar som  har same eigar og som blir nytta under eitt, og som i økonomisk samanheng står fram som éin eigedom, skal registrerast i matrikkelen som ein samla fast eigedom. Eigar kan krevje slik registrering når vilkåra er til stades.",
                         "Finn kommunen at vilkåra er endra, kan kommunen endre eller oppheve registreringa.",
                         "Eigar skal varslast om vedtaket på ein etter tilhøva formålstenleg og etterviseleg måte.",
                         "Departementet kan i forskrift gi nærare reglar om fastsetjing av samla fast eigedom."
@@ -318,7 +275,7 @@
                     "name": "§ 26",
                     "title": "Retting av opplysningar i matrikkelen og sletting av matrikkeleining",
                     "sections": [
-                        "Kommunen kan rette, endre og leggje til opplysningar som kommunen fører i matrikkelen, når det kan gjerast utan å halde oppmålingsforretning. Andre organ som fører opplysningar i matrikkelen, kan tilsvarande rette, endre og leggje til vedkommande opplysningar.",
+                        "Kommunen kan rette, endre og leggje til opplysningar som kommunen fører i matrikkelen, når det kan gjerast utan å halde oppmålingsforretning. Andre organ som fører opplysningar i  matrikkelen, kan tilsvarande rette, endre og leggje til vedkommande opplysningar.",
                         "Kommunen kan slette matrikkeleining frå matrikkelen dersom eininga er urett oppretta. Det same gjeld for matrikkeleining som fysisk ikkje lenger eksisterer. Dersom eininga er ført inn i grunnboka, kan ho berre slettast i matrikkelen dersom ho samtidig blir sletta i grunnboka.",
                         "Ein part kan krevje at matrikkelen blir retta når det blir dokumentert at opplysningane er urette eller ufullstendige, eller at grunnlaget for registreringa er falle bort. Dersom det er behandla opplysningar som er urette, ufullstendige eller som det ikkje er høve til å behandle, skal det organet, som har lagt inn opplysningane, av eige tiltak rette opplysningane. Opplysningar om grenser som er fastlagde i oppmålingsforretning eller i tilsvarande forretning etter anna eller tidlegare lovgiving, kan berre rettast på grunnlag av ny oppmålingsforretning eller rettskraftig avgjerd ved domstolane.",
                         "Part som retting, endring eller tilføying har noko å seie for, skal underrettast.",
@@ -360,11 +317,7 @@
                     "name": "§ 30",
                     "title": "Utlevering og behandling av opplysningar frå matrikkelen",
                     "sections": [
-                        "Matrikkelopplysningar kan utleverast:",
-                        "a)for offentleg planlegging, saksbehandling og administrasjon,",
-                        "b)for oppgåver etter denne lova, plan- og bygningslova eller eigarseksjonslova,",
-                        "c)ved søknad om offentleg løyve, eller",
-                        "d)for å ta hand om andre interesser knytte til rådvelde over matrikkeleiningar eller bruken av dei.",
+                        "Matrikkelopplysningar kan utleverast:\na)\tfor offentleg planlegging, saksbehandling og administrasjon,\nb)\tfor oppgåver etter denne lova, plan- og bygningslova eller eigarseksjonslova,\nc)\tved søknad om offentleg løyve, eller\nd)\tfor å ta hand om andre interesser knytte til rådvelde over matrikkeleiningar eller bruken av dei.",
                         "Matrikkelinformasjon kan utleverast for andre formål dersom den som får opplysningane utlevert skal ta i vare ei rettkommen interesse, og omsynet til personvernet for dei registrerte ikkje overstig denne interessa.",
                         "Matrikkelinformasjon som ikkje inneheld personopplysningar, eller berre omfattar informasjon som identifiserer, kartfester eller typebestemmer matrikkeleiningar, bygningar eller adresser, kan utleverast i alle høve.",
                         "Det kan knytast vilkår til utlevering og behandling av matrikkelopplysningar.",
@@ -531,22 +484,7 @@
                     "name": "§ 46",
                     "title": "Klage",
                     "sections": [
-                        "Enkeltvedtak etter denne lova kan klagast på etter kapittel IV til VI i forvaltningslova. Det kan alltid klagast over vedtak om:",
-                        "a)matrikkelføring av saker som krev oppmålingsforretning etter § 6,",
-                        "b)klarlagt grense etter § 7 tredje ledd,",
-                        "c)fullføring av oppmålingsforretning for heimelshavar si rekning etter § 10 femte ledd siste punktum,",
-                        "d)samanslåing, jf. § 18,",
-                        "e)føring av referanse til avtale om eksisterande grense i matrikkelen, jf. § 19,",
-                        "f)fastsetjing av samla fast eigedom, jf. § 20,",
-                        "g)tildeling av offisiell adresse med heimel i § 21, unnateke vedtak om namn på gate, veg eller område som inngår i offisiell adresse,",
-                        "h)sletting av matrikkeleining med heimel i § 26 andre ledd,",
-                        "i)avslag på krav om retting av opplysning i matrikkelen, jf. § 26 tredje ledd,",
-                        "j)avslag på førespurnad om innsyn i matrikkelen etter § 29,",
-                        "k)utlevering av opplysningar frå matrikkelen, jf. § 30,",
-                        "l)godkjenning og tilbaketrekking av godkjenning som landmålarføretak etter § 38,",
-                        "m)fastsetjing av gebyr og avslag på å utføre kommunale oppmålingsforretningar som kommunen utfører etter § 38 femte ledd,",
-                        "n)avslag på førespurnad om utlevering av opplysningar frå fastmerkeregister, jf. § 40,",
-                        "o)tvangsmulkt, jf. § 48.",
+                        "Enkeltvedtak etter denne lova kan klagast på etter kapittel IV til VI i forvaltningslova. Det kan alltid klagast over vedtak om:\na)\tmatrikkelføring av saker som krev oppmålingsforretning etter § 6,\nb)\tklarlagt grense etter § 7 tredje ledd,\nc)\tfullføring av oppmålingsforretning for heimelshavar si rekning etter § 10 femte ledd siste punktum,\nd)\tsamanslåing, jf. § 18,\ne)\tføring av referanse til avtale om eksisterande grense i matrikkelen, jf. § 19,\nf)\tfastsetjing av samla fast eigedom, jf. § 20,\ng)\ttildeling av offisiell adresse med heimel i § 21, unnateke vedtak om namn på gate, veg eller område som inngår i offisiell adresse,\nh)\tsletting av matrikkeleining med heimel i § 26 andre ledd,\ni)\tavslag på krav om retting av opplysning i matrikkelen, jf. § 26 tredje ledd,\nj)\tavslag på førespurnad om innsyn i matrikkelen etter § 29,\nk)\tutlevering av opplysningar frå matrikkelen, jf. § 30,\nl)\tgodkjenning og tilbaketrekking av godkjenning som landmålarføretak etter § 38,\nm)\tfastsetjing av gebyr og avslag på å utføre kommunale oppmålingsforretningar som kommunen utfører etter § 38 femte ledd,\nn)\tavslag på førespurnad om utlevering av opplysningar frå fastmerkeregister, jf. § 40,\no)\ttvangsmulkt, jf. § 48.",
                         "Fylkesmannen er klageinstans for kommunale vedtak når ikkje anna er bestemt. Departementet er klageinstans for vedtak gjort av sentral matrikkelstyresmakt. Sentral matrikkelstyresmakt er klageinstans for kommunale vedtak om utlevering av opplysningar frå matrikkelen, jf. første ledd bokstav k. Statens geodetiske fagorgan er klageinstans for kommunale avslag på førespurnad om utlevering av opplysningar frå fastmerkeregister, jf. første ledd bokstav n.",
                         "Førehandsvarsel og underretning om vedtaket til klageinstansen i sak etter første ledd bokstav a og b skal sendast til landmålarføretaket.",
                         "Departementet kan i forskrift gi nærare reglar om klage."
@@ -604,61 +542,28 @@
                     "name": "§ 52",
                     "title": "Endring av andre lover",
                     "sections": [
-                        "Frå den tid Kongen bestemmer, blir det gjort følgjande endringar i andre lover:",
-                        "1. Lov 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (Delingsloven) blir oppheva.",
-                        "2. Lov 9. juli 1923 nr. 1 om anbringelse av signaler og merker for målearbeider blir oppheva.",
-                        "3. I lov 17. juli 1925 nr. 11 om Svalbard blir § 25 oppheva.",
-                        "4. I lov 7. juni 1935 nr. 2 om tinglysing blir gjort følgjande endringar:",
-                        "§ 12a første ledd skal lyde:",
-                        "Dokument som gir grunnbokshjemmel til matrikkelenhet kan ikke tinglyses uten at det framgår av matrikkelen at slik tinglysing kan finne sted for vedkommende enhet. Gir dokumentet uttrykk for hjemmelsovergang som ledd i arv, skifte eller tvangsfullbyrdelse, eller gjelder eierseksjon eller festerett for en tid av 10 år eller kortere, er det tilstrekkelig at enheten er innført i matrikkelen.",
-                        "§ 38a første punktum skal lyde:",
-                        "Når en eiendom som er matrikulert, jf. lov om eigedomsregistrering, tilhører noen som ikke har grunnbokshjemmel, kan den som utøver eierrådigheten og som skriftlig erklærer å være eier, derved få grunnbokshjemmel dersom han sannsynliggjør at han, alene eller sammen med sin hjemmelsmann, har vært eier i minst 20 år.",
-                        "§ 38b første ledd skal lyde:",
-                        "Eiendom ervervet til veg- eller jernbaneformål som eies av stat, fylkeskommune eller kommune, kan vedkommende myndighet få grunnbokshjemmel til som eier når",
-                        "a)vedkommende myndighet skriftlig erklærer å være eier, og",
-                        "b)enheten er registrert i matrikkelen, og kommunen erklærer at klagefristen etter lov om eigedomsregistrering er utløpt, eller klage er avgjort.",
-                        "5. I lov 15. mars 1940 nr. 3 om vassdragene skal § 5 nr. 1 andre ledd lyde:",
-                        "Departementet gir nærmere bestemmelser om kartfesting og merking, jf. lov om eigedomsregistrering.",
-                        "6. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal:",
-                        "Tilvisinga i § 30 nr. 3 til signallova opphevast og ny tilvising til lov om eigedomsregistrering føyast til.",
-                        "7. I lov 30. juni 1972 nr. 70 om bergverk blir gjort følgjande endringar:",
-                        "§ 11 første ledd nr. 3 skal lyde:",
-                        "3.angivelse av hjørnepunktenes koordinater for det mutingsområde som det søkes om, med opplysninger om kommune og så vidt mulig vedkommende eiendoms eller eiendommers matrikkelnummer og eierens navn,",
-                        "§ 27 første ledd nr. 4 skal lyde:",
-                        "4.en fullstendig og nøyaktig beskrivelse av beliggenheten for det utmål det søkes om, med angivelse av kommune og så vidt mulig vedkommende eiendoms eller eiendommers matrikkelnummer og eierens og brukerens navn og adresse,",
-                        "8. I lov 9. juni 1978 nr. 50 om kulturminner skal § 4 femte ledd lyde:",
-                        "Objekt eller område registrert av vedkommende myndighet eller avmerket i matrikkelen, jf. lov om eigedomsregistrering, som automatisk fredet kulturminne, skal alltid regnes som et automatisk fredet kulturminne, med mindre det føres bevis for det motsatte.",
-                        "9. I lov 21. desember 1979 nr. 77 om jordskifte o.a. (jordskifteloven) blir gjort følgjande endringar:",
-                        "§ 24 første og nytt andre ledd skal lyde:",
+                        "Frå den tid Kongen bestemmer, blir det gjort følgjande endringar i andre lover:\n1. Lov 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (Delingsloven) blir oppheva.\n2. Lov 9. juli 1923 nr. 1 om anbringelse av signaler og merker for målearbeider blir oppheva.\n3. I lov 17. juli 1925 nr. 11 om Svalbard blir § 25 oppheva.\n4. I lov 7. juni 1935 nr. 2 om tinglysing blir gjort følgjande endringar:\n§ 12a første ledd skal lyde:",
+                        "Dokument som gir grunnbokshjemmel til matrikkelenhet kan ikke tinglyses uten at det framgår av matrikkelen at slik tinglysing kan finne sted for vedkommende enhet. Gir dokumentet uttrykk for hjemmelsovergang som ledd i arv, skifte eller tvangsfullbyrdelse, eller gjelder eierseksjon eller festerett for en tid av 10 år eller kortere, er det tilstrekkelig at enheten er innført i matrikkelen.\n§ 38a første punktum skal lyde:",
+                        "Når en eiendom som er matrikulert, jf. lov om eigedomsregistrering, tilhører noen som ikke har grunnbokshjemmel, kan den som utøver eierrådigheten og som skriftlig erklærer å være eier, derved få grunnbokshjemmel dersom han sannsynliggjør at han, alene eller sammen med sin hjemmelsmann, har vært eier i minst 20 år.\n§ 38b første ledd skal lyde:",
+                        "Eiendom ervervet til veg- eller jernbaneformål som eies av stat, fylkeskommune eller kommune, kan vedkommende myndighet få grunnbokshjemmel til som eier når\na)\tvedkommende myndighet skriftlig erklærer å være eier, og\nb)\tenheten er registrert i matrikkelen, og kommunen erklærer at klagefristen etter lov om eigedomsregistrering er utløpt, eller klage er avgjort.\n5. I lov 15. mars 1940 nr. 3 om vassdragene skal § 5 nr. 1 andre ledd lyde:",
+                        "Departementet gir nærmere bestemmelser om kartfesting og merking, jf. lov om eigedomsregistrering.\n6. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal:\nTilvisinga i § 30 nr. 3 til signallova opphevast og ny tilvising til lov om eigedomsregistrering føyast til.\n7. I lov 30. juni 1972 nr. 70 om bergverk blir gjort følgjande endringar:\n§ 11 første ledd nr. 3 skal lyde:\n3.\tangivelse av hjørnepunktenes koordinater for det mutingsområde som det søkes om, med opplysninger om kommune og så vidt mulig vedkommende eiendoms eller eiendommers matrikkelnummer og eierens navn,\n§ 27 første ledd nr. 4 skal lyde:\n4.\ten fullstendig og nøyaktig beskrivelse av beliggenheten for det utmål det søkes om, med angivelse av kommune og så vidt mulig vedkommende eiendoms eller eiendommers matrikkelnummer og eierens og brukerens navn og adresse,\n8. I lov 9. juni 1978 nr. 50 om kulturminner skal § 4 femte ledd lyde:",
+                        "Objekt eller område registrert av vedkommende myndighet eller avmerket i matrikkelen, jf. lov om eigedomsregistrering, som automatisk fredet kulturminne, skal alltid regnes som et automatisk fredet kulturminne, med mindre det føres bevis for det motsatte.\n9. I lov 21. desember 1979 nr. 77 om jordskifte o.a. (jordskifteloven) blir gjort følgjande endringar:\n§ 24 første og nytt andre ledd skal lyde:",
                         "Så snart råd er etter at saka er rettskraftig, skal rettsformannen ta eit rettskjent utdrag av rettsboka og få dette tinglyst. Alt av varig verdi skal takast med i utdraget. Dersom det er oppretta nye matrikkeleiningar i saka, må dette vere ført inn i matrikkelen før utdraget blir sendt til tinglysing. Etter tinglysinga skal utdraget oppbevarast på jordskiftekontoret.",
-                        "Så snart saka er rettskraftig, skal rettsformannen gi melding til kommunen i samsvar med lov om eigedomsregistrering.",
-                        "Noverande andre ledd blir tredje ledd.",
-                        "§ 29 tredje ledd skal lyde:",
-                        "I samband med jordskifte kan formannen i jordskifteretten gi attest for samanslåing i samsvar med lov om eigedomsregistrering § 18.",
-                        "§ 58 nytt fjerde ledd skal lyde:",
-                        "Alle jordsameiger som ligg i skiftefeltet, og som tidlegare ikkje er ført inn i matrikkelen, skal registrerast i matrikkelen så sant jordskifteretten av omsyn til saka elles har klarlagt grensene og kven som har part i sameiga. Med omsyn til klarlegging av grenser og partar i sameige gjeld krav som fastsett i lov om eigedomsregistrering.",
-                        "Noverande fjerde ledd blir femte ledd.",
-                        "Overskrifta til kapittel 10 skal lyde:",
-                        "Kapittel 10 Oppretting av nye matrikkeleiningar",
-                        "§ 86 skal lyde:"
+                        "Så snart saka er rettskraftig, skal rettsformannen gi melding til kommunen i samsvar med lov om eigedomsregistrering.\nNoverande andre ledd blir tredje ledd.\n§ 29 tredje ledd skal lyde:",
+                        "I samband med jordskifte kan formannen i jordskifteretten gi attest for samanslåing i samsvar med lov om eigedomsregistrering § 18.\n§ 58 nytt fjerde ledd skal lyde:",
+                        "Alle jordsameiger som ligg i skiftefeltet, og som tidlegare ikkje er ført inn i matrikkelen, skal registrerast i matrikkelen så sant jordskifteretten av omsyn til saka elles har klarlagt grensene og kven som har part i sameiga. Med omsyn til klarlegging av grenser og partar i sameige gjeld krav som fastsett i lov om eigedomsregistrering.\nNoverande fjerde ledd blir femte ledd.\nOverskrifta til kapittel 10 skal lyde:\nKapittel 10 Oppretting av nye matrikkeleiningar\n§ 86 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 86",
                     "title": "På bruk som ligg under offentleg jordskifte, kan ingen andre enn jordskifteretten opprette nye matrikkeleiningar utan samtykke frå retten. Dei oppmålingsforretningane som offentleg jordskiftesak fører med seg, skal jordskifteretten alltid halde.",
                     "sections": [
-                        "Når partane i eit avtaleskjønn etter § 6 fjerde ledd er samde om det, held jordskifteretten oppmålingsforretning.",
-                        "§ 87 første punktum skal lyde:",
-                        "For oppmålingsforretningar som jordskifteretten held etter § 86, gjeld reglane i lov om eigedomsregistrering på tilsvarande måte, så langt dei høver.",
-                        "§ 88 første ledd første punktum skal lyde:",
-                        "Eigar kan krevje at jordskifteretten i særskild sak skal klarleggje, merkje av og beskrive grenser for grunneigedom, anleggseigedom, uteareal til eigarseksjon og jordsameige, grenser for alltidvarande bruksrett eller grenser for offentleg regulering av eigarrådvelde.",
-                        "§ 88 tredje ledd skal lyde:",
-                        "Tilsvarande kan eigar eller festar krevje grensegang for matrikkeleining som er festa bort.",
-                        "§ 88a første ledd skal lyde:",
-                        "Eigar eller innehavar av alltidvarande bruksrett kan krevje at jordskifteretten skal klarleggje og fastsette eigedoms- og bruksrettstilhøva i sameiger og i andre områder der det er sambruk mellom eigedomar eller går føre seg reindrift etter lov 9. juni 1978 nr. 49 om reindrift § 2, når dette er nødvendig av omsyn til ein rasjonell bruk av området, eller for registrering av uregistrert jordsameige.",
-                        "§ 89a femte ledd skal lyde:",
-                        "§ 88 tredje og femte ledd og § 89 andre ledd gjeld ikkje.",
-                        "10. I lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) skal ny § 51a lyde:"
+                        "Når partane i eit avtaleskjønn etter § 6 fjerde ledd er samde om det, held jordskifteretten oppmålingsforretning.\n§ 87 første punktum skal lyde:",
+                        "For oppmålingsforretningar som jordskifteretten held etter § 86, gjeld reglane i lov om eigedomsregistrering på tilsvarande måte, så langt dei høver.\n§ 88 første ledd første punktum skal lyde:",
+                        "Eigar kan krevje at jordskifteretten i særskild sak skal klarleggje, merkje av og beskrive grenser for grunneigedom, anleggseigedom, uteareal til eigarseksjon og jordsameige, grenser for alltidvarande bruksrett eller grenser for offentleg regulering av eigarrådvelde.\n§ 88 tredje ledd skal lyde:",
+                        "Tilsvarande kan eigar eller festar krevje grensegang for matrikkeleining som er festa bort.\n§ 88a første ledd skal lyde:",
+                        "Eigar eller innehavar av alltidvarande bruksrett kan krevje at jordskifteretten skal klarleggje og fastsette eigedoms- og bruksrettstilhøva i sameiger og i andre områder der det er sambruk mellom eigedomar eller går føre seg reindrift etter lov 9. juni 1978 nr. 49 om reindrift § 2, når dette er nødvendig av omsyn til ein rasjonell bruk av området, eller for registrering av uregistrert jordsameige.\n§ 89a femte ledd skal lyde:",
+                        "§ 88 tredje og femte ledd og § 89 andre ledd gjeld ikkje.\n10. I lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) skal ny § 51a lyde:"
                     ]
                 },
                 {
@@ -668,80 +573,51 @@
                         "Forurensningsmyndigheten kan registrere opplysninger om forurensning i eller på fast eiendom i matrikkelen, jf. lov om eigedomsregistrering.",
                         "Før registrering skjer skal berørte parter varsles.",
                         "Forurensningsmyndigheten kan også registrere pålegg som gjelder forurensning i eller på fast eiendom på vedkommende matrikkelenhet.",
-                        "Departementet kan i forskrift gi nærmere bestemmelser om registrering i matrikkelen, herunder hvem som skal sørge for slik registrering.",
-                        "11. I lov 14. juni 1985 nr. 77 Plan- og bygningslov blir gjort følgjande endringar:",
-                        "§ 57 første ledd andre punktum skal lyde:",
-                        "Endelig fastsatt refusjonskrav har panterett i det refusjonspliktige areal eller – dersom arealet ikke er utskilt – den eiendom arealet er en del av.",
-                        "Overskrifta til kapittel XI skal lyde:",
-                        "Kap. XI. Opprettelse og endring av eiendommer.",
-                        "§ 63 skal lyde:"
+                        "Departementet kan i forskrift gi nærmere bestemmelser om registrering i matrikkelen, herunder hvem som skal sørge for slik registrering.\n11. I lov 14. juni 1985 nr. 77 Plan- og bygningslov blir gjort følgjande endringar:\n§ 57 første ledd andre punktum skal lyde:",
+                        "Endelig fastsatt refusjonskrav har panterett i det refusjonspliktige areal eller – dersom arealet ikke er utskilt – den eiendom arealet er en del av.\nOverskrifta til kapittel XI skal lyde:\nKap. XI. Opprettelse og endring av eiendommer.\n§ 63 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 63",
                     "title": "Opprettelse og endring av matrikkelenhet",
                     "sections": [
-                        "Matrikkelenhet må ikke opprettes på en slik måte at det oppstår forhold som strider mot denne lov, forskrift, vedtekt eller plan. Matrikkelenhet må heller ikke opprettes, eller endres, slik at det dannes tomter som etter kommunens skjønn er mindre vel skikket til bebyggelse på grunn av sin størrelse, form eller plassering.",
-                        "§ 93 bokstav h første punktum skal lyde:",
-                        "h)Opprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, samt opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller arealoverføring, jf. lov om eigedomsregistrering.",
-                        "§ 93b nr. 1 nytt andre ledd skal lyde:",
-                        "De som er nevnt i § 9 i lov om eigedomsregistrering kan søke om tillatelse til å opprette ny grunneiendom, ny anleggseiendom, ny festegrunn eller nytt jordsameie, eller tillatelse til arealoverføring. Kommunen kan kreve at søknad som reiser spesielle rettslige eller oppmålingstekniske spørsmål, blir utformet av landmålerforetak som er godkjent etter lov om eigedomsregistrering.",
-                        "§ 94 nr. 1 tredje ledd skal lyde:",
-                        "Søknad om å opprette ny grunneiendom, ny anleggseiendom, ny festegrunn eller nytt jordsameie, eller tillatelse til arealoverføring, må angi hvordan enheten ønskes utformet, herunder angi grenseforløpet på kart. Søknaden må vise hvordan de nye enhetene eller arealoverføringen på hensiktsmessig måte kan gå inn i en fremtidig utnytting av området, herunder også hvordan de krav som nevnt i § 69 nr. 1 kan oppfylles.",
-                        "§ 94 nr. 3 fjerde ledd skal lyde:",
-                        "Ved delt søknad skal det bare sendes nabovarsel for søknad som omfatter tiltak som nevnt i § 93 så langt det gjelder tiltak etter bokstav h, tiltakets ytre rammer eller den virksomhet som skal drives, samt endringer i disse forhold.",
-                        "§ 95 nr. 5 skal lyde:",
-                        "5. Kommunen kan sette som vilkår for å gi tillatelse at:",
-                        "a)det blir holdt oppmålingsforretning når det er behov for å klarlegge grensene for den eller de matrikkelenhetene som tiltaket gjelder for,",
-                        "b)eiendommer som skal nyttes under ett blir sammenføyd etter lov om eigedomsregistrering.",
-                        "Ved søknad om opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, kan kommunen sette som vilkår for tillatelsen at festeretten skal gjelde for et særskilt avgrenset areal, eller at enheten blir opprettet som grunneiendom.",
-                        "§ 96 nytt fjerde ledd skal lyde:",
-                        "Tillatelse til tiltak etter § 93 første ledd bokstav h til å opprette ny grunneiendom, ny anleggseiendom, ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller nytt jordsameie faller bort dersom det ikke er satt fram krav om matrikkelføring etter lov om eigedomsregistrering innen tre år etter at tillatelsen ble gitt. Tillatelsen faller også bort dersom kommunen må avvise kravet om matrikkelføring, og vilkårene for matrikkelføring ikke er rettet innen en nærmere fastsatt frist. Tilsvarende gjelder tillatelse til arealoverføring.",
-                        "12. I lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) blir gjort følgjande endringar:",
-                        "§ 2-1 skal lyde:"
+                        "Matrikkelenhet må ikke opprettes på en slik måte at det oppstår forhold som strider mot denne lov, forskrift, vedtekt eller plan. Matrikkelenhet må heller ikke opprettes, eller endres, slik at det dannes tomter som etter kommunens skjønn er mindre vel skikket til bebyggelse på grunn av sin størrelse, form eller plassering.\n§ 93 bokstav h første punktum skal lyde:\nh)\tOpprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, samt opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller arealoverføring, jf. lov om eigedomsregistrering.\n§ 93b nr. 1 nytt andre ledd skal lyde:",
+                        "De som er nevnt i § 9 i lov om eigedomsregistrering kan søke om tillatelse til å opprette ny grunneiendom, ny anleggseiendom, ny festegrunn eller nytt jordsameie, eller tillatelse til arealoverføring. Kommunen kan kreve at søknad som reiser spesielle rettslige eller oppmålingstekniske spørsmål, blir utformet av landmålerforetak som er godkjent etter lov om eigedomsregistrering.\n§ 94 nr. 1 tredje ledd skal lyde:",
+                        "Søknad om å opprette ny grunneiendom, ny anleggseiendom, ny festegrunn eller nytt jordsameie, eller tillatelse til arealoverføring, må angi hvordan enheten ønskes utformet, herunder angi grenseforløpet på kart. Søknaden må vise hvordan de nye enhetene eller arealoverføringen på hensiktsmessig måte kan gå inn i en fremtidig utnytting av området, herunder også hvordan de krav som nevnt i § 69 nr. 1 kan oppfylles.\n§ 94 nr. 3 fjerde ledd skal lyde:",
+                        "Ved delt søknad skal det bare sendes nabovarsel for søknad som omfatter tiltak som nevnt i § 93 så langt det gjelder tiltak etter bokstav h, tiltakets ytre rammer eller den virksomhet som skal drives, samt endringer i disse forhold.\n§ 95 nr. 5 skal lyde:",
+                        "5. Kommunen kan sette som vilkår for å gi tillatelse at:\na)\tdet blir holdt oppmålingsforretning når det er behov for å klarlegge grensene for den eller de matrikkelenhetene som tiltaket gjelder for,\nb)\teiendommer som skal nyttes under ett blir sammenføyd etter lov om eigedomsregistrering.",
+                        "Ved søknad om opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, kan kommunen sette som vilkår for tillatelsen at festeretten skal gjelde for et særskilt avgrenset areal, eller at enheten blir opprettet som grunneiendom.\n§ 96 nytt fjerde ledd skal lyde:",
+                        "Tillatelse til tiltak etter § 93 første ledd bokstav h til å opprette ny grunneiendom, ny anleggseiendom, ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller nytt jordsameie faller bort dersom det ikke er satt fram krav om matrikkelføring etter lov om eigedomsregistrering innen tre år etter at tillatelsen ble gitt. Tillatelsen faller også bort dersom kommunen må avvise kravet om matrikkelføring, og vilkårene for matrikkelføring ikke er rettet innen en nærmere fastsatt frist. Tilsvarende gjelder tillatelse til arealoverføring.\n12. I lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) blir gjort følgjande endringar:\n§ 2-1 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 2-1",
                     "title": "Oppmålingsforretning og matrikkelføring",
                     "sections": [
-                        "Krev fullføring av salet at det blir halde oppmålingsforretning og sett fram krav om matrikkelføring, skal seljaren syte for dette så snart avtala er bindande.",
-                        "§ 2-6 første ledd skal lyde:",
-                        "(1) Seljaren ber alle kostnadene med å gjere eigedomen ferdig for sal. Det gjeld og kostnadene til oppmålingsforretning og matrikkelføring, og sakkunnig hjelp til dette.",
-                        "13. I lov 29. november 1996 nr. 72 om petroleumsvirksomhet skal § 3-12 andre ledd lyde:",
-                        "Bestemmelsen i første ledd gjelder tilsvarende for nødvendige trasé- og grunnundersøkelser forut for slik plassering. For grunnlagsmåling gjelder lov om eigedomsregistrering.",
-                        "14. I lov 20. desember 1996 nr. 106 om tomtefeste skal § 5 tredje ledd første punktum lyde:",
-                        "Så snart partane har gjort avtale, skal bortfestaren gjera det som trengst for å setje fram krav om turvande matrikkelføring.",
-                        "15. I lov 23. mai 1997 nr. 31 om eierseksjoner blir gjort følgjande endringar:",
-                        "§ 5 skal lyde:"
+                        "Krev fullføring av salet at det blir halde oppmålingsforretning og sett fram krav om matrikkelføring, skal seljaren syte for dette så snart avtala er bindande.\n§ 2-6 første ledd skal lyde:",
+                        "(1) Seljaren ber alle kostnadene med å gjere eigedomen ferdig for sal. Det gjeld og kostnadene til oppmålingsforretning og matrikkelføring, og sakkunnig hjelp til dette.\n13. I lov 29. november 1996 nr. 72 om petroleumsvirksomhet skal § 3-12 andre ledd lyde:",
+                        "Bestemmelsen i første ledd gjelder tilsvarende for nødvendige trasé- og grunnundersøkelser forut for slik plassering. For grunnlagsmåling gjelder lov om eigedomsregistrering.\n14. I lov 20. desember 1996 nr. 106 om tomtefeste skal § 5 tredje ledd første punktum lyde:",
+                        "Så snart partane har gjort avtale, skal bortfestaren gjera det som trengst for å setje fram krav om turvande matrikkelføring.\n15. I lov 23. mai 1997 nr. 31 om eierseksjoner blir gjort følgjande endringar:\n§ 5 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 5",
                     "title": "Seksjonering",
                     "sections": [
-                        "Eierseksjoner opprettes ved innføring av seksjonene i matrikkelen, på bakgrunn av et kommunalt seksjoneringsvedtak etter bestemmelsene i kapitlet her.",
-                        "§ 6 tredje ledd skal lyde:",
-                        "Seksjoneringen skal omfatte bare en grunneiendom eller anleggseiendom, om ikke samtykke til annet gis etter § 8 fjerde ledd.",
-                        "§ 6 femte ledd første punktum skal lyde:",
-                        "Planlagt bygning kan ikke seksjoneres før det foreligger igangsettingstillatelse etter plan- og bygningsloven.",
-                        "§ 7 skal lyde:"
+                        "Eierseksjoner opprettes ved innføring av seksjonene i matrikkelen, på bakgrunn av et kommunalt seksjoneringsvedtak etter bestemmelsene i kapitlet her.\n§ 6 tredje ledd skal lyde:",
+                        "Seksjoneringen skal omfatte bare en grunneiendom eller anleggseiendom, om ikke samtykke til annet gis etter § 8 fjerde ledd.\n§ 6 femte ledd første punktum skal lyde:",
+                        "Planlagt bygning kan ikke seksjoneres før det foreligger igangsettingstillatelse etter plan- og bygningsloven.\n§ 7 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 7",
                     "title": "Seksjoneringsbegjæring",
                     "sections": [
-                        "Begjæring til kommunen om seksjonering kan settes fram av eiendommens hjemmelshaver og skal inneholde opplysning om:",
-                        "a)eiendommens betegnelse,",
-                        "b)de enkelte seksjoners formål,",
-                        "c)sameiebrøk for hver seksjon og",
-                        "d)vedtekter for sameiet.",
+                        "Begjæring til kommunen om seksjonering kan settes fram av eiendommens hjemmelshaver og skal inneholde opplysning om:\na)\teiendommens betegnelse,\nb)\tde enkelte seksjoners formål,\nc)\tsameiebrøk for hver seksjon og\nd)\tvedtekter for sameiet.",
                         "Med begjæringen skal følge situasjonsplan over eiendommen og plantegninger over bygningens etasjer, medregnet kjeller og loft. På plantegningene skal grensene for bruksenhetene, forslag til seksjonsnummer og bruken av de enkelte rom tydelig angis. På situasjonsplanen skal grensene for ubebygde deler av eiendommen som skal inngå i bruksenheter, tydelig angis. Skal ubygde deler av eiendommen inngå i bruksenhet, skal krav om matrikkelføring av oppmålingsforretning over utearealet følge begjæringen.",
                         "Det skal bekreftes ved egenerklæring at lovens vilkår for seksjonering er oppfylt. En liste med navn og adresse på alle leiere av bolig i eiendommen skal følge begjæringen.",
                         "Departementet kan bestemme at det for seksjoneringsbegjæringen og vedleggene skal brukes fastsatte blanketter.",
-                        "For seksjonering kan kommunen kreve et gebyr som ikke må overstige tre ganger rettsgebyret eller fem ganger rettsgebyret dersom det må holdes befaring. Kommunen skal fastsette gebyrets størrelse på grunnlag av gjennomsnittlige kostnader med saksbehandlingen. I tillegg kan kommunen kreve gebyr etter reglene i lov om eigedomsregistrering for matrikkelbrev som må utarbeides etter bestemmelsen i § 9 annet ledd. Dessuten skal gebyr for tinglysing av matrikuleringen innbetales til kommunen. Innbetaling av gebyrene skal skje innen en frist som kommunen setter i det enkelte tilfelle. Blir seksjoneringsbegjæringen avslått, skal tinglysingsgebyret og halvparten av gebyret for seksjoneringen betales tilbake.",
-                        "§ 8 skal lyde:"
+                        "For seksjonering kan kommunen kreve et gebyr som ikke må overstige tre ganger rettsgebyret eller fem ganger rettsgebyret dersom det må holdes befaring. Kommunen skal fastsette gebyrets størrelse på grunnlag av gjennomsnittlige kostnader med saksbehandlingen. I tillegg kan kommunen kreve gebyr etter reglene i lov om eigedomsregistrering for matrikkelbrev som må utarbeides etter bestemmelsen i § 9 annet ledd. Dessuten skal gebyr for tinglysing av matrikuleringen innbetales til kommunen. Innbetaling av gebyrene skal skje innen en frist som kommunen setter i det enkelte tilfelle. Blir seksjoneringsbegjæringen avslått, skal tinglysingsgebyret og halvparten av gebyret for seksjoneringen betales tilbake.\n§ 8 skal lyde:"
                     ]
                 },
                 {
@@ -749,13 +625,9 @@
                     "title": "Kommunens behandling av seksjoneringsbegjæringen",
                     "sections": [
                         "Kommunen kan nekte seksjonering av eiendom som senest seks måneder etter at seksjoneringsbegjæringen er mottatt av kommunen, omfattes av vedtak om utbedringsprogram, regulering til fornyelsesområde eller midlertidig forbud etter plan- og bygningsloven § 33.",
-                        "Kommunen skal nekte seksjonering hvis:",
-                        "a)vilkårene i § 6 ikke er oppfylt,",
-                        "b)seksjoneringsbegjæringen ikke er i samsvar med § 7, eller",
-                        "c)gebyret etter § 7 femte ledd ikke blir innbetalt innen fristen.",
+                        "Kommunen skal nekte seksjonering hvis:\na)\tvilkårene i § 6 ikke er oppfylt,\nb)\tseksjoneringsbegjæringen ikke er i samsvar med § 7, eller\nc)\tgebyret etter § 7 femte ledd ikke blir innbetalt innen fristen.",
                         "Kommunen skal sette en frist for retting eller endring av seksjoneringsbegjæringen hvis seksjonering vil kunne gjennomføres etter en slik retting eller endring.",
-                        "Kommunen kan i særlige tilfelle gi samtykke til at seksjoneringen omfatter mer enn en grunneiendom eller anleggseiendom. Samtykke skal ikke gis uten at registerfører for tinglysing i fast eiendom har gitt skriftlig samtykke.",
-                        "§ 9 skal lyde:"
+                        "Kommunen kan i særlige tilfelle gi samtykke til at seksjoneringen omfatter mer enn en grunneiendom eller anleggseiendom. Samtykke skal ikke gis uten at registerfører for tinglysing i fast eiendom har gitt skriftlig samtykke.\n§ 9 skal lyde:"
                     ]
                 },
                 {
@@ -765,10 +637,8 @@
                         "Kommunens seksjoneringsvedtak skal omfatte avgrensningen av de enkelte bruksenheter, den enkelte bruksenhets formål, seksjonens nummer og sameiebrøk. Kommunen utarbeider endelig situasjonsplan og plantegninger med innhold som nevnt i § 7, og planen og tegningene skal følge seksjoneringsvedtaket.",
                         "Bruksenhet som skal omfatte ubebygde deler kan ikke registreres i matrikkelen før det er holdt oppmålingsforretning for grensene for utearealet etter lov om eigedomsregistrering. Matrikkelbrev skal utarbeides av kommunen etter reglene i lov om eigedomsregistrering uten særskilt søknad.",
                         "Kommunen skal sende gjenpart av seksjoneringsvedtaket uten vedleggene sammen med orientering om leiernes klageadgang og om deres rettigheter etter kapittel III til de leiere som er oppført på listen som følger begjæringen, jf. § 7 tredje ledd.",
-                        "Departementet kan gi forskrifter om innholdet av seksjoneringsvedtaket og kan fastsette blanketter som skal brukes.",
-                        "§ 10 første punktum skal lyde:",
-                        "Kommunens seksjoneringsvedtak kan påklages til departementet.",
-                        "§ 11 skal lyde:"
+                        "Departementet kan gi forskrifter om innholdet av seksjoneringsvedtaket og kan fastsette blanketter som skal brukes.\n§ 10 første punktum skal lyde:",
+                        "Kommunens seksjoneringsvedtak kan påklages til departementet.\n§ 11 skal lyde:"
                     ]
                 },
                 {
@@ -776,18 +646,12 @@
                     "title": "Registrering og tinglysing",
                     "sections": [
                         "Når klagefristen er ute for leiere som har fått gjenpart etter § 9 tredje ledd, og eventuelle klager over seksjoneringsvedtaket er avgjort, skal kommunen føre seksjonene inn i matrikkelen. Deretter skal kommunen sende nødvendig dokumentasjon for opprettelse av grunnboksblad for hver seksjon til tinglysing. Departementet kan i forskrift gi nærmere regler for slik dokumentasjon, og hvilke vedlegg som skal følge med til tinglysing.",
-                        "Sameier med ni eller flere seksjoner skal registreres i foretaksregisteret. Styret skal melde sameiet til registrering senest seks måneder etter at seksjonene er matrikulert. Sameier med åtte eller færre seksjoner kan registreres i foretaksregisteret.",
-                        "§ 12 første ledd første punktum skal lyde:",
-                        "En seksjon kan deles i to eller flere seksjoner ved endring av matrikkelen, etter at kommunen har fattet et eget reseksjoneringsvedtak på bakgrunn av egen seksjoneringsbegjæring som er satt fram av seksjonens hjemmelshaver.",
-                        "§ 14 første ledd første punktum skal lyde:",
-                        "Den som leier bolig i eiendommen på tidspunktet for innføring i matrikkelen, jf. §§ 5 og 11, har rett til å kjøpe vedkommende seksjon etter bestemmelsene i kapitlet her.",
-                        "§ 14 tredje ledd skal lyde:",
-                        "Kjøperetten kan ikke frafalles før seksjonene er innført i matrikkelen.",
-                        "§ 14 fjerde ledd andre punktum skal lyde:",
-                        "Kjøperetten gjelder likevel ved matrikulering av reseksjonering som innebærer oppdeling av en samleseksjon for boliger til enkeltseksjoner og ved omgjøring av en vaktmesterbolig som tidligere har vært fellesareal til egen seksjon.",
-                        "§ 15 første ledd første punktum skal lyde:",
-                        "Eieren av eiendommen skal snarest mulig etter innføring i matrikkelen sette fram skriftlig tilbud om kjøp overfor alle leiere med kjøperett.",
-                        "16. I lov 28. november 2003 nr. 98 om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv. skal § 15 lyde:"
+                        "Sameier med ni eller flere seksjoner skal registreres i foretaksregisteret. Styret skal melde sameiet til registrering senest seks måneder etter at seksjonene er matrikulert. Sameier med åtte eller færre seksjoner kan registreres i foretaksregisteret.\n§ 12 første ledd første punktum skal lyde:",
+                        "En seksjon kan deles i to eller flere seksjoner ved endring av matrikkelen, etter at kommunen har fattet et eget reseksjoneringsvedtak på bakgrunn av egen seksjoneringsbegjæring som er satt fram av seksjonens hjemmelshaver.\n§ 14 første ledd første punktum skal lyde:",
+                        "Den som leier bolig i eiendommen på tidspunktet for innføring i matrikkelen, jf. §§ 5 og 11, har rett til å kjøpe vedkommende seksjon etter bestemmelsene i kapitlet her.\n§ 14 tredje ledd skal lyde:",
+                        "Kjøperetten kan ikke frafalles før seksjonene er innført i matrikkelen.\n§ 14 fjerde ledd andre punktum skal lyde:",
+                        "Kjøperetten gjelder likevel ved matrikulering av reseksjonering som innebærer oppdeling av en samleseksjon for boliger til enkeltseksjoner og ved omgjøring av en vaktmesterbolig som tidligere har vært fellesareal til egen seksjon.\n§ 15 første ledd første punktum skal lyde:",
+                        "Eieren av eiendommen skal snarest mulig etter innføring i matrikkelen sette fram skriftlig tilbud om kjøp overfor alle leiere med kjøperett.\n16. I lov 28. november 2003 nr. 98 om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv. skal § 15 lyde:"
                     ]
                 },
                 {

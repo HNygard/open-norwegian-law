@@ -2,7 +2,7 @@
     "lawId": "LOV-2014-08-15-59",
     "lawName": "Lov om erstatning for naturskader (naturskadeerstatningsloven)",
     "shortName": "Naturskadeerstatningsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.80 L (2013–2014), Innst.245 L (2013–2014), Lovvedtak 94 (2013–2014). Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Landbruks- og matdepartementet.\nEndringer i følgende lover:\n1\tLov 23. oktober 1959 nr. 3 om oreigning av fast eigedom.\n2\tLov 17. desember 1982 nr. 86 om rettsgebyr.\n3\tLov 16. juni 1989 nr. 70 om naturskadeforsikring.\n4\tLov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader (naturskadeloven).",
     "chapters": [
         {
             "name": "Kapittel 1 Innledende bestemmelser",
@@ -63,11 +63,7 @@
                     "name": "§ 6",
                     "title": "Avkorting",
                     "sections": [
-                        "Erstatningen etter § 5 kan nedsettes eller etter omstendighetene helt nektes når:",
-                        "a)skaden har rammet eiendom der gjenopprettingskostnaden overstiger bruksverdien,",
-                        "b)skadens inntreden eller omfang helt eller delvis skyldes svak konstruksjon sammenlignet med de påkjenninger eiendommen kan ventes å bli utsatt for, dårlig vedlikehold eller manglende tilsyn,",
-                        "c)den skadelidte kan lastes for ikke å ha forebygget skaden eller hindret skadens omfang,",
-                        "d)gjenopprettingen medfører en verdistigning på skadeobjektet.",
+                        "Erstatningen etter § 5 kan nedsettes eller etter omstendighetene helt nektes når:\na)\tskaden har rammet eiendom der gjenopprettingskostnaden overstiger bruksverdien,\nb)\tskadens inntreden eller omfang helt eller delvis skyldes svak konstruksjon sammenlignet med de påkjenninger eiendommen kan ventes å bli utsatt for, dårlig vedlikehold eller manglende tilsyn,\nc)\tden skadelidte kan lastes for ikke å ha forebygget skaden eller hindret skadens omfang,\nd)\tgjenopprettingen medfører en verdistigning på skadeobjektet.",
                         "Ved avgjørelse etter første ledd bokstav b og c skal det legges vekt på den skadelidtes forutsetninger for å innse hvilke krav som må stilles, skadelidtes mulighet for utbedring av mangelen og forholdene ellers. Avkorting skal ikke skje hvis den skadelidte bare er lite å legge til last."
                     ]
                 },
@@ -233,25 +229,12 @@
                     "name": "§ 25",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1. I lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader gjøres følgende endringer:",
-                        "Lovens tittel skal lyde: Lov om sikring mot naturskader.",
-                        "Overskriftene til kapittel 1 til 4 oppheves. Det samme gjelder overskriftene til §§ 3, 7, 11, 18, 20, 23 og 24.",
-                        "§§ 1 til 19 oppheves.",
-                        "§ 20 første ledd skal lyde:",
-                        "Kommunen plikter å treffe forholdsregler mot naturskader slik som bestemt i plan- og bygningsloven § 11-8 tredje ledd bokstav a og § 28-1, samt ved nødvendige sikringstiltak. Med naturskade menes naturskade slik det fremgår av naturskadeerstatningsloven § 4 første ledd.",
-                        "§ 24 sjette ledd oppheves. Nåværende sjuende og åttende ledd blir sjette og sjuende ledd.",
-                        "2. I lov 16. juni 1989 nr. 70 om naturskadeforsikring gjøres følgende endringer:",
-                        "§ 1 fjerde ledd skal lyde:",
-                        "Er det nedlagt bygge- og deleforbud etter lov om sikring mot naturskader § 22, gis ikke erstatning for skade på byggverk som siden er oppført på vedkommende område, eller for løsøre som befinner seg i byggverket når skaden er av slik art som vedtaket gjelder.",
-                        "§ 2 skal lyde:",
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n1. I lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader gjøres følgende endringer:\nLovens tittel skal lyde: Lov om sikring mot naturskader.\nOverskriftene til kapittel 1 til 4 oppheves. Det samme gjelder overskriftene til §§ 3, 7, 11, 18, 20, 23 og 24.\n§§ 1 til 19 oppheves.\n§ 20 første ledd skal lyde:",
+                        "Kommunen plikter å treffe forholdsregler mot naturskader slik som bestemt i plan- og bygningsloven § 11-8 tredje ledd bokstav a og § 28-1, samt ved nødvendige sikringstiltak. Med naturskade menes naturskade slik det fremgår av naturskadeerstatningsloven § 4 første ledd.\n§ 24 sjette ledd oppheves. Nåværende sjuende og åttende ledd blir sjette og sjuende ledd.\n2. I lov 16. juni 1989 nr. 70 om naturskadeforsikring gjøres følgende endringer:\n§ 1 fjerde ledd skal lyde:",
+                        "Er det nedlagt bygge- og deleforbud etter lov om sikring mot naturskader § 22, gis ikke erstatning for skade på byggverk som siden er oppført på vedkommende område, eller for løsøre som befinner seg i byggverket når skaden er av slik art som vedtaket gjelder.\n§ 2 skal lyde:",
                         "Er det tvil om det foreligger naturskade etter § 1 første ledd eller om betingelsene for nedsettelse eller nektelse av erstatning etter § 1 tredje ledd, er til stede, kan forsikringsselskapet eller den sikrede forelegge spørsmålet for Klagenemnda for naturskadesaker, jf. naturskadeerstatningsloven § 21. Selskapet skal underrette sikrede om hans rett etter bestemmelsen her. Klagenemndas vedtak kan ikke påklages.",
-                        "Hvis forsikringsselskapet ved behandlingen av en skadesak finner at et område er særlig utsatt for skred eller annen naturskade, jf. lov om sikring mot naturskader § 20, skal det snarest underrette vedkommende kommune om dette.",
-                        "§ 3 fjerde ledd skal lyde:",
-                        "Oppstår det tvil om det er inntruffet én eller flere naturkatastrofer, kan forsikringsselskapet eller den sikrede forelegge spørsmålet for Klagenemnda for naturskadesaker, jf. naturskadeerstatningsloven § 21. Selskapet skal underrette sikrede om hans rett etter bestemmelsen her. Klagenemndas vedtak kan ikke påklages.",
-                        "3. I lov 17. desember 1982 nr. 86 om rettsgebyr oppheves § 11 fjerde ledd annet punktum.",
-                        "4. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal § 30 nr. 27 lyde:",
-                        "27.Lov 25. mars 1994 nr. 7 om sikring mot naturskader."
+                        "Hvis forsikringsselskapet ved behandlingen av en skadesak finner at et område er særlig utsatt for skred eller annen naturskade, jf. lov om sikring mot naturskader § 20, skal det snarest underrette vedkommende kommune om dette.\n§ 3 fjerde ledd skal lyde:",
+                        "Oppstår det tvil om det er inntruffet én eller flere naturkatastrofer, kan forsikringsselskapet eller den sikrede forelegge spørsmålet for Klagenemnda for naturskadesaker, jf. naturskadeerstatningsloven § 21. Selskapet skal underrette sikrede om hans rett etter bestemmelsen her. Klagenemndas vedtak kan ikke påklages.\n3. I lov 17. desember 1982 nr. 86 om rettsgebyr oppheves § 11 fjerde ledd annet punktum.\n4. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal § 30 nr. 27 lyde:\n27.\tLov 25. mars 1994 nr. 7 om sikring mot naturskader."
                     ]
                 }
             ]

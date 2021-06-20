@@ -2,7 +2,7 @@
     "lawId": "LOV-2009-06-19-97",
     "lawName": "Lov om dyrevelferd",
     "shortName": "Dyrevelferdsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.15 (2008–2009), Innst.O.nr.56 (2008–2009) og Besl.O.nr.77 (2008–2009). Odels- og lagtingsvedtak hhv. 27. april og 12. mai  2009. Fremmet av Landbruks- og matdepartementet.\nFølgende lover oppheves:\n1\tLov 20. desember 1974 nr. 73 om dyrevern.\n2\tLov 19. april 2002 nr. 11 om endringer i lov 20. desember 1974 nr. 73 om dyrevern.\nEndringer i følgende lover:\n1\tLov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven).\n2\tLov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell.\n3\tLov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven).",
     "chapters": [
         {
             "name": "Kapittel I Generelle bestemmelser",
@@ -127,11 +127,7 @@
                     "name": "§ 14",
                     "title": "Særskilte forbud",
                     "sections": [
-                        "Det er forbudt å:",
-                        "a)utøve vold mot dyr,",
-                        "b)hensette dyr i hjelpeløs tilstand,",
-                        "c)ha seksuell omgang med eller foreta seksuelle handlinger med dyr, og",
-                        "d)bruke levende dyr som fôr eller agn."
+                        "Det er forbudt å:\na)\tutøve vold mot dyr,\nb)\thensette dyr i hjelpeløs tilstand,\nc)\tha seksuell omgang med eller foreta seksuelle handlinger med dyr, og\nd)\tbruke levende dyr som fôr eller agn."
                     ]
                 },
                 {
@@ -170,7 +166,7 @@
                     "name": "§ 19",
                     "title": "Opplysningsplikt, dokumentasjon og kontrolltiltak",
                     "sections": [
-                        "Dyreholder og andre som har plikter etter denne loven, skal på anmodning fra tilsynsmyndigheten gi opplysninger, melding, rapporter, dokumentasjon og innsyn i dokumenter som har betydning for tilsynsmyndighetens kontroll med etterlevelse av loven eller bestemmelser gitt i medhold av loven. Andre som har relevant informasjon, skal på anmodning fra tilsynsmyndigheten gi nødvendige opplysninger.",
+                        "Dyreholder og andre som har plikter etter denne loven, skal på  anmodning fra tilsynsmyndigheten gi opplysninger, melding, rapporter, dokumentasjon og innsyn i dokumenter som har betydning for tilsynsmyndighetens kontroll med etterlevelse av loven eller bestemmelser gitt i medhold av loven. Andre som har relevant informasjon, skal på anmodning fra tilsynsmyndigheten gi nødvendige opplysninger.",
                         "Kongen kan gi nærmere forskrifter om innholdet i opplysnings- og dokumentasjonsplikten, og om plikt til å etablere og gjennomføre systematiske kontrolltiltak."
                     ]
                 },
@@ -216,11 +212,7 @@
                     "name": "§ 24",
                     "title": "Tilsyn og stell",
                     "sections": [
-                        "Dyreholder skal sikre at dyr får godt tilsyn og stell, herunder sikre at:",
-                        "a)fôr, beite og vann er av god kvalitet, dekker dyrets behov for næring og væske og fremmer god helse og velferd. Dyr skal ikke tvangsfôres eller tvangsvannes, med mindre det skjer av dyrehelsemessig grunn,",
-                        "b)dyr beskyttes mot skade, sykdom, parasitter og andre farer. Syke og skadde dyr skal gis forsvarlig behandling og avlives om nødvendig,",
-                        "c)spredning av smitte begrenses, og",
-                        "d)dyr, der det er relevant, blir tilstrekkelig tamme til å kunne håndteres og stelles på dyrevelferdsmessig forsvarlig måte.",
+                        "Dyreholder skal sikre at dyr får godt tilsyn og stell, herunder sikre at:\na)\tfôr, beite og vann er av god kvalitet, dekker dyrets behov for næring og væske og fremmer god helse og velferd. Dyr skal ikke tvangsfôres eller tvangsvannes, med mindre det skjer av dyrehelsemessig grunn,\nb)\tdyr beskyttes mot skade, sykdom, parasitter og andre farer. Syke og skadde dyr skal gis forsvarlig behandling og avlives om nødvendig,\nc)\tspredning av smitte begrenses, og\nd)\tdyr, der det er relevant, blir tilstrekkelig tamme til å kunne håndteres og stelles på dyrevelferdsmessig forsvarlig måte.",
                         "Kongen kan gi nærmere forskrifter om krav til omfang av tilsyn og stell og om beskyttelse og behandling av dyr."
                     ]
                 },
@@ -229,10 +221,7 @@
                     "title": "Avl",
                     "sections": [
                         "Avl skal fremme egenskaper som gir robuste dyr med god funksjon og helse.",
-                        "Det skal ikke drives avl, herunder ved bruk av genteknologiske metoder, som:",
-                        "a)endrer arveanlegg slik at de påvirker dyrs fysiske eller mentale funksjoner negativt, eller som viderefører slike arveanlegg,",
-                        "b)reduserer dyrs mulighet til å utøve naturlig atferd, eller",
-                        "c)vekker allmenne etiske reaksjoner.",
+                        "Det skal ikke drives avl, herunder ved bruk av genteknologiske metoder, som:\na)\tendrer arveanlegg slik at de påvirker dyrs fysiske eller mentale funksjoner negativt, eller som viderefører slike arveanlegg,\nb)\treduserer dyrs mulighet til å utøve naturlig atferd, eller\nc)\tvekker allmenne etiske reaksjoner.",
                         "Dyr med arveanlegg som nevnt i andre ledd, skal ikke brukes i videre avl.",
                         "Kongen kan gi nærmere forskrifter om avl av dyr i strid med prinsippene i denne bestemmelsen."
                     ]
@@ -241,11 +230,7 @@
                     "name": "§ 26",
                     "title": "Trening, fremvisning, underholdning og konkurranser",
                     "sections": [
-                        "Den som trener dyr og den som bruker dyr til fremvisning, underholdning og konkurranser samt arrangør for slike aktiviteter, skal påse at dyr:",
-                        "a)er i stand til å gjennomføre aktiviteten uten å bli utmattet eller skadet,",
-                        "b)ikke utsettes for eller er påvirket av midler eller behandling som kan gjøre aktiviteten dyrevelferdsmessig uforsvarlig,",
-                        "c)ikke med hensikt påføres frykt, skade eller unødige påkjenninger og belastninger, og",
-                        "d)ikke trenes til eller brukes i kamper mot andre dyr eller mot mennesker.",
+                        "Den som trener dyr og den som bruker dyr til fremvisning, underholdning og konkurranser samt arrangør for slike aktiviteter, skal påse at dyr:\na)\ter i stand til å gjennomføre aktiviteten uten å bli utmattet eller skadet,\nb)\tikke utsettes for eller er påvirket av midler eller behandling som kan gjøre aktiviteten dyrevelferdsmessig uforsvarlig,\nc)\tikke med hensikt påføres frykt, skade eller unødige påkjenninger og belastninger, og\nd)\tikke trenes til eller brukes i kamper mot andre dyr eller mot mennesker.",
                         "Kongen kan gi nærmere forskrifter om trening, fremvisning og konkurranser mv., herunder stille krav om særskilt tillatelse eller forby ulike former for slik aktivitet, forby bruk av visse dyrearter og forby visse former for midler og behandling.",
                         "Kongen kan gjøre unntak fra første ledd."
                     ]
@@ -373,20 +358,11 @@
                     "name": "§ 39",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "a. I lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell gjøres følgende endringer:",
-                        "§ 14 Nødhjelp skal lyde:",
-                        "Dyrehelsepersonell plikter snarest mulig etter anmodning å yte den hjelp vedkommende evner – personlig eller ved stedfortreder – når det etter tilgjengelige opplysninger må antas at øyeblikkelig hjelp er påtrengende nødvendig. Plikten faller bort ved gyldig forfall eller ved at hjelp i tide blir ytt av annet dyrehelsepersonell.",
+                        "a. I lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell gjøres følgende endringer:\n§ 14 Nødhjelp skal lyde:",
+                        "Dyrehelsepersonell plikter snarest mulig etter anmodning å yte den hjelp vedkommende evner – personlig eller ved stedfortreder – når det etter tilgjengelige opplysninger må antas at øyeblikkelig  hjelp er påtrengende nødvendig. Plikten faller bort ved gyldig forfall eller ved at hjelp i tide blir ytt av annet dyrehelsepersonell.",
                         "For den hjelp dyrehelsepersonell har ytt etter foregående ledd, kan hun eller han kreve en passende godtgjørelse fra staten dersom hun eller han ikke etter krav får betaling av rekvirenten eller den som har betalingsplikten. Dersom rekvirenten eller dyrehelsepersonellet selv har hjelpeplikt etter dyrevelferdsloven § 4 og dyret er viltlevende eller ikke har en kjent eier eller innehaver, kan dyrehelsepersonell kreve en passende godtgjørelse fra staten for nødvendig hjelp.",
-                        "Departementet kan gi forskrifter om når øyeblikkelig hjelp er påtrengende nødvendig, hva som er nødvendig hjelp, passende godtgjørelse og om andre vilkår for godtgjørelse etter denne bestemmelsen.",
-                        "§ 31 første ledd første punktum skal lyde:",
-                        "Rådet skal være rådgiver for veterinærmyndighetene i disiplinærsaker, saker om forsvarlig virksomhet og saker av veterinærmedisinsk art.",
-                        "b. I lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) gjøres følgende endringer:",
-                        "§ 23 nr. 4 skal lyde:",
-                        "4.at opplysninger gis videre når tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre,",
-                        "§ 23 nr. 5 skal lyde:",
-                        "5.at opplysninger gis videre når helsepersonell gjennom sin yrkesutøvelse har grunn til å tro at dyr blir utsatt for slik mishandling eller alvorlig svikt vedrørende miljø, tilsyn og stell at det anses rettmessig å gi opplysningene videre til Mattilsynet eller politiet eller",
-                        "Nåværende nr. 5 blir ny nr. 6.",
-                        "c. I lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) skal § 20 oppheves."
+                        "Departementet kan gi forskrifter om når øyeblikkelig hjelp er påtrengende nødvendig, hva som er nødvendig hjelp, passende godtgjørelse og om andre vilkår for godtgjørelse etter denne bestemmelsen.\n§ 31 første ledd første punktum skal lyde:",
+                        "Rådet skal være rådgiver for veterinærmyndighetene i disiplinærsaker, saker om forsvarlig virksomhet og saker av veterinærmedisinsk art.  \nb. I lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) gjøres følgende endringer:\n§ 23 nr. 4 skal lyde:\n4.\tat opplysninger gis videre når tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre,\n§ 23 nr. 5 skal lyde:\n5.\tat opplysninger gis videre når helsepersonell gjennom sin yrkesutøvelse har grunn til å tro at dyr blir utsatt for slik mishandling eller alvorlig svikt vedrørende miljø, tilsyn og stell at det anses rettmessig å gi opplysningene videre til Mattilsynet eller politiet eller\nNåværende nr. 5 blir ny nr. 6.\nc. I lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) skal § 20 oppheves."
                     ]
                 },
                 {

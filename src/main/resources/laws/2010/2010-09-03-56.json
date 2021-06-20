@@ -2,7 +2,7 @@
     "lawId": "LOV-2010-09-03-56",
     "lawName": "Lov om infrastruktur for geografisk informasjon (geodataloven)",
     "shortName": "Geodataloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.121 L (2009–2010), Innst.354 L (2009–2010), Lovvedtak 69 (2009–2010). Stortingets første og andre gangs behandling hhv. 14. og 17. juni 2010. Fremmet av Miljøverndepartementet. Jf. EØS-avtalen vedlegg XX nr. 1j (direktiv 2007/2/EF).\nEndring i følgende lov:\n1\tLov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova).\n2\tLov 23. mai 1997 nr. 31 om eierseksjoner (eierseksjonsloven).\n3\tLov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova).",
     "chapters": [
         {
             "paragraphs": [
@@ -32,10 +32,7 @@
                     "name": "§ 4",
                     "title": "Deltakende virksomheter",
                     "sections": [
-                        "Følgende virksomheter skal, så langt disse produserer, bruker eller forvalter spesifiserte geodata, delta i infrastruktur for geografisk informasjon etter loven her:",
-                        "a)statlige, kommunale og fylkeskommunale organ",
-                        "b)andre forvaltningsorgan og offentlige rådgivende organ",
-                        "c)andre rettssubjekter som utfører offentlige forvaltningsoppgaver i henhold til lov.",
+                        "Følgende virksomheter skal, så langt disse produserer, bruker eller forvalter spesifiserte geodata, delta i infrastruktur for geografisk informasjon etter loven her:\na)\tstatlige, kommunale og fylkeskommunale organ\nb)\tandre forvaltningsorgan og offentlige rådgivende organ\nc)\tandre rettssubjekter som utfører offentlige forvaltningsoppgaver i henhold til lov.",
                         "Departementet kan i forskrift gi nærmere regler om deltakende virksomheter, herunder bestemme at andre virksomheter som utfører forvaltningsoppgaver, eller har geodata eller geodatatjenester som kan forbedre samfunnets tilgang til geografisk informasjon, skal omfattes av bestemmelsene i loven her."
                     ]
                 },
@@ -95,9 +92,7 @@
                     "name": "§ 11",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:",
-                        "1. I lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) blir følgende endringer gjort:",
-                        "Overskriften til § 9 skal lyde:"
+                        "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:\n1. I lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) blir følgende endringer gjort:\nOverskriften til § 9 skal lyde:"
                     ]
                 },
                 {
@@ -105,16 +100,9 @@
                     "title": "Kven som kan krevje matrikkelføring av ny matrikkeleining o.a.",
                     "sections": [
                         "§ 34 første ledd andre punktum skal lyde:",
-                        "Merking og måling er ikkje nødvendig for grenser som er tilfredsstillande merkte og koordinatbestemte i tidlegare forretning eller sak for jordskifteretten, eller når det er løyve til dette etter § 10 fjerde ledd.",
-                        "§ 46 første ledd bokstav f skal lyde:",
-                        "f)tildeling av offisiell adresse med heimel i § 21,",
-                        "§ 46 tredje ledd skal lyde:",
-                        "Departementet kan i forskrift gi nærare reglar om klage, under dette om kva for vedtak som kan påklagast sjølv om dei ikkje blir rekna som enkeltvedtak.",
-                        "§ 52 nr. 9 om endring av §§ 24 og 29 i lov 21. desember 1979 nr. 77 om jordskifte o.a. (jordskifteloven) oppheves.",
-                        "§ 52 nr. 12 om endring av § 2-6 i lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) oppheves.",
-                        "2. I lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) skal § 2-6 første ledd lyde:",
-                        "Det gjeld òg kostnadene til oppmålingsforretning og matrikkelføring, og sakkunnig hjelp til dette.",
-                        "3. I lov 23. mai 1997 nr. 31 om eierseksjoner (eierseksjonsloven) skal § 8 første ledd lyde:",
+                        "Merking og måling er ikkje nødvendig for grenser som er tilfredsstillande merkte og koordinatbestemte i tidlegare forretning eller sak for jordskifteretten, eller når det er løyve til dette etter § 10 fjerde ledd.\n§ 46 første ledd bokstav f skal lyde:\nf)\ttildeling av offisiell adresse med heimel i § 21,\n§ 46 tredje ledd skal lyde:",
+                        "Departementet kan i forskrift gi nærare reglar om klage, under dette om kva for vedtak som kan påklagast sjølv om dei ikkje blir rekna som enkeltvedtak.\n§ 52 nr. 9 om endring av §§ 24 og 29 i lov 21. desember 1979 nr. 77 om jordskifte o.a. (jordskifteloven) oppheves.\n§ 52 nr. 12 om endring av § 2-6 i lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) oppheves.\n2. I lov 3. juli 1992 nr. 93 om avhending av fast eigedom (avhendingslova) skal § 2-6 første ledd lyde:",
+                        "Det gjeld òg kostnadene til oppmålingsforretning og matrikkelføring, og sakkunnig hjelp til dette.\n3. I lov 23. mai 1997 nr. 31 om eierseksjoner (eierseksjonsloven) skal § 8 første ledd lyde:",
                         "Kommunen kan nekte seksjonering av eiendom som senest seks måneder etter at seksjoneringsbegjæringen er mottatt av kommunen, omfattes av vedtak om utbedringsprogram, reguleringsplan som bestemmer at det i området der eiendommen ligger skal gjennomføres omforming og fornyelse, eller midlertidig forbud etter plan- og bygningsloven § 13-1."
                     ]
                 }

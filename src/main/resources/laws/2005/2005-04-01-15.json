@@ -2,7 +2,7 @@
     "lawId": "LOV-2005-04-01-15",
     "lawName": "Lov om universiteter og høyskoler",
     "shortName": "Universitetsloven 2005 – univl.",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.79 (2003–2004), Innst.O.nr.48 (2004–2005) og Besl.O.nr.45 (2004–2005). Odels- og lagtingsvedtak hhv. 28. februar og 17. mars 2005. Fremmet av Utdannings- og forskningsdepartementet.\nFølgende lover oppheves:\n1\tLov 12. mai 1995 nr. 22 om universiteter og høyskoler.\n2\tLov 11. juli 1986 nr. 53 om private høyskoler (privathøyskoleloven).\nEndringer i følgende lover:\n1\tLov 28. juni 1996 nr. 54 om studentsamskipnader.\n2\tLov 20. juni 2003 nr. 56 om fagskoleutdanning.",
     "chapters": [
         {
             "name": "Del I Fellesbestemmelser",
@@ -15,20 +15,14 @@
                     "name": "§ 1-1",
                     "title": "Lovens formål",
                     "sections": [
-                        "Denne lov har som formål å legge til rette for at universiteter og høyskoler",
-                        "a)tilbyr høyere utdanning på høyt internasjonalt nivå.",
-                        "b)utfører forskning og faglig og kunstnerisk utviklingsarbeid på høyt internasjonalt nivå.",
-                        "c)formidler kunnskap om virksomheten og utbrer forståelse for og anvendelse av vitenskapelige og kunstneriske metoder og resultater, både i offentlig forvaltning, kulturliv og næringsliv."
+                        "Denne lov har som formål å legge til rette for at universiteter og høyskoler\na)\ttilbyr høyere utdanning på høyt internasjonalt nivå.\nb)\tutfører forskning og faglig og kunstnerisk utviklingsarbeid på høyt internasjonalt nivå.\nc)\tformidler kunnskap om virksomheten og utbrer forståelse for og anvendelse av vitenskapelige og kunstneriske metoder og resultater, både i offentlig forvaltning, kulturliv og næringsliv."
                     ]
                 },
                 {
                     "name": "§ 1-2",
                     "title": "Lovens virkeområde – universiteter og høyskoler",
                     "sections": [
-                        "(1) Loven gjelder for universiteter og høyskoler som gir utdanningstilbud akkreditert etter denne lov eller som har oppnådd akkreditering, jf. § 3-1, som",
-                        "a)universitet,",
-                        "b)vitenskapelig høyskole eller",
-                        "c)høyskole.",
+                        "(1) Loven gjelder for universiteter og høyskoler som gir utdanningstilbud akkreditert etter denne lov eller som har oppnådd akkreditering, jf. § 3-1, som\na)\tuniversitet,\nb)\tvitenskapelig høyskole eller\nc)\thøyskole.",
                         "(2) Hvilken kategori den enkelte institusjon tilhører avgjøres av Kongen på grunnlag av en faglig vurdering fra Nasjonalt organ for kvalitet i utdanningen (NOKUT).",
                         "(3) Kongen kan på grunnlag av en faglig vurdering fra NOKUT bestemme at enkelte av lovens regler skal gjelde tilsvarende for andre institusjoner.",
                         "(4) Departementet kan, etter innstilling fra styret, vedta at det kan gjøres avvik fra loven og forskriftene til loven i forbindelse med tidsavgrensede pedagogiske eller organisatoriske forsøk.",
@@ -41,16 +35,7 @@
                     "name": "§ 1-3",
                     "title": "Institusjonenes virksomhet",
                     "sections": [
-                        "Universiteter og høyskoler skal arbeide for å fremme lovens formål ved å:",
-                        "a)tilby høyere utdanning som er basert på det fremste innen forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskap.",
-                        "b)utføre forskning og faglig og kunstnerisk utviklingsarbeid.",
-                        "c)forvalte tilførte ressurser effektivt og aktivt søke tilføring av eksterne ressurser.",
-                        "d)bidra til å spre og formidle resultater fra forskning og faglig og kunstnerisk utviklingsarbeid.",
-                        "e)bidra til innovasjon og verdiskapning basert på resultater fra forskning og faglig og kunstnerisk utviklingsarbeid.",
-                        "f)legge til rette for at institusjonens ansatte og studenter kan delta i samfunnsdebatten.",
-                        "g)bidra til at norsk høyere utdanning og forskning følger den internasjonale forskningsfronten og utviklingen av høyere utdanningstilbud.",
-                        "h)samarbeide med andre universiteter og høyskoler og tilsvarende institusjoner i andre land, lokalt og regionalt samfunns- og arbeidsliv, offentlig forvaltning og internasjonale organisasjoner.",
-                        "i)tilby etter- og videreutdanning innenfor institusjonens virkeområde."
+                        "Universiteter og høyskoler skal arbeide for å fremme lovens formål ved å:\na)\ttilby høyere utdanning som er basert på det fremste innen forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskap.\nb)\tutføre forskning og faglig og kunstnerisk utviklingsarbeid.\nc)\tforvalte tilførte ressurser effektivt og aktivt søke tilføring av eksterne ressurser.\nd)\tbidra til å spre og formidle resultater fra forskning og faglig og kunstnerisk utviklingsarbeid.\ne)\tbidra til innovasjon og verdiskapning basert på resultater fra forskning og faglig og kunstnerisk utviklingsarbeid.\nf)\tlegge til rette for at institusjonens ansatte og studenter kan delta i samfunnsdebatten.\ng)\tbidra til at norsk høyere utdanning og forskning følger den internasjonale forskningsfronten og utviklingen av høyere utdanningstilbud.\nh)\tsamarbeide med andre universiteter og høyskoler og tilsvarende institusjoner i andre land, lokalt og regionalt samfunns- og arbeidsliv, offentlig forvaltning og internasjonale organisasjoner.\ni)\ttilby etter- og videreutdanning innenfor institusjonens virkeområde."
                     ]
                 },
                 {
@@ -67,9 +52,7 @@
                     "name": "§ 1-5",
                     "title": "Akademisk og kunstnerisk frihet",
                     "sections": [
-                        "(1) Universiteter eller høyskoler kan ikke gis pålegg eller instrukser om",
-                        "a)læreinnholdet i undervisningen og innholdet i forskningen eller i det kunstneriske og faglige utviklingsarbeidet.",
-                        "b)individuelle ansettelser eller utnevnelser.",
+                        "(1) Universiteter eller høyskoler kan ikke gis pålegg eller instrukser om\na)\tlæreinnholdet i undervisningen og innholdet i forskningen eller i det kunstneriske og faglige utviklingsarbeidet.\nb)\tindividuelle ansettelser eller utnevnelser.",
                         "(2) Institusjoner under denne lov har rett til å utforme sitt eget faglige og verdimessige grunnlag innenfor de rammer som er fastsatt i eller i medhold av lov."
                     ]
                 },
@@ -91,13 +74,7 @@
                     "title": "NOKUTs oppgaver og myndighet",
                     "sections": [
                         "(1) NOKUT skal være et faglig uavhengig statlig organ som gjennom akkreditering og evaluering skal kontrollere kvaliteten ved norske institusjoner som tilbyr høyere utdanning, samt godkjenne utdanning fra institusjoner som ikke går inn under denne lov. Akkrediterings- og evalueringsvirksomheten skal utformes slik at institusjonene kan dra nytte av den i sitt kvalitetssikrings- og utviklingsarbeid.",
-                        "(2) NOKUTs oppgaver er:",
-                        "a)Evaluering av institusjonenes system for kvalitetssikring.",
-                        "b)Akkreditering av institusjoner.",
-                        "c)Akkreditering av studietilbud.",
-                        "d)Revidering av akkreditering som allerede er gitt.",
-                        "e)Evalueringer av betydning for å kunne bedømme kvaliteten i høyere utdanning. Departementet kan pålegge organet å foreta slike evalueringer.",
-                        "f)Generell godkjenning av utdanning fra institusjoner som ikke går inn under denne lov.",
+                        "(2) NOKUTs oppgaver er:\na)\tEvaluering av institusjonenes system for kvalitetssikring.\nb)\tAkkreditering av institusjoner.\nc)\tAkkreditering av studietilbud.\nd)\tRevidering av akkreditering som allerede er gitt.\ne)\tEvalueringer av betydning for å kunne bedømme kvaliteten i høyere utdanning. Departementet kan pålegge organet å foreta slike evalueringer.\nf)\tGenerell godkjenning av utdanning fra institusjoner som ikke går inn under denne lov.",
                         "(3) Departementet kan ikke gi NOKUT pålegg utover det som er hjemlet i lov eller fastsettes av departementet i forskrift, og kan ikke overprøve NOKUTs akkrediteringer.",
                         "(4) Alle evalueringer som foretas av NOKUT er offentlige, og NOKUT skal bidra til at disse gjøres kjent.",
                         "(5) NOKUTs vedtak overfor private institusjoner kan i forskrift unntas fra bestemmelsene om klage i forvaltningsloven kap. VI."
@@ -191,10 +168,7 @@
                         "(4) Departementet kan fastsette adgangsregulering når det er nødvendig etter en samlet vurdering av utdanningen i landet.",
                         "(5) Når kapasitetshensyn eller ressurshensyn krever det, kan styret selv regulere adgangen til det enkelte studium eller deler av det, innenfor de rammer og mål som gis av departementet.",
                         "(6) Dersom en institusjon oppdager at en søker har levert falskt vitnemål eller andre falske dokumenter, kan andre institusjoner under denne lov informeres. Departementet gir nærmere regler om informasjonsrutiner mv.",
-                        "(7) Dersom en institusjon har rekruttert utenlandske studenter ved å benytte eksterne formidlingstjenester, har institusjonen ansvar for",
-                        "a)at studentene har fått tilfredsstillende informasjon om de studier vedkommende er opptatt til, herunder om studiets oppbygging, hvilken tid studiet er normert til og hvilke faglige krav som stilles.",
-                        "b)at studenten har fått tilfredsstillende informasjon om lærestedet, herunder om institusjonens ulike tilbud til studenter.",
-                        "c)å være informert om på hvilken måte studenten er rekruttert og på hvilke betingelser tjenesten er tilbudt studenten."
+                        "(7) Dersom en institusjon har rekruttert utenlandske studenter ved å benytte eksterne formidlingstjenester, har institusjonen ansvar for\na)\tat studentene har fått tilfredsstillende informasjon om de studier vedkommende er opptatt til, herunder om studiets oppbygging, hvilken tid studiet er normert til og hvilke faglige krav som stilles.\nb)\tat studenten har fått tilfredsstillende informasjon om lærestedet, herunder om institusjonens ulike tilbud til studenter.\nc)\tå være informert om på hvilken måte studenten er rekruttert og på hvilke betingelser tjenesten er tilbudt studenten."
                     ]
                 },
                 {
@@ -266,17 +240,7 @@
                     "title": "Læringsmiljø",
                     "sections": [
                         "(1) Styret har det overordnede ansvar for studentenes læringsmiljø. Styret skal, i samarbeid med studentsamskipnadene, legge forholdene til rette for et godt studiemiljø og arbeide for å bedre studentvelferden på lærestedet.",
-                        "(2) Styret har ansvar for at læringsmiljøet på institusjonen, herunder det fysiske og psykiske arbeidsmiljø, er fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal det, så langt det er mulig og rimelig, sørges for",
-                        "a)at lokaler, adkomstveier, trapper mv. er dimensjonert og innredet for den virksomhet som drives.",
-                        "b)at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet.",
-                        "c)at lokalene blir vedlikeholdt og er rene og ryddige.",
-                        "d)at lokalene er innredet slik at uheldige fysiske belastninger for studentene unngås.",
-                        "e)at virksomheten er planlagt slik at skader og ulykker forebygges.",
-                        "f)at tekniske innretninger og utstyr er forsynt med verneinnretninger og blir vedlikeholdt slik at studentene er vernet mot skader på liv og helse.",
-                        "g)at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at funksjonshemmede kan studere ved institusjonen.",
-                        "h)at læringsmiljøet er innrettet for studenter av begge kjønn.",
-                        "i)at læringsmiljøet er utformet etter prinsippet om universell utforming.",
-                        "Departementet kan i forskrift gi utfyllende bestemmelser om krav til læringsmiljøet.",
+                        "(2) Styret har ansvar for at læringsmiljøet på institusjonen, herunder det fysiske og psykiske arbeidsmiljø, er fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal det, så langt det er mulig og rimelig, sørges for\na)\tat lokaler, adkomstveier, trapper mv. er dimensjonert og innredet for den virksomhet som drives.\nb)\tat lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet.\nc)\tat lokalene blir vedlikeholdt og er rene og ryddige.\nd)\tat lokalene er innredet slik at uheldige fysiske belastninger for studentene unngås.\ne)\tat virksomheten er planlagt slik at skader og ulykker forebygges.\nf)\tat tekniske innretninger og utstyr er forsynt med verneinnretninger og blir vedlikeholdt slik at studentene er vernet mot skader på liv og helse.\ng)\tat lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at funksjonshemmede kan studere ved institusjonen.\nh)\tat læringsmiljøet er innrettet for studenter av begge kjønn.\ni)\tat læringsmiljøet er utformet etter prinsippet om universell utforming.\nDepartementet kan i forskrift gi utfyllende bestemmelser om krav til læringsmiljøet.",
                         "(3) Ved institusjonen skal det være et læringsmiljøutvalg som skal bidra til at bestemmelsene i første og annet ledd blir gjennomført. Utvalget skal delta i planleggingen av tiltak vedrørende læringsmiljø, og nøye følge utviklingen i spørsmål som angår studentenes sikkerhet og velferd. Styret kan tillegge utvalget også andre oppgaver. Læringsmiljøutvalget skal holdes orientert om klager som institusjonen mottar fra studenter vedrørende læringsmiljøet. Læringsmiljøutvalget kan gi uttalelser om disse forholdene. Læringsmiljøutvalget skal gjøres kjent med pålegg og andre enkeltvedtak som Arbeidstilsynet treffer. Læringsmiljøutvalget rapporterer direkte til styret, og skal hvert år avgi rapport om institusjonens arbeid med læringsmiljø. Studentene og institusjonen skal ha like mange representanter hver i utvalget. Utvalget velger hvert år leder vekselvis blant institusjonens og studentenes representanter.",
                         "(4) Institusjonens arbeid med læringsmiljøet skal dokumenteres og inngå som en del av institusjonens interne system for kvalitetssikring etter § 1-6.",
                         "(5) Institusjonen skal, så langt det er mulig og rimelig, legge studiesituasjonen til rette for studenter med særskilte behov. Tilretteleggingen må ikke føre til en reduksjon av de faglige krav som stilles ved det enkelte studium.",
@@ -295,7 +259,7 @@
                     "name": "§ 4-5",
                     "title": "Rett til fødselspermisjon",
                     "sections": [
-                        "(1) En student som får barn under studiene, skal gis rett til permisjon fra studiene under svangerskap og til omsorg for barn. Studenten skal ha rett til å gjenoppta sine studier på tilsvarende nivå som før permisjonen. Bestemmelsene i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø §§ 31 og 32 gjelder så langt de passer.",
+                        "(1) En student som får barn under studiene, skal gis rett til permisjon fra studiene under svangerskap og til omsorg for barn. Studenten skal ha rett til å gjenoppta sine studier på tilsvarende  nivå som før permisjonen. Bestemmelsene i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø §§ 31 og 32 gjelder så langt de passer.",
                         "(2) Universiteter og høyskoler skal legge til rette for at studenter som er i permisjon etter første ledd, kan gjenoppta sine studier så raskt som mulig etter endt permisjon."
                     ]
                 },
@@ -310,9 +274,7 @@
                     "name": "§ 4-7",
                     "title": "Annullering av eksamen eller prøve",
                     "sections": [
-                        "(1) Styret selv eller institusjonens klagenemnd, jf. § 5-1, kan annullere eksamen eller prøve eller godkjenning av kurs hvis studenten",
-                        "a)ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende kurs, eller",
-                        "b)har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende kurs.",
+                        "(1) Styret selv eller institusjonens klagenemnd, jf. § 5-1, kan annullere eksamen eller prøve eller godkjenning av kurs hvis studenten\na)\tved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende kurs, eller\nb)\thar forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende kurs.",
                         "(2) Styret selv eller institusjonens klagenemnd, jf. § 5-1, kan annullere godskriving eller godkjenning av utdanning, eller fritak for eksamen eller prøve, hvis studenten har oppnådd dette ved hjelp av falskt vitnemål eller annen form for uredelig opptreden.",
                         "(3) Vedtak om annullering etter første og annet ledd kan påklages til departementet eller særskilt klageorgan oppnevnt av dette, jf. § 5-1 sjuende ledd.",
                         "(4) Adgangen til annullering foreldes ikke.",
@@ -442,17 +404,7 @@
                     "name": "§ 6-4",
                     "title": "Ansettelse på åremål",
                     "sections": [
-                        "(1) Ansettelse på åremål kan benyttes for:",
-                        "a)rektor",
-                        "b)administrerende direktør",
-                        "c)prorektor",
-                        "d)leder for avdeling og grunnenhet",
-                        "e)undervisnings- og forskerstillinger når vedkommende skal delta i prosjekt",
-                        "f)postdoktorstillinger",
-                        "g)stipendiater",
-                        "h)vitenskapelige assistenter",
-                        "i)spesialistkandidater",
-                        "j)undervisnings- og forskerstillinger når skapende eller utøvende kunstnerisk kompetanse inngår som et vesentlig element i kompetansekravet",
+                        "(1) Ansettelse på åremål kan benyttes for:\na)\trektor\nb)\tadministrerende direktør\nc)\tprorektor\nd)\tleder for avdeling og grunnenhet\ne)\tundervisnings- og forskerstillinger når vedkommende skal delta i prosjekt\nf)\tpostdoktorstillinger\ng)\tstipendiater\nh)\tvitenskapelige assistenter\ni)\tspesialistkandidater\nj)\tundervisnings- og forskerstillinger når skapende eller utøvende kunstnerisk kompetanse inngår som et vesentlig element i kompetansekravet",
                         "(2) Åremålsperioden etter første ledd bokstavene a, c og d, skal være fire år. Ingen kan være ansatt på åremål etter bokstavene a og c i en sammenhengende periode på mer enn åtte år, og ikke mer enn tolv år etter bokstav d. Når særlige grunner taler for det, kan departementet, etter forslag fra styret, fastsette en annen åremålsperiode enn fire år.",
                         "(3) Åremålsperioden for ansatte nevnt i første ledd bokstavene e og j, kan være fire til seks år. Ingen kan være ansatt på åremål etter denne bestemmelsen i en sammenhengende periode på mer enn tolv år.",
                         "(4) For stillinger etter første ledd bokstavene f til i gir departementet forskrift om varighet, arbeidets omfang og innhold og om adgangen til å fornye ansettelsesforholdet."
@@ -462,10 +414,7 @@
                     "name": "§ 6-5",
                     "title": "Midlertidig ansettelse i undervisnings- og forskerstillinger",
                     "sections": [
-                        "(1) Dersom det til fast vitenskapelig stilling ved en høyere utdanningsinstitusjon ikke har meldt seg søker som etter fastsatte vilkår eller sakkyndig bedømmelse er klart kvalifisert for fast ansettelse, og det ikke er sannsynlig at kvalifisert søker vil melde seg ved ny kunngjøring, kan likevel en søker ansettes for begrenset tid når:",
-                        "a)muligheten for tidsbegrenset ansettelse er nevnt i kunngjøringen, og",
-                        "b)vedkommende, etter ansettelsesmyndighetens vurdering, har forutsetninger for å skaffe seg de nødvendige kvalifikasjoner i løpet av ansettelsesperioden.",
-                        "Ansettelsesmyndigheten fastsetter ansettelsesperioden, som ikke må vare over tre år. Ansettelsesperioden kan dog forlenges med den tid det tar å få gjennomført en forsvarlig vurdering av vedkommendes kvalifikasjoner, men ikke ut over seks måneder. Tidsrommet kan deretter ikke forlenges, og ny tidsbegrenset ansettelse av vedkommende kan heller ikke skje. Ved utløpet av ansettelsesperioden har vedkommende krav på å bli vurdert for fast ansettelse før stillingen kunngjøres på ny.",
+                        "(1) Dersom det til fast vitenskapelig stilling ved en høyere utdanningsinstitusjon ikke har meldt seg søker som etter fastsatte vilkår eller sakkyndig bedømmelse er klart kvalifisert for fast ansettelse, og det ikke er sannsynlig at kvalifisert søker vil melde seg ved ny kunngjøring, kan likevel en søker ansettes for begrenset tid når:\na)\tmuligheten for tidsbegrenset ansettelse er nevnt i kunngjøringen, og\nb)\tvedkommende, etter ansettelsesmyndighetens vurdering, har forutsetninger for å skaffe seg de nødvendige kvalifikasjoner i løpet av ansettelsesperioden.\nAnsettelsesmyndigheten fastsetter ansettelsesperioden, som ikke må vare over tre år. Ansettelsesperioden kan dog forlenges med den tid det tar å få gjennomført en forsvarlig vurdering av vedkommendes kvalifikasjoner, men ikke ut over seks måneder. Tidsrommet kan deretter ikke forlenges, og ny tidsbegrenset ansettelse av vedkommende kan heller ikke skje. Ved utløpet av ansettelsesperioden har vedkommende krav på å bli vurdert for fast ansettelse før stillingen kunngjøres på ny.",
                         "(2) Dersom det ikke har vært mulig å få søkere som tilfredsstiller kompetansekravene for ansettelse etter første ledd, og det på grunn av undervisningssituasjonen er helt nødvendig å foreta ansettelse, kan det foretas midlertidig ansettelse for inntil tre år og seks måneder i lavere stilling som vedkommende tilfredsstiller kompetansekravene til.",
                         "(3) Permisjoner som vedkommende har krav på etter lov eller tariffavtale, skal ikke medregnes ved beregning av ansettelsesperioden etter denne paragraf."
                     ]
@@ -681,9 +630,7 @@
                     "name": "§ 10-1",
                     "title": "Rektor",
                     "sections": [
-                        "Med mindre styret har truffet vedtak i medhold av § 10-4, gjelder følgende regler om rektor:",
-                        "a)Rektor er styrets leder. Rektor har på styrets vegne det overordnede ansvar for og ledelse av institusjonens virksomhet og fører tilsyn med denne. Rektor, og i dennes sted, prorektor, har rett til å delta i møter i alle institusjonenes styrer og utvalg.",
-                        "b)Rektor avgjør saker i det omfang disse ikke kan utsettes til styret kan komme sammen i møte. Rektor kan også gis fullmakt til å avgjøre løpende saker som bør avgjøres før neste ordinære styremøte, og som ikke anses som viktige nok til at ekstraordinært møte innkalles. I sak om avskjed eller suspensjon kan rektor bare beslutte kortvarig suspensjon i tjenesten, i påvente av styrets behandling."
+                        "Med mindre styret har truffet vedtak i medhold av § 10-4, gjelder følgende regler om rektor:\na)\tRektor er styrets leder. Rektor har på styrets vegne det overordnede ansvar for og ledelse av institusjonens virksomhet og fører tilsyn med denne. Rektor, og i dennes sted, prorektor, har rett til å delta i møter i alle institusjonenes styrer og utvalg.\nb)\tRektor avgjør saker i det omfang disse ikke kan utsettes til styret kan komme sammen i møte. Rektor kan også gis fullmakt til å avgjøre løpende saker som bør avgjøres før neste ordinære styremøte, og som ikke anses som viktige nok til at ekstraordinært møte innkalles. I sak om avskjed eller suspensjon kan rektor bare beslutte kortvarig suspensjon i tjenesten, i påvente av styrets behandling."
                     ]
                 },
                 {
@@ -693,11 +640,7 @@
                         "(1) Med mindre styret har truffet vedtak i medhold av § 10-4, utpekes rektor ved valg. Både institusjonens ansatte og eksterne kandidater er valgbare som rektor. Styret kan fastsette nærmere regler om nominasjon av eksterne kandidater.",
                         "(2) Valgperioden er normalt fire år. Ingen kan gjenvelges som rektor hvis vedkommende vil ha fungert i dette verv i et sammenhengende tidsrom på åtte år ved den nye valgperiodens begynnelse.",
                         "(3) Den som blir valgt som rektor, trer inn i en åremålsstilling hvis ikke hun eller han allerede er fast ansatt ved institusjonen.",
-                        "(4) Ved opptelling skal stemmene vektes etter en fordelingsnøkkel fastsatt av styret, innenfor følgende rammer:",
-                        "a)ansatte i undervisnings- og forskerstilling 51-71 prosent",
-                        "b)teknisk og administrativt ansatte 5-25 prosent",
-                        "c)studenter 15-30 prosent.",
-                        "Foretas valget i særskilt valgforsamling, skal denne ha en tilsvarende sammensetning.",
+                        "(4) Ved opptelling skal stemmene vektes etter en fordelingsnøkkel fastsatt av styret, innenfor følgende rammer:\na)\tansatte i undervisnings- og forskerstilling 51-71 prosent\nb)\tteknisk og administrativt ansatte 5-25 prosent\nc)\tstudenter 15-30 prosent.\nForetas valget i særskilt valgforsamling, skal denne ha en tilsvarende sammensetning.",
                         "(5) Styret selv fastsetter nærmere regler om valget."
                     ]
                 },
@@ -832,16 +775,10 @@
                     "name": "§ 13-3",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:",
-                        "I lov 28. juni 1996 nr. 54 om studentsamskipnader gjøres følgende endringer:",
-                        "§ 1 første ledd skal lyde:",
-                        "Denne lov gjelder for institusjoner som omfattes av lov 1. april 2005 nr. 15 om universiteter og høyskoler.",
-                        "§ 2 tredje ledd skal lyde:",
-                        "For private institusjoner som er omfattet av lov 1. april 2005 nr. 15 om universiteter og høyskoler, kan departementet gjøre unntak for kravet om tilknytning til en studentsamskipnad, når institusjonen har andre tilfredsstillende velferdsordninger.",
-                        "I lov 20. juni 2003 nr. 56 om fagskoleutdanning gjøres følgende endringer:",
-                        "§ 2 annet ledd skal lyde:",
-                        "Godkjenning foretas av Nasjonalt organ for kvalitet i utdanningen (NOKUT), jf. lov 1. april 2005 nr. 15 om universiteter og høyskoler kapittel 2.",
-                        "§ 7 fjerde ledd skal lyde:",
+                        "Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:\nI lov 28. juni 1996 nr. 54 om studentsamskipnader gjøres følgende endringer:\n§ 1 første ledd skal lyde:",
+                        "Denne lov gjelder for institusjoner som omfattes av lov 1. april 2005 nr. 15 om universiteter og høyskoler.\n§ 2 tredje ledd skal lyde:",
+                        "For private institusjoner som er omfattet av lov 1. april 2005 nr. 15 om universiteter og høyskoler, kan departementet gjøre unntak for kravet om tilknytning til en studentsamskipnad, når institusjonen har andre tilfredsstillende velferdsordninger.\nI lov 20. juni 2003 nr. 56 om fagskoleutdanning gjøres følgende endringer:\n§ 2 annet ledd skal lyde:",
+                        "Godkjenning foretas av Nasjonalt organ for kvalitet i utdanningen (NOKUT), jf. lov 1. april 2005 nr. 15 om universiteter og høyskoler kapittel 2.\n§ 7 fjerde ledd skal lyde:",
                         "Godkjenningsvedtak foretatt av NOKUT overfor tilbydere av fagskoleutdanning kan i forskrift unntas fra bestemmelsene om klage i forvaltningsloven kapittel VI."
                     ]
                 },
@@ -849,9 +786,7 @@
                     "name": "§ 13-4",
                     "title": "Opphevelse av eldre lover",
                     "sections": [
-                        "Fra lovens ikrafttredelse oppheves følgende lover:",
-                        "Lov 12. mai 1995 nr. 22 om universiteter og høyskoler",
-                        "Lov 11. juli 1986 nr. 53 om private høyskoler."
+                        "Fra lovens ikrafttredelse oppheves følgende lover:\nLov 12. mai 1995 nr. 22 om universiteter og høyskoler\nLov 11. juli 1986 nr. 53 om private høyskoler."
                     ]
                 }
             ]

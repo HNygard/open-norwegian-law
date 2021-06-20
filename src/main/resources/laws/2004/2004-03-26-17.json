@@ -2,7 +2,7 @@
     "lawId": "LOV-2004-03-26-17",
     "lawName": "Lov om finansiell sikkerhetsstillelse",
     "shortName": "Lov om finansiell sikkerhetsstillelse.",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.22 (2003–2004), Innst.O.nr.48 (2003–2004) og Besl.O.nr.55 (2003–2004). Odels- og lagtingsvedtak hhv. 12. februar og 2. mars 2004. Fremmet av Finansdepartementet.\nEndringer i følgende lover:\n1\tLov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven).\n2\tLov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner.",
     "chapters": [
         {
             "paragraphs": [
@@ -12,11 +12,7 @@
                     "sections": [
                         "Lovens formål er å styrke det finansielle markedet og ivareta hensynet til finansiell stabilitet ved å bidra til sikker, ordnet og effektiv finansiell sikkerhetsstillelse.",
                         "Loven gjelder avtaler om finansiell sikkerhetsstillelse.",
-                        "Loven kommer til anvendelse når både sikkerhetsstiller og sikkerhetshaver tilhører en av følgende kategorier:",
-                        "a)offentlige myndigheter, herunder myndigheter som er ansvarlig for eller medvirker til forvaltning av offentlig gjeld eller fører konti for kunder,",
-                        "b)sentralbanker, Den Europeiske Sentralbank, Den Internasjonale Betalingsbank, Det internasjonale Valutafond, Den Europeiske Investeringsbank, Den internasjonale bank for gjenoppbygging og utvikling, Det internasjonale finansieringsinstitutt, Den interamerikanske utviklingsbank, Den asiatiske utviklingsbank, Den afrikanske utviklingsbank, Europarådets bosettingsfond, Den nordiske investeringsbank, Den karibiske utviklingsbank, Den europeiske bank for gjenoppbygging og utvikling, Det europeiske investeringsfond og Det interamerikanske investeringsselskap,",
-                        "c)finansinstitusjoner, pensjonskasser, verdipapirforetak, verdipapirfond og forvaltningsselskaper for verdipapirfond,",
-                        "d)avregningssentraler og sentrale motparter, oppgjørssentraler og lignende lovregulerte institusjoner som handler med finansielle instrumenter som nevnt i verdipapirhandelloven § 1-2 annet ledd nr. 4 til 8, eller juridiske personer som handler i egenskap av formuesforvalter eller etter fullmakt fra en eller flere personer, for eksempel tillitsmenn for obligasjonseiere i obligasjonsmarkedet eller spesialforetak opprettet i forbindelse med verdipapirisering.",
+                        "Loven kommer til anvendelse når både sikkerhetsstiller og sikkerhetshaver tilhører en av følgende kategorier:\na)\toffentlige myndigheter, herunder myndigheter som er ansvarlig for eller medvirker til forvaltning av offentlig gjeld eller fører konti for kunder,\nb)\tsentralbanker, Den Europeiske Sentralbank, Den Internasjonale Betalingsbank, Det internasjonale Valutafond, Den Europeiske Investeringsbank, Den internasjonale bank for gjenoppbygging og utvikling, Det internasjonale finansieringsinstitutt, Den interamerikanske utviklingsbank, Den asiatiske utviklingsbank, Den afrikanske utviklingsbank, Europarådets bosettingsfond, Den nordiske investeringsbank, Den karibiske utviklingsbank, Den europeiske bank for gjenoppbygging og utvikling, Det europeiske investeringsfond og Det interamerikanske investeringsselskap,\nc)\tfinansinstitusjoner, pensjonskasser, verdipapirforetak, verdipapirfond og forvaltningsselskaper for verdipapirfond,\nd)\tavregningssentraler og sentrale motparter, oppgjørssentraler og lignende lovregulerte institusjoner som handler med finansielle instrumenter som nevnt i verdipapirhandelloven § 1-2 annet ledd nr. 4 til 8, eller juridiske personer som handler i egenskap av formuesforvalter eller etter fullmakt fra en eller flere personer, for eksempel tillitsmenn for obligasjonseiere i obligasjonsmarkedet eller spesialforetak opprettet i forbindelse med verdipapirisering.",
                         "Loven kommer også til anvendelse på avtaler om finansiell sikkerhetsstillelse som er inngått mellom enhver juridisk person og en institusjon som nevnt i tredje ledd.",
                         "Kongen kan bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen."
                     ]
@@ -25,13 +21,7 @@
                     "name": "§ 2",
                     "title": "Definisjoner mv.",
                     "sections": [
-                        "I denne lov menes med:",
-                        "a)avtale om finansiell sikkerhetsstillelse: avtale om overdragelse av eiendomsrett til finansiell sikkerhet, herunder gjenkjøpsavtale, og avtale om pantsettelse av finansiell sikkerhet, med det formål å sikre oppfyllelsen av finansielle forpliktelser,",
-                        "b)finansiell forpliktelse: forpliktelse som omfattes av avtalen om finansiell sikkerhetsstillelse, og som gir rett til kontant avregning eller levering av finansielle instrumenter,",
-                        "c)finansiell sikkerhet: kontante innskudd og finansielle instrumenter,",
-                        "d)kontante innskudd: innskudd i kredittinstitusjon og lignende kontante fordringer i enhver valuta, herunder pengemarkedsinnskudd,",
-                        "e)sikkerhetsstiller: den som overdrar eller pantsetter finansiell sikkerhet til sikkerhet for finansielle forpliktelser,",
-                        "f)sikkerhetshaver: den som erverver eiendomsrett til eller panterett i finansiell sikkerhet til sikkerhet for finansielle forpliktelser.",
+                        "I denne lov menes med:\na)\tavtale om finansiell sikkerhetsstillelse: avtale om overdragelse av eiendomsrett til finansiell sikkerhet, herunder gjenkjøpsavtale, og avtale om pantsettelse av finansiell sikkerhet, med det formål å sikre oppfyllelsen av finansielle forpliktelser,\nb)\tfinansiell forpliktelse: forpliktelse som omfattes av avtalen om finansiell sikkerhetsstillelse, og som gir rett til kontant avregning eller levering av finansielle instrumenter,\nc)\tfinansiell sikkerhet: kontante innskudd og finansielle instrumenter,\nd)\tkontante innskudd: innskudd i kredittinstitusjon og lignende kontante fordringer i enhver valuta, herunder pengemarkedsinnskudd,\ne)\tsikkerhetsstiller: den som overdrar eller pantsetter finansiell sikkerhet til sikkerhet for finansielle forpliktelser,\nf)\tsikkerhetshaver: den som erverver eiendomsrett til eller panterett i finansiell sikkerhet til sikkerhet for finansielle forpliktelser.",
                         "Etter denne lov anses sikkerhet ikke som stilt før rettsvern er etablert."
                     ]
                 },
@@ -48,9 +38,7 @@
                     "sections": [
                         "Det kan avtales at sikkerhetshaver skal ha bruksrett til stilt finansiell sikkerhet. Avtalen kan gi rett til utlån, pantsettelse, salg eller annen gjenbruk av sikkerheten.",
                         "Ved å utøve bruksrett får sikkerhetshaver en plikt til å overføre tilsvarende sikkerhet til sikkerhetsstiller senest på forfallstidspunktet for sikkerhetsstillers finansielle forpliktelser. Det kan avtales at plikten til å overføre tilsvarende sikkerhet kan oppfylles på annen måte, herunder ved at verdien av den tilsvarende sikkerhet i de finansielle forpliktelser motregnes. Sikkerhetshaver bevarer det opprinnelige rettsvern i forhold til tilsvarende sikkerhet som er overført i samsvar med første punktum.",
-                        "Med tilsvarende sikkerhet menes:",
-                        "a)når sikkerheten består av kontant innskudd: betaling av samme beløp i samme valuta, og",
-                        "b)når sikkerheten består av finansielle instrumenter: finansielle instrumenter som er en del av samme utstedelse eller klasse, som er utstedt på samme nominelle beløp og i samme valuta og som ellers er av samme beskaffenhet som sikkerheten, eller andre aktiva dersom avtalen gir rett til å overføre slike ved en hendelse som påvirker de aktuelle finansielle instrumentene."
+                        "Med tilsvarende sikkerhet menes:\na)\tnår sikkerheten består av kontant innskudd: betaling av samme beløp i samme valuta, og\nb)\tnår sikkerheten består av finansielle instrumenter: finansielle instrumenter som er en del av samme utstedelse eller klasse, som er utstedt på samme nominelle beløp og i samme valuta og som ellers er av samme beskaffenhet som sikkerheten, eller andre aktiva dersom avtalen gir rett til å overføre slike ved en hendelse som påvirker de aktuelle finansielle instrumentene."
                     ]
                 },
                 {
@@ -104,11 +92,8 @@
                     "name": "§ 11",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1. Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven) § 1-3 annet ledd nytt fjerde punktum skal lyde:",
-                        "For finansiell sikkerhetsstillelse kan det inngås skriftlig avtale om realisasjon, jf. lov om finansiell sikkerhetsstillelse § 7.",
-                        "2. Lov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner (banksikringsloven) § 4-6 første ledd bokstav e skal lyde:",
-                        "e)Dekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende. Fristdagen er dagen for vedtaket om å sette institusjonen under administrasjon."
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n1. Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven) § 1-3 annet ledd nytt fjerde punktum skal lyde:",
+                        "For finansiell sikkerhetsstillelse kan det inngås skriftlig avtale om realisasjon, jf. lov om finansiell sikkerhetsstillelse § 7.\n2. Lov 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner (banksikringsloven) § 4-6 første ledd bokstav e skal lyde:\ne)\tDekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende. Fristdagen er dagen for vedtaket om å sette institusjonen under administrasjon."
                     ]
                 }
             ]

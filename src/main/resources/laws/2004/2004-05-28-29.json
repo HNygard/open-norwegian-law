@@ -2,7 +2,7 @@
     "lawId": "LOV-2004-05-28-29",
     "lawName": "Lov om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven)",
     "shortName": "Valutaregisterloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.35 (2003–2004), Innst.O.nr.61 (2003–2004) og Besl.O.nr.74 (2003–2004). Odels- og lagtingsvedtak hhv. 27. april og 4. mai 2004. Fremmet av Finansdepartementet.\nEndringer i følgende lover:\n1\tLov 10. juni 1966 nr. 5 om toll (tolloven).\n2\tLov 12. desember 1975 nr. 59 om dokumentavgift.\n3\tLov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven).",
     "chapters": [
         {
             "paragraphs": [
@@ -18,14 +18,10 @@
                     "name": "§ 2",
                     "title": "Begreper",
                     "sections": [
-                        "I denne lov forstås med:",
-                        "1 Betalingsmidler:",
-                        "Norske og utenlandske pengesedler, mynter, veksler, sjekker og andre anvisninger eller akkreditiver som gir rett til betaling i norske eller utenlandske pengesedler og mynter.",
-                        "2 Valutaveksling:",
-                        "Kjøp og salg av utenlandske betalingsmidler.",
-                        "3 Behandlingsansvarlig:",
-                        "Den enhet som er gitt i ansvar å samle inn opplysninger samt vedlikeholde og drifte registeret.",
-                        "4 Norge:",
+                        "I denne lov forstås med:\n1 Betalingsmidler:",
+                        "Norske og utenlandske pengesedler, mynter, veksler, sjekker og andre anvisninger eller akkreditiver som gir rett til betaling i norske eller utenlandske pengesedler og mynter.\n2 Valutaveksling:",
+                        "Kjøp og salg av utenlandske betalingsmidler.\n3 Behandlingsansvarlig:",
+                        "Den enhet som er gitt i ansvar å samle inn opplysninger samt vedlikeholde og drifte registeret.\n4 Norge:",
                         "Det norske fastland og alt område innenfor territorialgrensen."
                     ]
                 },
@@ -97,13 +93,8 @@
                     "name": "§ 11",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1.I lov 10. juni 1966 nr. 5 om toll (tolloven) skal § 8 nr. 2 bokstav b lyde:",
-                        "til offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen eller aksjeselskaper, eller som reviderer offentlig virksomhet,",
-                        "2.I lov 12. desember 1975 nr. 59 om dokumentavgift oppheves kapittel V.",
-                        "3.Lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) endres slik:",
-                        "§ 12-1 nr. 1 bokstav c oppheves.",
-                        "§ 3-13 nr. 2 bokstav b skal lyde:",
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n1.\tI lov 10. juni 1966 nr. 5 om toll (tolloven) skal § 8 nr. 2 bokstav b lyde:",
+                        "til offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen eller aksjeselskaper, eller som reviderer offentlig virksomhet,\n2.\tI lov 12. desember 1975 nr. 59 om dokumentavgift oppheves kapittel V.\n3.\tLov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) endres slik:\n§ 12-1 nr. 1 bokstav c oppheves.\n§ 3-13 nr. 2 bokstav b skal lyde:",
                         "til offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om arbeidsmiljø, regnskapsplikt og regnskapsførere, revisjonsvesen eller aksjeselskaper, eller som reviderer offentlig virksomhet,"
                     ]
                 }

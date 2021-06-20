@@ -2,7 +2,7 @@
     "lawId": "LOV-2012-06-22-57",
     "lawName": "Lov om Eksportkreditt Norge AS (eksportkredittloven)",
     "shortName": "Eksportkredittloven",
-    "authorityDescription": null,
+    "authorityDescription": "Prop.102 L (2011–2012), Innst.342 L (2011–2012), Lovvedtak 67 (2011–2012). Stortingets første og andre gangs behandling hhv. 6. og 12. juni 2012. Fremmet av Nærings- og handelsdepartementet.",
     "chapters": [
         {
             "paragraphs": [
@@ -24,9 +24,7 @@
                     "name": "§ 3",
                     "title": "Selskapets virksomhet",
                     "sections": [
-                        "For å fremme formål som nevnt i § 1, kan selskapet i eget navn",
-                        "1.yte offentlig støttede eksportkreditter i henhold til internasjonale avtaler, og",
-                        "2.yte lån på markedsmessige vilkår som et alternativ til lån som nevnt i nr. 1.",
+                        "For å fremme formål som nevnt i § 1, kan selskapet i eget navn\n1.\tyte offentlig støttede eksportkreditter i henhold til internasjonale avtaler, og\n2.\tyte lån på markedsmessige vilkår som et alternativ til lån som nevnt i nr. 1.",
                         "Nærmere regler om eksportkreditter og lån som kan ytes i medhold av første ledd, kan gis av departementet ved forskrift."
                     ]
                 },

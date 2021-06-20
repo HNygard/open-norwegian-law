@@ -2,7 +2,7 @@
     "lawId": "LOV-2005-04-29-21",
     "lawName": "Lov om supplerande stønad til personar med kort butid i Noreg",
     "shortName": "Lov om supplerende stønad ved kort butid",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.14 (2004–2005), Innst.O.nr.56 (2004–2005) og Besl.O.nr.49 (2004–2005). Odels- og lagtingsvedtak hhv. 15. mars og 12. april 2005. Fremmet av Arbeids- og sosialdepartementet.",
     "chapters": [
         {
             "name": "Kapittel 1. Formål – definisjonar",
@@ -53,10 +53,7 @@
                     "name": "§ 5",
                     "title": "Full supplerande stønad",
                     "sections": [
-                        "Full supplerande stønad skal vere",
-                        "a)1,7933 gonger grunnbeløpet for einslege stønadstakarar",
-                        "b)2,2933 gonger grunnbeløpet for personar med ektemake under 67 år",
-                        "c)1,6433 gonger grunnbeløpet for kvar av ektemakane når begge har fylt 67 år.",
+                        "Full supplerande stønad skal vere\na)\t1,7933 gonger grunnbeløpet for einslege stønadstakarar\nb)\t2,2933 gonger grunnbeløpet for personar med ektemake under 67 år\nc)\t1,6433 gonger grunnbeløpet for kvar av ektemakane når begge har fylt 67 år.",
                         "Ytingane etter første leddet bokstavane a til c skal aukast med 40 prosent av grunnbeløpet per barn under 18 år som personen forsørgjer og bur saman med i eitt hushald. Dersom begge ektemakane har fylt 67 år, skal auken gå til den av dei som har lågast inntekt (sjå § 6 første leddet).",
                         "Eit barn vert rekna å forsørgje seg sjølv dersom det har inntekt som nemnd i § 6 første leddet, og inntekta er høgare enn grunnbeløpet.",
                         "Dersom ein ektemake under 67 år oppheld seg i utlandet i lengre tid enn fastsett i § 4, skal ytinga til stønadstakaren fastsetjast etter første leddet bokstav a. Tilsvarande fell retten til tillegg for forsørgt barn bort når barnet har utanlandsopphald som nemnd. Reglane i § 4 gjeld tilsvarande med omsyn til tidspunktet for omrekning av ytingane etter første og andre punktumet."
@@ -66,12 +63,7 @@
                     "name": "§ 6",
                     "title": "Inntekt som går til frådrag i supplerande stønad",
                     "sections": [
-                        "Full supplerande stønad skal setjast ned med",
-                        "a)arbeidsinntekt",
-                        "b)pensjon frå folketrygda",
-                        "c)andre norske offentlege eller private pensjonar",
-                        "d)utanlandske offentlege eller private pensjonar",
-                        "e)kapitalinntekter.",
+                        "Full supplerande stønad skal setjast ned med\na)\tarbeidsinntekt\nb)\tpensjon frå folketrygda\nc)\tandre norske offentlege eller private pensjonar\nd)\tutanlandske offentlege eller private pensjonar\ne)\tkapitalinntekter.",
                         "Det skal reknast med slik inntekt hos stønadstakaren sjølv så vel som hos ektemaken. Dersom begge ektemakane har fylt 67 år, skal inntekt hos den eine ektemaken berre inngå ved prøvinga av ytingane til den andre ektemaken med den delen som overstig full supplerande stønad etter § 5 første leddet bokstav c."
                     ]
                 },

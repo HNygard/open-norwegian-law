@@ -2,7 +2,7 @@
     "lawId": "LOV-2008-06-27-62",
     "lawName": "Lov om individuell pensjonsordning",
     "shortName": "Lov om individuell pensjonsordning",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.50 (2007–2008), Innst.O.nr.71 (2007–2008) og Besl.O.nr.105 (2007–2008). Odels- og lagtingsvedtak hhv. 17. og 20. juni 2008. Fremmet av Finansdepartementet.\nEndringer i følgende lover:\n1\tLov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).\n2\tLov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven).\n3\tLov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven).\n4\tLov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsloven).",
     "chapters": [
         {
             "name": "Kapittel 1. Alminnelige bestemmelser",
@@ -65,13 +65,7 @@
                     "name": "§ 1-7",
                     "title": "Kontoføring",
                     "sections": [
-                        "(1) Institusjonen skal føre konto for hver pensjonsavtale. Kontoen skal for hvert år minst angi",
-                        "a)årets innskudd eller premie,",
-                        "b)årets vederlag for dekning av henholdsvis risiko, administrasjon av pensjonsavtalen og forvaltning av pensjonskapitalen, samt vederlag som er avregnet i avkastning av forvaltning av tidligere opptjent pensjonskapital,",
-                        "c)årets avkastning av pensjonskapitalen, herunder avkastning som er benyttet til å dekke avregnet vederlag for forvaltning av tidligere opptjent pensjonskapital,",
-                        "d)årets avkastning, herunder overskudd, tilordnet pensjonskapitalen,",
-                        "e)alderspensjonskapital opptjent i løpet av året og samlet alderspensjonskapital ved utgangen av året, og",
-                        "f)pensjonskapital knyttet til uføre-, etterlatte- og barnepensjoner.",
+                        "(1) Institusjonen skal føre konto for hver pensjonsavtale. Kontoen skal for hvert år minst angi\na)\tårets innskudd eller premie,\nb)\tårets vederlag for dekning av henholdsvis risiko, administrasjon av pensjonsavtalen og forvaltning av pensjonskapitalen, samt vederlag som er avregnet i avkastning av forvaltning av tidligere opptjent pensjonskapital,\nc)\tårets avkastning av pensjonskapitalen, herunder avkastning som er benyttet til å dekke avregnet vederlag for forvaltning av tidligere opptjent pensjonskapital,\nd)\tårets avkastning, herunder overskudd, tilordnet pensjonskapitalen,\ne)\talderspensjonskapital opptjent i løpet av året og samlet alderspensjonskapital ved utgangen av året, og\nf)\tpensjonskapital knyttet til uføre-, etterlatte- og barnepensjoner.",
                         "(2) Kontoutskriften skal være utsendt innen tre måneder etter utløpet av året. For pensjonsforsikringsavtaler med rett til overskudd er fristen fem måneder."
                     ]
                 },
@@ -221,7 +215,7 @@
                     "sections": [
                         "(1) Retten til alderspensjon med tilhørende premiereserve faller bort ved kundens død.",
                         "(2) Alderspensjon skal ytes fra avtalt pensjonsalder. Kunden kan likevel kreve at alderspensjonen skal ubetales fra det tidspunkt kunden har rett til alderspensjon fra folketrygden. Det kan avtales at alderspensjon skal utbetales før avtalt pensjonsalder dersom kunden ikke mottar lønn, likevel ikke tidligere enn fra fylte 62 år. I så fall kan det også avtales at pensjonsytelsen skal settes ned ved fylte 67 år, men ikke med mer enn 50 prosent.",
-                        "(3) Kunde som fortsatt mottar lønn etter nådd pensjonsalder, kan kreve at alderspensjon ikke skal utbetales i den utstrekning kunden mottar lønn. Ikke utbetalt alderspensjon blir værende i pensjonskapitalen (premiereserven).",
+                        "(3) Kunde som fortsatt mottar lønn etter nådd pensjonsalder, kan kreve at alderspensjon ikke skal utbetales i den utstrekning kunden mottar lønn. Ikke utbetalt alderspensjon blir værende i  pensjonskapitalen (premiereserven).",
                         "(4) Kunden kan kreve at alderspensjon skal utbetales først fra et fastsatt tidspunkt etter at kunden har rett til pensjon. Kunden kan også kreve at den årlige pensjonsytelsen i den første delen av utbetalingsperioden og for et bestemt antall år bare skal utgjøre en mindre del av pensjonsytelsen. Ikke utbetalt alderspensjon blir værende i pensjonskapitalen (premiereserven).",
                         "(5) Utbetalingen av alderspensjon skal skje så lenge kunden lever. Det kan likevel avtales at utbetalingen av alderspensjon skal opphøre ved fylte 77 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt i 10 år. Det kan avtales at pensjonsytelsen skal settes ned etter 10 år fra avtalt pensjonsalder eller senere.",
                         "(6) Dersom årlig pensjonsytelse blir mindre enn 20 prosent av folketrygdens grunnbeløp (G), kan ytelsesperioden kortes ned til det antall hele år som vil gi årlig pensjonsytelse på om lag 20 prosent av grunnbeløpet.",
@@ -249,7 +243,7 @@
                     "sections": [
                         "(1) Dersom pensjonsforsikringsavtalen omfatter forsikring som gir rett til uførepensjon, har kunden rett til uførepensjon etter avtalen i samsvar med uføregraden til enhver tid. Avtalt uføregrad for rett til uførepensjon kan ikke settes lavere enn 20 prosent eller høyere enn 50 prosent. Uføregraden beregnes etter foretakspensjonsloven § 6-2.",
                         "(2) Uførepensjonen skal tilsvare den alderspensjonen kunden ville ha rett til ved nådd pensjonsalder, eller en fastsatt årlig ytelse. Retten til uførepensjon opphører i alle tilfelle når kunden får rett til alderspensjon.",
-                        "(3) En pensjonsforsikringsavtale som ikke omfatter forsikring som gir rett til uførepensjon, kan i stedet omfatte årlig forsikring av risiko for uførhet med rett til utbetaling av årlige uføreytelser for et avtalt antall år."
+                        "(3) En pensjonsforsikringsavtale som ikke omfatter forsikring som gir rett til uførepensjon, kan i stedet omfatte årlig forsikring av  risiko for uførhet med rett til utbetaling av årlige uføreytelser for et avtalt antall år."
                     ]
                 },
                 {
@@ -258,9 +252,7 @@
                     "sections": [
                         "(1) Pensjonsforsikringsavtalen kan omfatte forsikring som gir rett til etterlattepensjon til ektefelle, registrert partner eller samboer. Etterlattepensjonen kan fastsettes som en del av kundens alderspensjon eller som en fastsatt årlig ytelse.",
                         "(2) Ektefelle-, partner- og samboerpensjon løper fra kundens død og til den etterlattes død. Det kan avtales at ektefelle-, partner og samboerpensjon skal opphøre når pensjon er utbetalt i 10 år, men ikke i noe tilfelle før den etterlatte har fylt 77 år. § 3-3 sjette ledd gjelder tilsvarende.",
-                        "(3) Med samboer forstås her",
-                        "a)person som kunden har felles bolig og felles barn med,",
-                        "b)person som kunden lever sammen med i ekteskaps- eller partnerskapslignende forhold når det godtgjøres at forholdet har bestått uavbrutt i de siste fem år før kundens død, og det ikke forelå forhold som ville hindre at lovlig ekteskap eller registrert partnerskap ble inngått."
+                        "(3) Med samboer forstås her\na)\tperson som kunden har felles bolig og felles barn med,\nb)\tperson som kunden lever sammen med i ekteskaps- eller partnerskapslignende forhold når det godtgjøres at forholdet har bestått uavbrutt i de siste fem år før kundens død, og det ikke forelå forhold som ville hindre at lovlig ekteskap eller registrert partnerskap ble inngått."
                     ]
                 },
                 {
@@ -385,11 +377,7 @@
                     "name": "§ 5-7",
                     "title": "Institusjonenes informasjonsplikt",
                     "sections": [
-                        "(1) Innen tre måneder etter at denne lov er trådt i kraft, skal institusjonen gi kunde med individuelle pensjonsavtaler som omfattes av § 5-1, opplysninger om:",
-                        "a)kundens rett til å kreve utbetaling etter Finansdepartementets skattelovforskrift § 6-47-31,",
-                        "b)kundens rett til pensjonskapitalbevis og forsikringsbevis etter § 5-2,",
-                        "c)kundens rett til å inngå ny avtale etter § 5-3 og skattereglene for en slik avtale, og",
-                        "d)at rettigheter etter individuelle pensjonsavtaler i visse tilfeller kan slås sammen med andre individuelle pensjonsrettigheter som kunden måtte ha, jf. §§ 5-4 til 5-6.",
+                        "(1) Innen tre måneder etter at denne lov er trådt i kraft, skal institusjonen gi kunde med individuelle pensjonsavtaler som omfattes av § 5-1, opplysninger om:\na)\tkundens rett til å kreve utbetaling etter Finansdepartementets skattelovforskrift § 6-47-31,\nb)\tkundens rett til pensjonskapitalbevis og forsikringsbevis etter § 5-2,\nc)\tkundens rett til å inngå ny avtale etter § 5-3 og skattereglene for en slik avtale, og\nd)\tat rettigheter etter individuelle pensjonsavtaler i visse tilfeller kan slås sammen med andre individuelle pensjonsrettigheter som kunden måtte ha, jf. §§ 5-4 til 5-6.",
                         "(2) Dersom kunden inngår ny avtale etter § 5-3, skal institusjonen opplyse om relevante skatteregler."
                     ]
                 }
@@ -410,21 +398,11 @@
                     "name": "§ 6-2",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:",
-                        "1. Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) endres slik:",
-                        "§ 6-47 første ledd ny bokstav c skal lyde:",
-                        "c.premie, innskudd og kostnader knyttet til administrasjon av individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning, herunder kostnader til forvaltning av årets premie eller innskudd til individuell pensjonsavtale. Samlet fradrag kan ikke overstige 15 .000 kroner.",
-                        "Nåværende bokstav c, d og e blir d, e og f.",
-                        "2. I lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven) skal § 4-7 første ledd tredje punktum lyde:",
-                        "Er opptjent premiereserve knyttet til alderspensjon mindre enn 50 prosent av folketrygdens grunnbeløp, har medlemmet likevel bare rett til at premiereserven blir overført til annen foretakspensjonsordning eller individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning.",
-                        "3. I lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) skal § 6-3 første ledd lyde:",
-                        "Kontohaveren har rett til å få pensjonskapital i henhold til pensjonskapitalbevis overført til alderspensjonskonto i annen institusjon som nevnt i § 2-2, til annen innskuddspensjonsordning eller til individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning.",
-                        "4. I lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsloven) gjøres følgende endringer:",
-                        "§ 1-4 første ledd nytt annet punktum skal lyde:",
-                        "Pensjonskasser kan også tilby pensjonsordninger etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning til medlemmer av en kollektiv pensjonsordning som pensjonskassen forvalter.",
-                        "§ 1-5 første punktum skal lyde:",
-                        "Innskuddspensjonsforetak kan bare overta kollektive pensjonsordninger og pensjonsordninger etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning uten forsikringselement.",
-                        "§ 8-1 skal lyde:"
+                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:\n1. Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) endres slik:\n§ 6-47 første ledd ny bokstav c skal lyde:\nc.\tpremie, innskudd og kostnader knyttet til administrasjon av individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning, herunder kostnader til forvaltning av årets premie eller innskudd til individuell pensjonsavtale. Samlet fradrag kan ikke overstige 15 .000 kroner.\nNåværende bokstav c, d og e blir d, e og f.\n2. I lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven) skal § 4-7 første ledd tredje punktum lyde:",
+                        "Er opptjent premiereserve knyttet til alderspensjon mindre enn 50 prosent av folketrygdens grunnbeløp, har medlemmet likevel bare rett til at premiereserven blir overført til annen foretakspensjonsordning eller individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning.\n3. I lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) skal § 6-3 første ledd lyde:",
+                        "Kontohaveren har rett til å få pensjonskapital i henhold til pensjonskapitalbevis overført til alderspensjonskonto i annen institusjon som nevnt i § 2-2, til annen innskuddspensjonsordning eller til individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning.\n4. I lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsloven) gjøres følgende endringer:\n§ 1-4 første ledd nytt annet punktum skal lyde:",
+                        "Pensjonskasser kan også tilby pensjonsordninger etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning til medlemmer av en kollektiv pensjonsordning som pensjonskassen forvalter.\n§ 1-5 første punktum skal lyde:",
+                        "Innskuddspensjonsforetak kan bare overta kollektive pensjonsordninger og pensjonsordninger etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning uten forsikringselement.\n§ 8-1 skal lyde:"
                     ]
                 },
                 {

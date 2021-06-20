@@ -2,7 +2,7 @@
     "lawId": "LOV-2003-05-23-35",
     "lawName": "Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven)",
     "shortName": "Ehandelsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.31 (2002–2003), Innst.O.nr.75 (2002–2003) og Besl.O.nr.78 (2002–2003). Odels- og lagtingsvedtak hhv. 27. mars og 1. april 2003. Fremmet av Nærings- og handelsdepartementet. Jf. EØS-avtalen vedlegg XI nr. 5h (direktiv 2000/31/EF) om elektronisk handel.",
     "chapters": [
         {
             "paragraphs": [
@@ -11,9 +11,7 @@
                     "title": "Lovens formål og virkeområde",
                     "sections": [
                         "Loven gjelder for elektronisk handel og andre informasjonssamfunnstjenester og offentlige myndigheters regulering av og kontroll med slike tjenester. Loven har til formål å sikre fri bevegelighet av informasjonssamfunnstjenester innenfor Det europeiske økonomiske samarbeidsområde (EØS).",
-                        "En informasjonssamfunnstjeneste er",
-                        "a)enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk, over avstand og etter individuell anmodning fra en tjenestemottaker, samt",
-                        "b)enhver tjeneste som består i å gi tilgang til, eller overføre informasjon over, et elektronisk kommunikasjonsnett, eller i å være nettvert for data som leveres av tjenestemottakeren.",
+                        "En informasjonssamfunnstjeneste er\na)\tenhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk, over avstand og etter individuell anmodning fra en tjenestemottaker, samt\nb)\tenhver tjeneste som består i å gi tilgang til, eller overføre informasjon over, et elektronisk kommunikasjonsnett, eller i å være nettvert for data som leveres av tjenestemottakeren.",
                         "Taletelefoni og telefaks- og telekstjenester går ikke inn under loven.",
                         "Kongen kan gi forskrift om hva som regnes som en informasjonssamfunnstjeneste.",
                         "Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen."
@@ -23,25 +21,14 @@
                     "name": "§ 2",
                     "title": "Unntak fra lovens virkeområde",
                     "sections": [
-                        "Loven får ikke anvendelse på:",
-                        "a)skatteområdet,",
-                        "b)behandling av personopplysninger etter personopplysningsloven med forskrift, teleloven med forskrifter og lov 23. juni 2000 nr. 54 om edb-baserte reservasjonssystemer for passasjertransport m.v.,",
-                        "c)spørsmål om avtaler eller praksis som reguleres av konkurranseloven og EØS-avtalen artiklene 53 og 54,",
-                        "d)virksomhet som notarius publicus etter lov 26. april 2002 nr. 12 om notarius publicus,",
-                        "e)representasjon av en klient og ivaretakelse av vedkommendes interesser ved domstolene,",
-                        "f)spillvirksomhet med pengeinnsats i hasardspill, herunder lotterier og veddemål, jf. lov 1. juli 1927 nr. 3 om veddemål ved totalisator, lov 28. august 1992 nr. 103 om pengespill m.v. og lov 24. mars 1995 nr. 11 om lotterier m.v."
+                        "Loven får ikke anvendelse på:\na)\tskatteområdet,\nb)\tbehandling av personopplysninger etter personopplysningsloven med forskrift, teleloven med forskrifter og lov 23. juni 2000 nr. 54 om edb-baserte reservasjonssystemer for passasjertransport m.v.,\nc)\tspørsmål om avtaler eller praksis som reguleres av konkurranseloven og EØS-avtalen artiklene 53 og 54,\nd)\tvirksomhet som notarius publicus etter lov 26. april 2002 nr. 12 om notarius publicus,\ne)\trepresentasjon av en klient og ivaretakelse av vedkommendes interesser ved domstolene,\nf)\tspillvirksomhet med pengeinnsats i hasardspill, herunder lotterier og veddemål, jf. lov 1. juli 1927 nr. 3 om veddemål ved totalisator, lov 28. august 1992 nr. 103 om pengespill m.v. og lov 24. mars 1995 nr. 11 om lotterier m.v."
                     ]
                 },
                 {
                     "name": "§ 3",
                     "title": "Definisjoner",
                     "sections": [
-                        "I denne lov menes med:",
-                        "a)tjenesteyter: en fysisk eller juridisk person som tilbyr informasjonssamfunnstjenester,",
-                        "b)tjenestemottaker: en fysisk eller juridisk person som benytter en informasjonssamfunnstjeneste,",
-                        "c)etableringssted: et fast forretningssted der den økonomiske virksomheten som den aktuelle informasjonssamfunnstjenesten knytter seg til, faktisk utøves,",
-                        "d)det koordinerte regelområdet: nasjonale regler som stiller krav til informasjonssamfunnstjenester og til tjenesteyter når det gjelder etablering og drift av informasjonssamfunnstjenester,",
-                        "e)forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet."
+                        "I denne lov menes med:\na)\ttjenesteyter: en fysisk eller juridisk person som tilbyr informasjonssamfunnstjenester,\nb)\ttjenestemottaker: en fysisk eller juridisk person som benytter en informasjonssamfunnstjeneste,\nc)\tetableringssted: et fast forretningssted der den økonomiske virksomheten som den aktuelle informasjonssamfunnstjenesten knytter seg til, faktisk utøves,\nd)\tdet koordinerte regelområdet: nasjonale regler som stiller krav til informasjonssamfunnstjenester og til tjenesteyter når det gjelder etablering og drift av informasjonssamfunnstjenester,\ne)\tforbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet."
                     ]
                 },
                 {
@@ -56,14 +43,8 @@
                     "title": "Informasjonssamfunnstjenester fra en annen stat innenfor EØS",
                     "sections": [
                         "En tjenesteyter med etableringssted i en annen stat innenfor EØS har uten hinder av norske regler innenfor det koordinerte regelområdet rett til å tilby informasjonssamfunnstjenester til tjenestemottakere i Norge.",
-                        "Første ledd er likevel ikke til hinder for at en domstol eller annen myndighet, når dette følger av annen lovgivning, kan begrense adgangen til å tilby en bestemt informasjonssamfunnstjeneste, så langt tiltaket er nødvendig for å beskytte:",
-                        "a)den offentlige orden, særlig forebygging, etterforsking og rettsforfølging av straffbare forhold, beskyttelse av mindreårige, og vern mot angrep på enkeltmenneskets verd og mot oppfordring til hat på grunnlag av rase, kjønn, religion eller nasjonalitet,",
-                        "b)folkehelsen,",
-                        "c)den offentlige sikkerhet, herunder vern av den nasjonale sikkerhet og det nasjonale forsvar, eller",
-                        "d)forbrukere, medregnet investorer så langt disse er forbrukere.",
-                        "Før forbud som nevnt i annet ledd blir nedlagt, må",
-                        "a)den stat der tjenesteyteren har sitt etableringssted, være oppfordret til å sette i verk tiltak uten at dette har vært tilstrekkelig til å beskytte de formål som er nevnt i annet ledd, og",
-                        "b)EFTAs overvåkingsorgan (ESA) og vedkommende stat underrettes om at slikt forbud vil bli nedlagt.",
+                        "Første ledd er likevel ikke til hinder for at en domstol eller annen myndighet, når dette følger av annen lovgivning, kan begrense adgangen til å tilby en bestemt informasjonssamfunnstjeneste, så langt tiltaket er nødvendig for å beskytte:\na)\tden offentlige orden, særlig forebygging, etterforsking og rettsforfølging av straffbare forhold, beskyttelse av mindreårige, og vern mot angrep på enkeltmenneskets verd og mot oppfordring til hat på grunnlag av rase, kjønn, religion eller nasjonalitet,\nb)\tfolkehelsen,\nc)\tden offentlige sikkerhet, herunder vern av den nasjonale sikkerhet og det nasjonale forsvar, eller\nd)\tforbrukere, medregnet investorer så langt disse er forbrukere.",
+                        "Før forbud som nevnt i annet ledd blir nedlagt, må\na)\tden stat der tjenesteyteren har sitt etableringssted, være oppfordret til å sette i verk tiltak uten at dette har vært tilstrekkelig til å beskytte de formål som er nevnt i annet ledd, og\nb)\tEFTAs overvåkingsorgan (ESA) og vedkommende stat underrettes om at slikt forbud vil bli nedlagt.",
                         "Reglene i tredje ledd gjelder ikke for saker for domstolene eller for tiltak i etterforsking av straffbare forhold. De kan også fravikes dersom det er fare ved opphold, men da skal ESA og vedkommende stat snarest opplyses om dette og om det nedlagte forbudet.",
                         "Kongen kan gi forskrift om hvem som skal ha underretning etter tredje og fjerde ledd og om innholdet av underretningen."
                     ]
@@ -72,16 +53,7 @@
                     "name": "§ 6",
                     "title": "Unntak fra §§ 4 og 5",
                     "sections": [
-                        "Reglene i §§ 4 og 5 får ikke anvendelse på:",
-                        "a)avtaler om lovvalg for en kontrakt,",
-                        "b)lovvalg i forsikring, jf. lov 27. september 1992 nr. 111 om lovvalg i forsikring §§ 4 til 10,",
-                        "c)kontraktsvilkår i forbrukeravtaler,",
-                        "d)ufravikelige formkrav for avtaler som stifter eller overfører rettigheter i fast eiendom,",
-                        "e)immaterielle rettigheter,",
-                        "f)elektronisk sending av uanmodet reklame,",
-                        "g)markedsføring av andeler i verdipapirfond, jf. lov 12. juni 1981 nr. 52 om verdipapirfond,",
-                        "h)utstedelse av elektroniske penger av en institusjon som går inn under et unntak i lov om e-pengeforetak § 1-2, og",
-                        "i)forsikringsvirksomhet som er unntatt i henhold til forskrift fastatt av departementet."
+                        "Reglene i §§ 4 og 5 får ikke anvendelse på:\na)\tavtaler om lovvalg for en kontrakt,\nb)\tlovvalg i forsikring, jf. lov 27. september 1992 nr. 111 om lovvalg i forsikring §§ 4 til 10,\nc)\tkontraktsvilkår i forbrukeravtaler,\nd)\tufravikelige formkrav for avtaler som stifter eller overfører rettigheter i fast eiendom,\ne)\timmaterielle rettigheter,\nf)\telektronisk sending av uanmodet reklame,\ng)\tmarkedsføring av andeler i verdipapirfond, jf. lov 12. juni 1981 nr. 52 om verdipapirfond,\nh)\tutstedelse av elektroniske penger av en institusjon som går inn under et unntak i lov om e-pengeforetak § 1-2, og\ni)\tforsikringsvirksomhet som er unntatt i henhold til forskrift fastatt av departementet."
                     ]
                 },
                 {
@@ -96,13 +68,8 @@
                     "name": "§ 8",
                     "title": "Tjenesteyterens opplysningsplikt om virksomheten",
                     "sections": [
-                        "En tjenesteyter skal ved utøving av sin virksomhet alltid gi informasjon om navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren. I tillegg skal tjenesteyteren opplyse om:",
-                        "a)det foretaksregister hvor tjenesteyteren er registrert, samt tjenesteyterens organisasjonsnummer og om virksomheten er merverdiavgiftspliktig, og",
-                        "b)eventuelle godkjenninger som kreves for å utføre virksomheten og navn og adresse på den aktuelle godkjenningsmyndigheten.",
-                        "Ved yrkesvirksomhet som direkte eller indirekte ved lov eller forskrift er betinget av at vedkommende er innehaver av et diplom eller utdanningsbevis skal tjenesteyteren dessuten opplyse om:",
-                        "a)sin yrkestittel og i hvilken medlemsstat den er gitt,",
-                        "b)hvilke regler for yrkesmessig opptreden som gjelder for tjenesteyteren, og",
-                        "c)hvor tjenestemottakeren kan få tilgang til reglene nevnt i bokstav b.",
+                        "En tjenesteyter skal ved utøving av sin virksomhet alltid gi informasjon om navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren. I tillegg skal tjenesteyteren opplyse om:\na)\tdet foretaksregister hvor tjenesteyteren er registrert, samt tjenesteyterens organisasjonsnummer og om virksomheten er merverdiavgiftspliktig, og\nb)\teventuelle godkjenninger som kreves for å utføre virksomheten og navn og adresse på den aktuelle godkjenningsmyndigheten.",
+                        "Ved yrkesvirksomhet som direkte eller indirekte ved lov eller forskrift er betinget av at vedkommende er innehaver av et diplom eller utdanningsbevis skal tjenesteyteren dessuten opplyse om:\na)\tsin yrkestittel og i hvilken medlemsstat den er gitt,\nb)\thvilke regler for yrkesmessig opptreden som gjelder for tjenesteyteren, og\nc)\thvor tjenestemottakeren kan få tilgang til reglene nevnt i bokstav b.",
                         "Informasjonen etter første og andre ledd skal gjøres enkelt og direkte tilgjengelig for tjenestemottakere og offentlige myndigheter.",
                         "Bestemmelsen får ikke anvendelse overfor tjenesteytere som kun tilbyr tjenester som består i å overføre informasjon over et elektronisk kommunikasjonsnett."
                     ]
@@ -129,12 +96,7 @@
                     "name": "§ 11",
                     "title": "Opplysningsplikt før elektronisk bestilling",
                     "sections": [
-                        "Før elektronisk bestilling skal tjenesteyteren på en klar, forståelig og utvetydig måte gi tjenestemottakeren opplysning om:",
-                        "a)relevante atferdsregler som tjenesteyteren følger og om og hvor disse er tilgjengelige elektronisk,",
-                        "b)de forskjellige tekniske etappene som er knyttet til avtaleinngåelsen,",
-                        "c)om en inngått avtale vil bli arkivert av tjenesteyteren, og om den vil være tilgjengelig,",
-                        "d)de tekniske midlene til å finne og rette inntastingsfeil før bestilling er foretatt,",
-                        "e)de språk avtalen kan inngås på.",
+                        "Før elektronisk bestilling skal tjenesteyteren på en klar, forståelig og utvetydig måte gi tjenestemottakeren opplysning om:\na)\trelevante atferdsregler som tjenesteyteren følger og om og hvor disse er tilgjengelige elektronisk,\nb)\tde forskjellige tekniske etappene som er knyttet til avtaleinngåelsen,\nc)\tom en inngått avtale vil bli arkivert av tjenesteyteren, og om den vil være tilgjengelig,\nd)\tde tekniske midlene til å finne og rette inntastingsfeil før bestilling er foretatt,\ne)\tde språk avtalen kan inngås på.",
                         "Avtalevilkår, standardvilkår og generelle vilkår, må gjøres tilgjengelige for tjenestemottakeren på en måte som gjør det mulig å lagre og gjengi dem.",
                         "Tjenesteyteren skal tilrettelegge den elektroniske avtaleinngåelsen slik at inntastingsfeil på en enkel måte kan oppdages og rettes før avtalen inngås.",
                         "Første og tredje ledd gjelder ikke for avtaler som utelukkende inngås ved elektronisk post eller tilsvarende individuell kommunikasjon, og kan fravikes i avtale utenfor forbrukerforhold."
@@ -154,9 +116,7 @@
                     "name": "§ 13",
                     "title": "Ansvar for informasjon og veiledning",
                     "sections": [
-                        "Departementet skal i forskrift utpeke kontaktpunkter som er tilgjengelige elektronisk og som tjenestemottakere og tjenesteytere kan henvende seg til for å få:",
-                        "a)generelle opplysninger om sine kontraktsmessige rettigheter og forpliktelser, samt om klage- og erstatningsordninger ved tvister og om framgangsmåter ved bruk av disse,",
-                        "b)nærmere opplysninger om myndigheter, sammenslutninger og organisasjoner som kan gi ytterligere opplysninger eller praktisk bistand.",
+                        "Departementet skal i forskrift utpeke kontaktpunkter som er tilgjengelige elektronisk og som tjenestemottakere og tjenesteytere kan henvende seg til for å få:\na)\tgenerelle opplysninger om sine kontraktsmessige rettigheter og forpliktelser, samt om klage- og erstatningsordninger ved tvister og om framgangsmåter ved bruk av disse,\nb)\tnærmere opplysninger om myndigheter, sammenslutninger og organisasjoner som kan gi ytterligere opplysninger eller praktisk bistand.",
                         "Departementet kan gi forskrift om virksomheten i de kontaktpunktene som utpekes etter første ledd."
                     ]
                 },

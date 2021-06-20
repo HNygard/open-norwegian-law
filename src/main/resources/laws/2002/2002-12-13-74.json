@@ -2,7 +2,7 @@
     "lawId": "LOV-2002-12-13-74",
     "lawName": "Lov om e-pengeforetak",
     "shortName": "E-pengeforetaksloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.92 (2001–2002), Innst.O.nr.8 (2002–2003) og Besl.O.nr.4 (2002–2003). Odels- og lagtingsvedtak hhv. 7. og 14. november 2002. Fremmet av Finansdepartementet.\nEndringer i følgende lover:\n1.\tLov av 24. mai 1961 nr. 2 om forretningsbanker.\n2.\tLov av 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner.\n3.\tLov av 19. juni 1997 nr. 79 om verdipapirhandel.",
     "chapters": [
         {
             "name": "Kapittel 1 Innledende bestemmelser",
@@ -12,10 +12,7 @@
                     "title": "Anvendelsesområde",
                     "sections": [
                         "Loven gjelder foretak som utsteder betalingsmidler i form av elektroniske penger (e-pengeforetak), med unntak av banker og andre kredittinstitusjoner.",
-                        "Med elektroniske penger menes en pengeverdi representert ved en fordring på utstederen som",
-                        "1.er lagret på et elektronisk medium,",
-                        "2.er utstedt etter mottak av midler, og",
-                        "3.er anerkjent som betalingsmiddel av andre foretak enn utstederen.",
+                        "Med elektroniske penger menes en pengeverdi representert ved en fordring på utstederen som\n1.\ter lagret på et elektronisk medium,\n2.\ter utstedt etter mottak av midler, og\n3.\ter anerkjent som betalingsmiddel av andre foretak enn utstederen.",
                         "§ 1-6 om innløsningsrett og § 1-8 om opplysningsplikt gjelder også for banker og andre kredittinstitusjoner."
                     ]
                 },
@@ -23,10 +20,7 @@
                     "name": "§ 1-2",
                     "title": "Unntak fra lovens bestemmelser",
                     "sections": [
-                        "Departementet kan ved forskrift eller enkeltvedtak unnta et e-pengeforetak fra enkelte eller samtlige bestemmelser i loven her dersom det maksimalt kan lagres et beløp i norske kroner som tilsvarer 150 euro på det elektroniske medium og dessuten minst en av følgende betingelser er oppfylt:",
-                        "1.samlet gjeld knyttet til utestående elektroniske penger skal vanligvis ikke overstige et beløp i norske kroner som tilsvarer 5 millioner euro og skal aldri overstige et beløp i norske kroner som tilsvarer 6 millioner euro,",
-                        "2.de elektroniske pengene er bare godtatt som betalingsmiddel av foretak i samme konsern som e-pengeforetaket (inkludert utenlandske morselskap),",
-                        "3.de elektroniske pengene er bare godtatt som betalingsmiddel av et begrenset antall foretak som klart skiller seg ut ved deres beliggenhet i de samme lokaler eller innenfor et annet begrenset lokalt område eller ved deres nære finansielle eller forretningsmessige forbindelse til e-pengeforetaket.",
+                        "Departementet kan ved forskrift eller enkeltvedtak unnta et e-pengeforetak fra enkelte eller samtlige bestemmelser i loven her dersom det maksimalt kan lagres et beløp i norske kroner som tilsvarer 150 euro på det elektroniske medium og dessuten minst en av følgende betingelser er oppfylt:\n1.\tsamlet gjeld knyttet til utestående elektroniske penger skal vanligvis ikke overstige et beløp i norske kroner som tilsvarer 5 millioner euro og skal aldri overstige et beløp i norske kroner som tilsvarer 6 millioner euro,\n2.\tde elektroniske pengene er bare godtatt som betalingsmiddel av foretak i samme konsern som e-pengeforetaket (inkludert utenlandske morselskap),\n3.\tde elektroniske pengene er bare godtatt som betalingsmiddel av et begrenset antall foretak som klart skiller seg ut ved deres beliggenhet i de samme lokaler eller innenfor et annet begrenset lokalt område eller ved deres nære finansielle eller forretningsmessige forbindelse til e-pengeforetaket.",
                         "Et e-pengeforetak som departementet etter første ledd har unntatt fra enkelte eller samtlige bestemmelser i loven, skal hvert år framlegge årsberetning eller annen redegjørelse for sin virksomhet for Kredittilsynet. Redegjørelsen skal inneholde opplysninger om størrelsen av den samlede gjeld knyttet til elektroniske penger. Redegjørelsen skal være mottatt av Kredittilsynet senest 1. august det påfølgende år."
                     ]
                 },
@@ -34,9 +28,7 @@
                     "name": "§ 1-3",
                     "title": "Virksomhetsbegrensning",
                     "sections": [
-                        "E-pengeforetak kan bare drive virksomhet som består i å utstede elektroniske penger og virksomhet som går ut på",
-                        "1.å yte nært tilknyttede finansielle og ikke-finansielle tjenester, som forvaltning av elektroniske penger gjennom utføring av driftsmessige og andre oppgaver knyttet til utstedelsen, samt utstedelse og forvaltning av andre betalingsmidler, med unntak av enhver form for yting av kreditt, og",
-                        "2.å lagre data knyttet til utstedelse av elektroniske penger på den elektroniske innretningen på vegne av andre foretak eller offentlige institusjoner."
+                        "E-pengeforetak kan bare drive virksomhet som består i å utstede elektroniske penger og virksomhet som går ut på\n1.\tå yte nært tilknyttede finansielle og ikke-finansielle tjenester, som forvaltning av elektroniske penger gjennom utføring av driftsmessige og andre oppgaver knyttet til utstedelsen, samt utstedelse og forvaltning av andre betalingsmidler, med unntak av enhver form for yting av kreditt, og\n2.\tå lagre data knyttet til utstedelse av elektroniske penger på den elektroniske innretningen på vegne av andre foretak eller offentlige institusjoner."
                     ]
                 },
                 {
@@ -86,25 +78,8 @@
                     "title": "Tillatelse",
                     "sections": [
                         "Et e-pengeforetak kan ikke drive virksomhet uten tillatelse av departementet. Som vilkår for tillatelsen kan det fastsettes at e-pengeforetaket ikke kan utstede elektroniske penger med en enkeltverdi eller en samlet verdi som overstiger nærmere angitte beløp.",
-                        "Søknad om tillatelse skal inneholde de opplysninger som må anses å være av betydning for behandling av søknaden. Det skal opplyses om alle personer og foretak som har eller vil få en betydelig eierandel i foretaket. Søker skal legge ved vedtekter eller vedtektsutkast og en driftsplan for foretakets tre første driftsår. Driftsplanen skal inneholde:",
-                        "1.en oversikt over driftsopplegg og rutiner for de forretninger og tjenester som foretaket vil tilby,",
-                        "2.opplysninger om foretakets kapitalforhold,",
-                        "3.budsjetter for etablerings- og administrasjonskostnader,",
-                        "4.budsjetter med resultatregnskap, balanseregnskap og kontantstrømoppstilling for hvert av de tre første driftsår,",
-                        "5.prognose for finansiell stilling i hvert av de tre første år, og",
-                        "6.målverdien etter seks måneder av foretakets gjeld knyttet til utestående elektroniske penger.",
-                        "Tillatelse skal nektes dersom vilkårene etter denne lov ikke er oppfylt eller dersom:",
-                        "1.selskapet ikke har sitt hovedkontor her i riket,",
-                        "2.det ikke er minst to personer som faktisk bestemmer hovedlinjene for virksomheten,",
-                        "3.daglig leder eller annen person som faktisk leder virksomheten, eller styremedlemmene",
-                        "a)ikke kan antas å ha den nødvendige erfaring til å utøve stillingen eller vervet,",
-                        "b)er dømt for et straffbart forhold, og det utviste forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte, eller",
-                        "c)i stilling eller ved utøvelsen av andre verv har utvist en slik atferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte,",
-                        "4.aksjeeiere med betydelig eierandel ikke kan antas å være skikket til å sikre en sunn og forsvarlig ledelse av foretaket,",
-                        "5.det finnes en nær tilknytning mellom e-pengeforetaket og andre personer eller foretak og tilknytningen vil hindre forsvarlig tilsyn av e-pengeforetaket,",
-                        "6.forsvarlig tilsyn av e-pengeforetaket vil bli hindret fordi en eller flere personer eller foretak som e-pengeforetaket har nær tilknytning til er underlagt lovgivningen i et land utenfor EØS-området eller fordi det er vanskelig å håndheve denne lovgivningen,",
-                        "7.e-pengeforetaket ikke har gitt de opplysninger som har blitt krevet for å sikre at vilkårene for å få tillatelse er oppfylt.",
-                        "Med nær tilknytning menes i første punktum nr. 5 og 6 slik tilknytning som er definert i direktiv 2000/12/EF artikkel 1 nr. 26.",
+                        "Søknad om tillatelse skal inneholde de opplysninger som må anses å være av betydning for behandling av søknaden. Det skal opplyses om alle personer og foretak som har eller vil få en betydelig eierandel i foretaket. Søker skal legge ved vedtekter eller vedtektsutkast og en driftsplan for foretakets tre første driftsår. Driftsplanen skal inneholde:\n1.\ten oversikt over driftsopplegg og rutiner for de forretninger og tjenester som foretaket vil tilby,\n2.\topplysninger om foretakets kapitalforhold,\n3.\tbudsjetter for etablerings- og administrasjonskostnader,\n4.\tbudsjetter med resultatregnskap, balanseregnskap og kontantstrømoppstilling for hvert av de tre første driftsår,\n5.\tprognose for finansiell stilling i hvert av de tre første år, og\n6.\tmålverdien etter seks måneder av foretakets gjeld knyttet til utestående elektroniske penger.",
+                        "Tillatelse skal nektes dersom vilkårene etter denne lov ikke er oppfylt eller dersom:\n1.\tselskapet ikke har sitt hovedkontor her i riket,\n2.\tdet ikke er minst to personer som faktisk bestemmer hovedlinjene for virksomheten,\n3.\tdaglig leder eller annen person som faktisk leder virksomheten, eller styremedlemmene\na)\tikke kan antas å ha den nødvendige erfaring til å utøve stillingen eller vervet,\nb)\ter dømt for et straffbart forhold, og det utviste forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte, eller\nc)\ti stilling eller ved utøvelsen av andre verv har utvist en slik atferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på forsvarlig måte,\n4.\taksjeeiere med betydelig eierandel ikke kan antas å være skikket til å sikre en sunn og forsvarlig ledelse av foretaket,\n5.\tdet finnes en nær tilknytning mellom e-pengeforetaket og andre personer eller foretak og tilknytningen vil hindre forsvarlig tilsyn av e-pengeforetaket,\n6.\tforsvarlig tilsyn av e-pengeforetaket vil bli hindret fordi en eller flere personer eller foretak som e-pengeforetaket har nær tilknytning til er underlagt lovgivningen i et land utenfor EØS-området eller fordi det er vanskelig å håndheve denne lovgivningen,\n7.\te-pengeforetaket ikke har gitt de opplysninger som har blitt krevet for å sikre at vilkårene for å få tillatelse er oppfylt.\nMed nær tilknytning menes i første punktum nr. 5 og 6 slik tilknytning som er definert i direktiv 2000/12/EF artikkel 1 nr. 26.",
                         "Avgjørelse av søknad om tillatelse etter første ledd skal meddeles søkeren innen seks måneder etter at søknaden er mottatt. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt slike opplysninger ble mottatt."
                     ]
                 },
@@ -119,12 +94,7 @@
                     "name": "§ 2-3",
                     "title": "Utenlandske e-pengeforetak – foretak omfattet av gjensidig anerkjennelse",
                     "sections": [
-                        "Et utenlandsk e-pengeforetak som har tillatelse i en annen EØS-stat, kan gjennom en filial starte virksomhet her i riket som består i utstedelse av elektroniske penger, to måneder etter at Kredittilsynet har mottatt følgende opplysninger fra tilsynsmyndigheten i hjemlandet:",
-                        "1.en virksomhetsplan som blant annet skal angi opplysninger om filialens oppbygning,",
-                        "2.en erklæring om at e-pengeforetaket har tillatelse i hjemlandet og er omfattet av ordningen for gjensidig anerkjennelse i direktiv 2000/46/EF (e-pengedirektivet) og direktiv 2000/12/EF (bankdirektivet),",
-                        "3.filialens adresse,",
-                        "4.navn på de ansvarlige personer i filialens ledelse, og",
-                        "5.størrelsen på den ansvarlige kapitalen og oppfyllelsen av solvenskravet i § 4-2.",
+                        "Et utenlandsk e-pengeforetak som har tillatelse i en annen EØS-stat, kan gjennom en filial starte virksomhet her i riket som består i utstedelse av elektroniske penger, to måneder etter at Kredittilsynet har mottatt følgende opplysninger fra tilsynsmyndigheten i hjemlandet:\n1.\ten virksomhetsplan som blant annet skal angi opplysninger om filialens oppbygning,\n2.\ten erklæring om at e-pengeforetaket har tillatelse i hjemlandet og er omfattet av ordningen for gjensidig anerkjennelse i direktiv 2000/46/EF (e-pengedirektivet) og direktiv 2000/12/EF (bankdirektivet),\n3.\tfilialens adresse,\n4.\tnavn på de ansvarlige personer i filialens ledelse, og\n5.\tstørrelsen på den ansvarlige kapitalen og oppfyllelsen av solvenskravet i § 4-2.",
                         "Kredittilsynet kan innen fristen i første ledd fastsette at filialen her i riket ikke kan utstede elektroniske penger med en verdi som overstiger et nærmere angitt beløp. Ved avgjørelsen skal det tas hensyn til tilsvarende begrensninger som utstederen av elektroniske penger måtte være underlagt i hjemlandet.",
                         "Endringer i forhold som nevnt i første ledd nr. 1, 3 eller 4 skal meldes av foretaket til tilsynsmyndighetene i hjemlandet og til Kredittilsynet. Endringene kan ikke settes i verk før en måned etter at slik melding er sendt.",
                         "Et utenlandsk e-pengeforetak som har tillatelse i en annen EØS-stat, kan yte tjenester her i riket som består i utstedelse av elektroniske penger fra et etablert forretningssted i en annen EØS-stat (grensekryssende tjenesteyting) når Kredittilsynet har mottatt en erklæring fra tilsynsmyndigheten i hjemlandet om at e-pengeforetaket har tillatelse i hjemlandet og er omfattet av ordningen for gjensidig anerkjennelse, jf. EØS-reglene som svarer til direktiv 2000/46/EF artikkel 8 nr. 2.",
@@ -143,11 +113,7 @@
                     "name": "§ 2-5",
                     "title": "Virksomhet i utlandet",
                     "sections": [
-                        "Et e-pengeforetak som har til hensikt å etablere en filial i et annet land, skal gi melding om dette til Kredittilsynet med følgende opplysninger om filialen:",
-                        "1.i hvilken stat e-pengeforetaket har til hensikt å etablere filial,",
-                        "2.en virksomhetsplan som blant annet skal angi hvilken virksomhet som skal drives gjennom filialen, og filialens organisatoriske oppbygging,",
-                        "3.filialens navn og adresse samt navn på de ansvarlige personer i filialens ledelse, og",
-                        "4.opplysninger om størrelsen på foretakets ansvarlige kapital og oppfyllelsen av solvenskravet i § 4-2.",
+                        "Et e-pengeforetak som har til hensikt å etablere en filial i et annet land, skal gi melding om dette til Kredittilsynet med følgende opplysninger om filialen:\n1.\ti hvilken stat e-pengeforetaket har til hensikt å etablere filial,\n2.\ten virksomhetsplan som blant annet skal angi hvilken virksomhet som skal drives gjennom filialen, og filialens organisatoriske oppbygging,\n3.\tfilialens navn og adresse samt navn på de ansvarlige personer i filialens ledelse, og\n4.\topplysninger om størrelsen på foretakets ansvarlige kapital og oppfyllelsen av solvenskravet i § 4-2.",
                         "Ved etablering av en filial i et annet EØS-land skal Kredittilsynet oversende opplysningene nevnt i første ledd til tilsynsmyndigheten i filialstaten og underrette foretaket om dette innen tre måneder etter at Kredittilsynet har mottatt meldingen med alle opplysningene nevnt i første ledd. Kredittilsynet skal samtidig oversende en bekreftelse på at foretaket har tillatelse til å drive virksomhet som består i utstedelse av elektroniske penger.",
                         "Et e-pengeforetak som utsteder elektroniske penger med en høyere verdi enn de mottatte midler, har ikke adgang til å drive grensekryssende tjenesteyting eller tilby sine tjenester gjennom filial i annen EØS-stat gjennom ordningen med gjensidig anerkjennelse av tillatelser innen EØS.",
                         "Kredittilsynet kan treffe enkeltvedtak innen fristen angitt i annet ledd om ikke å oversende opplysningene nevnt i første og annet ledd dersom det er grunn til å tvile på at den administrative struktur eller finansielle situasjon til e-pengeforetaket er god nok tatt i betraktning den virksomhet som er planlagt.",
@@ -197,10 +163,7 @@
                     "name": "§ 4-2",
                     "title": "Solvenskrav",
                     "sections": [
-                        "E-pengeforetak skal til enhver tid ha en ansvarlig kapital som minst utgjør det høyeste av følgende beløp:",
-                        "1.et beløp i norske kroner som minst tilsvarer startkapitalen,",
-                        "2.to prosent av e-pengeforetakets gjeld knyttet til utestående elektroniske penger, eller",
-                        "3.to prosent av gjennomsnittsverdien for de siste seks måneder av e-pengeforetakets gjeld knyttet til utestående elektroniske penger.",
+                        "E-pengeforetak skal til enhver tid ha en ansvarlig kapital som minst utgjør det høyeste av følgende beløp:\n1.\tet beløp i norske kroner som minst tilsvarer startkapitalen,\n2.\tto prosent av e-pengeforetakets gjeld knyttet til utestående elektroniske penger, eller\n3.\tto prosent av gjennomsnittsverdien for de siste seks måneder av e-pengeforetakets gjeld knyttet til utestående elektroniske penger.",
                         "Departementet fastsetter forskrift om beregning av den ansvarlige kapitalen og om oppfyllelse av solvenskravet i første ledd."
                     ]
                 },
@@ -228,9 +191,7 @@
                     "name": "§ 5-2",
                     "title": "Tiltak for å komme i samsvar med plasseringsreglene",
                     "sections": [
-                        "Dersom verdien av investeringene etter § 5-1 ikke oppfyller kravene etter den nevnte bestemmelsen, skal Kredittilsynet påse at e-pengeforetaket treffer passende tiltak for raskt å rette opp dette forholdet og om nødvendig gi pålegg om dette. Kredittilsynet kan i disse tilfellene tillate at foretaket midlertidig dekker gjeld knyttet til utestående elektroniske penger ved hjelp av andre eiendeler enn de investeringene kan plasseres i etter § 5-1 første ledd. Plasseringer i slike eiendeler kan ikke overstige det laveste av følgende beløp:",
-                        "1.fem prosent av gjelden knyttet til utestående elektroniske penger, eller",
-                        "2.foretakets ansvarlige kapital."
+                        "Dersom verdien av investeringene etter § 5-1 ikke oppfyller kravene etter den nevnte bestemmelsen, skal Kredittilsynet påse at e-pengeforetaket treffer passende tiltak for raskt å rette opp dette forholdet og om nødvendig gi pålegg om dette. Kredittilsynet kan i disse tilfellene tillate at foretaket midlertidig dekker gjeld knyttet til utestående elektroniske penger ved hjelp av andre eiendeler enn de investeringene kan plasseres i etter § 5-1 første ledd. Plasseringer i slike eiendeler kan ikke overstige det laveste av følgende beløp:\n1.\tfem prosent av gjelden knyttet til utestående elektroniske penger, eller\n2.\tforetakets ansvarlige kapital."
                     ]
                 },
                 {
@@ -249,11 +210,7 @@
                     "name": "§ 6-1",
                     "title": "Tilbakekall av tillatelse",
                     "sections": [
-                        "Kredittilsynet kan kalle tilbake tillatelsen til et e-pengeforetak dersom:",
-                        "1.tillatelsen ikke er tatt i bruk innen tolv måneder,",
-                        "2.foretaket ikke har drevet virksomhet som består i utstedelse av elektroniske penger i mer enn seks måneder,",
-                        "3.foretaket gjør seg skyldig i grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven, eller",
-                        "4.vilkårene i § 2-1 eller vilkår satt for tillatelsen ikke lenger er oppfylt.",
+                        "Kredittilsynet kan kalle tilbake tillatelsen til et e-pengeforetak dersom:\n1.\ttillatelsen ikke er tatt i bruk innen tolv måneder,\n2.\tforetaket ikke har drevet virksomhet som består i utstedelse av elektroniske penger i mer enn seks måneder,\n3.\tforetaket gjør seg skyldig i grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven, eller\n4.\tvilkårene i § 2-1 eller vilkår satt for tillatelsen ikke lenger er oppfylt.",
                         "Kredittilsynet skal kalle tilbake tillatelsen til et e-pengeforetak dersom foretaket ikke oppfyller solvenskravet i § 4-2 og de tiltak foretaket setter i verk i medhold av § 4-3 ikke bringer kapitalsituasjonen i samsvar med solvenskravet innen en frist Kredittilsynet har fastsatt."
                     ]
                 },
@@ -333,24 +290,9 @@
                     "name": "§ 9-3",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:",
-                        "1. I lov 24. mai 1961 nr. 2 om forretningsbanker skal § 1 første ledd nytt annet punktum lyde:",
-                        "Mottak av midler som nevnt i lov om e-pengeforetak § 1-1 annet ledd nr. 2 utgjør ikke innskudd dersom de mottatte beløp umiddelbart byttes mot elektroniske penger utstedt av et e-pengeforetak.",
-                        "2. I lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner gjøres følgende endringer:",
-                        "§ 1-2 første ledd nytt nr. 7 skal lyde:",
-                        "7.virksomhet i foretak regulert i lov om e-pengeforetak.",
-                        "2-1 annet ledd nr. 5, 6 og nytt nr. 7 skal lyde:",
-                        "5.foretak hvis hovedvirksomhet er omfattet av punktene 2-12 og 14 i vedlegg I til europaparlaments- og rådsdirektiv 2000/12/EF (vedlegg IX pkt. 14 til EØS-avtalen) om adgang til å starte og utøve virksomhet som kredittinstitusjon,",
-                        "6.institusjon som omfattes av lov 10. juni 1988 nr. 39 om forsikringsvirksomhet, og",
-                        "7.e-pengeforetak.",
-                        "3. I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:",
-                        "§ 2a-1 første ledd nr. 5 og nytt nr. 6 skal lyde:",
-                        "5.pensjonskasser,",
-                        "6.e-pengeforetak som ikke er unntatt fra lov om e-pengeforetak § 5-3, og",
-                        "Nåværende nr. 6 blir nytt nr. 7.",
-                        "§ 2a-1 annet ledd skal lyde:",
-                        "Departementet kan i forskrift bestemme at bestemmelsen i dette kapittel skal gjelde for andre ansatte som arbeider med forvaltningen av offentlige midler og ansatte i offentlige institusjoner som driver finansieringsvirksomhet, enn de som er nevnt i første ledd nr. 7.",
-                        "§ 2a-3 første ledd første punktum skal lyde:",
+                        "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:\n1. I lov 24. mai 1961 nr. 2 om forretningsbanker skal § 1 første ledd nytt annet punktum lyde:",
+                        "Mottak av midler som nevnt i lov om e-pengeforetak § 1-1 annet ledd nr. 2 utgjør ikke innskudd dersom de mottatte beløp umiddelbart byttes mot elektroniske penger utstedt av et e-pengeforetak.\n2. I lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner gjøres følgende endringer:\n§ 1-2 første ledd nytt nr. 7 skal lyde:\n7.\tvirksomhet i foretak regulert i lov om e-pengeforetak.\n2-1 annet ledd nr. 5, 6 og nytt nr. 7 skal lyde:\n5.\tforetak hvis hovedvirksomhet er omfattet av punktene 2-12 og 14 i vedlegg I til europaparlaments- og rådsdirektiv 2000/12/EF (vedlegg IX pkt. 14 til EØS-avtalen) om adgang til å starte og utøve virksomhet som kredittinstitusjon,\n6.\tinstitusjon som omfattes av lov 10. juni 1988 nr. 39 om forsikringsvirksomhet, og\n7.\te-pengeforetak.\n3. I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:\n§ 2a-1 første ledd nr. 5 og nytt nr. 6 skal lyde:\n5.\tpensjonskasser,\n6.\te-pengeforetak som ikke er unntatt fra lov om e-pengeforetak § 5-3, og\nNåværende nr. 6 blir nytt nr. 7.\n§ 2a-1 annet ledd skal lyde:",
+                        "Departementet kan i forskrift bestemme at bestemmelsen i dette kapittel skal gjelde for andre ansatte som arbeider med forvaltningen av offentlige midler og ansatte i offentlige institusjoner som driver finansieringsvirksomhet, enn de som er nevnt i første ledd nr. 7.\n§ 2a-3 første ledd første punktum skal lyde:",
                         "Ansatte i foretak som nevnt i § 2a-1 første ledd nr. 2 til 7 kan ikke ved handel for egen regning benytte verdipapirforetak som regelmessig yter investeringstjenester av vesentlig omfang overfor arbeidsgiverforetaket."
                     ]
                 }

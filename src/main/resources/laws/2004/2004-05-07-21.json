@@ -2,7 +2,7 @@
     "lawId": "LOV-2004-05-07-21",
     "lawName": "Lov om Riksrevisjonen",
     "shortName": "Riksrevisjonsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Innst.O.nr.54 (2003–2004) og Besl.O.nr.59 (2003–2004). Odels- og lagtingsvedtak hhv. 11. og 30. mars 2004. Fremmet av Finansdepartementet.\nEndringer i følgende lover:\n1\tLov 8. februar 1918 om statens revisionsvæsen.\n2\tLov 19. juni 1931 nr. 18 om Aktieselskapet Vinmonopolet.\n3\tLov 1. mars 1946 nr. 3 om Den Norske Stats Husbank.\n4\tLov 28. mars 1958 nr. 4 om ansvar og garanti for statens oppkrevere og regnskapsførere m.v.\n5\tLov 23. mai 1980 nr. 11 om stiftelser m.m.\n6\tLov 4. mars 1983 nr. 3 om statens tjenestemenn m.m.\n7\tLov 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter.\n8\tLov 24. mai 1985 nr. 28 om Norges Bank og pengevesenet mv. (sentralbankloven).\n9\tLov 30. august 1991 nr. 71 om statsforetak.\n10\tLov 28. juni 1996 nr. 54 om studentsamskipnader.\n11\tLov 9. mai 1997 nr. 26 om Statens investeringsfond for næringsvirksomhet i utviklingsland.\n12\tLov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven).\n13\tLov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven).\n14\tLov 15. juni 2001 nr. 59 om stiftelser (stiftelsesloven).\n15\tLov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven).\n16\tLov 19. desember 2003 nr. 130 om Innovasjon Norge.",
     "chapters": [
         {
             "name": "Kapittel 1 Riksrevisjonens formål og organisasjon mv.",
@@ -118,9 +118,7 @@
                         "Riksrevisjonen kan, uten hinder av taushetsplikt, kreve enhver opplysning, redegjørelse eller ethvert dokument og foreta de undersøkelser som den finner nødvendig for å gjennomføre oppgavene.",
                         "Riksrevisjonens rett til informasjon etter første ledd gjelder overfor den politiske ledelse, embets- og tjenestemenn i forvaltningen og andre som virker i forvaltningens tjeneste, og overfor ledelse, tilsatte og revisor i selskaper mv. som er heleid av staten og heleide datterselskaper til slike selskaper. Overlater forvaltningen økonomioppgaver til andre utenfor staten, gjelder Riksrevisjonens rett til aktuell informasjon også direkte overfor disse. Riksrevisjonens rett gjelder også overfor personer som har utført oppgaver som nevnt i første og annet punktum.",
                         "I saker som gjelder kontroll med om tilskudd eller bidrag av statsmidler til offentlige eller private virksomheter nyttes etter forutsetningene, gjelder retten til informasjon etter første ledd også overfor tilskuddsmottaker.",
-                        "Riksrevisjonen har samme rett til innsyn og informasjon som forvaltningen kan kreve overfor",
-                        "a)andre som er tillagt statlig forvaltningsmyndighet eller oppgaver finansiert med statlige midler, og",
-                        "b)private som leverer varer eller tjenester til staten."
+                        "Riksrevisjonen har samme rett til innsyn og informasjon som forvaltningen kan kreve overfor\na)\tandre som er tillagt statlig forvaltningsmyndighet eller oppgaver finansiert med statlige midler, og\nb)\tprivate som leverer varer eller tjenester til staten."
                     ]
                 },
                 {
@@ -186,10 +184,7 @@
                     "title": "Habilitet",
                     "sections": [
                         "Ingen som utfører tjeneste eller arbeid for Riksrevisjonen kan utføre revisjons- eller kontrolloppdrag dersom vedkommende eller dennes nærstående har en slik tilknytning til revidert eller kontrollert virksomhet, dets ansatte eller tillitsvalgte, eller det for øvrig foreligger slike særegne forhold at dette kan svekke tilliten til vedkommendes uavhengighet eller objektivitet.",
-                        "Som nærstående regnes:",
-                        "a)ektefelle og person som vedkommende bor sammen med i ekteskapslignende forhold,",
-                        "b)slektninger i rett oppstigende eller nedstigende linje og søsken, og deres ektefeller eller personer som de bor sammen med i ekteskapslignende forhold, og",
-                        "c)slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt under bokstav a.",
+                        "Som nærstående regnes:\na)\tektefelle og person som vedkommende bor sammen med i ekteskapslignende forhold,\nb)\tslektninger i rett oppstigende eller nedstigende linje og søsken, og deres ektefeller eller personer som de bor sammen med i ekteskapslignende forhold, og\nc)\tslektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt under bokstav a.",
                         "Bestemmelsene i forvaltningsloven §§ 6 til 9 første ledd gjelder for enhver som behandler administrative saker for Riksrevisjonen."
                     ]
                 }
@@ -210,37 +205,19 @@
                     "name": "§ 21",
                     "title": "Oppheving og endringer av andre lover",
                     "sections": [
-                        "Når loven trer i kraft, endres andre lover slik:",
-                        "1. Lov 8. februar 1918 om statens revisionsvæsen oppheves.",
-                        "2. I lov 19. juni 1931 nr. 18 om Aktieselskapet Vinmonopolet foretas følgende endringer:",
-                        "§ 12 første og tredje ledd oppheves. Nåværende annet ledd blir eneste ledd.",
-                        "§ 14 skal lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskapet og heleide datterselskaper etter lov om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "3. I lov 1. mars 1946 nr. 3 om Den Norske Stats Husbank skal § 8 tredje ledd annet punktum lyde:",
-                        "Riksrevisjonen reviderer Husbankens regnskap og forvaltning.",
-                        "4. I lov 28. mars 1958 nr. 4 om ansvar og garanti for statens oppkrevere og regnskapsførere m.v. skal § 1 annet ledd lyde:",
-                        "Kongen kan nedsette et pådratt erstatningsansvar eller la det falle bort, dersom det finnes rimelig under omsyn til den utviste skyld, skadens størrelse og tilhøva ellers.",
-                        "5. I lov 23. mai 1980 nr. 11 om stiftelser oppheves § 11 tiende ledd.",
-                        "6. I lov 4. mars 1983 nr. 3 om statens tjenestemenn skal § 6 nr. 1 første punktum lyde:",
-                        "Reglene i §§ 2, 3, 4 og 5 gjelder ikke for tjenestemenn tilsatt ved Stortinget eller hos Stortingets ombudsmenn.",
-                        "7. I lov 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter skal § 13 fjerde ledd lyde:",
-                        "Departementet fører tilsyn med Lånekassen. Styret sender hvert år innen utgangen av mars måned departementet rapport og regnskap for foregående år. Riksrevisjonen reviderer Lånekassens regnskap og forvaltning.",
-                        "8. I lov 24. mai 1985 nr. 28 om Norges Bank og pengevesenet (sentralbankloven) skal § 2 fjerde ledd annet punktum lyde:",
-                        "Riksrevisjonen fører kontroll med statsrådens myndighetsutøvelse etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "9. I lov 30. august 1991 nr. 71 om statsforetak skal § 45 lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i statsforetak og heleide datterselskaper til slike foretak etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "10. I lov 28. juni 1996 nr. 54 om studentsamskipnader skal § 14 annet ledd lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i Studentsamskipnaden og heleide datterselskaper etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "11. I lov 9. mai 1997 nr. 26 om Statens investeringsfond for næringsvirksomhet i utviklingsland skal § 20 lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i fondet etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "12. I lov 13. juni 1997 nr. 44 om aksjeselskaper skal § 20-6 lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskaper der staten eier alle aksjene og heleide datterselskaper til slike selskaper etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "13. I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper skal § 20-6 lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskaper der staten eier alle aksjene og heleide datterselskaper til slike selskaper etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "14. I lov 15. juni 2001 nr. 59 om stiftelser oppheves § 43 fjerde ledd.",
-                        "15. I lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven) skal § 45 lyde:",
-                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i regionalt helseforetak, helseforetak og heleide datterselskaper til slike foretak etter lov om Riksrevisjonen og instruks fastsatt av Stortinget.",
-                        "16. I lov 19. desember 2003 nr. 130 om Innovasjon Norge skal § 36 lyde:",
+                        "Når loven trer i kraft, endres andre lover slik:\n1. Lov 8. februar 1918 om statens revisionsvæsen oppheves.\n2. I lov 19. juni 1931 nr. 18 om Aktieselskapet Vinmonopolet foretas følgende endringer:\n§ 12 første og tredje ledd oppheves. Nåværende annet ledd blir eneste ledd.\n§ 14 skal lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskapet og heleide datterselskaper etter lov om Riksrevisjonen og instruks fastsatt av Stortinget.\n3. I lov 1. mars 1946 nr. 3 om Den Norske Stats Husbank skal § 8 tredje ledd annet punktum lyde:",
+                        "Riksrevisjonen reviderer Husbankens regnskap og forvaltning.\n4. I lov 28. mars 1958 nr. 4 om ansvar og garanti for statens oppkrevere og regnskapsførere m.v. skal § 1 annet ledd lyde:",
+                        "Kongen kan nedsette et pådratt erstatningsansvar eller la det falle bort, dersom det finnes rimelig under omsyn til den utviste skyld, skadens størrelse og tilhøva ellers.\n5. I lov 23. mai 1980 nr. 11 om stiftelser oppheves § 11 tiende ledd.\n6. I lov 4. mars 1983 nr. 3 om statens tjenestemenn skal § 6 nr. 1 første punktum lyde:",
+                        "Reglene i §§ 2, 3, 4 og 5 gjelder ikke for tjenestemenn tilsatt ved Stortinget eller hos Stortingets ombudsmenn.\n7. I lov 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter skal § 13 fjerde ledd lyde:",
+                        "Departementet fører tilsyn med Lånekassen. Styret sender hvert år innen utgangen av mars måned departementet rapport og regnskap for foregående år. Riksrevisjonen reviderer Lånekassens regnskap og forvaltning.\n8. I lov 24. mai 1985 nr. 28 om Norges Bank og pengevesenet (sentralbankloven) skal § 2 fjerde ledd annet punktum lyde:",
+                        "Riksrevisjonen fører kontroll med statsrådens myndighetsutøvelse etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.\n9. I lov 30. august 1991 nr. 71 om statsforetak skal § 45 lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i statsforetak og heleide datterselskaper til slike foretak etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.\n10. I lov 28. juni 1996 nr. 54 om studentsamskipnader skal § 14 annet ledd lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i Studentsamskipnaden og heleide datterselskaper etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.\n11. I lov 9. mai 1997 nr. 26 om Statens investeringsfond for næringsvirksomhet i utviklingsland skal § 20 lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i fondet etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.\n12. I lov 13. juni 1997 nr. 44 om aksjeselskaper skal § 20-6 lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskaper der staten eier alle aksjene og heleide datterselskaper til slike selskaper etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.\n13. I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper skal § 20-6 lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskaper der staten eier alle aksjene og heleide datterselskaper til slike selskaper etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.\n14. I lov 15. juni 2001 nr. 59 om stiftelser oppheves § 43 fjerde ledd.\n15. I lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven) skal § 45 lyde:",
+                        "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i regionalt helseforetak, helseforetak og heleide datterselskaper til slike foretak etter lov om Riksrevisjonen og instruks fastsatt av Stortinget.\n16. I lov 19. desember 2003 nr. 130 om Innovasjon Norge skal § 36 lyde:",
                         "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i selskapet og heleide datterselskaper etter lov om Riksrevisjonen og instruks fastsatt av Stortinget."
                     ]
                 }

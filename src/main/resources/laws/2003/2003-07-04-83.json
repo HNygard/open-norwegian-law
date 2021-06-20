@@ -2,7 +2,7 @@
     "lawId": "LOV-2003-07-04-83",
     "lawName": "Lov om elektronisk kommunikasjon (ekomloven)",
     "shortName": "Ekomloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.58 (2002–2003), Innst.O.nr.121 (2002–2003) og Besl.O.nr.121 (2002–2003). Odels- og lagtingsvedtak hhv. 11. og 17. juni 2003. Fremmet av Samferdselsdepartementet. Jf. EØS-avtalen vedlegg XI (direktiv 2002/19/EF, direktiv 2002/20/EF, direktiv 2002/21/EF, direktiv 2002/22/EF, direktiv 2002/58/EF, direktiv 2002/77/EF og beslutning 2002/676/EF).\nFølgende lover oppheves:\n1\tLov av 23. juni 1995 nr. 39 om telekommunikasjon (teleloven).\n2\tLov av 25. juni 1999 nr. 50 om standarder ved overføring av fjernsynssignaler.\nEndringer i følgende lover:\n1\tAlmindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10.\n2\tLov av 24. juni 1915 nr. 5 om kontroll med post og telegrafforsendelser og med telefonsamtaler.\n3\tLov av 13. august 1915 nr. 6 om rettergangsmåten for tvistemål (tvistemålsloven).\n4\tLov av 9. juli 1923 nr. 1 om anbringelse av signaler og merker for målearbeider.\n5\tLov av 17. juli 1925 nr. 11 om Svalbard.\n6\tLov av 23. oktober 1959 nr. 3 om oreigning av fast eigedom.\n7\tLov av 19. juni 1969 nr. 66 om merverdiavgift.\n8\tLov av 16. juni 1972 nr. 47 om kontroll med markedsføring og avtalevilkår (markedsføringsloven).\n9\tLov av 21. desember 1979 nr. 77 om jordskifte o.a. (jordskifteloven).\n10\tLov av 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven).\n11\tLov av 16. juli 1999 nr. 69 om offentlige anskaffelser.",
     "chapters": [
         {
             "name": "Kapittel 1 Innledende bestemmelser",
@@ -42,21 +42,7 @@
                     "name": "§ 1-5",
                     "title": "Definisjoner",
                     "sections": [
-                        "I denne lov menes med:",
-                        "1.elektronisk kommunikasjon: overføring av lyd, tekst, bilder eller andre data ved hjelp av elektromagnetiske signaler i fritt rom eller kabel i et system for signaltransport.",
-                        "2.elektronisk kommunikasjonsnett: system for elektronisk kommunikasjon der radioutstyr, svitsjer, annet koplings- og dirigeringsutstyr, tilhørende utstyr eller funksjoner inngår.",
-                        "3.nettermineringspunkt: tilkoplingspunkt mellom elektronisk kommunikasjonsnett og terminalutstyr.",
-                        "4.elektronisk kommunikasjonstjeneste: tjeneste som helt eller i det vesentlige omfatter formidling av elektronisk kommunikasjon og som normalt ytes mot vederlag.",
-                        "5.telefontjeneste: elektronisk kommunikasjonstjeneste som overfører tale mellom terminalutstyr koblet til nettermineringspunkter i et elektronisk kommunikasjonsnett.",
-                        "6.overføringskapasitet: elektronisk kommunikasjonstjeneste i form av fast etablert kapasitet for signaltransport som innsatsfaktor for produksjon av tjeneste eller som transport mellom ulike geografiske adresser for sluttbrukere.",
-                        "7.offentlig elektronisk kommunikasjonstjeneste: elektronisk kommunikasjonstjeneste som er tilgjengelig for allmennheten eller beregnet til bruk for allmennheten.",
-                        "8.terminalutstyr: produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som er beregnet for direkte eller indirekte tilknytning til nettermineringspunkt i elektronisk kommunikasjonsnett.",
-                        "9.radioutstyr: produkt eller deler av produkt som tilsiktet utstråler eller mottar elektromagnetiske bølger overført i fritt rom, med unntak av mottaker for analog kringkasting.",
-                        "10.samtrafikk: funksjon som tilrettelegger for formidling av trafikk mellom tilbydere slik at sluttbrukere kan kommunisere med hverandre og ha tilgang til offentlig elektronisk kommunikasjonstjeneste uavhengig av tilbydertilknytning.",
-                        "11.samlokalisering: felles bruk av eiendom i form av lokaler, master, føringsveier for kabler m.m. som nyttes eller vil bli nyttet til plassering av utstyr for elektronisk kommunikasjon.",
-                        "12.bruker: enhver fysisk eller juridisk person som bruker elektronisk kommunikasjonsnett eller -tjeneste til egen bruk eller som innsatsfaktor for produksjon av andre tjenester.",
-                        "13.sluttbruker: enhver fysisk eller juridisk person som inngår avtale om tilgang til elektronisk kommunikasjonsnett eller -tjeneste til eget bruk eller utlån.",
-                        "14.tilbyder: enhver fysisk eller juridisk person som tilbyr andre tilgang til elektronisk kommunikasjonsnett eller -tjeneste."
+                        "I denne lov menes med:\n1.\telektronisk kommunikasjon: overføring av lyd, tekst, bilder eller andre data ved hjelp av elektromagnetiske signaler i fritt rom eller kabel i et system for signaltransport.\n2.\telektronisk kommunikasjonsnett: system for elektronisk kommunikasjon der radioutstyr, svitsjer, annet koplings- og dirigeringsutstyr, tilhørende utstyr eller funksjoner inngår.\n3.\tnettermineringspunkt: tilkoplingspunkt mellom elektronisk kommunikasjonsnett og terminalutstyr.\n4.\telektronisk kommunikasjonstjeneste: tjeneste som helt eller i det vesentlige omfatter formidling av elektronisk kommunikasjon og som normalt ytes mot vederlag.\n5.\ttelefontjeneste: elektronisk kommunikasjonstjeneste som overfører tale mellom terminalutstyr koblet til nettermineringspunkter i et elektronisk kommunikasjonsnett.\n6.\toverføringskapasitet: elektronisk kommunikasjonstjeneste i form av fast etablert kapasitet for signaltransport som innsatsfaktor for produksjon av tjeneste eller som transport mellom ulike geografiske adresser for sluttbrukere.\n7.\toffentlig elektronisk kommunikasjonstjeneste: elektronisk kommunikasjonstjeneste som er tilgjengelig for allmennheten eller beregnet til bruk for allmennheten.\n8.\tterminalutstyr: produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som er beregnet for direkte eller indirekte tilknytning til nettermineringspunkt i elektronisk kommunikasjonsnett.\n9.\tradioutstyr: produkt eller deler av produkt som tilsiktet utstråler eller mottar elektromagnetiske bølger overført i fritt rom, med unntak av mottaker for analog kringkasting.\n10.\tsamtrafikk: funksjon som tilrettelegger for formidling av trafikk mellom tilbydere slik at sluttbrukere kan kommunisere med hverandre og ha tilgang til offentlig elektronisk kommunikasjonstjeneste uavhengig av tilbydertilknytning.\n11.\tsamlokalisering: felles bruk av eiendom i form av lokaler, master, føringsveier for kabler m.m. som nyttes eller vil bli nyttet til plassering av utstyr for elektronisk kommunikasjon.\n12.\tbruker: enhver fysisk eller juridisk person som bruker elektronisk kommunikasjonsnett eller -tjeneste til egen bruk eller som innsatsfaktor for produksjon av andre tjenester.\n13.\tsluttbruker: enhver fysisk eller juridisk person som inngår avtale om tilgang til elektronisk kommunikasjonsnett eller -tjeneste til eget bruk eller utlån.\n14.\ttilbyder: enhver fysisk eller juridisk person som tilbyr andre tilgang til elektronisk kommunikasjonsnett eller -tjeneste."
                     ]
                 }
             ]
@@ -157,13 +143,9 @@
                     "title": "Sikkerhet og beredskap",
                     "sections": [
                         "Tilbyder skal tilby elektronisk kommunikasjonsnett og -tjeneste med nødvendig sikkerhet for brukerne i fred, krise og krig. Tilbyder skal opprettholde nødvendig beredskap, og viktige samfunnsaktører skal prioriteres ved behov.",
-                        "Myndigheten kan, for å sikre oppfyllelse av nasjonale behov for elektronisk kommunikasjonssikkerhet, gi forskrift, treffe enkeltvedtak eller inngå avtale om at tilbyder skal gjennomføre tiltak i henhold til første ledd. Slike tiltak kan blant annet gjelde:",
-                        "1.innføring av spesielle funksjoner og tjenester i elektroniske kommunikasjonsnett, driftssystemer og driftsorganisasjoner",
-                        "2.beredskapsplanlegging og beredskapsplaner, herunder bidrag til nasjonale beredskapsplaner og deltagelse i øvelser",
-                        "3.fysisk sikring av viktige installasjoner i elektroniske kommunikasjonsnett",
-                        "4.formidling av viktig melding fra statsmyndighet.",
+                        "Myndigheten kan, for å sikre oppfyllelse av nasjonale behov for elektronisk kommunikasjonssikkerhet, gi forskrift, treffe enkeltvedtak eller inngå avtale om at tilbyder skal gjennomføre tiltak i henhold til første ledd. Slike tiltak kan blant annet gjelde:\n1.\tinnføring av spesielle funksjoner og tjenester i elektroniske kommunikasjonsnett, driftssystemer og driftsorganisasjoner\n2.\tberedskapsplanlegging og beredskapsplaner, herunder bidrag til nasjonale beredskapsplaner og deltagelse i øvelser\n3.\tfysisk sikring av viktige installasjoner i elektroniske kommunikasjonsnett\n4.\tformidling av viktig melding fra statsmyndighet.",
                         "Myndigheten kan pålegge tilbyder å inngå samarbeid med annen nasjonal eller internasjonal virksomhet når dette følger av internasjonal avtale.",
-                        "Tilbyder skal i utgangspunktet dekke kostnader ved sikkerhets- og beredskapstiltak etter denne paragrafen. Tilbyderes reelle merkostnader forbundet med levering av sikkerhets- og beredskapstiltak, skal kompenseres av staten med basis i fyldestgjørende dokumentasjon som fremskaffes av tilbydere. Med merkostnad menes kostnad som vil falle bort uten pålegget, utover kostnaden ved en ren kommersiell tilpasning.",
+                        "Tilbyder skal i utgangspunktet dekke kostnader ved sikkerhets- og beredskapstiltak etter denne paragrafen. Tilbyderes reelle merkostnader forbundet med levering av sikkerhets- og  beredskapstiltak, skal kompenseres av staten med basis i fyldestgjørende dokumentasjon som fremskaffes av tilbydere. Med merkostnad menes kostnad som vil falle bort uten pålegget, utover kostnaden ved en ren kommersiell tilpasning.",
                         "Tilbyder kan nektes tilgang til markedet dersom dette er nødvendig av hensyn til offentlig sikkerhet, helse eller andre særlige forhold."
                     ]
                 },
@@ -253,13 +235,7 @@
                     "title": "Tilgang",
                     "sections": [
                         "Myndigheten kan pålegge tilbyder med sterk markedsstilling å imøtekomme enhver rimelig anmodning om å inngå eller endre avtale om tilgang til elektronisk kommunikasjonsnett og -tjeneste.",
-                        "I vurderingen av om en anmodning er rimelig skal det blant annet foretas en avveining av tilbyders interesse i å disponere egen infrastruktur mot behovet for å gi andre tilgang som er nødvendig for å kunne tilby konkurrerende tjenester. I vurderingen av hva som er nødvendig skal det tas hensyn til om det i lys av markedsutviklingen er teknisk og bedriftsøkonomisk mulig å anlegge eller bruke konkurrerende infrastruktur. I vurderingen av om en anmodning er rimelig skal det i tillegg tas hensyn til:",
-                        "1.tilgjengelig kapasitet",
-                        "2.tilbyders investeringer i forhold til risikoen investeringene har vært forbundet med",
-                        "3.bærekraftig konkurranse",
-                        "4.behov for å ivareta nettets integritet",
-                        "5.immaterielle rettigheter",
-                        "6.etablering av felles-europeiske tjenester.",
+                        "I vurderingen av om en anmodning er rimelig skal det blant annet foretas en avveining av tilbyders interesse i å disponere egen infrastruktur mot behovet for å gi andre tilgang som er nødvendig for å kunne tilby konkurrerende tjenester. I vurderingen av hva som er nødvendig skal det tas hensyn til om det i lys av markedsutviklingen er teknisk og bedriftsøkonomisk mulig å anlegge eller bruke konkurrerende infrastruktur. I vurderingen av om en anmodning er rimelig skal det i tillegg tas hensyn til:\n1.\ttilgjengelig kapasitet\n2.\ttilbyders investeringer i forhold til risikoen investeringene har vært forbundet med\n3.\tbærekraftig konkurranse\n4.\tbehov for å ivareta nettets integritet\n5.\timmaterielle rettigheter\n6.\tetablering av felles-europeiske tjenester.",
                         "Tilbyder med sterk markedsstilling skal dokumentere og begrunne avslag på anmodning om tilgang.",
                         "Myndigheten kan når det er nødvendig for å sikre alle-til-alle-kommunikasjon, pålegge enhver tilbyder tilgangsforpliktelser. Slike forpliktelser kan omfatte plikt til å inngå avtale. Pålegg etter dette ledd skal følge prosedyrene i §§ 9-2 og 9-3.",
                         "Myndigheten kan gi forskrifter om tilgang, herunder tekniske og administrative vilkår for tilgang."
@@ -310,12 +286,7 @@
                     "name": "§ 4-6",
                     "title": "Offentliggjøring og standardtilbud",
                     "sections": [
-                        "Myndigheten kan pålegge tilbyder med sterk markedsstilling å offentliggjøre spesifisert informasjon eller utarbeide og offentliggjøre standard-tilbud for elektronisk kommunikasjonsnett og -tjeneste. Plikten til å offentliggjøre spesifisert informasjon kan blant annet omfatte:",
-                        "1.regnskapsinformasjon",
-                        "2.tekniske spesifikasjoner, herunder grensesnitt som brukes ved nettermineringspunktene, samt hvilke standarder som er nyttet",
-                        "3.nettverksegenskaper",
-                        "4.priser",
-                        "5.andre vilkår og betingelser for levering og bruk.",
+                        "Myndigheten kan pålegge tilbyder med sterk markedsstilling å offentliggjøre spesifisert informasjon eller utarbeide og offentliggjøre standard-tilbud for elektronisk kommunikasjonsnett og -tjeneste. Plikten til å offentliggjøre spesifisert informasjon kan blant annet omfatte:\n1.\tregnskapsinformasjon\n2.\ttekniske spesifikasjoner, herunder grensesnitt som brukes ved nettermineringspunktene, samt hvilke standarder som er nyttet\n3.\tnettverksegenskaper\n4.\tpriser\n5.\tandre vilkår og betingelser for levering og bruk.",
                         "Myndigheten kan kreve at tilbud etter første ledd er tilstrekkelig oppdelt i enkeltelementer med tilhørende vilkår basert på behov i markedet slik at bruker ikke må akseptere tjenester, funksjoner eller ytelser som det ikke er anmodet om.",
                         "Tilbyder med sterk markedsstilling for produktene og full og delt tilgang til det faste aksessnettet skal utarbeide et standardtilbud om tilgang til det faste aksessnettet. Tilbudet skal være tilstrekkelig oppdelt slik at den som anmoder ikke betaler for tjenester, funksjoner eller ytelser som det ikke er anmodet om.",
                         "Myndigheten kan gi pålegg om hvor, hvordan og på hvilke vilkår informasjonen skal gjøres offentlig tilgjengelig, samt pålegge endringer i tilbudet.",
@@ -388,12 +359,7 @@
                     "name": "§ 5-1",
                     "title": "Leveringspliktige tjenester",
                     "sections": [
-                        "Myndigheten kan inngå avtale med eller ved pålegg utpeke, en eller flere tilbydere av elektroniske kommunikasjonsnett og -tjenester for å sikre tilbud av følgende leveringspliktige tjenester:",
-                        "1.tilgang til offentlig telefontjeneste og digitalt elektronisk kommunikasjonsnett over hele landet",
-                        "2.offentlige betalingstelefoner",
-                        "3.nummeropplysningstjeneste",
-                        "4.telefonkatalog",
-                        "5.særlige tjenester til funksjonshemmede og andre sluttbrukere med spesielle behov.",
+                        "Myndigheten kan inngå avtale med eller ved pålegg utpeke, en eller flere tilbydere av elektroniske kommunikasjonsnett og -tjenester for å sikre tilbud av følgende leveringspliktige tjenester:\n1.\ttilgang til offentlig telefontjeneste og digitalt elektronisk kommunikasjonsnett over hele landet\n2.\toffentlige betalingstelefoner\n3.\tnummeropplysningstjeneste\n4.\ttelefonkatalog\n5.\tsærlige tjenester til funksjonshemmede og andre sluttbrukere med spesielle behov.",
                         "Myndigheten kan stille nærmere krav til innhold i pliktene etter første ledd, blant annet om priser til sluttbrukere, geografisk enhetspris, kvalitetskrav til tjenestene, måling av kvalitet og informasjon.",
                         "Myndigheten kan gi forskrifter om leveringspliktige tjenester."
                     ]
@@ -403,7 +369,7 @@
                     "title": "Finansiering av leveringspliktige tjenester",
                     "sections": [
                         "Når tilbyder etter § 5-1 påføres en urimelig byrde ved å tilby leveringspliktig tjeneste og tilbyder anmoder om det, kan kostnadene dekkes av et finansieringsfond. Tilbyderen må sammen med kravet om kostnadsdekning legge frem en beregning over nettokostnadene knyttet til de leveringspliktige tjenestene.",
-                        "Myndigheten kan pålegge tilbyder å bidra til finansiering av et finansieringsfond. Anbudskonkurranse skal avholdes dersom leveringspliktig tjeneste finansieres gjennom et finansieringsfond.",
+                        "Myndigheten kan pålegge tilbyder å bidra til finansiering av et finansieringsfond. Anbudskonkurranse skal avholdes dersom  leveringspliktig tjeneste finansieres gjennom et finansieringsfond.",
                         "Myndigheten kan gi forskrifter om beregning av kostnader ved å tilby leveringspliktig tjeneste, finansieringsfond og plikt for tilbyder av elektronisk kommunikasjonsnett og -tjeneste til å bidra til finansieringsfond eller på annen måte dele kostnadene ved å tilby leveringspliktige tjenester."
                     ]
                 },
@@ -411,11 +377,9 @@
                     "name": "§ 5-3",
                     "title": "Spesielle samfunnspålagte oppgaver",
                     "sections": [
-                        "Myndigheten kan inngå avtale med eller ved pålegg utpeke, en eller flere tilbydere av elektronisk kommunikasjonsnett og -tjeneste for å sikre tilbud av følgende spesielle samfunnspålagte oppgaver:",
-                        "1.ytelser til nød- og sikkerhetstjenesten (kystradioen) til dekning av de oppgaver innen kystradioens dekningsområde som Norge har påtatt seg gjennom internasjonale overenskomster",
-                        "2.ytelser vedrørende Svalbard.",
+                        "Myndigheten kan inngå avtale med eller ved pålegg utpeke, en eller flere tilbydere av elektronisk kommunikasjonsnett og -tjeneste for å sikre tilbud av følgende spesielle samfunnspålagte oppgaver:\n1.\tytelser til nød- og sikkerhetstjenesten (kystradioen) til dekning av de oppgaver innen kystradioens dekningsområde som Norge har påtatt seg gjennom internasjonale overenskomster\n2.\tytelser vedrørende Svalbard.",
                         "Merkostnader ved avtaler eller pålegg etter denne paragrafen skal dekkes av staten.",
-                        "Myndigheten kan gi forskrifter om spesielle samfunnspålagte oppgaver etter første ledd."
+                        "Myndigheten kan gi forskrifter om spesielle samfunnspålagte  oppgaver etter første ledd."
                     ]
                 }
             ]
@@ -445,26 +409,14 @@
                     "name": "§ 6-3",
                     "title": "Vilkår for frekvenstillatelser",
                     "sections": [
-                        "Det kan knyttes vilkår til tillatelser om bruk av frekvenser i det elektromagnetiske frekvensspekteret. Slike vilkår kan gjelde:",
-                        "1.angivelse av tjeneste, nettype eller teknologi frekvensene skal brukes til",
-                        "2.faktisk og effektiv bruk av frekvensene",
-                        "3.geografisk og befolkningsmessig dekning",
-                        "4.tekniske og operasjonelle forhold for å unngå skadelig interferens og for å begrense risikoen ved elektromagnetisk stråling",
-                        "5.tillatelsens varighet",
-                        "6.retten til å overdra tillatelse",
-                        "7.vederlag for tillatelse",
-                        "8.individuelle forpliktelser i samsvar med tilbud",
-                        "9.forpliktelser i henhold til relevante internasjonale overenskomster om bruk av frekvenser."
+                        "Det kan knyttes vilkår til tillatelser om bruk av frekvenser i det elektromagnetiske frekvensspekteret. Slike vilkår kan gjelde:\n1.\tangivelse av tjeneste, nettype eller teknologi frekvensene skal brukes til\n2.\tfaktisk og effektiv bruk av frekvensene\n3.\tgeografisk og befolkningsmessig dekning\n4.\ttekniske og operasjonelle forhold for å unngå skadelig interferens og for å begrense risikoen ved elektromagnetisk stråling\n5.\ttillatelsens varighet\n6.\tretten til å overdra tillatelse\n7.\tvederlag for tillatelse\n8.\tindividuelle forpliktelser i samsvar med tilbud\n9.\tforpliktelser i henhold til relevante internasjonale overenskomster om bruk av frekvenser."
                     ]
                 },
                 {
                     "name": "§ 6-4",
                     "title": "Fremgangsmåte ved begrensning av antallet frekvenstillatelser",
                     "sections": [
-                        "Myndigheten kan begrense antallet tillatelser til bruk av nærmere bestemte frekvenser i det elektromagnetiske frekvensspekteret dersom dette er nødvendig for å ivareta brukernes interesser og for å legge til rette for bærekraftig konkurranse. Begrensning av antallet frekvenstillatelser skal skje i samsvar med følgende fremgangsmåte:",
-                        "1.interesserte skal gis anledning til å uttale seg i samsvar med § 9-2",
-                        "2.avgjørelse om å begrense antallet tillatelser til bruk av frekvenser skal begrunnes og offentliggjøres",
-                        "3.interesserte skal inviteres til å søke de ledige frekvenstillatelsene.",
+                        "Myndigheten kan begrense antallet tillatelser til bruk av nærmere bestemte frekvenser i det elektromagnetiske frekvensspekteret dersom dette er nødvendig for å ivareta brukernes interesser og for å legge til rette for bærekraftig konkurranse. Begrensning av antallet frekvenstillatelser skal skje i samsvar med følgende fremgangsmåte:\n1.\tinteresserte skal gis anledning til å uttale seg i samsvar med § 9-2\n2.\tavgjørelse om å begrense antallet tillatelser til bruk av frekvenser skal begrunnes og offentliggjøres\n3.\tinteresserte skal inviteres til å søke de ledige frekvenstillatelsene.",
                         "Ved utlysing av et begrenset antall tillatelser skal utvelgelseskriteriene være objektive, transparente, ikke-diskriminerende og forholdsmessige."
                     ]
                 },
@@ -590,11 +542,7 @@
                     "title": "Konsultasjonsprosedyre",
                     "sections": [
                         "Når enkeltvedtak etter §§ 3-2 annet ledd, 3-3, 3-4, 4-1 fjerde ledd og 4-2 annet ledd vil kunne påvirke handelen mellom EØS-landene, skal begrunnet forslag til vedtak sendes til EFTAs overvåkningsorgan for konsultasjon med sikte på europeisk harmonisering. EFTAs overvåkningsorgan og andre berørte myndigheter innenfor EØS-området kan kommentere forslag til vedtak innen en frist på en måned etter konsultasjonsprosedyrens start.",
-                        "Når forslag til enkeltvedtak definerer nye markeder eller utpeker eller trekker tilbake utpeking av sterk markedsstilling, og EFTAs overvåkningsorgan finner at enkeltvedtaket:",
-                        "1.kan påvirke handelen mellom EØS-landene eller",
-                        "2.kan utgjøre en handelshindring i strid med EØS-avtalen eller",
-                        "3.EFTAs overvåkningsorgan er i alvorlig tvil om forslaget til vedtak er i samsvar med EØS-retten",
-                        "kan EFTAs overvåkningsorgan innen tre måneder etter konsultasjonsprosedyrens start, kreve at forslaget trekkes tilbake.",
+                        "Når forslag til enkeltvedtak definerer nye markeder eller utpeker eller trekker tilbake utpeking av sterk markedsstilling, og EFTAs overvåkningsorgan finner at enkeltvedtaket:\n1.\tkan påvirke handelen mellom EØS-landene eller\n2.\tkan utgjøre en handelshindring i strid med EØS-avtalen eller\n3.\tEFTAs overvåkningsorgan er i alvorlig tvil om forslaget til vedtak er i samsvar med EØS-retten\nkan EFTAs overvåkningsorgan innen tre måneder etter konsultasjonsprosedyrens start, kreve at forslaget trekkes tilbake.",
                         "Når det av hensyn til å sikre konkurransen eller ivareta brukernes interesser er behov for en rask avklaring, kan det treffes vedtak uten forutgående konsultasjon. Slike vedtak skal, etter at de er truffet, følge prosedyren i første og annet ledd. Myndigheten kan omgjøre eller trekke vedtaket tilbake på bakgrunn av resultatene fra konsultasjonsprosedyren."
                     ]
                 },
@@ -880,41 +828,19 @@
                     "name": "§ 13-3",
                     "title": "Endring i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1. I lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov skal § 151 b første ledd lyde:",
-                        "Den som ved å ødelegge, skade eller sette ut av virksomhet informasjonssamling eller anlegg for energiforsyning, kringkasting, elektronisk kommunikasjon eller samferdsel volder omfattende forstyrrelse i den offentlige forvaltning eller i samfunnslivet for øvrig, straffes med fengsel inntil 10 år.",
-                        "2. I lov 24. juni 1915 nr. 5 om kontroll med post og telegrafforsendelser og med telefonsamtaler skal § 1 annet ledd lyde:",
-                        "Utenfor krigstid kan kontrollen bare settes i verk overfor personer som mistenkes for noen overtredelse av lov om forsvarshemmeligheter av 18. august 1914, den borgerlige straffelovs kapitler 8, 9, 12, 13 eller 14, lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-4, eller lov av 14. mai 1917 om salg og utførsel av fødevarer mv. § 5.",
-                        "3. I lov 13. august 1915 nr. 6 om rettergangsmåten for tvistemål skal § 204 nr. 2 annet og tredje punktum lyde:",
-                        "Tilsvarende gjelder for vitne som har taushetsplikt som følge av tjeneste eller arbeid for familievernkontor, postoperatør, tilbyder eller installatør av elektronisk kommunikasjonsnett eller -tjeneste, eller statens lufthavnselskap. Tilsvarende gjelder også for vitne som har lovbestemt taushetsplikt som følge av tjeneste eller arbeid i teknisk kontrollorgan.",
-                        "Nåværende tredje punktum blir nytt fjerde punktum.",
-                        "4. I lov 9. juli 1923 nr. 1 om anbringelse av signaler og merker for målearbeider skal § 1 annet ledd lyde:",
-                        "Nærværende lov gjelder ikke målearbeide som utføres i henhold til lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-3. Derimot kommer den til anvendelse på målearbeider som utføres for arbeider i vassdragene, på jordskiftemålinger og på målearbeider etter veglova.",
-                        "5. I lov 17. juli 1925 nr. 11 om Svalbard skal § 3 lyde:",
-                        "Lovene om offentlige tjenestemenn, om betaling for offentlige forretninger, om mynt, mål og vekt, om formidling av landsdekkende postsendinger, om elektronisk kommunikasjon, om arbeidervern og om arbeidstvister skal gjelde for Svalbard med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.",
-                        "6. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal § 30 nr. 2 lyde:",
-                        "2.Lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-3.",
-                        "7. I lov 19. juni 1969 nr. 66 om merverdiavgift gjøres følgende endringer:",
-                        "§ 5 b tredje ledd skal lyde:",
-                        "Unntakene i første ledd gjelder ikke når tjenestene omsettes eller formidles av tilbyder av elektronisk kommunikasjon ved bruk av elektronisk kommunikasjonstjeneste og vederlaget for tjenesten oppkreves av den som yter kommunikasjonstjenesten.",
-                        "§ 48 a skal lyde:",
-                        "Når særlige hensyn gjør det nødvendig, og det foreligger mistanke om overtredelse av bestemmelser gitt i eller i medhold av denne lov, kan Skattedirektoratet, eller den direktoratet gir fullmakt, pålegge tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste å gi opplysninger om navn og adresse til en abonnent som ikke har offentlig telefonnummer, telefaksnummer eller personsøkernummer.",
-                        "8. I lov 16. juni 1972 nr. 47 om kontroll med markedsføring og avtalevilkår (markedsføringsloven) skal § 2 b første ledd lyde:",
-                        "Det er forbudt i næringsvirksomhet uten mottakerens forutgående samtykke å rette markedsføringshenvendelser til forbrukere ved hjelp av elektroniske kommunikasjonsmetoder som tillater individuell kommunikasjon, som for eksempel elektronisk post, tekstmelding til mobiltelefon, telefaks eller automatisert oppringningssystem (talemaskin).",
-                        "9. I lov 21. desember 1979 nr. 77 om jordskifte o.a. skal § 74 niende ledd lyde:",
-                        "Partane betaler elles jordskiftekostnadene så nær som fast kontorhald, porto, elektronisk kommunikasjon og løn, skyss- og kostpengar til tenestemennene.",
-                        "10. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:",
-                        "§ 118 første ledd annet punktum skal lyde:",
-                        "Tilsvarende gjelder for vitne som har taushetsplikt som følge av tjeneste eller arbeid for familievernkontor, postoperatør, tilbyder av tilgang til elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste, elektronisk kommunikasjonsinstallatør, eller statens lufthavnselskap.",
-                        "§ 211 første ledd skal lyde:",
-                        "Brev, telegram eller annen sending som besittes av en postoperatør eller en tilbyder av tilgang til elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste, kan ved rettens kjennelse beslaglegges dersom sendingen etter reglene i §§ 203 og 204 vil kunne beslaglegges hos mottakeren, og mistanken gjelder en handling som etter loven kan medføre straff av fengsel i mer enn 6 måneder.",
-                        "§ 216 a tredje ledd skal lyde:",
-                        "Kommunikasjonsavlytting kan bestå i å avlytte samtaler eller annen kommunikasjon til og fra bestemte telefoner, datamaskiner eller andre anlegg for elektronisk kommunikasjon som den mistenkte besitter eller kan antas å ville bruke.",
-                        "11. Lov 1. juli 1999 nr. 50 om standarder ved overføring av fjernsynssignaler oppheves.",
-                        "12. I lov 16. juli 1999 nr. 69 om offentlige anskaffelser skal § 2 første ledd bokstav c lyde:",
-                        "c.Rettssubjekter som driver virksomhet innenfor sektorene vannforsyning, energi, transport eller elektronisk kommunikasjon i den grad de foretar anskaffelser som er knyttet til denne delen av virksomheten. Dette gjelder likevel bare i den utstrekning rettssubjektet",
-                        "1.er gitt særlige eller eksklusive rettigheter av offentlig myndighet til å drive virksomheten eller",
-                        "2.er kontrollert av det offentlige."
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n1. I lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov skal § 151 b første ledd lyde:",
+                        "Den som ved å ødelegge, skade eller sette ut av virksomhet informasjonssamling eller anlegg for energiforsyning, kringkasting, elektronisk kommunikasjon eller samferdsel volder omfattende forstyrrelse i den offentlige forvaltning eller i samfunnslivet for øvrig, straffes med fengsel inntil 10 år.\n2. I lov 24. juni 1915 nr. 5 om kontroll med post og telegrafforsendelser og med telefonsamtaler skal § 1 annet ledd lyde:",
+                        "Utenfor krigstid kan kontrollen bare settes i verk overfor personer som mistenkes for noen overtredelse av lov om forsvarshemmeligheter av 18. august 1914, den borgerlige straffelovs kapitler 8, 9, 12, 13 eller 14, lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-4, eller lov av 14. mai 1917 om salg og utførsel av fødevarer mv. § 5.\n3. I lov 13. august 1915 nr. 6 om rettergangsmåten for tvistemål skal § 204 nr. 2 annet og tredje punktum lyde:",
+                        "Tilsvarende gjelder for vitne som har taushetsplikt som følge av tjeneste eller arbeid for familievernkontor, postoperatør, tilbyder eller installatør av elektronisk kommunikasjonsnett eller -tjeneste, eller statens lufthavnselskap. Tilsvarende gjelder også for vitne som har lovbestemt taushetsplikt som følge av tjeneste eller arbeid i teknisk kontrollorgan.\nNåværende tredje punktum blir nytt fjerde punktum.\n4. I lov 9. juli 1923 nr. 1 om anbringelse av signaler og merker for målearbeider skal § 1 annet ledd lyde:",
+                        "Nærværende lov gjelder ikke målearbeide som utføres i henhold til lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-3. Derimot kommer den til anvendelse på målearbeider som utføres for arbeider i vassdragene, på jordskiftemålinger og på målearbeider etter veglova.\n5. I lov 17. juli 1925 nr. 11 om Svalbard skal § 3 lyde:",
+                        "Lovene om offentlige tjenestemenn, om betaling for offentlige forretninger, om mynt, mål og vekt, om formidling av landsdekkende postsendinger, om elektronisk kommunikasjon, om arbeidervern og om arbeidstvister skal gjelde for Svalbard med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.\n6. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal § 30 nr. 2 lyde:\n2.\tLov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-3.\n7. I lov 19. juni 1969 nr. 66 om merverdiavgift gjøres følgende endringer:\n§ 5 b tredje ledd skal lyde:",
+                        "Unntakene i første ledd gjelder ikke når tjenestene omsettes eller formidles av tilbyder av elektronisk kommunikasjon ved bruk av elektronisk kommunikasjonstjeneste og vederlaget for tjenesten oppkreves av den som yter kommunikasjonstjenesten.\n§ 48 a skal lyde:",
+                        "Når særlige hensyn gjør det nødvendig, og det foreligger mistanke om overtredelse av bestemmelser gitt i eller i medhold av denne lov, kan Skattedirektoratet, eller den direktoratet gir fullmakt, pålegge tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste å gi opplysninger om navn og adresse til en abonnent som ikke har offentlig telefonnummer, telefaksnummer eller personsøkernummer.\n8. I lov 16. juni 1972 nr. 47 om kontroll med markedsføring og avtalevilkår (markedsføringsloven) skal § 2 b første ledd lyde:",
+                        "Det er forbudt i næringsvirksomhet uten mottakerens forutgående samtykke å rette markedsføringshenvendelser til forbrukere ved hjelp av elektroniske kommunikasjonsmetoder som tillater individuell kommunikasjon, som for eksempel elektronisk post, tekstmelding til mobiltelefon, telefaks eller automatisert oppringningssystem (talemaskin).\n9. I lov 21. desember 1979 nr. 77 om jordskifte o.a. skal § 74 niende ledd lyde:",
+                        "Partane betaler elles jordskiftekostnadene så nær som fast kontorhald, porto, elektronisk kommunikasjon og løn, skyss- og kostpengar til tenestemennene.\n10. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:\n§ 118 første ledd annet punktum skal lyde:",
+                        "Tilsvarende gjelder for vitne som har taushetsplikt som følge av tjeneste eller arbeid for familievernkontor, postoperatør, tilbyder av tilgang til elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste, elektronisk kommunikasjonsinstallatør, eller statens lufthavnselskap.\n§ 211 første ledd skal lyde:",
+                        "Brev, telegram eller annen sending som besittes av en postoperatør eller en tilbyder av tilgang til elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste, kan ved rettens kjennelse beslaglegges dersom sendingen etter reglene i §§ 203 og 204 vil kunne beslaglegges hos mottakeren, og mistanken gjelder en handling som etter loven kan medføre straff av fengsel i mer enn 6 måneder.\n§ 216 a tredje ledd skal lyde:",
+                        "Kommunikasjonsavlytting kan bestå i å avlytte samtaler eller annen kommunikasjon til og fra bestemte telefoner, datamaskiner eller andre anlegg for elektronisk kommunikasjon som den mistenkte besitter eller kan antas å ville bruke.\n11. Lov 1. juli 1999 nr. 50 om standarder ved overføring av fjernsynssignaler oppheves.\n12. I lov 16. juli 1999 nr. 69 om offentlige anskaffelser skal § 2 første ledd bokstav c lyde:\nc.\tRettssubjekter som driver virksomhet innenfor sektorene vannforsyning, energi, transport eller elektronisk kommunikasjon i den grad de foretar anskaffelser som er knyttet til denne delen av virksomheten. Dette gjelder likevel bare i den utstrekning rettssubjektet\n1.\ter gitt særlige eller eksklusive rettigheter av offentlig myndighet til å drive virksomheten eller\n2.\ter kontrollert av det offentlige."
                     ]
                 }
             ]

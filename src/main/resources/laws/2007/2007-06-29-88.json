@@ -2,7 +2,7 @@
     "lawId": "LOV-2007-06-29-88",
     "lawName": "Lov om register for frivillig virksomhet",
     "shortName": "Frivillighetsregisterloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.55 (2006–2007), Innst.O.nr.93 (2006–2007) og Besl.O.nr.137 (2006–2007). Odels- og lagtingsvedtak hhv. 12. og 15. juni 2007. Fremmet av Kultur- og kirkedepartementet.",
     "chapters": [
         {
             "paragraphs": [
@@ -26,9 +26,7 @@
                     "title": "Registreringsrett. Frivillig virksomhet",
                     "sections": [
                         "Registrering i frivillighetsregisteret er en rett som tilordnes registreringsenheter, jf. § 4, som driver frivillig virksomhet. Frivillig virksomhet er aktiviteter som ikke er fortjenestebasert.",
-                        "Følgende aktiviteter regnes ikke som frivillig virksomhet:",
-                        "a)aktiviteter organisert av det offentlige,",
-                        "b)aktiviteter basert på samvirkeprinsipper og som omfattes av lov om samvirkeforetak (samvirkeloven).",
+                        "Følgende aktiviteter regnes ikke som frivillig virksomhet:\na)\taktiviteter organisert av det offentlige,\nb)\taktiviteter basert på samvirkeprinsipper og som omfattes av lov om samvirkeforetak (samvirkeloven).",
                         "Frivillig virksomhet som ikke anses allmennyttig, kan nektes registrering i særskilte tilfeller."
                     ]
                 },
@@ -36,11 +34,7 @@
                     "name": "§ 4",
                     "title": "Registreringsenheter",
                     "sections": [
-                        "Som registreringsenhet regnes:",
-                        "a)ikke-økonomisk (ideell) forening,",
-                        "b)alminnelig stiftelse som ikke foretar utdelinger, eller som utelukkende foretar utdelinger til frivillig virksomhet,",
-                        "c)næringsdrivende stiftelse som utelukkende foretar utdelinger til frivillig virksomhet,",
-                        "d)aksjeselskap som utelukkende foretar utdelinger til frivillig virksomhet.",
+                        "Som registreringsenhet regnes:\na)\tikke-økonomisk (ideell) forening,\nb)\talminnelig stiftelse som ikke foretar utdelinger, eller som utelukkende foretar utdelinger til frivillig virksomhet,\nc)\tnæringsdrivende stiftelse som utelukkende foretar utdelinger til frivillig virksomhet,\nd)\taksjeselskap som utelukkende foretar utdelinger til frivillig virksomhet.",
                         "Enhet som har adgang til å foreta utdelinger til fysisk person, eller som foretar slike utdelinger, kan ikke få stilling som registreringsenhet."
                     ]
                 },

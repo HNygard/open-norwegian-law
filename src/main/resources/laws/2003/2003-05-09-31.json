@@ -2,7 +2,7 @@
     "lawId": "LOV-2003-05-09-31",
     "lawName": "Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven)",
     "shortName": "Miljøinformasjonsloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.116 (2001–2002), Innst.O.nr.60 (2002–2003) og Besl.O.nr.65 (2002–2003). Odels- og lagtingsvedtak hhv. 13. og 27. februar 2003. Fremmet av Miljøverndepartementet.\nEndringer i følgende lover:\n1.\tLov av 19. juni 1970 nr. 69 om offentlighet i forvaltningen (offentlighetsloven).\n2.\tLov av 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrollloven).\n3.\tPlan- og bygningslov av 14. juni 1985 nr. 77.\n4.\tLov av 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven).\n5.\tLov av 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer (genteknologiloven).",
     "chapters": [
         {
             "name": "Kapittel 1 Innledende bestemmelser",
@@ -18,14 +18,7 @@
                     "name": "§ 2",
                     "title": "Hva som forstås med miljøinformasjon",
                     "sections": [
-                        "(1) Med miljøinformasjon menes faktiske opplysninger og vurderinger om",
-                        "a)miljøet,",
-                        "b)faktorer som påvirker eller kan påvirke miljøet, herunder",
-                        "-planlagte og iverksatte tiltak eller aktiviteter i miljøet,",
-                        "-produkters egenskaper eller innhold,",
-                        "-forhold ved drift av virksomhet, og",
-                        "-administrative avgjørelser og tiltak, herunder enkeltavgjørelser, avtaler, regelverk, planer, strategier og programmer, samt tilhørende analyser, beregninger og forutsetninger,",
-                        "c)menneskers helse, sikkerhet og levevilkår i den grad de påvirkes eller kan bli påvirket av tilstanden i miljøet eller faktorer som nevnt i bokstav b.",
+                        "(1) Med miljøinformasjon menes faktiske opplysninger og vurderinger om\na)\tmiljøet,\nb)\tfaktorer som påvirker eller kan påvirke miljøet, herunder\n-\tplanlagte og iverksatte tiltak eller aktiviteter i miljøet,\n-\tprodukters egenskaper eller innhold,\n-\tforhold ved drift av virksomhet, og\n-\tadministrative avgjørelser og tiltak, herunder enkeltavgjørelser, avtaler, regelverk, planer, strategier og programmer, samt tilhørende analyser, beregninger og forutsetninger,\nc)\tmenneskers helse, sikkerhet og levevilkår i den grad de påvirkes eller kan bli påvirket av tilstanden i miljøet eller faktorer som nevnt i bokstav b.",
                         "(2) Med miljøet forstås det ytre miljø inkludert kulturminner og kulturmiljø."
                     ]
                 },
@@ -50,10 +43,7 @@
                     "name": "§ 5",
                     "title": "Definisjon av offentlig organ og rekkevidden av kapittel 3 og 4",
                     "sections": [
-                        "(1) Bestemmelsene i kapittel 3 kommer til anvendelse på offentlige organer. Med offentlig organ menes",
-                        "a)ethvert forvaltningsorgan som er omfattet av offentlighetsloven § 1,",
-                        "b)rettssubjekter som utøver offentlige funksjoner eller tilbyr tjenester til allmennheten, og som er kontrollert av et organ som faller inn under bokstav a. Dette gjelder likevel ikke for aktiviteter som drives i konkurranse med private. Offentlig kontroll foreligger når organet som faller inn under bokstav a, oppnevner mer enn halvparten av medlemmene av rettssubjektets styrende organer eller på annen måte har bestemmende innflytelse over rettssubjektet,",
-                        "c)rettssubjekter som ved lov, forskrift eller på oppdrag fra organer som faller inn under bokstav a eller b, har til oppgave å utføre offentlige funksjoner eller tilby tjenester til allmennheten som vedrører miljøet. Dette gjelder bare for miljøinformasjon som knytter seg til disse funksjonene eller tjenestene.",
+                        "(1) Bestemmelsene i kapittel 3 kommer til anvendelse på offentlige organer. Med offentlig organ menes\na)\tethvert forvaltningsorgan som er omfattet av offentlighetsloven § 1,\nb)\trettssubjekter som utøver offentlige funksjoner eller tilbyr tjenester til allmennheten, og som er kontrollert av et organ som faller inn under bokstav a. Dette gjelder likevel ikke for aktiviteter som drives i konkurranse med private. Offentlig kontroll foreligger når organet som faller inn under bokstav a, oppnevner mer enn halvparten av medlemmene av rettssubjektets styrende organer eller på annen måte har bestemmende innflytelse over rettssubjektet,\nc)\trettssubjekter som ved lov, forskrift eller på oppdrag fra organer som faller inn under bokstav a eller b, har til oppgave å utføre offentlige funksjoner eller tilby tjenester til allmennheten som vedrører miljøet. Dette gjelder bare for miljøinformasjon som knytter seg til disse funksjonene eller tjenestene.",
                         "(2) Bestemmelsene i kapittel 4 kommer til anvendelse på all annen offentlig eller privat virksomhet, herunder næringsvirksomhet og annen organisert virksomhet."
                     ]
                 },
@@ -100,9 +90,7 @@
                     "title": "Rett til miljøinformasjon hos offentlig organ",
                     "sections": [
                         "(1) Enhver har rett til å få miljøinformasjon fra et offentlig organ, så framt informasjonen foreligger hos vedkommende organ eller omfattes av organets kunnskapsplikt etter §§ 8 eller 9, og det ikke er gjort unntak fra informasjonsretten etter loven her.",
-                        "(2) Miljøinformasjonen foreligger hos vedkommende organ når informasjonen",
-                        "a)er i det offentlige organets besittelse, eller",
-                        "b)oppbevares av en fysisk eller juridisk person på vegne av det offentlige organet.",
+                        "(2) Miljøinformasjonen foreligger hos vedkommende organ når informasjonen\na)\ter i det offentlige organets besittelse, eller\nb)\toppbevares av en fysisk eller juridisk person på vegne av det offentlige organet.",
                         "(3) Et krav om miljøinformasjon kan avvises dersom det er for generelt formulert eller ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelder. Før et krav avvises, skal informasjonssøkeren i rimelig grad gis veiledning til å utforme kravet på en måte som gjør at det kan behandles.",
                         "(4) Dersom krav om innsyn rettes mot feil organ, skal organet hurtigst mulig videresende kravet til rette instans eller veilede om hvilke offentlige organer som antas å ha informasjonen."
                     ]
@@ -120,19 +108,14 @@
                     "name": "§ 12",
                     "title": "Miljøinformasjon som alltid skal utleveres",
                     "sections": [
-                        "Allmennheten skal uten hinder av reglene i § 11 alltid få informasjon om",
-                        "a)helseskadelig forurensning eller forurensning som kan forårsake alvorlig skade på miljøet,",
-                        "b)forholdsregler for å hindre eller redusere skade som nevnt i bokstav a, og",
-                        "c)ulovlige inngrep i eller ulovlige skader på miljøet."
+                        "Allmennheten skal uten hinder av reglene i § 11 alltid få informasjon om\na)\thelseskadelig forurensning eller forurensning som kan forårsake alvorlig skade på miljøet,\nb)\tforholdsregler for å hindre eller redusere skade som nevnt i bokstav a, og\nc)\tulovlige inngrep i eller ulovlige skader på miljøet."
                     ]
                 },
                 {
                     "name": "§ 13",
                     "title": "Saksbehandling",
                     "sections": [
-                        "(1) Informasjonen skal gis i den form informasjonssøkeren har bedt om, med mindre",
-                        "a)informasjonen allerede foreligger i en annen form som er lett tilgjengelig, eller",
-                        "b)det er rimelig at det offentlige organet leverer informasjonen i en annen form. I så fall skal det offentlige organet kort begrunne hvorfor informasjonen utleveres i denne formen. Begrunnelsen gis samtidig med informasjonen.",
+                        "(1) Informasjonen skal gis i den form informasjonssøkeren har bedt om, med mindre\na)\tinformasjonen allerede foreligger i en annen form som er lett tilgjengelig, eller\nb)\tdet er rimelig at det offentlige organet leverer informasjonen i en annen form. I så fall skal det offentlige organet kort begrunne hvorfor informasjonen utleveres i denne formen. Begrunnelsen gis samtidig med informasjonen.",
                         "(2) Informasjonen skal være dekkende og forståelig i forhold til det informasjonsbehovet kravet gir uttrykk for. Dersom forespørselen kan besvares fyllestgjørende ved å henvise til allment tilgjengelige offentlige registre, rapporter, produktmerking eller lignende, kan informasjonssøker henvises dit.",
                         "(3) Den som mottar et krav om miljøinformasjon, skal avgjøre dette og utlevere informasjonen snarest mulig og senest innen femten virkedager etter at kravet er mottatt. Dersom mengden av informasjon eller informasjonens karakter gjør det uforholdsmessig byrdefullt å utlevere den innen femten virkedager, skal den senest være kommet fram til informasjonssøker innen to måneder. Det skal snarest mulig og senest innen femten virkedager etter at kravet er mottatt, informeres om årsaken til forlengelsen og om når en avgjørelse kan ventes å foreligge. Foreløpig svar kan unnlates dersom det må anses åpenbart unødvendig.",
                         "(4) Dersom et krav om miljøinformasjon avslås, skal forvaltningsorganet vise til den bestemmelsen som er grunnlag for avslaget, gi en kort begrunnelse for avslaget, opplyse om adgang og frist for å kreve nærmere begrunnelse, og opplyse om klageadgang og klagefrist. Avslag skal gis skriftlig.",
@@ -153,10 +136,7 @@
                     "title": "Klage",
                     "sections": [
                         "(1) Avslag på krav om miljøinformasjon kan påklages til nærmeste overordnede forvaltningsorgan. Det samme gjelder avvisning av krav etter § 10 tredje ledd. Klagefristen er tre uker fra det tidspunkt underretning om avgjørelsen er kommet fram til vedkommende. Dersom svar ikke er kommet fram innen to måneder etter at kravet om informasjon ble mottatt hos det offentlige organet, anses dette som avslag som kan påklages. Har informasjonssøker bedt om å få oppgitt nærmere begrunnelse for avslaget etter § 13 siste ledd, avbrytes klagefristen.",
-                        "(2) For klage over avslag fra offentlig organ som omfattes av § 5 første ledd bokstav b eller c, er klageinstansen det forvaltningsorganet som",
-                        "a)kontrollerer organet,",
-                        "b)har gitt oppdrag til organet eller kontrollerer organet som har gitt oppdrag til organet, eller",
-                        "c)har vedtatt forskriften eller har ansvar for loven som virksomheten tilbyr tjenesten i medhold av.",
+                        "(2) For klage over avslag fra offentlig organ som omfattes av § 5 første ledd bokstav b eller c, er klageinstansen det forvaltningsorganet som\na)\tkontrollerer organet,\nb)\thar gitt oppdrag til organet eller kontrollerer organet som har gitt oppdrag til organet, eller\nc)\thar vedtatt forskriften eller har ansvar for loven som virksomheten tilbyr tjenesten i medhold av.",
                         "(3) Reglene i offentlighetsloven om klage gjelder så langt de passer for klage over avslag på krav om miljøinformasjon fra offentlig organ."
                     ]
                 }
@@ -178,10 +158,7 @@
                     "name": "§ 17",
                     "title": "Unntak",
                     "sections": [
-                        "(1) Krav om miljøinformasjon kan avslås dersom",
-                        "a)unntak er påkrevd fordi offentlighet ville lette gjennomføringen av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse,",
-                        "b)kravet er åpenbart urimelig, eller",
-                        "c)informasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.",
+                        "(1) Krav om miljøinformasjon kan avslås dersom\na)\tunntak er påkrevd fordi offentlighet ville lette gjennomføringen av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse,\nb)\tkravet er åpenbart urimelig, eller\nc)\tinformasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.",
                         "(2) Miljøinformasjon som er nevnt i § 12, skal alltid utleveres. Reglene i § 14 annet og tredje ledd gjelder tilsvarende så langt de passer.",
                         "(3) Bestemmelsen i § 11 tredje ledd gjelder tilsvarende."
                     ]
@@ -220,11 +197,7 @@
                     "title": "Retten til å delta i beslutningsprosesser knyttet til utformingen av regelverk, planer og programmer",
                     "sections": [
                         "(1) Offentlige myndigheter skal i forbindelse med arbeidet med utformingen av regelverk, planer og programmer som kan ha betydning for miljøet, gi allmennheten mulighet til å komme med innspill. Dette skal gjøres på stadier og med tidsrammer som sikrer reell mulighet til å påvirke beslutningene. Allmennheten skal i denne forbindelse gis nødvendig informasjon.",
-                        "(2) For regelverk, planer eller programmer som kan ha vesentlige konsekvenser for miljøet, skal det gjennomføres en offentlig høring. Slik høring skal gjennomføres i god tid før saken blir avgjort. Ved høringen skal det foreligge en redegjørelse for forslagets virkninger for miljøet. Offentlig høring kan unnlates i den grad:",
-                        "a)andre former for medvirkningstiltak vurderes som mer egnet til å ivareta allmennhetens rett til deltakelse i beslutningsprosessen,",
-                        "b)høring ikke vil være praktisk gjennomførlig,",
-                        "c)høring kan vanskeliggjøre gjennomføring av vedkommende sak eller svekke dens effektivitet, eller",
-                        "d)høring må anses åpenbart unødvendig.",
+                        "(2) For regelverk, planer eller programmer som kan ha vesentlige konsekvenser for miljøet, skal det gjennomføres en offentlig høring. Slik høring skal gjennomføres i god tid før saken blir avgjort. Ved høringen skal det foreligge en redegjørelse for forslagets virkninger for miljøet. Offentlig høring kan unnlates i den grad:\na)\tandre former for medvirkningstiltak vurderes som mer egnet til å ivareta allmennhetens rett til deltakelse i beslutningsprosessen,\nb)\thøring ikke vil være praktisk gjennomførlig,\nc)\thøring kan vanskeliggjøre gjennomføring av vedkommende sak eller svekke dens effektivitet, eller\nd)\thøring må anses åpenbart unødvendig.",
                         "(3) Utkast til meldinger og proposisjoner til Stortinget kan unntas fra offentlig høring.",
                         "(4) Avgjørelsen i saken skal offentliggjøres. Av begrunnelsen for avgjørelsen skal det framgå hvordan kravene i denne bestemmelsen er ivaretatt, og hvordan høringsuttalelser og andre innspill er blitt vurdert.",
                         "(5) Reglene i denne bestemmelsen innskrenker ikke retten til å delta i beslutningsprosesser gitt i medhold av annen lovgivning."
@@ -246,14 +219,9 @@
                     "name": "§ 22",
                     "title": "Endringer i andre lover",
                     "sections": [
-                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:",
-                        "1. I lov 19. juni 1970 nr. 69 om offentlighet i forvaltningen (offentlighetsloven) gjøres følgende endringer:",
-                        "§ 1 nytt femte ledd skal lyde:",
-                        "For retten til å kreve miljøinformasjon gjelder i tillegg miljøinformasjonsloven og produktkontrollloven.",
-                        "§ 6 a første ledd skal lyde:",
-                        "Opplysninger hvor unntak er påkrevd fordi offentlighet ville lette gjennomføringen av straffbare handlinger, kan unntas fra offentlighet. Det samme gjelder opplysninger hvor unntak er påkrevd fordi offentlighet ville lette gjennomføringen av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse.",
-                        "2. I lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrollloven) gjøres følgende endringer:",
-                        "Ny § 9 skal lyde:"
+                        "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n1. I lov 19. juni 1970 nr. 69 om offentlighet i forvaltningen (offentlighetsloven) gjøres følgende endringer:\n§ 1 nytt femte ledd skal lyde:",
+                        "For retten til å kreve miljøinformasjon gjelder i tillegg miljøinformasjonsloven og produktkontrollloven.\n§ 6 a første ledd skal lyde:",
+                        "Opplysninger hvor unntak er påkrevd fordi offentlighet ville lette gjennomføringen av straffbare handlinger, kan unntas fra offentlighet. Det samme gjelder opplysninger hvor unntak er påkrevd fordi offentlighet ville lette gjennomføringen av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse.\n2. I lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrollloven) gjøres følgende endringer:\nNy § 9 skal lyde:"
                     ]
                 },
                 {
@@ -264,50 +232,34 @@
                         "Et krav om informasjon kan avvises dersom det er for generelt formulert eller ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelder. Før et krav avvises, skal informasjonssøkeren i rimelig grad gis veiledning til å utforme kravet på en måte som gjør at det kan behandles.",
                         "Krav om informasjon kan avslås dersom det er et reelt og saklig behov for det i det enkelte tilfelle og informasjonen eller dokumentet informasjonen finnes i, kan unntas fra offentlighet i medhold av offentlighetsloven §§ 5, 6 eller 6a. Ved vurderingen av om det foreligger reelt og saklig behov, skal de miljø- og samfunnsmessige interessene som ivaretas ved å utlevere informasjonen, veies mot de interessene som ivaretas ved et avslag. Dersom de miljø- og samfunnsmessige interessene veier tyngst, skal informasjonen utleveres.",
                         "Krav om informasjon som er underlagt lovbestemt taushetsplikt, avslås med mindre noe annet følger av § 11 annet ledd.",
-                        "Avslag på krav om informasjon kan påklages. For øvrig gjelder reglene i miljøinformasjonsloven §§ 6, 10 annet og fjerde ledd, 11 tredje ledd, 13 og 15 om betaling, saksbehandling og klage mv., samt forskrifter gitt i medhold av § 7, tilsvarende så langt de passer.",
-                        "Ny § 10 skal lyde:"
+                        "Avslag på krav om informasjon kan påklages. For øvrig gjelder reglene i miljøinformasjonsloven §§ 6, 10 annet og fjerde ledd, 11 tredje ledd, 13 og 15 om betaling, saksbehandling og klage mv., samt forskrifter gitt i medhold av § 7, tilsvarende så langt de passer.\nNy § 10 skal lyde:"
                     ]
                 },
                 {
                     "name": "§ 10",
                     "title": "Rett til informasjon om produkter fra tilvirker, importør, bearbeider, omsetter eller bruker av produkt",
                     "sections": [
-                        "Enhver har rett til å få informasjon om",
-                        "a)produktet inneholder komponenter eller har egenskaper som kan medføre virkning som nevnt i § 1,",
-                        "b)hvilke komponenter eller egenskaper dette er,",
-                        "c)hvordan produktet må håndteres for å unngå virkning som nevnt i § 1,",
-                        "d)vesentlige helseskader eller miljøforstyrrelser som produksjonen og distribusjonen av produktet forårsaker, og",
-                        "e)hvem som er tilvirker eller importør av produktet.",
+                        "Enhver har rett til å få informasjon om\na)\tproduktet inneholder komponenter eller har egenskaper som kan medføre virkning som nevnt i § 1,\nb)\thvilke komponenter eller egenskaper dette er,\nc)\thvordan produktet må håndteres for å unngå virkning som nevnt i § 1,\nd)\tvesentlige helseskader eller miljøforstyrrelser som produksjonen og distribusjonen av produktet forårsaker, og\ne)\thvem som er tilvirker eller importør av produktet.",
                         "Informasjon etter første ledd kan kreves fra tilvirker, importør, bearbeider, omsetter eller bruker av produktet.",
-                        "Rett til informasjon i henhold til første ledd bokstav d gjelder også informasjon om virkninger på miljøet som følge av produksjon eller distribusjon av produkt utenfor Norges grenser, i den grad slik informasjon er tilgjengelig. Virksomheten skal rette forespørsel til foregående salgsledd dersom dette er nødvendig for å besvare kravet.",
+                        "Rett til informasjon i henhold til første ledd bokstav d  gjelder også informasjon om virkninger på miljøet som følge av produksjon eller distribusjon av produkt utenfor Norges grenser, i den grad slik informasjon er tilgjengelig. Virksomheten skal rette forespørsel til foregående salgsledd dersom dette er nødvendig for å besvare kravet.",
                         "Krav om informasjon kan avvises dersom det er for generelt formulert eller ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelder.",
-                        "Krav om informasjon kan avslås dersom",
-                        "a)kravet er åpenbart urimelig, eller",
-                        "b)informasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.",
+                        "Krav om informasjon kan avslås dersom\na)\tkravet er åpenbart urimelig, eller\nb)\tinformasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.",
                         "Avslag på krav om informasjon kan påklages. For øvrig gjelder reglene i miljøinformasjonsloven §§ 6, 17 tredje ledd, 18 og 19 om betaling, saksbehandling og klage, samt forskrifter gitt i medhold av § 7, tilsvarende så langt de passer.",
-                        "Tilvirker, importør, bearbeider og omsetter av produkter skal gi informasjon som omfattes av denne paragrafen, til etterfølgende salgsledd.",
-                        "§ 11 annet ledd skal lyde:",
-                        "Taushetsplikten er ikke til hinder for at det gis opplysninger om produkts virkning som nevnt i § 1 og om nødvendig en forklaring av årsaken til denne, samt opplysninger om forholdsregler for å hindre eller redusere virkninger som nevnt i § 1.",
-                        "§ 11 nytt femte, sjette og syvende ledd skal lyde:",
+                        "Tilvirker, importør, bearbeider og omsetter av produkter skal gi informasjon som omfattes av denne paragrafen, til etterfølgende salgsledd.\n§ 11 annet ledd skal lyde:",
+                        "Taushetsplikten er ikke til hinder for at det gis opplysninger om produkts virkning som nevnt i § 1 og om nødvendig en forklaring av årsaken til denne, samt opplysninger om forholdsregler for å hindre eller redusere virkninger som nevnt i § 1.\n§ 11 nytt femte, sjette og syvende ledd skal lyde:",
                         "Offentlig organ som definert i miljøinformasjonsloven § 5 første ledd, kan kreve at den som gir informasjon til organet, eller som et krav om informasjon berører, skal identifisere hvilken del av informasjonen som det vil være av konkurransemessig betydning å hemmeligholde, og gi en begrunnelse for dette.",
                         "Før opplysninger underlagt lovbestemt taushetsplikt utleveres i medhold av § 11 annet ledd, skal den opplysningene gjelder, gis anledning til å uttale seg innen en passende svarfrist.",
-                        "Dersom organet vil utlevere informasjon som er underlagt lovbestemt taushetsplikt, skal den som informasjonen gjelder, varsles om det. Avgjørelsen om utlevering kan påklages etter reglene i miljøinformasjonsloven § 15. Klagen har oppsettende virkning.",
-                        "§ 12 første ledd skal lyde:",
-                        "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, eller som bryter vilkår fastsatt med hjemmel i § 7, straffes med bøter, fengsel i inntil 3 måneder eller begge deler så fremt ikke strengere straffebestemmelse kommer til anvendelse. Dette gjelder ikke overtredelse av §§ 9, 10 og 11 femte ledd. Overtredelse av § 3 straffes bare dersom den skjer forsettlig eller ved grov uaktsomhet. Medvirkning straffes på samme måte.",
-                        "3. I lov 14. juni 1985 nr. 77 plan- og bygningsloven skal ny § 33-13 lyde:"
+                        "Dersom organet vil utlevere informasjon som er underlagt lovbestemt taushetsplikt, skal den som informasjonen gjelder, varsles om det. Avgjørelsen om utlevering kan påklages etter reglene i miljøinformasjonsloven § 15. Klagen har oppsettende virkning.\n§ 12 første ledd skal lyde:",
+                        "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, eller som bryter vilkår fastsatt med hjemmel i § 7, straffes med bøter, fengsel i inntil 3 måneder eller begge deler så fremt ikke strengere straffebestemmelse kommer til anvendelse. Dette gjelder ikke overtredelse av §§ 9, 10 og 11 femte ledd. Overtredelse av § 3 straffes bare dersom den skjer forsettlig eller ved grov uaktsomhet. Medvirkning straffes på samme måte.\n3. I lov 14. juni 1985 nr. 77 plan- og bygningsloven skal ny § 33-13 lyde:"
                     ]
                 },
                 {
                     "name": "§ 33-13",
                     "title": "Omgjøring og fornyet behandling av konsesjoner og tillatelser",
                     "sections": [
-                        "Ved saker om omgjøring eller fornyet behandling av en konsesjon eller en tillatelse for tiltak som kan ha vesentlige virkninger for miljø, naturressurser eller samfunn, skal det gjennomføres en offentlig høring. Slik høring skal holdes i god tid før saken blir avgjort. Høringsprosessen må gjennomføres på en måte som sikrer at allmennheten, herunder i særlig grad berørte interessegrupper, får tilgang til relevant informasjon om tiltaket og dets virkninger på miljø, naturressurser og samfunn og gis en reell mulighet til å komme med synspunkter og kommentarer i saken.",
-                        "4. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven) gjøres følgende endringer:",
-                        "§ 3-5 første ledd nytt tredje punktum skal lyde:",
-                        "Ved midlertidige forføyninger til sikring av hovedkrav som bygger på at bestemmelser som ivaretar miljøhensyn, er overtrådt, og som er besluttet på grunnlag av at kravet er sannsynliggjort, jf. § 15-6 første ledd, og etter muntlig forhandling, jf. § 15-7 første ledd, plikter saksøkeren bare å erstatte skade som nevnt i første punktum dersom denne visste eller burde vite at kravet ikke besto da sikringen ble besluttet.",
-                        "§ 15-6 nytt tredje ledd skal lyde:",
-                        "Ved midlertidige forføyninger til sikring av hovedkrav som bygger på at bestemmelser som ivaretar miljøhensyn, er overtrådt, kan saksøkeren ikke pålegges å stille sikkerhet som nevnt i første ledd dersom den midlertidige forføyningen er besluttet etter muntlig forhandling og kravet er sannsynliggjort.",
-                        "5. I lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer (genteknologiloven) skal § 13 lyde:"
+                        "Ved saker om omgjøring eller fornyet behandling av en konsesjon eller en tillatelse for tiltak som kan ha vesentlige virkninger for miljø, naturressurser eller samfunn, skal det gjennomføres en offentlig høring. Slik høring skal holdes i god tid før saken blir avgjort. Høringsprosessen må gjennomføres på en måte som sikrer at allmennheten, herunder i særlig grad berørte interessegrupper, får tilgang til relevant informasjon om tiltaket og dets virkninger på miljø, naturressurser og samfunn og gis en reell mulighet til å komme med synspunkter og kommentarer i saken.\n4. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven) gjøres følgende endringer:\n§ 3-5 første ledd nytt tredje punktum skal lyde:",
+                        "Ved midlertidige forføyninger til sikring av hovedkrav som bygger på at bestemmelser som ivaretar miljøhensyn, er overtrådt, og som er besluttet på grunnlag av at kravet er sannsynliggjort, jf. § 15-6 første ledd, og etter muntlig forhandling, jf. § 15-7 første ledd, plikter saksøkeren bare å erstatte skade som nevnt i første punktum dersom denne visste eller burde vite at kravet ikke besto da sikringen ble besluttet.\n§ 15-6 nytt tredje ledd skal lyde:",
+                        "Ved midlertidige forføyninger til sikring av hovedkrav som bygger på at bestemmelser som ivaretar miljøhensyn, er overtrådt, kan saksøkeren ikke pålegges å stille sikkerhet som nevnt i første ledd dersom den midlertidige forføyningen er besluttet etter muntlig forhandling og kravet er sannsynliggjort.\n5. I lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer (genteknologiloven) skal § 13 lyde:"
                     ]
                 },
                 {

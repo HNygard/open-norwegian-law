@@ -2,7 +2,7 @@
     "lawId": "LOV-2003-12-19-124",
     "lawName": "Lov om matproduksjon og mattrygghet mv. (matloven)",
     "shortName": "Matloven",
-    "authorityDescription": null,
+    "authorityDescription": "Ot.prp.nr.100 (2002–2003), Innst.O.nr.36 (2003–2004) og Besl.O.nr.40 (2003–2004). Odels- og lagtingsvedtak hhv. 11. og 15. desember 2003. Fremmet av Helsedepartementet.\nFølgende lover oppheves:\n1\tLov av 28. mai 1959 nr. 12 om kvalitetskontroll med fisk og fiskevarer o.a.\n2\tLov av 6. april 1962 nr. 3 om floghavre.\n3\tLov av 8. juni 1962 nr. 4 om dyrehelse (husdyrloven).\n4\tLov av 5. april 1963 nr. 9 om plantevernmiddel m.v.\n5\tLov av 6. mai 1970 nr. 25 om forbud mot plukking av moltekart.\n6\tLov av 4. desember 1970 nr. 82 om såvarer.\n7\tLov av 4. desember 1970 nr. 83 om handel med gjødsel og jordforbedringsmidler m.v.\n8\tLov av 23. mars 1973 nr. 18 om tilsyn med fôrvarer.\n9\tLov av 17. mars 1978 nr. 6 om samordnet næringsmiddelkontroll.\n10\tLov av 10. januar 1997 nr. 9 om kjøttproduksjon.\n11\tLov av 13. juni 1997 nr. 54 om tiltak mot sykdom hos fisk og andre akvatiske dyr (fiskesykdomsloven).\n12\tLov av 23. juni 2000 nr. 53 om plantehelse.\nEndringer i følgende lover:\n1\tLov av 17. juni 1932 nr. 6 om kvalitetskontroll med landbruksvarer m.v.\n2\tLov av 19. mai 1933 nr. 3 om tilsyn med næringsmidler m.v.\n3\tLov av 19. november 1982 nr. 66 om helsetjenesten i kommunene.\n4\tLov av 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v.\n5\tLov av 13. juni 1997 nr. 42 om Kystvakten (kystvaktloven).\n6\tLov av 21. desember 2000 nr. 118 om havbeite.",
     "chapters": [
         {
             "name": "Kapittel I. Formål, virkeområde og definisjoner",
@@ -36,9 +36,7 @@
                     "name": "§ 4",
                     "title": "Definisjoner",
                     "sections": [
-                        "I denne loven forstås med",
-                        "1.virksomhet: Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i § 2, bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.",
-                        "2.omsetning: Besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag."
+                        "I denne loven forstås med\n1.\tvirksomhet: Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i § 2, bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.\n2.\tomsetning: Besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag."
                     ]
                 }
             ]
@@ -110,11 +108,7 @@
                     "name": "§ 12",
                     "title": "Forbud mot fangst, høsting, omsetning mv.",
                     "sections": [
-                        "Kongen kan i forskrift fastsette",
-                        "a)forbud mot fangst og høsting,",
-                        "b)forbud eller begrensning av omsetning og bruk av varer som er omfattet av denne loven, og",
-                        "c)krav til eller forbud mot import og eksport mv.",
-                        "for å gjennomføre lovens formål eller for å ivareta Norges internasjonale forpliktelser."
+                        "Kongen kan i forskrift fastsette\na)\tforbud mot fangst og høsting,\nb)\tforbud eller begrensning av omsetning og bruk av varer som er omfattet av denne loven, og\nc)\tkrav til eller forbud mot import og eksport mv.\nfor å gjennomføre lovens formål eller for å ivareta Norges internasjonale forpliktelser."
                     ]
                 },
                 {
@@ -172,11 +166,7 @@
                     "sections": [
                         "Enhver skal utvise nødvendig aktsomhet, slik at det ikke oppstår fare for utvikling eller spredning av planteskadegjørere.",
                         "Planter skal ikke omsettes eller flyttes når det er grunn til mistanke om planteskadegjørere som kan gi vesentlige samfunnsmessige konsekvenser.",
-                        "Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe planteskadegjørere, herunder om",
-                        "a)klassifisering og gruppering av planteskadegjørere,",
-                        "b)oppretting av soner,",
-                        "c)krav til planter, gjenstander, produkter og organismer som kan medføre risiko for spredning av planteskadegjørere, og",
-                        "d)plikt til å informere om restriksjoner pga. planteskadegjørere, herunder plikt til å tinglyse restriksjoner på eiendommen."
+                        "Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe planteskadegjørere, herunder om\na)\tklassifisering og gruppering av planteskadegjørere,\nb)\toppretting av soner,\nc)\tkrav til planter, gjenstander, produkter og organismer som kan medføre risiko for spredning av planteskadegjørere, og\nd)\tplikt til å informere om restriksjoner pga. planteskadegjørere, herunder plikt til å tinglyse restriksjoner på eiendommen."
                     ]
                 },
                 {
@@ -185,13 +175,7 @@
                     "sections": [
                         "Enhver skal utvise nødvendig aktsomhet, slik at det ikke oppstår fare for utvikling eller spredning av smittsom dyresykdom.",
                         "Levende dyr skal ikke omsettes, tas inn i dyrehold, flyttes eller settes ut når det er grunn til mistanke om smittsom dyresykdom som kan gi vesentlige samfunnsmessige konsekvenser.",
-                        "Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe dyresykdommer og smittestoffer, herunder om:",
-                        "a)klassifisering og gruppering av sykdommer og smittestoffer,",
-                        "b)oppretting av soner med ulik helse- og sykdomsstatus samt epidemiologisk atskilte regioner,",
-                        "c)godkjenning og bruk av vaksiner og annen medikamentell behandling til dyr,",
-                        "d)flytting, transport, omsetning og bruk av levende og døde dyr, animalske biprodukter, gjenstander mv.,",
-                        "e)kontroll av avlsdyr, uttak av kjønnsprodukter og reproduksjon av dyr, og",
-                        "f)adgangsbegrensninger for personer som kan føre med seg smitte til bygninger som brukes til dyr, fôr eller utstyr til dyr, og om plikt til å la sin person og medbrakte gjenstander desinfiseres."
+                        "Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe dyresykdommer og smittestoffer, herunder om:\na)\tklassifisering og gruppering av sykdommer og smittestoffer,\nb)\toppretting av soner med ulik helse- og sykdomsstatus samt epidemiologisk atskilte regioner,\nc)\tgodkjenning og bruk av vaksiner og annen medikamentell behandling til dyr,\nd)\tflytting, transport, omsetning og bruk av levende og døde dyr, animalske biprodukter, gjenstander mv.,\ne)\tkontroll av avlsdyr, uttak av kjønnsprodukter og reproduksjon av dyr, og\nf)\tadgangsbegrensninger for personer som kan føre med seg smitte til bygninger som brukes til dyr, fôr eller utstyr til dyr, og om plikt til å la sin person og medbrakte gjenstander desinfiseres."
                     ]
                 },
                 {
@@ -344,63 +328,28 @@
                     "name": "§ 34",
                     "title": "Oppheving av andre lover",
                     "sections": [
-                        "Følgende lover oppheves:",
-                        "1.Lov 28. mai 1959 nr. 12 om kvalitetskontroll med fisk og fiskevarer o.a. (fiskekvalitetsloven)",
-                        "2.Lov 6. april 1962 nr. 3 om floghavre (floghavreloven)",
-                        "3.Lov 8. juni 1962 nr. 4 om dyrehelse (husdyrloven)",
-                        "4.Lov 5. april 1963 nr. 9 om plantevernmiddel mv. (plantevernmiddelloven)",
-                        "5.Lov 6. mai 1970 nr. 25 om forbud mot plukking av moltekart (moltekartloven)",
-                        "6.Lov 4. desember 1970 nr. 82 om såvarer (såvareloven)",
-                        "7.Lov 4. desember 1970 nr. 83 om handel med gjødsel og jordforbedringsmidler mv. (gjødselvareloven)",
-                        "8.Lov 23. mars 1973 nr. 18 om tilsyn med fôrvarer (fôrvareloven)",
-                        "9.Lov 17. mars 1978 nr. 6 om samordnet næringsmiddelkontroll (samordningsloven)",
-                        "10.Lov 10. januar 1997 nr. 9 om kjøttproduksjon (kjøttproduksjonsloven)",
-                        "11.Lov 13. juni 1997 nr. 54 om tiltak mot sykdom hos fisk og andre akvatiske dyr (fiskesykdomsloven)",
-                        "12.Lov 23. juni 2000 nr. 53 om plantehelse (plantehelseloven)"
+                        "Følgende lover oppheves:\n1.\tLov 28. mai 1959 nr. 12 om kvalitetskontroll med fisk og fiskevarer o.a. (fiskekvalitetsloven)\n2.\tLov 6. april 1962 nr. 3 om floghavre (floghavreloven)\n3.\tLov 8. juni 1962 nr. 4 om dyrehelse (husdyrloven)\n4.\tLov 5. april 1963 nr. 9 om plantevernmiddel mv. (plantevernmiddelloven)\n5.\tLov 6. mai 1970 nr. 25 om forbud mot plukking av moltekart (moltekartloven)\n6.\tLov 4. desember 1970 nr. 82 om såvarer (såvareloven)\n7.\tLov 4. desember 1970 nr. 83 om handel med gjødsel og jordforbedringsmidler mv. (gjødselvareloven)\n8.\tLov 23. mars 1973 nr. 18 om tilsyn med fôrvarer (fôrvareloven)\n9.\tLov 17. mars 1978 nr. 6 om samordnet næringsmiddelkontroll (samordningsloven)\n10.\tLov 10. januar 1997 nr. 9 om kjøttproduksjon (kjøttproduksjonsloven)\n11.\tLov 13. juni 1997 nr. 54 om tiltak mot sykdom hos fisk og andre akvatiske dyr (fiskesykdomsloven)\n12.\tLov 23. juni 2000 nr. 53 om plantehelse (plantehelseloven)"
                     ]
                 },
                 {
                     "name": "§ 35",
                     "title": "Andre lovendringer",
                     "sections": [
-                        "1. I lov 17. juni 1932 nr. 6 om kvalitetskontroll med landbruksvarer mv. gjøres følgende endringer:",
-                        "§ 1 skal lyde:",
-                        "Denne lov omfatter varer som er fremstilt ved husdyr- eller planteproduksjon, erstatningsmidler for disse, samt produkter som er videreforedlet av slike varer. Loven omfatter også produkter fra viltvoksende vekster. Loven omfatter ikke forhold som reguleres av lov om matproduksjon og mattrygghet mv. (matloven). Kongen kan gi forskrifter om hvilke varer og produkter loven skal gjelde for.",
-                        "§ 3 første ledd skal lyde:",
-                        "Kongen kan pålegge kommunen eller offentlige tilsynsorganer å utføre kontroll etter denne loven.",
-                        "2. I lov 19. mai 1933 nr. 3 om tilsyn med næringsmidler gjøres følgende endringer:",
-                        "Lovens tittel skal lyde:",
-                        "Lov om tilsyn med kosmetikk og kroppspleieprodukter mv.",
-                        "§ 1 skal lyde:",
+                        "1. I lov 17. juni 1932 nr. 6 om kvalitetskontroll med landbruksvarer mv. gjøres følgende endringer:\n§ 1 skal lyde:",
+                        "Denne lov omfatter varer som er fremstilt ved husdyr- eller planteproduksjon, erstatningsmidler for disse, samt produkter som er videreforedlet av slike varer. Loven omfatter også produkter fra viltvoksende vekster. Loven omfatter ikke forhold som reguleres av lov om matproduksjon og mattrygghet mv. (matloven). Kongen kan gi forskrifter om hvilke varer og produkter loven skal gjelde for.\n§ 3 første ledd skal lyde:",
+                        "Kongen kan pålegge kommunen eller offentlige tilsynsorganer å utføre kontroll etter denne loven.\n2. I lov 19. mai 1933 nr. 3 om tilsyn med næringsmidler gjøres følgende endringer:\nLovens tittel skal lyde:\nLov om tilsyn med kosmetikk og kroppspleieprodukter mv.\n§ 1 skal lyde:",
                         "Med kosmetikk og kroppspleieprodukter menes ethvert produkt som er bestemt til bruk på kroppens overflate, eller på tennene og munnhulens slimhinner for å rense, parfymere, endre deres utseende og/eller påvirke kroppslukter og/eller beskytte dem eller holde dem i god stand, unntatt legemidler.",
                         "Produksjon, lagring, transport, frambud og import av kosmetikk og kroppspleieprodukter skal være underkastet forskrifter og tilsyn etter Kongens nærmere bestemmelse.",
-                        "Forskriftene kan ta sikte på:",
-                        "-å forebygge tilvirkning og frambud av helseskadelig kosmetikk og kroppspleieprodukter",
-                        "-å sikre renslighet og forhold som er tilfredsstillende i hygienisk henseende",
-                        "-å sikre hvorledes varene skal være tilvirket, hva de må inneholde, og hvilke krav de skal tilfredsstille, for at de skal kunne utbys til salg,",
-                        "-å forebygge uriktige forestillinger om varenes opprinnelse, beskaffenhet, art, mengde, sammensetning eller andre forhold som har betydning for forbrukerne, herunder forby helsemessig uønsket markedsføring.",
+                        "Forskriftene kan ta sikte på:\n-\tå forebygge tilvirkning og frambud av helseskadelig kosmetikk og kroppspleieprodukter\n-\tå sikre renslighet og forhold som er tilfredsstillende i hygienisk henseende\n-\tå sikre hvorledes varene skal være tilvirket, hva de må inneholde, og hvilke krav de skal tilfredsstille, for at de skal kunne utbys til salg,\n-\tå forebygge uriktige forestillinger om varenes opprinnelse, beskaffenhet, art, mengde, sammensetning eller andre forhold som har betydning for forbrukerne, herunder forby helsemessig uønsket markedsføring.",
                         "I den utstrekning det anses påkrevet, kan Kongen i forskrift kreve godkjenning av bestemte typer kosmetikk og kroppspleieprodukter.",
                         "Kongen kan i forskrift regulere nærmere, og herunder forby, produksjon, import og frambud av kosmetikk og kroppspleieprodukter som inneholder gener fra genmodifiserte organismer der genene koder for antibiotikaresistens.",
                         "I den utstrekning det anses påkrevet, kan Kongen i forskrift pålegge produsent og annen ansvarlig for markedsføring å føre de bøker med videre som anses nødvendige for tilsynet, stille krav til kontroll med personalets helse og hygiene samt stille krav om hygienesertifikater eller lignende ved transport av kosmetikk og kroppspleieprodukter.",
-                        "For å sikre at bestemmelser gitt i eller i medhold av denn lov overholdes, kan Kongen utferdige forskrifter om internkontroll og internkontrollsystem, og om plikt til å underrette tilsynsmyndighetene ved brudd på bestemmelser gitt i eller i medhold av denne lov.",
-                        "§ 3 oppheves.",
-                        "§ 4 skal lyde:",
+                        "For å sikre at bestemmelser gitt i eller i medhold av denn lov overholdes, kan Kongen utferdige forskrifter om internkontroll og internkontrollsystem, og om plikt til å underrette tilsynsmyndighetene ved brudd på bestemmelser gitt i eller i medhold av denne lov.\n§ 3 oppheves.\n§ 4 skal lyde:",
                         "Det sentrale, regionale eller lokale mattilsynet fører tilsyn, og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene gitt i eller i medhold av denne loven. Kongen kan delegere myndighet til andre offentlige eller private organer og gir bestemmelse om klagebehandling i slike tilfeller.",
                         "Mattilsynet kan fastsette, endre og oppheve tidsbegrensede forskrifter som er fastsatt av hensyn til Norges internasjonale forpliktelser straks uten forutgående høring, og kunngjøre forskrifter på særskilt måte.",
-                        "Offentlige myndigheter plikter på anmodning fra tilsynsmyndigheten å gi nødvendige opplysninger uten hinder av taushetsplikt. Politi og tollvesen skal på anmodning bistå tilsynsmyndigheten.",
-                        "§ 5 fjerde ledd oppheves.",
-                        "§ 5 nåværende femte ledd blir fjerde ledd.",
-                        "§ 6 andre og tredje ledd oppheves.",
-                        "§ 6 nåværende fjerde ledd blir andre ledd.",
-                        "§ 7 første ledd oppheves.",
-                        "§ 7 nåværende andre til sjette ledd blir første til femte ledd.",
-                        "3. I lov 19. november 1982 nr. 66 om helsetjenesten i kommunene § 4a-4 andre ledd, skal nytt sjette punktum lyde:",
-                        "I forskriftene kan det bestemmes at Mattilsynet gir godkjenning av drikkevann og vannforsyningsanlegg, og regler om klage over slike vedtak.",
-                        "4. Lov 14. juni 1985 nr 68 om oppdrett av fisk, skalldyr mv. § 5 nr. 3 skal lyde:",
-                        "har en klart uheldig plassering i forhold til det omkringliggende miljø, hensynet til folkehelsen, lovlig ferdsel eller annen utnytting av området.",
-                        "5. Lov 13. juni 1997 nr. 42 om Kystvakten § 9 første ledd bokstav b skal lyde:",
-                        "b.lov om matproduksjon og mattrygghet mv. (matloven).",
-                        "6. Lov 21. desember 2000 nr. 118 om havbeite § 3 andre ledd skal lyde:",
+                        "Offentlige myndigheter plikter på anmodning fra tilsynsmyndigheten å gi nødvendige opplysninger uten hinder av taushetsplikt. Politi og tollvesen skal på anmodning bistå tilsynsmyndigheten.\n§ 5 fjerde ledd oppheves.\n§ 5 nåværende femte ledd blir fjerde ledd.\n§ 6 andre og tredje ledd oppheves.\n§ 6 nåværende fjerde ledd blir andre ledd.\n§ 7 første ledd oppheves.\n§ 7 nåværende andre til sjette ledd blir første til femte ledd.\n3. I lov 19. november 1982 nr. 66 om helsetjenesten i kommunene § 4a-4 andre ledd, skal nytt sjette punktum lyde:",
+                        "I forskriftene kan det bestemmes at Mattilsynet gir godkjenning av drikkevann og vannforsyningsanlegg, og regler om klage over slike vedtak.\n4. Lov 14. juni 1985 nr 68 om oppdrett av fisk, skalldyr mv. § 5 nr. 3 skal lyde:",
+                        "har en klart uheldig plassering i forhold til det omkringliggende miljø, hensynet til folkehelsen, lovlig ferdsel eller annen utnytting av området.\n5. Lov 13. juni 1997 nr. 42 om Kystvakten § 9 første ledd bokstav b skal lyde:\nb.\tlov om matproduksjon og mattrygghet mv. (matloven).\n6. Lov 21. desember 2000 nr. 118 om havbeite § 3 andre ledd skal lyde:",
                         "Løyve kan ikkje bli gitt dersom det er fare for skadelege verknader på folkehelsa eller miljøet, medrekna fare for skade på det biologiske mangfold, økologisk ubalanse eller spreiing av sjukdommar."
                     ]
                 },
