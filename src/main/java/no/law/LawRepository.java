@@ -73,7 +73,8 @@ public class LawRepository {
                 Collections.singleton("Offentleglova"),
                 LocalDate.of(1970, 6, 19)
         );
-        //laws.put(law.getLawId(), law);
+        // Adding this law manually for tests that check on date
+        laws.put(law.getLawId(), law);
 
 
         // :: Read laws from JSON files i resources/laws

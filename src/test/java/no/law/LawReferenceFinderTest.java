@@ -91,7 +91,11 @@ public class LawReferenceFinderTest {
         lawReference.addParagraph(null);
         lawReference.addSection("første");
         lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
-        Assertions.assertEquals(3, lawRef.size());
+        Assertions.assertEquals(
+                // 34 paragraphs in Offentleglova
+                34
+                // 9 "changes in other laws", which are falsely detected as paragraphs
+                + 9, lawRef.size());
         Assertions.assertEquals(Law.Section.class, lawRef.get(0).getClass());
         Assertions.assertEquals(Law.Section.class, lawRef.get(1).getClass());
         Assertions.assertEquals(Law.Section.class, lawRef.get(2).getClass());
