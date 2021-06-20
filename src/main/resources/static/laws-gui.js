@@ -10,7 +10,7 @@ if (lawRefFromParam) {
 }
 
 var currentSearch = null;
-var search = function() {
+var search = function () {
     var value = searchBox.value;
     if (value !== currentSearch) {
         currentSearch = value;
@@ -32,8 +32,12 @@ var search = function() {
                         "<pre>" + data.trace + "</pre></div>";
                 } else {
                     var resultInfo = '<b>Match found:</b> ' + data.lawReference + '&nbsp;&nbsp;&nbsp;<b>Match type:</b>';
-                    data.laws.forEach((matchType) => {
-                        resultInfo += ' <li>' + matchType.fullName + '</li>';
+                    data.laws.forEach((law) => {
+                        resultInfo += ' <li >'
+                            + law.lawId + ' - '
+                            + '<a href="./law-reference?lawRef=' + law.lawId + '" ' + (law.changeLaw ? ('style="color: gray"') : '') + '>'
+                            + law.fullName
+                            + '</a></li>';
                     });
                     document.getElementById('laws-result-info').innerHTML = resultInfo;
                     document.getElementById("laws-result").innerHTML = "<div class='law-ref-result-success'>" + data.html + "</div>";

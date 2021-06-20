@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -16,6 +17,7 @@ public class Ctrl_LawsApi {
         return new LawsDto(LawRepository.getLaws()
                 .stream()
                 .map(LawDto::new)
+                .sorted(Comparator.comparing(lawDto -> lawDto.lawId))
                 .collect(Collectors.toList())
         );
 
@@ -34,14 +36,26 @@ public class Ctrl_LawsApi {
     }
 
     public static class LawDto {
+        private final String lawId;
         private final String fullName;
+        private final boolean isChangeLaw;
 
         public LawDto(Law law) {
+            this.lawId = law.getLawId();
             this.fullName = law.getFullName();
+            this.isChangeLaw = law.isChangeLaw();
+        }
+
+        public String getLawId() {
+            return lawId;
         }
 
         public String getFullName() {
             return fullName;
+        }
+
+        public boolean isChangeLaw() {
+            return isChangeLaw;
         }
     }
 }

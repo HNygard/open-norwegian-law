@@ -92,6 +92,13 @@ public class Law implements LawReference {
         return allPossibleNamesForLaw;
     }
 
+    /**
+     * This law is mainly a change to another law and not the start of a new law.
+     */
+    public boolean isChangeLaw() {
+        return lawName.toLowerCase().startsWith("lov om endring");
+    }
+
     public String toString() {
         return lawName + "\n\n"
                 + chapters.stream()
