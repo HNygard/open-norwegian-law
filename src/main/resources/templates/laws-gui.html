@@ -4,7 +4,7 @@
     <title>Lovoppslag</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link href="../static/law-ref-gui.css" th:href="@{/law-ref-gui.css}"rel="stylesheet" />
-    <script src="../static/law-ref-gui.js" th:src="@{/law-ref-gui.js}" async defer></script>
+    <script src="../static/laws-gui.js" th:src="@{/laws-gui.js}" async defer></script>
 </head>
 <body>
 <!--
@@ -13,12 +13,11 @@
 
 <span th:insert="menu::menu"></span>
 
-<h1>Law lookup</h1>
-
+<h1>Laws</h1>
 Search for law, or inside law: <input type="text" id="law-ref-search">
-<span id="law-ref-result-info" style="margin-left: 2em;"></span>
+<span id="laws-result-info" style="margin-left: 2em;"></span>
 
-<div id="law-ref-result" style="margin-top: 1em;"></div>
+<div id="laws-result" style="margin-top: 1em;"></div>
 
 </body>
 </html>
