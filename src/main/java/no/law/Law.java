@@ -85,6 +85,9 @@ public class Law implements LawReference {
             if (changeIn.toLowerCase().startsWith("lov om endringer i ")) {
                 changeIn = changeIn.substring("lov om endringer i ".length());
             }
+            if (changeIn.toLowerCase().startsWith("lov om endringar i ")) {
+                changeIn = changeIn.substring("lov om endringar i ".length());
+            }
             if (changeIn.toLowerCase().startsWith("lov om endring i ")) {
                 changeIn = changeIn.substring("lov om endring i ".length());
             }
