@@ -27,6 +27,7 @@ public class Law implements LawReference {
     private boolean changeLaw;
     private final String changeInLawName;
     private String changeInLawId = null;
+    private Collection<Law> thisLawChangedBy = new ArrayList<>();
 
     public Law(String lawId, String lawName, String shortName, LocalDate announcementDate) {
         this(lawId, lawName, shortName, new ArrayList<>(), announcementDate);
@@ -147,6 +148,13 @@ public class Law implements LawReference {
         return changeInLawId;
     }
 
+    /**
+     * List of all laws that changed this law.
+     */
+    public Collection<Law> getThisLawChangedBy() {
+        return thisLawChangedBy;
+    }
+
     public String toString() {
         return lawName + "\n\n"
                 + chapters.stream()
@@ -178,6 +186,10 @@ public class Law implements LawReference {
     @Override
     public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
         return getMatching(lawRef, chapters, this);
+    }
+
+    public void addChangeLaw(Law lawInstance) {
+        thisLawChangedBy.add(lawInstance);
     }
 
     public static class Chapter implements LawReference {

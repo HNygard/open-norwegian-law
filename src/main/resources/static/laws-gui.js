@@ -29,6 +29,13 @@ var fetchLaws = function () {
                                 : '<i style="color: red;">Law not found.</i>')
                         + '</li></ul>';
                     }
+                    if (law.thisLawChangedBy) {
+                        resultHtml += '<ul style="margin: 0;">CHANGED BY -- ';
+                        for(var lawId in law.thisLawChangedBy) {
+                            resultHtml += '<li>' + lawId + ' - ' + law.thisLawChangedBy[lawId] + '</li>';
+                        }
+                        resultHtml += '</ul>';
+                    }
                     resultHtml += '</li>';
                 });
                 document.getElementById('laws-result-info').innerHTML = resultInfo;

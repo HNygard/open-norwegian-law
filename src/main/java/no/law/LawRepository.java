@@ -124,6 +124,11 @@ public class LawRepository {
         laws.values().forEach(lawInstance -> {
             if (lawInstance.getChangeInLawName() != null) {
                 lawInstance.setChangeInLawId(NorwegianLawTextName_to_LawId.law(lawInstance.getChangeInLawName(), lawInstance.getAnnounementDate()));
+
+                if (lawInstance.getChangeInLawId() != null) {
+                    // -> Match found. Put a reverse reference in place reference.
+                    getLaw(lawInstance.getChangeInLawId()).addChangeLaw(lawInstance);
+                }
             }
         });
     }

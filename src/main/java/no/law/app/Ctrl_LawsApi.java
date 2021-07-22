@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 @RestController
@@ -40,6 +41,7 @@ public class Ctrl_LawsApi {
         private final boolean isChangeLaw;
         private final String changeInLawName;
         private final String changeInLawId;
+        private final Map<String, String> thisLawChangedBy;
 
         public LawDto(Law law) {
             this.lawId = law.getLawId();
@@ -47,6 +49,14 @@ public class Ctrl_LawsApi {
             this.isChangeLaw = law.isChangeLaw();
             this.changeInLawName = law.getChangeInLawName();
             this.changeInLawId = law.getChangeInLawId();
+
+            if (!law.getThisLawChangedBy().isEmpty()) {
+                this.thisLawChangedBy = law.getThisLawChangedBy().stream()
+                        .collect(Collectors.toMap(Law::getLawId, Law::getFullName));
+            }
+            else {
+                this.thisLawChangedBy = null;
+            }
         }
 
         public String getLawId() {
@@ -67,6 +77,10 @@ public class Ctrl_LawsApi {
 
         public String getChangeInLawId() {
             return changeInLawId;
+        }
+
+        public Map<String, String> getThisLawChangedBy() {
+            return thisLawChangedBy;
         }
     }
 }
