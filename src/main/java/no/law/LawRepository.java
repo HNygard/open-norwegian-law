@@ -1,5 +1,6 @@
 package no.law;
 
+import no.law.lawreference.NorwegianLawTextName_to_LawId;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 
@@ -17,6 +18,7 @@ import java.util.stream.Collectors;
 
 public class LawRepository {
     public static Map<String, Law> laws = new HashMap<>();
+    private static volatile boolean lazyUpdateChangeLawIdsDone = false;
 
     static {
         // Parts of Offentleglova
@@ -73,6 +75,7 @@ public class LawRepository {
                 Collections.singleton("Offentleglova"),
                 LocalDate.of(1970, 6, 19)
         );
+        law.chapters = Collections.emptyList();
         // Adding this law manually for tests that check on date
         laws.put(law.getLawId(), law);
 
@@ -112,7 +115,17 @@ public class LawRepository {
                             return law1;
                         }
                 ));
+
         laws.putAll(collect);
+    }
+
+    private static void lazyUpdateChangeLawIds() {
+        lazyUpdateChangeLawIdsDone = true;
+        laws.values().forEach(lawInstance -> {
+            if (lawInstance.getChangeInLawName() != null) {
+                lawInstance.setChangeInLawId(NorwegianLawTextName_to_LawId.law(lawInstance.getChangeInLawName(), lawInstance.getAnnounementDate()));
+            }
+        });
     }
 
     public static Law getLaw(String lawId) {
@@ -120,6 +133,10 @@ public class LawRepository {
     }
 
     public static Collection<Law> getLaws() {
+        if (!lazyUpdateChangeLawIdsDone) {
+            lazyUpdateChangeLawIds();
+        }
+
         return laws.values();
     }
 }

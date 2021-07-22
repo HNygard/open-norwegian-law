@@ -19,7 +19,17 @@ var fetchLaws = function () {
                         + law.lawId + ' - '
                         + '<a href="./law-reference?lawRef=' + law.lawId + '" ' + (law.changeLaw ? ('style="color: gray"') : '') + '>'
                         + law.fullName
-                        + '</a></li>';
+                        + '</a>';
+
+                    if (law.changeInLawName) {
+                        resultHtml += '<ul style="margin: 0;"><li>CHANGE IN -- '
+                        + law.changeInLawName + ' - '
+                        + ((law.changeInLawId)
+                                ? '<a href="./law-reference?lawRef=' + law.changeInLawId + '">' + law.changeInLawId + '</a>'
+                                : '<i style="color: red;">Law not found.</i>')
+                        + '</li></ul>';
+                    }
+                    resultHtml += '</li>';
                 });
                 document.getElementById('laws-result-info').innerHTML = resultInfo;
                 document.getElementById("laws-result").innerHTML = "<div class='law-ref-result-success'>" + resultHtml + "</div>";

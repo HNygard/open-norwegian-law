@@ -24,6 +24,9 @@ public class Law implements LawReference {
     private final LocalDate announcementDate;
     private final Collection<String> allPossibleNamesForLaw;
     List<Chapter> chapters;
+    private boolean changeLaw;
+    private final String changeInLawName;
+    private String changeInLawId = null;
 
     public Law(String lawId, String lawName, String shortName, LocalDate announcementDate) {
         this(lawId, lawName, shortName, new ArrayList<>(), announcementDate);
@@ -70,6 +73,39 @@ public class Law implements LawReference {
                         .replace(" (" + shortName + ")", "")
                         .replace(" (" + shortName.toLowerCase() + ")", "")
         );
+
+        // Analyze law name
+        changeLaw = lawName.toLowerCase().startsWith("lov om endring");
+        if (changeLaw) {
+            String changeIn = lawName;
+            // :: Strip the first bit
+            // Lov om endringer i inkassoloven
+            // => inkassoloven
+            if (changeIn.toLowerCase().startsWith("lov om endringer i ")) {
+                changeIn = changeIn.substring("lov om endringer i ".length());
+            }
+            if (changeIn.toLowerCase().startsWith("lov om endring i ")) {
+                changeIn = changeIn.substring("lov om endring i ".length());
+            }
+            if (changeIn.toLowerCase().startsWith("lov om endring")) {
+                changeIn = changeIn.substring("lov om endring".length());
+            }
+            changeIn = changeIn.trim();
+
+            // :: Chop of on the end
+            // lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven)
+            // => lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø
+            if (changeIn.contains("mv. (")) {
+                changeIn = changeIn.substring(0, changeIn.indexOf("mv. ("));
+            }
+            if (changeIn.contains(" (")) {
+                changeIn = changeIn.substring(0, changeIn.indexOf(" ("));
+            }
+            changeInLawName = changeIn;
+        }
+        else {
+            changeInLawName = null;
+        }
     }
 
     public String getShortName() {
@@ -96,7 +132,19 @@ public class Law implements LawReference {
      * This law is mainly a change to another law and not the start of a new law.
      */
     public boolean isChangeLaw() {
-        return lawName.toLowerCase().startsWith("lov om endring");
+        return changeLaw;
+    }
+
+    public String getChangeInLawName() {
+        return changeInLawName;
+    }
+
+    public void setChangeInLawId(String changeInLawId) {
+        this.changeInLawId = changeInLawId;
+    }
+
+    public String getChangeInLawId() {
+        return changeInLawId;
     }
 
     public String toString() {

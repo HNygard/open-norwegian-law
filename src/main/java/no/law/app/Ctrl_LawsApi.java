@@ -38,11 +38,15 @@ public class Ctrl_LawsApi {
         private final String lawId;
         private final String fullName;
         private final boolean isChangeLaw;
+        private final String changeInLawName;
+        private final String changeInLawId;
 
         public LawDto(Law law) {
             this.lawId = law.getLawId();
             this.fullName = law.getFullName();
             this.isChangeLaw = law.isChangeLaw();
+            this.changeInLawName = law.getChangeInLawName();
+            this.changeInLawId = law.getChangeInLawId();
         }
 
         public String getLawId() {
@@ -55,6 +59,14 @@ public class Ctrl_LawsApi {
 
         public boolean isChangeLaw() {
             return isChangeLaw;
+        }
+
+        public String getChangeInLawName() {
+            return changeInLawName;
+        }
+
+        public String getChangeInLawId() {
+            return changeInLawId;
         }
     }
 }
