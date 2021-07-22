@@ -13,6 +13,17 @@ Running as JAR locally (same as heroku):
     mvn install
     java -jar target/norway-law-java-1.0-SNAPSHOT.jar
 
+# Heroku
+
+Setup:
+
+    heroku login
+    heroku git:remote -a open-norwegian-law
+
+Deploying:
+
+    git push heroku master
+
 # TODO
 
 - [x] Lese lovreferanse
