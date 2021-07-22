@@ -3,7 +3,6 @@ package no.law.app;
 import no.law.Law;
 import no.law.LawRepository;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Comparator;
@@ -13,7 +12,7 @@ import java.util.stream.Collectors;
 @RestController
 public class Ctrl_LawsApi {
     @GetMapping(value = "/api/laws")
-    public LawsDto laws(@RequestParam String searchQuery) {
+    public LawsDto laws() {
         return new LawsDto(LawRepository.getLaws()
                 .stream()
                 .map(LawDto::new)
