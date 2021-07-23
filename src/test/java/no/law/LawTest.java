@@ -76,4 +76,26 @@ public class LawTest {
                 law.toString()
         );
     }
+
+    @Test
+    public void testChangeLawName() {
+        assertChangeLawWrapper(
+                "inkassoloven",
+                "Lov om endringer i inkassoloven"
+        );
+        assertChangeLawWrapper(
+                "opplæringslova, privatskolelova og folkehøyskoleloven",
+                "Lov om endringer i opplæringslova, privatskolelova og folkehøyskoleloven (leksehjelp m.m.)"
+        );
+        assertChangeLawWrapper(
+                "lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v.",
+                "Lov om endring i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven)"
+        );
+    }
+
+    private void assertChangeLawWrapper(String expectedChangeInLawName, String lawNameOfChangeLaw) {
+        Law.ChangeLawWrapper wrapper = Law.getChangeLawDetails(lawNameOfChangeLaw);
+        Assertions.assertEquals(expectedChangeInLawName, wrapper.changeInLawName);
+        Assertions.assertTrue(wrapper.changeLaw);
+    }
 }

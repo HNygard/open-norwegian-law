@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -76,7 +77,14 @@ public class Law implements LawReference {
         );
 
         // Analyze law name
-        changeLaw = lawName.toLowerCase().startsWith("lov om endring");
+        ChangeLawWrapper details = getChangeLawDetails(lawName);
+        changeLaw = details.changeLaw;
+        changeInLawName = details.changeInLawName;
+    }
+
+    public static ChangeLawWrapper getChangeLawDetails(String lawName) {
+        boolean changeLaw = lawName.toLowerCase().startsWith("lov om endring");
+        String changeInLawName;
         if (changeLaw) {
             String changeIn = lawName;
             // :: Strip the first bit
@@ -110,6 +118,7 @@ public class Law implements LawReference {
         else {
             changeInLawName = null;
         }
+        return new ChangeLawWrapper(changeLaw, changeInLawName);
     }
 
     public String getShortName() {
@@ -445,5 +454,29 @@ public class Law implements LawReference {
             }
         }
         return matches;
+    }
+
+    static class ChangeLawWrapper {
+        final boolean changeLaw;
+        final String changeInLawName;
+
+        public ChangeLawWrapper(boolean changeLaw, String changeInLawName) {
+            this.changeLaw = changeLaw;
+            this.changeInLawName = changeInLawName;
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            ChangeLawWrapper that = (ChangeLawWrapper) o;
+            return changeLaw == that.changeLaw &&
+                    Objects.equals(changeInLawName, that.changeInLawName);
+        }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(changeLaw, changeInLawName);
+        }
     }
 }
