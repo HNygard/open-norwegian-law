@@ -30,6 +30,8 @@ public class NorwegianLawTextName_to_LawIdTest {
         Assertions.assertEquals("LOV-2014-06-20-49", law("lov 20. juni 2014 nr. 49"));
         // Date with one digit
         Assertions.assertEquals("LOV-2002-12-06-72", law("lov 6. desember 2002 nr. 72"));
+        // Law reference including name
+        Assertions.assertEquals("LOV-2002-12-06-72", law("lov 6. desember 2002 nr. 72 om folkehøyskoler"));
         Assertions.assertEquals("LOV-2006-05-19-16", law("offentleglova"));
         Assertions.assertEquals("LOV-2006-05-19-16", law("OfFeNtLeGlOvA"));
         Assertions.assertEquals("LOV-2006-05-19-16", law("Offentleglova (2006)"));

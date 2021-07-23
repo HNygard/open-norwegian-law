@@ -12,9 +12,14 @@ import java.util.regex.Pattern;
 
 public class NorwegianLawTextName_to_LawId {
     // lov 20. juni 2014 nr. 49
-    static Pattern compile = Pattern.compile("^lov ([0-9]*)\\. ([a-zA-Z]*) ([0-9]{4}) nr\\. ([0-9]*)$");
+    static String lawIdInTextRegex = "^lov ([0-9]*)\\. ([a-zA-Z]*) ([0-9]{4}) nr\\. ([0-9]*)";
+    static Pattern lawIdInTextPattern = Pattern.compile(lawIdInTextRegex + "$");
+
+    // lov 6. desember 2002 nr. 72 om folkehøyskoler
+    static Pattern lawIdInTextWithChecksumOnName = Pattern.compile(lawIdInTextRegex + " om ([A-Za-zÆØÅæøå ]*)$");
 
     private static Map<String, Integer> MONTHS = new HashMap<>();
+
     static {
         MONTHS.put("januar", 1);
         MONTHS.put("februar", 2);
@@ -35,7 +40,10 @@ public class NorwegianLawTextName_to_LawId {
     }
 
     public static String law(String norwegianLawTextName, LocalDate currentDate) {
-        Matcher matcher = compile.matcher(norwegianLawTextName);
+        Matcher matcher = lawIdInTextPattern.matcher(norwegianLawTextName);
+        if (!matcher.matches()) {
+            matcher = lawIdInTextWithChecksumOnName.matcher(norwegianLawTextName);
+        }
         if (matcher.matches()) {
             int month = MONTHS.get(matcher.group(2));
             String date = matcher.group(1);

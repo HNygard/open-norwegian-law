@@ -126,8 +126,12 @@ public class LawRepository {
                 lawInstance.setChangeInLawId(NorwegianLawTextName_to_LawId.law(lawInstance.getChangeInLawName(), lawInstance.getAnnounementDate()));
 
                 if (lawInstance.getChangeInLawId() != null) {
-                    // -> Match found. Put a reverse reference in place reference.
-                    getLaw(lawInstance.getChangeInLawId()).addChangeLaw(lawInstance);
+                    // -> Found a law id. Might have a law.
+                    Law law = getLaw(lawInstance.getChangeInLawId());
+                    if (law != null) {
+                        // -> Found the law in registry, so put a reverse reference in place reference.
+                        law.addChangeLaw(lawInstance);
+                    }
                 }
             }
         });
