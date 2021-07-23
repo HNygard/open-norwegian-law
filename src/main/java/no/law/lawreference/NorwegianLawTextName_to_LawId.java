@@ -38,9 +38,10 @@ public class NorwegianLawTextName_to_LawId {
         Matcher matcher = compile.matcher(norwegianLawTextName);
         if (matcher.matches()) {
             int month = MONTHS.get(matcher.group(2));
+            String date = matcher.group(1);
             return "LOV-" + matcher.group(3)
                     + "-" + (month > 9 ? month : "0" + month)
-                    + "-" + matcher.group(1)
+                    + "-" + (date.length() == 1 ? "0" : "") + date
                     + "-" + matcher.group(4);
         }
 
