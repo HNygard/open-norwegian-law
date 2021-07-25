@@ -21,7 +21,7 @@ var fetchLaws = function () {
                         + law.fullName
                         + '</a>';
 
-                    if (law.changeInLawNames) {
+                    if (law.changeInLaws) {
                         for(var lawId2 in law.changeInLaws) {
                             resultHtml += '<ul style="margin: 0;"><li>CHANGE IN -- '
                                 + lawId2
