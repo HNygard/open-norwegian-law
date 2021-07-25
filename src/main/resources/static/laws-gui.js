@@ -21,13 +21,20 @@ var fetchLaws = function () {
                         + law.fullName
                         + '</a>';
 
-                    if (law.changeInLawName) {
-                        resultHtml += '<ul style="margin: 0;"><li>CHANGE IN -- '
-                        + law.changeInLawName + ' - '
-                        + ((law.changeInLawId)
-                                ? '<a href="./law-reference?lawRef=' + law.changeInLawId + '">' + law.changeInLawId + '</a>'
-                                : '<i style="color: red;">Law not found.</i>')
-                        + '</li></ul>';
+                    if (law.changeInLawNames) {
+                        for(var lawId2 in law.changeInLaws) {
+                            resultHtml += '<ul style="margin: 0;"><li>CHANGE IN -- '
+                                + lawId2
+                                + ' - <a href="./law-reference?lawRef=' + law.changeInLaws[lawId2] + '">'
+                                + law.changeInLaws[lawId2] + '</a>'
+                                + '</li></ul>';
+                        }
+                    }
+                    if (law.debugInformation) {
+                        law.debugInformation.forEach(logLine => {
+                            resultHtml += '<ul style="margin: 0;"><li>DEBUG INFO -- '
+                                + logLine + '</li></ul>';
+                        });
                     }
                     if (law.thisLawChangedBy) {
                         resultHtml += '<ul style="margin: 0;">CHANGED BY -- ';

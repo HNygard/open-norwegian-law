@@ -5,6 +5,7 @@ import no.law.LawRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Collection;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
@@ -39,16 +40,25 @@ public class Ctrl_LawsApi {
         private final String lawId;
         private final String fullName;
         private final boolean isChangeLaw;
-        private final String changeInLawName;
-        private final String changeInLawId;
+        private final Map<String, String> changeInLaws;
         private final Map<String, String> thisLawChangedBy;
+        private final Collection<String> debugInformation;
 
         public LawDto(Law law) {
             this.lawId = law.getLawId();
             this.fullName = law.getFullName();
             this.isChangeLaw = law.isChangeLaw();
-            this.changeInLawName = law.getChangeInLawName();
-            this.changeInLawId = law.getChangeInLawId();
+            this.changeInLaws = law.getChangeInLawIds().stream()
+                    .collect(Collectors.toMap(lawId -> lawId, lawId -> {
+                        Law law1 = LawRepository.getLaw(lawId);
+                        if (law1 != null) {
+                            return law1.getFullName();
+                        }
+                        else {
+                            return lawId + " (law not found)";
+                        }
+                    }));
+            this.debugInformation = law.getDebugInformation();
 
             if (!law.getThisLawChangedBy().isEmpty()) {
                 this.thisLawChangedBy = law.getThisLawChangedBy().stream()
@@ -71,12 +81,12 @@ public class Ctrl_LawsApi {
             return isChangeLaw;
         }
 
-        public String getChangeInLawName() {
-            return changeInLawName;
+        public Map<String, String> getChangeInLaws() {
+            return changeInLaws;
         }
 
-        public String getChangeInLawId() {
-            return changeInLawId;
+        public Collection<String> getDebugInformation() {
+            return debugInformation;
         }
 
         public Map<String, String> getThisLawChangedBy() {

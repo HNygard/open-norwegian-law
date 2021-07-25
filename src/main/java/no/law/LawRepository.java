@@ -122,17 +122,25 @@ public class LawRepository {
     private static void lazyUpdateChangeLawIds() {
         lazyUpdateChangeLawIdsDone = true;
         laws.values().forEach(lawInstance -> {
-            if (lawInstance.getChangeInLawName() != null) {
-                lawInstance.setChangeInLawId(NorwegianLawTextName_to_LawId.law(lawInstance.getChangeInLawName(), lawInstance.getAnnounementDate()));
+            if (lawInstance.getChangeInLawNames() != null) {
+                lawInstance.getChangeInLawNames().forEach(name -> {
+                    String lawId = NorwegianLawTextName_to_LawId.law(name, lawInstance.getAnnounementDate());
+                    if (lawId == null) {
+                        lawInstance.addDebugInformation("[ERROR] Not able to find law id for law name [" + name + "]. This law was changing that law.");
+                        return;
+                    }
+                    lawInstance.addChangeInLawId(lawId);
 
-                if (lawInstance.getChangeInLawId() != null) {
-                    // -> Found a law id. Might have a law.
-                    Law law = getLaw(lawInstance.getChangeInLawId());
+                    // E: Found a law id. Might have a law.
+                    Law law = getLaw(lawId);
                     if (law != null) {
                         // -> Found the law in registry, so put a reverse reference in place reference.
                         law.addChangeLaw(lawInstance);
                     }
-                }
+                    else {
+                        lawInstance.addDebugInformation("[ERROR] Not able to find law with law id [" + lawId + "] (law name [" + name + "]). This law was changing that law.");
+                    }
+                });
             }
         });
     }

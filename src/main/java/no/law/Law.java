@@ -9,7 +9,6 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
-import java.util.Objects;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -26,9 +25,10 @@ public class Law implements LawReference {
     private final Collection<String> allPossibleNamesForLaw;
     List<Chapter> chapters;
     private boolean changeLaw;
-    private final String changeInLawName;
-    private String changeInLawId = null;
+    private final List<String> changeInLawNames;
+    private Collection<String> changeInLawIds = new ArrayList<>();
     private Collection<Law> thisLawChangedBy = new ArrayList<>();
+    private Collection<String> debugInformation = new ArrayList<>();
 
     public Law(String lawId, String lawName, String shortName, LocalDate announcementDate) {
         this(lawId, lawName, shortName, new ArrayList<>(), announcementDate);
@@ -79,12 +79,12 @@ public class Law implements LawReference {
         // Analyze law name
         ChangeLawWrapper details = getChangeLawDetails(lawName);
         changeLaw = details.changeLaw;
-        changeInLawName = details.changeInLawName;
+        changeInLawNames = details.changeInLawNames;
     }
 
     public static ChangeLawWrapper getChangeLawDetails(String lawName) {
         boolean changeLaw = lawName.toLowerCase().startsWith("lov om endring");
-        String changeInLawName;
+        List<String> changeInLawNames;
         if (changeLaw) {
             String changeIn = lawName;
             // :: Strip the first bit
@@ -113,12 +113,14 @@ public class Law implements LawReference {
             if (changeIn.contains(" (")) {
                 changeIn = changeIn.substring(0, changeIn.indexOf(" ("));
             }
-            changeInLawName = changeIn;
+            changeInLawNames = Collections.singletonList(changeIn);
+
+
         }
         else {
-            changeInLawName = null;
+            changeInLawNames = null;
         }
-        return new ChangeLawWrapper(changeLaw, changeInLawName);
+        return new ChangeLawWrapper(changeLaw, changeInLawNames);
     }
 
     public String getShortName() {
@@ -148,16 +150,20 @@ public class Law implements LawReference {
         return changeLaw;
     }
 
-    public String getChangeInLawName() {
-        return changeInLawName;
+    public List<String> getChangeInLawNames() {
+        return changeInLawNames;
     }
 
-    public void setChangeInLawId(String changeInLawId) {
-        this.changeInLawId = changeInLawId;
+    public void addChangeInLawId(String changeInLawId) {
+        this.changeInLawIds.add(changeInLawId);
     }
 
-    public String getChangeInLawId() {
-        return changeInLawId;
+    public Collection<String> getChangeInLawIds() {
+        return changeInLawIds;
+    }
+
+    public void addDebugInformation(String logLine) {
+        this.debugInformation.add(logLine);
     }
 
     /**
@@ -165,6 +171,10 @@ public class Law implements LawReference {
      */
     public Collection<Law> getThisLawChangedBy() {
         return thisLawChangedBy;
+    }
+
+    public Collection<String> getDebugInformation() {
+        return debugInformation;
     }
 
     public String toString() {
@@ -458,25 +468,11 @@ public class Law implements LawReference {
 
     static class ChangeLawWrapper {
         final boolean changeLaw;
-        final String changeInLawName;
+        final List<String> changeInLawNames;
 
-        public ChangeLawWrapper(boolean changeLaw, String changeInLawName) {
+        public ChangeLawWrapper(boolean changeLaw, List<String> changeInLawNames) {
             this.changeLaw = changeLaw;
-            this.changeInLawName = changeInLawName;
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-            ChangeLawWrapper that = (ChangeLawWrapper) o;
-            return changeLaw == that.changeLaw &&
-                    Objects.equals(changeInLawName, that.changeInLawName);
-        }
-
-        @Override
-        public int hashCode() {
-            return Objects.hash(changeLaw, changeInLawName);
+            this.changeInLawNames = changeInLawNames;
         }
     }
 }

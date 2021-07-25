@@ -5,6 +5,8 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class LawTest {
 
@@ -80,22 +82,22 @@ public class LawTest {
     @Test
     public void testChangeLawName() {
         assertChangeLawWrapper(
-                "inkassoloven",
+                Collections.singletonList("inkassoloven"),
                 "Lov om endringer i inkassoloven"
         );
         assertChangeLawWrapper(
-                "opplæringslova, privatskolelova og folkehøyskoleloven",
+                Collections.singletonList("opplæringslova, privatskolelova og folkehøyskoleloven"),
                 "Lov om endringer i opplæringslova, privatskolelova og folkehøyskoleloven (leksehjelp m.m.)"
         );
         assertChangeLawWrapper(
-                "lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v.",
+                Collections.singletonList("lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v."),
                 "Lov om endring i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven)"
         );
     }
 
-    private void assertChangeLawWrapper(String expectedChangeInLawName, String lawNameOfChangeLaw) {
+    private void assertChangeLawWrapper(List<String> expectedChangeInLawNames, String lawNameOfChangeLaw) {
         Law.ChangeLawWrapper wrapper = Law.getChangeLawDetails(lawNameOfChangeLaw);
-        Assertions.assertEquals(expectedChangeInLawName, wrapper.changeInLawName);
+        Assertions.assertEquals(expectedChangeInLawNames, wrapper.changeInLawNames);
         Assertions.assertTrue(wrapper.changeLaw);
     }
 }
