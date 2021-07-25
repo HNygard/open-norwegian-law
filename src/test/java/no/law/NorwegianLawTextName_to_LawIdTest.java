@@ -34,6 +34,8 @@ public class NorwegianLawTextName_to_LawIdTest {
         Assertions.assertEquals("LOV-2002-12-06-72", law("lov 6. desember 2002 nr. 72 om folkehøyskoler"));
         // Law name contains a dash in the name
         Assertions.assertEquals("LOV-2018-12-20-108", law("lov 20. desember 2018 nr. 108 om endringer i a-opplysningsloven"));
+        // Law name contains a comma
+        Assertions.assertEquals("LOV-2003-12-12-108", law("lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv"));
         Assertions.assertEquals("LOV-2006-05-19-16", law("offentleglova"));
         Assertions.assertEquals("LOV-2006-05-19-16", law("OfFeNtLeGlOvA"));
         Assertions.assertEquals("LOV-2006-05-19-16", law("Offentleglova (2006)"));

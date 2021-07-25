@@ -16,7 +16,7 @@ public class NorwegianLawTextName_to_LawId {
     static Pattern lawIdInTextPattern = Pattern.compile(lawIdInTextRegex + "$");
 
     // lov 6. desember 2002 nr. 72 om folkehøyskoler
-    static Pattern lawIdInTextWithChecksumOnName = Pattern.compile(lawIdInTextRegex + " om ([A-Za-zÆØÅæøå\\- ]*)$");
+    static Pattern lawIdInTextWithChecksumOnName = Pattern.compile(lawIdInTextRegex + " om ([A-Za-zÆØÅæøå\\-, ]*)$");
 
     private static Map<String, Integer> MONTHS = new HashMap<>();
 
