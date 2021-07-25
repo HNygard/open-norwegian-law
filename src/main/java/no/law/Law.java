@@ -84,7 +84,7 @@ public class Law implements LawReference {
 
     public static ChangeLawWrapper getChangeLawDetails(String lawName) {
         boolean changeLaw = lawName.toLowerCase().startsWith("lov om endring");
-        List<String> changeInLawNames;
+        List<String> changeInLawNames = null;
         if (changeLaw) {
             String changeIn = lawName;
             // :: Strip the first bit
@@ -113,12 +113,29 @@ public class Law implements LawReference {
             if (changeIn.contains(" (")) {
                 changeIn = changeIn.substring(0, changeIn.indexOf(" ("));
             }
-            changeInLawNames = Collections.singletonList(changeIn);
 
 
-        }
-        else {
-            changeInLawNames = null;
+            // :: Match multiple laws names in the string
+            // This is done with different relative easy regexes to keep this code as simple as possible to understand.
+            Matcher matcher;
+            String regexLawName = "(([A-Za-zæøåÆØÅ0-9 ]*)lov(a|en))";
+
+            // 1, 2 og 3
+            matcher = Pattern.compile("^" + regexLawName + ", " + regexLawName + " og " + regexLawName + "$").matcher(changeIn);
+            if (matcher.matches()) {
+                changeInLawNames = Arrays.asList(
+                        matcher.group(1).trim(),
+                        matcher.group(4).trim(),
+                        matcher.group(7).trim()
+                );
+            }
+
+            if (changeInLawNames == null) {
+
+                changeInLawNames = Collections.singletonList(changeIn);
+            }
+
+
         }
         return new ChangeLawWrapper(changeLaw, changeInLawNames);
     }

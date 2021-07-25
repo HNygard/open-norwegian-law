@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -86,7 +87,7 @@ public class LawTest {
                 "Lov om endringer i inkassoloven"
         );
         assertChangeLawWrapper(
-                Collections.singletonList("opplæringslova, privatskolelova og folkehøyskoleloven"),
+                Arrays.asList("opplæringslova", "privatskolelova", "folkehøyskoleloven"),
                 "Lov om endringer i opplæringslova, privatskolelova og folkehøyskoleloven (leksehjelp m.m.)"
         );
         assertChangeLawWrapper(
