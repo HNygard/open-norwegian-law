@@ -1,35 +1,36 @@
 {
     "lawId": "LOV-2006-05-19-16",
-    "lawName": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
-    "shortName": "Offentleglova",
-    "authorityDescription": "Ot.prp.nr.9 (2005–2006) jf Ot.prp.nr.102 (2004–2005), Innst.O.nr.41 (2005–2006) og Besl.O.nr.48 (2005–2006). Odels- og lagtingsvedtak hhv. 4. og 9. mai 2006. Fremmet av Justis- og politidepartementet.\nEndringer i følgende lover:\n1\tLov 13. august 1915 nr. 5 om domstolene (domstolloven).\n2\tLov 17. juli 1925 nr. 11 om Svalbard.\n3\tLov 12. mai 1961 nr. 2 om opphavsrett til åndsverk m.v. (åndsverkloven).\n4\tLov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).\n5\tLov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven).\n6\tLov 28. april 1978 nr. 18 om behandling av forbrukertvister.\n7\tLov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven).\n8\tLov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven).\n9\tPlan- og bygningslov 14. juni 1985 nr. 77.\n10\tLov 21. juni 1985 nr. 78 om registrering av foretak.\n11\tLov 30. august 1991 nr. 71 om statsforetak.\n12\tLov 28. august 1992 nr. 103 om pengespill m.v.\n13\tLov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven).\n14\tLov 7. juni 1996 nr. 31 om Den norske kirke (kirkeloven).\n15\tLov 28. juni 1996 nr. 54 om studentsamskipnader.\n16\tLov 29. november 1996 nr. 72 om petroleumsvirksomhet.\n17\tLov 9. mai 1997 nr. 26 om Statens investeringsfond for næringsvirksomhet i utviklingsland.\n18\tLov 16. juli 1999 nr. 69 om offentlige anskaffelser.\n19\tLov 14. april 2000 nr. 31 om behandling av personopplysninger (personopplysningsloven).\n20\tLov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven).\n21\tLov 15. juni 2001 nr. 53 om erstatning ved pasientskader mv. (pasientskadeloven).\n22\tLov 15. juni 2001 nr. 93 om helseforetak m.m.  (helseforetaksloven).\n23\tLov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven).\n24\tLov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven).\n25\tLov 19. desember 2003 nr. 130 om Innovasjon Norge.\n26\tLov 5. mars 2004 nr. 12 om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven).\n27\tLov 7. mai 2004 nr. 21 om Riksrevisjonen.\n28\tLov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke (finnmarksloven).",
+    "lawName": "Lov 19 mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
+    "shortName": "offentleglova, offl",
+    "authorityDescription": ".JD (Justis- og beredskapsdepartementet)",
     "chapters": [
         {
-            "name": "Kapittel 1 Innleiande føresegner",
+            "name": "Kapittel 1. lnnleiande føresegner",
             "paragraphs": [
                 {
                     "name": "§ 1",
                     "title": "Formål",
                     "sections": [
-                        "Formålet med lova er å leggje til rette for at offentleg verksemd er open og gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga, rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal òg leggje til rette for vidarebruk av offentleg informasjon."
+                        "Formålet med lova er å leggje til rette for at offentleg verksemd er open og gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga, rettstrygglelken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta_ Lova skal og leggje til rette for vidarebruk av offentleg informasjon."
                     ]
                 },
                 {
                     "name": "§ 2",
                     "title": "Verkeområdet til lova",
                     "sections": [
-                        "Lova gjeld for\na)\tstaten, fylkeskommunane og kommunane,\nb)\tandre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,\nc)\tsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, og\nd)\tsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.\nBokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.",
-                        "Kongen kan gi forskrift om at lova ikkje skal gjelde for sjølvstendige rettssubjekt eller for visse dokument hos sjølvstendige rettssubjekt som er omfatta av første ledd bokstavane c eller d, dersom det må reknast som nødvendig ut frå omsynet til arten av verksemda, konkurransesituasjonen eller andre særlege tilhøve. Det same gjeld dersom det gjeld unntak frå innsynsretten for det alt vesentlege av dokumenta til verksemda og særlege tungtvegande omsyn tilseier det. Kongen kan gi forskrift om at lova heilt eller delvis skal gjelde for sjølvstendige rettssubjekt som er knytte til stat eller kommune utan å oppfylle vilkåra i første ledd bokstav c eller d, eller som er unnatekne etter første ledd andre punktum.",
+                        "Lova gjeld for\na)\tstaten, fylkeskommunane og kommunane,\nb)\tandre rettssubjekt i saker der del gjer enkeltvedtak eller utferdar forskrift,\nc)\tsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det.øvste organet I rettssubjektet, og\nd)\tsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.\nBokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår\nsom private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld\nlova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.",
+                        "Kongen kan gi forskrift om at lova ikkje skal gjelde for sjølvstendige rettssubjekt eller for visse dokument hos sjølvstendige rettssubjekt som er omfatta av første ledd bokstavane c eller d, dersom det må reknast som nødvendig ut frå omsynet til arten av verksemda, konkurransesituasjonen eller andre særlege tilhøve. Det same gjeld dersom det gjeld unntak frå innsynsretten for det alt vesentlege av dokumenta til verksemda og særlege tungtvegande omsyn tilseier det_ Kongen kan gi forskrift om at lova heilt eller delvis skal gjelde for sjølvstendige rettssubjekt som er knytte til stat eller kommune utan å oppfylle vilkåra i første ledd bokstav c eller d, eller som er unnatekne etter første ledd andre punktum.",
                         "Lova gjeld ikkje for Stortinget, Riksrevisjonen, Stortingets ombodsmann for forvaltninga og andre organ for Stortinget.",
-                        "Lova gjeld ikkje for gjeremål som domstolane har etter rettsstellovene. Lova gjeld heller ikkje for gjeremål som andre organ har etter rettsstellovene i eigenskap av rettsstellorgan. Lova gjeld dessutan ikkje for gjeremål som politiet og påtalemakta har etter straffeprosessloven. Kongen kan gi forskrifter om kva lover som skal reknast som rettsstellover, og om at enkelte gjeremål etter rettsstellovene likevel skal vere omfatta av lova.",
+                        "Lova gjeld ikkje for gjeremål som domstolane har etter rettsstellovene. Lova gjeld heller ikkje for gjeremål som andre organ har etter rettsstellovene I eigenskap av rettsstellorgan. Lova gjeld dessutan ikkje for gjeremål som politiet og påtalemakta har etter straffeprosessloven. Lova gjeld ikkje for dokument som blir behandla av Etterretningstenesta etter etterretningstjenesteloven. Kongen kan gi forskrifter om kva lover som skal reknast som rettsstellover, og om at enkelte gjeremål etter rettsstellovene likevel skal vere omfatta av lova.",
+                        "Lova gjeld ikkje ved innsyn i Folkeregisteret i opplysningar som i medhald av folkeregisterloven <span class=\"refpara\">§ 3-1</span> er registrerte om enkeltpersonar.",
                         "Lova gjeld for Svalbard dersom ikkje anna blir fastsett av Kongen.",
-                        "Føresegnene i § 6, § 7 andre ledd, § 8 tredje ledd andre punktum og fjerde og femte ledd og § 30 første ledd tredje punktum og andre ledd gjeld uavhengig av føresegnene i paragrafen her for alle verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor."
+                        "Føresegnene i  <span class=\"refpara\">§ 6</span>,  <span class=\"refpara\">§ 7</span> andre ledd,  <span class=\"refpara\">§ 8</span> tredje ledd andre punktum og fjerde og femte ledd og  <span class=\"refpara\">§ 30</span> første ledd tredje punktum og andre ledd gjeld uavhengig av føresegnene i paragrafen her for alle verksemder som er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor."
                     ]
                 }
             ]
         },
         {
-            "name": "Kapittel 2 Hovudreglane om innsyn",
+            "name": "Kapittel 2. Hovudreglane om innsyn",
             "paragraphs": [
                 {
                     "name": "§ 3",
@@ -42,8 +43,8 @@
                     "name": "§ 4",
                     "title": "Definisjonar",
                     "sections": [
-                        "Med dokument er meint ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lytting, framsyning, overføring eller liknande.",
-                        "Saksdokument for organet er dokument som er komne inn til eller lagde fram for eit organ, eller som organet sjølv har oppretta, og som gjeld ansvarsområdet eller verksemda til organet. Eit dokument er oppretta når det er sendt ut av organet. Dersom dette ikkje skjer, skal dokumentet reknast som oppretta når det er ferdigstilt.",
+                        "Med dokument er meint ei logisk avgrensa informasjonsmengd som er lagra på eit medium for selnare lesing, lytting, framsyning, overføring eller liknande.",
+                        "Saksdokument for organet er dokument som er komne inn til eller lagde fram for elt organ, eller som organet sjølv har oppretta, og som gjeld ansvarsområdet eller verksemda til organet. Eit dokument er oppretta når det er sendt ut av organet. Dersom dette ikkje skjer, skal dokumentet reknast som oppretta når det er ferdigstilt.",
                         "Følgjande skal ikkje reknast som saksdokument for organet:\na)\tdokument som inngår i bibliotek- eller museumssamling,\nb)\tdokument som private har overlate til offentleg arkiv for bevaring,\nc)\tdokument som er overlate til eit organ for offentleggjering i periodisk skrift som blir gitt ut av organet,\nd)\tavis, tidsskrift, reklamemateriell og liknande som organet mottek utan at det er knytt til ei bestemt sak i organet, og\ne)\tdokument som ein medarbeidar i organet har motteke i annan eigenskap enn som tilsett i organet.",
                         "Omgrepet organ femner i lova her om alle verksemder som lova gjeld for."
                     ]
@@ -52,8 +53,8 @@
                     "name": "§ 5",
                     "title": "Utsett innsyn",
                     "sections": [
-                        "Organet kan fastsetje at det i ei bestemt sak først skal vere innsyn frå eit seinare tidspunkt i saksførebuinga enn det som følgjer av §§ 3 og 4, såframt det er grunn til å tru at dei dokumenta som ligg føre, gir eit direkte misvisande bilete av saka, og at innsyn derfor kan skade klare samfunnsmessige eller private interesser.",
-                        "For dokument som er utarbeidde av eller til Riksrevisjonen i saker som han vurderer å leggje fram for Stortinget som ledd i den konstitusjonelle kontrollen, gjeld innsyn først når saka er motteken i Stortinget, eller når Riksrevisjonen har varsla vedkommande organ om at saka er ferdigbehandla, jf. lov 7. mai 2004 nr. 21 om Riksrevisjonen § 18 andre ledd.",
+                        "Organet kan fastsetje at det i ei bestemt sak først skal vere innsyn frå eit seinare tidspunkt i saksførebuinga enn det som følgjer av <span class=\"refpara\">§§ 3</span> og 4, såframt det er grunn til å tru at dei dokumenta som ligg føre, gir eit direkte misvisande bil ete av saka, og at innsyn derfor kan skade klare samfunnsmessige eller private interesser.",
+                        "For dokument som er utarbeidde av eller til Riksrevisjonen i saker som han vurderer å leggje fram for Stortinget som ledd i den konstitusjonelle kontrollen, gjeld innsyn først når saka er motteken i Stortinget, eller når Riksrevisjonen har varsla vedkommande organ om at saka er ferdigbehandla, jf. lov 7. mai 2004 nr. 21 om Riksrevisjonen  <span class=\"refpara\">§ 18</span> andre ledd. Innsyn kan utsetjast for dokument som er utarbeidde av eller til ein revisor for ein kommune eller fylkeskommune, i saker som revisoren skal rapportere til kontrollutvalet, jf. kommuneloven  <span class=\"refpara\">§ 24-2</span> tredje ledd, inntil kontrollutvalet har motteke ein endeleg versjon av dokumentet.",
                         "Dersom vesentlege private eller offentlege omsyn tilseier det, kan innsyn i eit dokument utsetjast til det har komme fram til den det vedkjem, eller hendinga der det skal offentleggjerast, har funne stad."
                     ]
                 },
@@ -62,8 +63,8 @@
                     "title": "Forbod mot forskjellsbehandling",
                     "sections": [
                         "Ved behandling av saker etter lova her eller i andre tilfelle der det blir gitt tilgang til informasjon, er det ikkje høve til noka slags forskjellsbehandling mellom samanliknbare tilfelle eller til å avtale at nokon skal ha einerett på tilgang til informasjon. At ein førespurnad er sett fram av ei offentleg eller offentleg tilknytt verksemd, gir ikkje høve til forskjellsbehandling når formålet med førespurnaden ikkje har samanheng med dei offentlege gjeremåla til verksemda.",
-                        "Forbodet i første ledd er ikkje til hinder for at det kan gjerast avtalar om einerett dersom det er nødvendig for å levere ei teneste i ålmenta si interesse. Det skal gjerast ei ny vurdering av grunngivinga for å gjere slike avtalar kvart tredje år. Avtalar om einerett som blir gjorde i medhald av leddet her, skal vere offentlege. Det kan ikkje gjerast avtalar om einerett til tilgang til informasjon som ålmenta etter føresegner i lov eller forskrift har eit rettskrav på å få innsyn i.",
-                        "Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i paragrafen her berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor."
+                        "Forbodet i første ledd er ikkje til hinder for at det kan gjerast avtalar om einerett dersom det er nødvendig for å levere ei teneste i ålmenta si interesse. Det skal gjerast ei ny vurdering av grunngivinga for å gjere slike avtalar kvart tredje år.Avtalarom einerett som blir gjorde i medhald av leddet her, skal vere offentlege. Det kan ikkje gjerast avtalar om einerett til tilgang til informasjon som ålmenta etter føresegner i lov eller forskrift har eit rettskrav på å få innsyn i.",
+                        "Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i paragrafen her berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor."
                     ]
                 },
                 {
@@ -71,7 +72,7 @@
                     "title": "Bruk av offentleg informasjon",
                     "sections": [
                         "Informasjon som det er gitt tilgang til etter lova her eller anna lovgiving som gir ålmenta rett til innsyn i offentleg verksemd, kan brukast til eitkvart formål dersom ikkje anna lovgiving eller retten til ein tredjeperson er til hinder for det.",
-                        "I verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor, skal eventuelle standardlisensar om bruk av offentleg informasjon vere tilgjengelege i digitalt format, og dei må kunne behandlast elektronisk. Kongen kan i forskrift fastsetje at det same skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor."
+                        "I verksemder som er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor, skal eventuelle standardlisensar om bruk av offentleg informasjon vere tilgjengelege i digitalt format, og dei må kunne behandlast elektronisk. Kongen kan i forskrift fastsetje at det same skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor."
                     ]
                 },
                 {
@@ -81,14 +82,14 @@
                         "Organet kan berre krevje betaling for innsyn etter denne lova dersom det har heimel i forskrift etter andre eller tredje ledd.",
                         "Kongen kan gi forskrift om betaling for avskrifter, utskrifter eller kopiar. Betalingssatsane skal vere slik at dei samla inntektene ikkje blir større enn dei faktiske kostnadene ved kopiering og utsending av dokument.",
                         "Kongen kan gi forskrift om at det kan krevjast betaling for dokument dersom særlege tilhøve ved arten til dokumenta eller verksemda gjer det rimeleg. Betalingssatsane skal fastsetjast slik at dei samla inntektene ikkje blir større enn dei faktiske kostnadene ved innsamling, produksjon, reproduksjon og formidling av informasjonen, med tillegg av ei rimeleg avkastning av investeringane.",
-                        "For verksemder som fell utanfor lova her, men som er omfatta av anna lovgiving som gir ålmenta innsyn i offentleg verksemd, eller av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor, må dei samla inntektene ved informasjonsutlevering ikkje overstige dei faktiske kostnadene ved innsamling, produksjon, reproduksjon og formidling av informasjonen, med tillegg av ei rimeleg avkastning av investeringane.",
-                        "Verksemder som krev betaling for informasjon, skal offentleggjere betalingssatsane i elektronisk form dersom det er mogleg og formålstenleg. På førespurnad skal verksemdene også gi opplysningar om grunnlaget for utrekning av satsane og eventuelt om kva faktorar som vil bli lagde til grunn for utrekninga i særlege høve.",
-                        "Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i tredje ledd andre punktum og i fjerde og femte ledd berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor."
+                        "For verksemder som fell utanfor lova her, men som er omfatta av anna lovgiving som gir ålmenta innsyn i offentleg verksemd, eller av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor, må dei samla inntektene ved informasjonsutlevering ikkje overstige dei faktiske kostnadene ved reproduksjon og formidling av informasjonen, med tillegg av ei rimeleg avkastning av investeringane.",
+                        "Verksemder som til vanleg krev betaling for informasjon, skal på førehand offentleggjere gjeldande vilkår og faktisk betalingssum, medrekna utrekningsgrunnlaget for betalinga. Slik informasjon skal gjerast tilgjengeleg elektronisk dersom det er mogleg.",
+                        "Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i tredje ledd andre punktum og i fjerde og femte ledd berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37 /EU) om vidarebruk av informasjon frå offentleg sektor."
                     ]
                 },
                 {
                     "name": "§ 9",
-                    "title": "Rett til å krevje innsyn i ei samanstilling frå databasar",
+                    "title": "Rett til å krevje innsyn i ei samanstillingfrå databasar",
                     "sections": [
                         "Alle kan krevje innsyn i ei samanstilling av opplysningar som er elektronisk lagra i databasane til organet dersom samanstillinga kan gjerast med enkle framgangsmåtar."
                     ]
@@ -99,7 +100,7 @@
                     "sections": [
                         "Organet skal føre journal etter reglane i arkivlova med forskrifter.",
                         "Kongen kan gi forskrift om at organ som fører elektronisk journal, skal gjere han allment tilgjengeleg på Internett, og om korleis det skal gjerast.",
-                        "Organ som er omfatta av lova her, kan gjere dokument allment tilgjengelege på Internett, med unntak for opplysningar som er underlagde teieplikt i lov eller i medhald av lov. Kongen kan gi forskrift om tilgjengeleggjering av dokument på Internett og om at visse typar personopplysningar, jf. personopplysningsloven § 2 nr. 1, og dokument som ein tredjeperson har immaterielle rettar til, ikkje skal gjerast tilgjengelege på denne måten."
+                        "Organ som er omfatta av lova her, kan gjere dokument allment tilgjengelege på Internett, med unntak for opplysningar som er under lagde teieplikt i lov eller i medhald av lov. Kongen kan gi forskrift om tilgjengeleggjering av dokument på Internett og om at visse typar personopplysningar og dokument som ein tredjeperson har immaterielle rettar til, ikkje skal gjerast tilgjengelege på denne måten."
                     ]
                 },
                 {
@@ -111,7 +112,7 @@
                 },
                 {
                     "name": "§ 12",
-                    "title": "Unntak for resten av dokumentet",
+                    "title": "Unntakfor resten av dokumentet",
                     "sections": [
                         "Når organet gjer unntak frå innsyn for delar av eit dokument, kan det også gjere unntak for resten av dokumentet dersom\na)\tdesse delane aleine vil gi eit klart misvisande inntrykk av innhaldet,\nb)\tdet vil vere urimeleg arbeidskrevjande for organet å skilje dei ut, eller\nc)\tdei unnatekne opplysningane utgjer den vesentlegaste delen av dokumentet."
                     ]
@@ -119,20 +120,20 @@
             ]
         },
         {
-            "name": "Kapittel 3 Unntak frå innsynsretten",
+            "name": "Kapittel 3. Unntak frå innsynsretten",
             "paragraphs": [
                 {
                     "name": "§ 13",
                     "title": "Opplysningar som er underlagde teieplikt",
                     "sections": [
                         "Opplysningar som er underlagde teieplikt i lov eller i medhald av lov, er unnatekne frå innsyn.",
-                        "Føresegnene i forvaltningsloven om teieplikt gir sjølvstendige rettssubjekt som er nemnde i § 2 første ledd bokstav c eller d i lova her, høve til å gjere unntak for dokument og opplysningar i same omfang som dei gir forvaltningsorgan det.",
+                        "Føresegnene i forvaltningsloven om teieplikt gir sjølvstendige rettssubjekt som er nemnde i  <span class=\"refpara\">§ 2</span> første ledd bokstav c eller d i lova her, høve til å gjere unntak for dokument og opplysningar i same omfang som dei gir forvaltningsorgan det.",
                         "Gjeld innsynskravet eit dokument som inneheld opplysningar som er underlagde teieplikt, og denne plikta fell bort dersom den som har krav på tystnad samtykkjer, skal innsynskravet saman med ei eventuell grunngiving på oppmoding leggjast fram for vedkommande med ein høveleg frist til å svare. Svarar vedkommande ikkje, skal dette reknast som nekting av samtykke."
                     ]
                 },
                 {
                     "name": "§ 14",
-                    "title": "Dokument utarbeidde for eiga saksførebuing (organinterne dokument)",
+                    "title": "Dokument utarbeidde for eiga saksførebuing (organinternedokument)",
                     "sections": [
                         "Eit organ kan gjere unntak frå innsyn for dokument som organet har utarbeidd for si eiga interne saksførebuing.",
                         "Første ledd gjeld ikkje:\na)\tdokument eller del av dokument som inneheld den endelege avgjerda til organet i ei sak,\nb)\tgenerelle retningslinjer for saksbehandlinga til organet,\nc)\tføredrag til saker som er avgjorde av Kongen i statsråd, og\nd)\tpresedenskort og liknande, men ikkje dersom kortet gjengir organinterne vurderingar.",
@@ -141,9 +142,9 @@
                 },
                 {
                     "name": "§ 15",
-                    "title": "Dokument innhenta utanfrå for den interne saksførebuinga",
+                    "title": "Dokument innhenta utanfråforden interne saksførebuinga",
                     "sections": [
-                        "Når det er nødvendig for å sikre forsvarlege interne avgjerdsprosessar, kan organet gjere unntak frå innsyn for dokument som organet har innhenta frå eit underordna organ til bruk i den interne saksførebuinga si. Det same gjeld dokument som eit departement har innhenta frå eit anna departement til bruk i den interne saksførebuinga si.",
+                        "Når det er nødvendig for å sikre forsvarlege interne avgjerdsprosessar, kan organet gjere unntak frå innsyn for dokument som organet har innhenta frå eit underordna organ til bruk i den interne saksførebuinga si. Det same gjeld dokument som eit departement har innhenta frå eit anna departement til bruk i den interne saksføre buinga si.",
                         "Det kan vidare gjerast unntak for delar av dokument som inneheld råd om og vurderingar av korleis eit organ bør stille seg i ei sak, og som organet har innhenta til bruk for den interne saksførebuinga si, når det er påkravd av omsyn til ei forsvarleg ivaretaking av det offentlege sine interesser i saka.",
                         "Unntaka i paragrafen her gjeld tilsvarande for dokument om innhenting av dokument som er nemnde i første og andre ledd, og innkallingar til og referat frå møte mellom overordna og underordna organ, mellom departement og mellom eit organ og nokon som gir råd eller vurderingar som er nemnde i andre ledd.",
                         "Paragrafen her gjeld ikkje for dokument som blir innhenta som ledd i allmenn høyring i ei sak."
@@ -151,30 +152,30 @@
                 },
                 {
                     "name": "§ 16",
-                    "title": "Innsyn i interne dokument hos kommunane og fylkeskommunane",
+                    "title": "Innsyn i interne dokument hos kommunane ogfylkeskommunane",
                     "sections": [
-                        "Unntaka i §§ 14 og 15 gjeld ikkje:\na)\tsaksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,\nb)\tsakliste til møte i folkevalde organ i kommunar og fylkeskommunar,\nc)\tdokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, og\nd)\tdokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.\n§ 14 gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekretariatet til utvalet.",
-                        "Unntaket i § 14 gjeld ikkje for dokument frå eller til eit kommunalt eller fylkeskommunalt særlovsorgan eller eit kommunalt eller fylkeskommunalt føretak etter kommuneloven kapittel 11.",
-                        "Unntaket i § 14 gjeld heller ikkje for dokument frå eller til ei kommunal eller fylkeskommunal eining på område der einingane har sjølvstendig avgjerdsrett. Unntaket i § 14 gjeld likevel for dokument i saker der administrasjonssjefen eller kommunerådet gjennomfører kontrolltiltak overfor ei eining, og for utkast til vedtak og innstillingar som blir lagde fram for administrasjonssjefen eller kommunerådet før det blir gjort vedtak, eller før ei innstilling blir lagd fram for eit folkevalt organ. Unntaket i § 14 gjeld også for merknader frå administrasjonssjefen eller kommunerådet til slike utkast som er nemnde i førre punktum."
+                        "Unntaka i <span class=\"refpara\">§§ 14</span> og 15 gjeld ikkje:\na)\tsaksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,\nb)\tsakliste til møte i folkevalde organ i kommunar og fylkeskommunar,\nc)\tdokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, og\nd)\tdokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.\n<span class=\"refpara\">§ 14</span> gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekre-\ntariatet til utvalet. For kommunar og fylkeskommunar med parlamentarisk styreform gjeld  <span class=\"refpara\">§§ 14</span> og 15 likevel for\nsaksframlegg med vedlegg og sakliste til førebuande møte i kommuneråd og fylkesråd der ein ikkje skal gjere\nvedtak eller leggje fram innstilling.  <span class=\"refpara\">§§ 14</span> og 15 gjeld også for dokument som eit folkevalt organ har kravd innsyn i\netter kommuneloven <span class=\"refpara\">§ 11-13</span>.",
+                        "Unntaket i  <span class=\"refpara\">§ 14</span> gjeld ikkje for dokument frå eller til eit kommunalt eller fylkeskommunalt særlovsorgan eller eit kommunalt eller fylkeskommunalt føretak etter kommuneloven kapittel 9.",
+                        "Unntaket i  <span class=\"refpara\">§ 14</span> gjeld heller ikkje for dokument frå eller til ei kommunal eller fylkeskommunal eining på område der einingane har sjølvstendig avgjerdsrett. Unntaket i <span class=\"refpara\">§ 14</span> gjeld likevel for dokument i saker der administrasjonssjefen eller kommunerådet gjennomfører kontrolltiltak overfor ei eining, og for utkast til vedtak og innstillingar som blir lagde fram for administrasjonssjefen eller kommunerådet før det blir gjort vedtak, eller før ei innstilling blir lagd fram for eit folkevalt organ. Unntaket i <span class=\"refpara\">§ 14</span> gjeld også for merknader frå administrasjonssjefen eller kommunerådet til slike utkast som er nemnde i førre punktum."
                     ]
                 },
                 {
                     "name": "§ 17",
-                    "title": "Unntak for visse dokument som gjeld Det Kongelege Hoff",
+                    "title": "Unntakfor visse dokument som gjeld Det Kongelege Hoff",
                     "sections": [
                         "Det kan gjerast unntak frå innsyn for dokument som gjeld talar som medlemmer av kongehuset skal halde eller har halde, og for dokument som gjeld reiseprogram for medlemmer av kongehuset. Dette gjeld likevel ikkje for den endelege talen etter at han er offentleg framført, og heller ikkje for dokument som gjeld reiseprogram, etter at reisa er gjennomført eller reiseprogrammet er offentleggjort."
                     ]
                 },
                 {
                     "name": "§ 18",
-                    "title": "Unntak for rettssaksdokument",
+                    "title": "Unntakfor rettssaksdokument",
                     "sections": [
                         "Det kan gjerast unntak frå innsyn for dokument som eit organ har utarbeidd eller motteke som part i ei rettssak for norsk domstol."
                     ]
                 },
                 {
                     "name": "§ 19",
-                    "title": "Unntak for dokument som blir utveksla under konsultasjonar med Sametinget m.m.",
+                    "title": "Unntakfor dokument som blir utveksla under konsultasjonar med Sametinget m.m.",
                     "sections": [
                         "Det kan gjerast unntak frå innsyn for dokument som blir utveksla mellom statlege organ og Sametinget og samiske organisasjonar som ledd i konsultasjonar i samsvar med ILO-konvensjon nr. 169 om urfolk og stammefolk i sjølvstendige statar artikkel 6. Dette gjeld ikkje dokument som blir utveksla som ledd i allmenn høyring i ei sak."
                     ]
@@ -190,7 +191,7 @@
                 },
                 {
                     "name": "§ 21",
-                    "title": "Unntak av omsyn til nasjonale forsvars- og tryggingsinteresser",
+                    "title": "Unntak av omsyn til nasjonaleforsvars- og tryggingsinteresser",
                     "sections": [
                         "Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd av nasjonale tryggingsomsyn eller forsvaret av landet."
                     ]
@@ -199,7 +200,7 @@
                     "name": "§ 22",
                     "title": "Unntak i visse budsjettsaker",
                     "sections": [
-                        "Det kan gjerast unntak frå innsyn for dokument som er utarbeidde av eit departement, og som gjeld statlege budsjettsaker. Det same gjeld for opplysningar om førebelse budsjettrammer fastsette av regjering eller departement i dokument frå underliggjande organ og etatar, og frå Det Kongelege Hoff, Domstoladministrasjonen og Sametinget."
+                        "Det kan gjerast unntak frå innsyn for dokument som er utarbeidde av eit departement, og som gjeld statlege budsjettsaker. Det same gjeld for opplysningar om førebeise budsjettrammer fastsette av regjering eller departement i dokument frå underliggjande organ og etatar, og frå Det Kongelege Hoff, Domstoladministrasjonen og Sametinget."
                     ]
                 },
                 {
@@ -207,50 +208,52 @@
                     "title": "Unntak av omsyn til det offentlege sin forhandlingsposisjon m.m.",
                     "sections": [
                         "Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd av omsyn til ei forsvarleg gjennomføring av økonomi-, lønns-, eller personalforvaltninga til organet.",
-                        "Det kan gjerast unntak frå innsyn for opplysningar som gjeld forhandlingar om rammeavtalar med landbruks-, fiskeri- og reindriftsorganisasjonane når det er påkravd av omsyn til ei forsvarleg gjennomføring av forhandlingane.",
-                        "Det kan gjerast unntak frå innsyn for tilbod og protokoll etter regelverk som er gitt i medhald av lov 16. juli 1999 nr. 69 om offentlege innkjøp, til valet av leverandør er gjort.",
+                        "Det kan gjerast unntak frå innsyn for opplysningar som gjeldforhandlingarom rammeavtalar med landbruks-, fiskeri- og reindriftsorganisasjonane når det er påkravd av omsyn til ei forsvarleg gjennomføring av forhandlingane.",
+                        "Det kan gjerast unntak frå innsyn for tilbod og protokoll etter regelverk som er gitt i medhald av anskaffelsesloven, til vaiet av leverandør er gjort.",
                         "Det kan gjerast unntak frå innsyn for dokument som gjeld selskap der staten eller ein kommune eller fylkeskommune har eigarinteresser, og som blir behandla av vedkommande organ som eigar, dersom selskapet ikkje er omfatta av verkeområdet for lova her."
                     ]
                 },
                 {
                     "name": "§ 24",
-                    "title": "Unntak for kontroll- og reguleringstiltak, dokument om lovbrot og opplysningar som kan lette gjennomføringa av lovbrot m.m.",
+                    "title": "Unntakfor kontroll• og reguleringstiltak, dokument om lovbrot og opplysningar som kan lette gjennomføringa av lovbrot m.m.",
                     "sections": [
-                        "Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd fordi innsyn ville motverke offentlege kontroll- eller reguleringstiltak eller andre pålegg eller forbod, eller føre til fare for at dei ikkje kan gjennomførast.",
+                        "Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd fordi innsyn ville motverke offentlege kontroll· eller reguleringstiltak eller andre pålegg eller forbod, eller føre til fare for at dei ikkje kan gjennomførast.",
                         "Det kan gjerast unntak frå innsyn for melding, tips eller liknande dokument om lovbrot frå private. Andre dokument om lovbrot, blant anna melding og tips frå offentlege organ, kan det gjerast unntak frå innsyn for inntil saka er avgjord.",
-                        "Det kan gjerast unntak frå innsyn for opplysningar når unntak er påkravd fordi innsyn ville lette gjennomføringa av straffbare handlingar. Det same gjeld opplysningar der unntak er påkravd fordi innsyn ville utsetje enkeltpersonar for fare, eller lette gjennomføringa av handlingar som kan skade delar av miljøet som er særleg utsette, eller som er trua av utrydding."
+                        "Det kan gjerast unntak frå innsyn for opplysningar når unntak er påkravd fordi innsyn ville Jette gjennomfø· ringa av straffbare handlingar. Det same gjeld opplysningar der unntak er påkravd fordi innsyn ville utsetje enkeltpersonar for fare, eller Jette gjennomføringa av handlingar som kan skade delar av miljøet som er særleg utsette, eller som er trua av utrydding."
                     ]
                 },
                 {
                     "name": "§ 25",
-                    "title": "Unntak for tilsetjingssaker m.m.",
+                    "title": "Unntakfor tilsetjingssaker, lønnsoppgåver m.m.",
                     "sections": [
                         "Det kan gjerast unntak frå innsyn for dokument i sak om tilsetjing eller forfremjing i offentleg teneste.",
-                        "Unntaket i første ledd gjeld ikkje søkjarlister. Organet skal snarast etter at søknadsfristen er gått ut, setje opp ei søkjarliste som skal innehalde namn, alder, stilling eller yrkestittel og bustad- eller arbeidskommune for kvar søkjar. Det kan likevel gjerast unntak frå innsyn for opplysningar om ein søkjar dersom vedkommande sjølv ber om det. Ved vurderinga av om ei slik oppmoding skal takast til følgje, skal det leggjast vekt på om det knyter seg særleg offentleg interesse til stillinga. I utlysinga skal det gjerast oppmerksam på at opplysningar om søkjaren kan bli gjort offentlege sjølv om søkjaren har oppmoda om ikkje å bli ført opp på søkjarlista. Dersom oppmodinga ikkje blir teke til følgje, skal søkjaren varslast om dette. Det skal gå fram av søkjarlista kor mange søkjarar det har vore til stillinga, og kva kjønn dei har.",
-                        "Unntaket i første ledd gjeld ikkje nominasjonsvedtak og røysteresultat ved utnemning av biskop."
+                        "Unntaket i første ledd gjeld ikkje søkjarlister. Organet skal snarast etter at søknadsfristen er gått ut, setje opp ei søkjarliste som skal innehalde namn, alder, stilling eller yrkestittel og bustad· eller arbeidskommune for kvar søkjar. Det kan likevel gjerast unntak frå innsyn for opplysningar om ein søkjar dersom vedkommande sjølv ber om det. Ved vurderinga av om ei slik oppmoding skal takast til følgje, skal det leggjast vekt på om det knyter seg særleg offentleg interesse til stillinga. I utlysinga skal det gjerast oppmerksam på at opplysningar om søkjaren kan bli gjort offentlege sjølv om søkjaren har oppmoda om ikkje å bli ført opp på søkjarlista. Dersom oppmodinga ikkje blir teke til følgje, skal søkjaren varslast om dette. Det skal gå fram av søkjarlista kor mange søkjarar det har vore til stillinga, og kva kjønn dei har.",
+                        "Det kan gjerast unntak frå innsyn for skriftleg oppgåve over utrekna lønn eller liknande godtgjering, utrek· ningsgrunnlag for feriepengar og trekk som blir gjorde ved utbetalinga. Unntaket i første punktum omfattar ikkje opplysningar om bruttoutbetalingar. Innsyn i opplysningar om bruttoutbetalingar kan givast ved oppstilling av opplysningane i eit anna dokument."
                     ]
                 },
                 {
                     "name": "§ 26",
-                    "title": "Unntak for eksamenssvar og karakterar m.m.",
+                    "title": "Unntakfor eksamensdokument,forskingsopplysningar og fødselsnummer m.m.",
                     "sections": [
-                        "Det kan gjerast unntak frå innsyn for svar til eksamen eller liknande prøve og innleverte utkast til konkurranse eller liknande. Det same gjeld tilhøyrande oppgåver inntil vedkommande eksamen eller prøve er halden eller vedkommande konkurranse er lyst ut. Det kan dessutan gjerast unntak frå innsyn for karakterar og vitnemål frå utdanning.",
-                        "Det kan gjerast unntak frå innsyn for opplysningar om kven som skal få ein pris, eit heidersteikn eller liknande inntil tildelinga er gjort. For opplysningar om kven som har vore vurdert for ein pris, eit heidersteikn eller liknande, gjeld dette også etter tildelinga.",
-                        "Det kan gjerast unntak frå innsyn for personbilete som er teke inn i eit personregister. Det same gjeld opplysningar som er innhenta ved vedvarande eller regelmessig gjenteken personovervaking."
+                        "Det kan gjerast unntak frå innsyn for svar til eksamen eller liknande prøve og innleverte utkast til konkurranse eller liknande. Det same gjeld tilhøyrande oppgåver inntil vedkommande eksamen eller prøve er halden eller ved· kommande konkurranse er lyst ut. Det kan dessutan gjerast unntak frå innsyn for karakterar og vitnemål frå utdanning.",
+                        "Det kan gjerast unntak frå innsyn for opplysningar om kven som skal få ein pris, eit heidersteikn eller liknande inntil tildelinga er gjort. For opplysningar om kven som har vore vurdert for ein pris, eit heidersteikn eller lik· nande, gjeld dette også etter tildelinga.",
+                        "Det kan gjerast unntak frå innsyn for personbilete som er teke inn i eit personregister. Det same gjeld opplysningar som er innhenta ved vedvarande eller regelmessig gjenteken personovervaking.",
+                        "Det kan gjerast unntak frå innsyn for opplysningar om forskingsidear og forskingsprosjekt i sak som gjeld øko· nomisk stønad eller rådgjeving frå det offentlege i samband med forskingsprosjekt.",
+                        "Det kan gjerast unntak frå innsyn for fødselsnummer og nummer med tilsvarande funksjon."
                     ]
                 },
                 {
                     "name": "§ 27",
                     "title": "Forskriftsheimel",
                     "sections": [
-                        "Kongen kan i forskrift fastsetje at det kan gjerast unntak frå innsyn for journalar og alle dokument på saksområde der det kan eller skal gjerast unntak frå innsyn for det alt vesentlege av dokumenta. Slik forskrift kan berre fastsetjast når særleg tungtvegande grunnar taler for det.",
+                        "Kongen kan i forskrift fastsetje at det kan gjerast unntak frå innsyn for journalar og alle dokument på saks· område der det kan eller skal gjerast unntak frå innsyn for det alt vesentlege av dokumenta. Slik forskrift kan berre fastsetjast når særleg tungtvegande grunnar taler for det.",
                         "Kongen kan i forskrift fastsetje at det kan gjerast unntak frå innsyn for dokument i arkivdepot når det er påkravd av arkivtekniske omsyn."
                     ]
                 }
             ]
         },
         {
-            "name": "Kapittel 4 Saksbehandling og klage",
+            "name": "Kapittel 4. Saksbehandling og klage",
             "paragraphs": [
                 {
                     "name": "§ 28",
@@ -270,157 +273,50 @@
                 },
                 {
                     "name": "§ 30",
-                    "title": "Korleis organet skal gi innsyn",
+                    "title": "Korleis organet skal gi innsyn og gjere dokument tilgjengelege",
                     "sections": [
-                        "Organet fastset ut frå omsynet til forsvarleg saksbehandling korleis eit dokument skal gjerast kjent. Det kan krevjast papirkopi eller elektronisk kopi av dokumentet. Hos verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor, og hos andre verksemder der det er fastsett av Kongen i forskrift, gjeld retten til kopi alle eksisterande format og språkversjonar. Retten til kopi gjeld ikkje format eller versjonar av eit dokument som er allment tilgjengelege. Kongen kan gi forskrift om at retten til elektronisk kopi ikkje skal gjelde for dokument som ein tredjeperson har immaterielle rettar til, og for dokument der det er påkravd av arkivtekniske omsyn.",
-                        "Når verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor, gir innsyn i informasjon som det knyter seg immaterielle rettar til, skal organet, dersom det har kjennskap til det, opplyse om kven som er innehavar av rettane, eller kva lisenshavar organet har fått informasjonen frå. Dette gjeld likevel ikkje når det er klart unødvendig å gi slike opplysningar. Kongen kan fastsetje i forskrift at føresegnene i leddet her også skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF)."
+                        "Organet fastset ut frå omsynet til forsvarleg saksbehandling korleis eit dokument skal gjerast kjent. Det kan krevjast papirkopi eller elektronisk kopi av dokumentet. Hos verksemder som er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37/EU) om vidarebruk av informasjon frå offentleg sektor, og hos andre verksemder der det er fastsett av Kongen i forskrift, gjeld retten til kopi alle eksisterande format og språkversjonar. Retten til kopi gjeld ikkje format eller versjonar av eit dokument som er allment tilgjengeleg. Kongen kan gi forskrift om at retten til elektronisk kopi ikkje skal gjelde for dokument som ein tredjeperson har immaterielle rettar til, og for dokument der det er påkravd av arkivtekniske omsyn.",
+                        "Når verksemder som er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF som endra ved direktiv 2013/37 /EU) om vidarebruk av informasjon frå offentleg sektor, gir innsyn i informasjon som det knyter seg immaterielle rettar til, skal organet, dersom det har kjennskap til det, opplyse om kven som er innehavar av rettane, eller kva for lisenshavar organet har fått informasjonen frå. Dette gjeld likevel ikkje når det er klart unødvendig å gi slike opplysningar. Kongen kan fastsetje i forskrift at føresegnene i leddet her også skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. Sk (direktiv 2003/98/EF, som endra gjennom direktiv 2013/37 /EU).",
+                        "Dersom verksemder som nemnde i andre ledd gjer dokument med tilhøyiande metadata allment tilgjengelege, skal tilgjengeleggjeringa skje i alle eksisterande format og språkversjonar, så langt slik tilgjengeleggjering er i samsvar med lova her og tilhøyrande forskrift. Plikta omfattar maskinleselege format. Plikta etter første punktum omfattar <span class=\"warning\">!</span>kkje format som berre blir brukte til lagring eller annan intern bruk, eller som elles er ueigna for tilgjengeleggjering."
                     ]
                 },
                 {
                     "name": "§ 31",
                     "title": "Avslag og grunngiving",
                     "sections": [
-                        "Avslag på innsynskrav skal vere skriftleg. Organet skal alltid vise til den føresegna som gir grunnlag for avslaget, og til kva ledd, bokstav eller nummer i føresegna som er brukt. Dersom § 13 er grunnlag for avslaget, skal organet også vise til føresegna som pålegg teieplikt. Byggjer avslaget på forskrift, må organet opplyse om dette, og kva punkt i forskrifta avslaget byggjer på. Avslaget skal også opplyse om høvet til å klage og om klagefristen.",
-                        "Den som har fått avslag, kan innan tre veker frå avslaget vart motteke, krevje ei nærare grunngiving for avslaget der hovudomsyna som har vore avgjerande for avslaget, skal nemnast. Organet skal gi skriftleg grunngiving snarast råd og seinast innan ti arbeidsdagar etter at kravet vart motteke."
+                        "Avslag på innsynskrav skal vere skriftleg. Organet skal alltid vise til den føresegna som gir grunnlag for avslaget, og til kva ledd, bokstav eller nummer i føresegna som er brukt. Dersom  <span class=\"refpara\">§ 13</span> er grunnlag for avslaget, skal organet også vise til føresegna som pålegg teleplikt. Byggjer avslaget på forskrift, må organet opplyse om dette, og kva punkt i forskrifta avslaget byggjer på. Avslaget skal også opplyse om høvet til å klage og om klagefristen.",
+                        "Den som har fått avslag. kan innan tre veker frå avslaget vart motteke, krevje ei nærare grunngiving for avslaget der hovudomsyna som har vore avgjerande for avslaget, skal nemnast. Organet skal gi skriftleg grunngiving snarast råd og seinast innan ti arbeidsdagar etter at kravet vart motteke."
                     ]
                 },
                 {
                     "name": "§ 32",
                     "title": "Klage",
                     "sections": [
-                        "Avgjerder etter denne lova kan påklagast til det forvaltningsorganet som er nærmast overordna det forvaltningsorganet som har gjort vedtaket. Avgjerder om å gi innsyn kan likevel ikkje påklagast. Fylkesmannen er klageinstans for vedtak i kommunalt eller fylkeskommunalt organ. Kongen kan gi forskrift om kva organ som skal vere klageinstans for avgjerder tekne av statlege organ. Kongen kan også gi forskrift om kva organ som skal vere klageinstans for avgjerder av rettssubjekt som er omfatta av § 2 første ledd bokstavane b til d. Når det blir klaga på ei avgjerd frå eit departement, skal departementet opplyse klagaren om at retten til å klage til Sivilombodsmannen ikkje gjeld for avgjerder gjorde av Kongen i statsråd.",
-                        "Dersom den som har kravd innsyn, ikkje har fått svar innan fem arbeidsdagar etter at organet mottok kravet, skal dette reknast som eit avslag som kan påklagast etter første ledd. Dette gjeld likevel ikkje når Kongen i statsråd er klageorgan. Regelen i første punktum gjeld heller ikkje i slike tilfelle som fell inn under § 13 tredje ledd, og når spørsmål om nedgradering må leggjast fram for eit anna organ.",
-                        "Klaga skal førebuast og avgjerast utan ugrunna opphald. Elles gjeld reglane i forvaltningsloven kapittel VI så langt dei passar.",
-                        "Vedtaket til klageinstansen er særleg tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13 overfor kommunar og fylkeskommunar og rettssubjekt som er omfatta av § 2 første ledd bokstavane b til d."
+                        "Avgjerder etter denne lova kan påklagast til det forvaltningsorganet som er nærmast overordna det forvaltningsorganet som har gjort vedtaket. Avgjerder om å gi innsyn kan likevel ikkje påklagast. Fylkesmannen er klageinstans for vedtak i kommunalt eller fylkeskommunalt organ. Kongen kan gi forskrift om kva organ som skal vere klageinstans for avgjerder tekne av statlege organ. Kongen kan også gi forskrift om kva organ som skal vere klageinstans for avgjerder av rettssubjekt som er omfatta av <span class=\"refpara\">§ 2</span> første ledd bokstavane b til d. Når det blir klaga på ei avgjerd frå elt departement, skal departementet opplyse klagaren om at retten til å klage til Sivilombodsmannen ikkje gjeld for avgjerder gjorde av Kongen i statsråd.",
+                        "Dersom den som har kravd innsyn, ikkje har fått svar innan fem arbeidsdagar etter at organet mottok kravet, skal dette reknast som eit avslag som kan påklagast etter første ledd. Dette gjeld likevel ikkje når Kongen i statsråd er klageorgan. Regelen i første punktum gjeld heller ikkje i slike tilfelle som fell inn under  <span class=\"refpara\">§ 13</span> tredje ledd, og når spørsmål om nedgradering må leggjast fram for eit anna organ.",
+                        "Klaga skal førebuast og avgjerast utan ugrunna opphald. Elles gjeld reglane i forvaltningsloven kapittel VI så langt del passar.",
+                        "Vedtaket til klageinstansen er særleg tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13 overfor kommunar og fylkeskommunar og rettssubjekt som er omfatta av <span class=\"refpara\">§ 2</span> første ledd bokstavane b til d."
                     ]
                 }
             ]
         },
         {
-            "name": "Kapittel 5 Sluttføresegner",
+            "name": "Kapittel 5. Sluttføresegner",
             "paragraphs": [
                 {
                     "name": "§ 33",
                     "title": "Iverksetjing og overgangsreglar",
                     "sections": [
-                        "Lova gjeld frå den tid Kongen fastset.",
-                        "For rettssubjekt som blir omfatta av lova etter § 2 første ledd bokstav c eller d, gjeld innsynsretten og plikta til å føre journal berre for dokument som er komme inn til eller oppretta av rettssubjektet etter at lova her tek til å gjelde.",
-                        "Avtalar om einerett til tilgang til informasjon som eksisterer når lova tek til å gjelde, og som ikkje oppfyller vilkåra i § 6 andre ledd, skal opphøyre når avtalen går ut, men likevel seinast den 31. desember 2008."
+                        "Lova gjeld frå den tid Kongen fastset.<span class=\"ref\" lh=46>1</span> Frå same tid blir lov 19. juni 1970 nr. 69 om offentlighet i forvaltningen oppheva.",
+                        "For rettssubjekt som blir omfatta av lova etter  <span class=\"refpara\">§ 2</span> første ledd bokstav c eller d, gjeld innsynsretten og plikta til å føre journal berre for dokument som er komme inn til eller oppretta av rettssubjektet etter at lova her tek til å gjelde.",
+                        "Avtalar om einerett til tilgang til informasjon som eksisterer når lova tek til å gjelde, og som ikkje oppfyller vilkåra i  <span class=\"refpara\">§ 6</span> andre ledd, skal opphøyre når avtalen går ut, men likevel seinast den 31. desember 2008."
                     ]
                 },
                 {
                     "name": "§ 34",
                     "title": "Endringar i andre lover",
                     "sections": [
-                        "Frå den tida lova tek til å gjelde, blir desse endringane gjorde i andre lover:\n1. I lov 13. august 1915 nr. 5 om domstolene blir det gjort desse endringane:\n§ 33 b første ledd første punktum skal lyde:",
-                        "Forvaltningsloven og offentleglova gjelder for domstoladministrasjonens virksomhet.\n§ 55 i første ledd skal lyde:",
-                        "Forvaltningsloven og offentleglova gjelder for utnevning av faste og midlertidige dommere.\n§ 238 første ledd skal lyde:",
-                        "Tilsynsutvalgets avgjørelser om disiplinærtiltak er enkeltvedtak etter forvaltningsloven. Forvaltningsloven og offentleglova gjelder for Tilsynsutvalgets saksbehandling med de særregler som følger av denne paragraf og § 239.\n2. I lov 17. juli 1925 nr. 11 om Svalbard skal § 32 lyde:",
-                        "Forvaltningsloven og offentleglova gjelder tilsvarende for Longyearbyen lokalstyre som for kommunene.\n3. I lov 12. mai 1961 nr. 2 om opphavsrett til åndsverk m.v. skal § 27 første ledd lyde:",
-                        "Vern etter denne lov er ikke til hinder for dokumentinnsyn etter forvaltningsloven og offentleglova eller annen lovgivning.\n4. Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker blir endra slik:\n§ 2 første ledd bokstav f skal lyde:\nf)\tdokument: en logisk avgrenset informasjonsmengde som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende.\n§ 17 annet ledd første punktum skal lyde:",
-                        "Dersom det under saksforberedelsen mottar opplysninger om en part eller den virksomhet han driver eller planlegger, og parten etter §§ 18 til 19 har rett til å gjøre seg kjent med disse opplysninger, skal de forelegges ham til uttalelse.\n§ 17 tredje ledd skal lyde:",
-                        "Partene bør også for øvrig gjøres kjent med opplysninger av vesentlig betydning som det må forutsettes at de har grunnlag og interesse for å uttale seg om, og som parten etter §§ 18 til 19 har rett til å gjøre seg kjent med. Ved avveiningen skal legges vekt på om rask avgjørelse er ønskelig og om hensynet til parten er tilstrekkelig varetatt på annen måte, for eksempel ved at han er gjort kjent med retten etter §§ 18 til 19 til å se sakens dokumenter.\n§ 18 og nye §§ 18 a til 18 d skal lyde:"
-                    ]
-                },
-                {
-                    "name": "§ 18",
-                    "title": "(partenes adgang til å gjøre seg kjent med sakens dokumenter).",
-                    "sections": [
-                        "En part har rett til å gjøre seg kjent med sakens dokumenter, for så vidt ikke annet følger av reglene i §§ 18 til 19. Dersom en mindreårig er part i saken og blir representert av verge, gjelder dette også den mindreårige selv. Retten til innsyn gjelder også etter at det er truffet vedtak i saken. En mindreårig under 15 år skal ikke gjøres kjent med opplysninger som er underlagt lovbestemt taushetsplikt.",
-                        "Når det er adgang til å gjøre unntak fra innsyn, skal forvaltningsorganet likevel vurdere å gi helt eller delvis innsyn. Innsyn bør gis dersom hensynet til parten veier tyngre enn behovet for unntak."
-                    ]
-                },
-                {
-                    "name": "§ 18 a",
-                    "title": "(dokument utarbeidet for egen saksforberedelse).",
-                    "sections": [
-                        "En part har ikke krav på å gjøre seg kjent med dokument som et forvaltningsorgan har utarbeidd for sin egen interne saksforberedelse (organinterne dokumenter). Første punktum gjelder ikke foredrag til saker som blir behandlet av Kongen i statsråd, etter at saken er avgjort, og presedenskort, med mindre kortet gjengir organinterne vurderinger.",
-                        "Kongen kan gi forskrift om at det ikke skal kunne gjøres unntak etter første ledd for bestemte dokumenter i bestemte statlige eller statlig tilknyttede organer."
-                    ]
-                },
-                {
-                    "name": "§ 18 b",
-                    "title": "(dokumenter innhentet utenfra for den interne saksforberedelsen).",
-                    "sections": [
-                        "Når det er nødvendig for å sikre forsvarlige interne avgjørelsesprosesser, kan organet gjøre unntak fra innsyn for dokument som organet har innhentet fra et underordnet organ til bruk for sin interne saksforberedelse. Det samme gjelder dokument som et departement har innhentet fra et annet departement til bruk for sin interne saksforberedelse.",
-                        "Det kan gjøres unntak for deler av dokument som inneholder råd om og vurderinger av hvordan et organ bør opptre i en sak, og som organet har innhentet til bruk for sin interne saksforberedelse, når det er påkrevd av hensyn til en forsvarlig ivaretakelse av det offentliges interesser i saken.",
-                        "Unntakene i paragrafen her gjelder tilsvarende for dokument om innhenting av dokument som nevnt i første og andre ledd, og innkallinger til og referater fra møter mellom overordnede og underordnede organer, mellom departementer og mellom et organ og noen som gir råd eller vurderinger som nevnt i andre ledd."
-                    ]
-                },
-                {
-                    "name": "§ 18 c",
-                    "title": "(innsyn i faktiske opplysninger mv.).",
-                    "sections": [
-                        "Selv om dokumentet eller deler av det er unntatt etter reglene i §§ 18 a og 18 b, har parten rett til å gjøre seg kjent med de deler av det som inneholder faktiske opplysninger eller sammendrag eller annen bearbeidelse av faktum. Dette gjelder likevel ikke faktiske opplysninger uten betydning for avgjørelsen og heller ikke når opplysningene eller bearbeidelsen finnes i et annet dokument som parten har tilgang til."
-                    ]
-                },
-                {
-                    "name": "§ 18 d",
-                    "title": "(innsyn i interne dokumenter hos kommunene og fylkeskommunene).",
-                    "sections": [
-                        "Unntakene i §§ 18 a og 18 b gjelder ikke:\na)\tsaksframlegg med vedlegg til et kommunalt eller fylkeskommunalt folkevalgt organ,\nb)\tsaksliste til møte i folkevalgte organer i kommuner og fylkeskommuner,\nc)\tdokument fra eller til kommunale og fylkeskommunale kontrollutvalg, revisjonsorgan og klagenemnder, og\nd)\tdokument i saker der en kommunal eller fylkeskommunal enhet opptrer som ekstern part overfor en annen slik enhet.\n§ 18 a gjelder likevel for dokument som blir utvekslet mellom kommunale og fylkeskommunale kontrollutvalg og utvalgets sekretariat.",
-                        "Unntaket i § 18 a gjelder ikke for dokument fra eller til et kommunalt eller fylkeskommunalt særlovsorgan eller et kommunalt eller fylkeskommunalt foretak etter kommuneloven kapittel 11.",
-                        "Unntaket i § 18 a gjelder heller ikke for dokument fra eller til en kommunal eller fylkeskommunal enhet på områder der enhetene har selvstendig avgjørelsesmyndighet. Unntaket i § 18 a gjelder likevel for dokument i saker der administrasjonssjefen eller kommunerådet gjennomfører kontrolltiltak overfor en enhet, og for utkast til vedtak og innstillinger som blir lagt fram for administrasjonssjefen eller kommunerådet før det blir fattet vedtak eller før en innstilling blir lagt fram for et folkevalgt organ. Unntaket i § 18 a gjelder også for administrasjonssjefens eller kommunerådets merknader til slike utkast som nevnt i forrige punktum.\n§ 19 første ledd bokstav a skal lyde:\na)\tsom er av betydning for Norges utenrikspolitiske interesser eller nasjonale forsvars- og sikkerhetsinteresser, når slike opplysninger kan unntas etter offentleglova §§ 20 og 21,\n§ 19 tredje ledd første punktum skal lyde:",
-                        "Kongen kan gi forskrifter som for særskilte saksområder utfyller eller nærmere fastlegger hvordan §§ 18 til 19 skal anvendes.\n§ 20 annet ledd første punktum skal lyde:",
-                        "På anmodning skal en part gis papirkopi eller elektronisk kopi av dokument.\n§ 20 fjerde ledd første punktum skal lyde:",
-                        "Kopier skal gis vederlagsfritt.\n§ 21 skal lyde:"
-                    ]
-                },
-                {
-                    "name": "§ 21",
-                    "title": "(klage over avslag på krav om å få gjøre seg kjent med et dokument).",
-                    "sections": [
-                        "Avslag på krav om innsyn skal være skriftlig. Blir krav om å få gjøre seg kjent med et bestemt dokument eller opplysning avslått, skal parten gjøres merksam på den bestemmelse som ligger til grunn for avslaget og hvilket ledd og hvilken bokstav i bestemmelsen som er brukt. Avslaget skal opplyse om retten til å klage etter annet ledd og klagefristen etter § 29.",
-                        "Den som har satt fram kravet, kan påklage avslaget i samsvar med reglene i kap. VI. Fylkesmannen er klageinstans når avslaget er truffet av kommunalt eller fylkeskommunalt organ.\n5. I lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester skal § 9 tredje ledd første punktum lyde:",
-                        "Krav om informasjon kan avslås dersom det er et reelt og saklig behov for det i det enkelte tilfelle og informasjonen eller dokumentet informasjonen finnes i, kan unntas fra offentlighet i medhold av offentleglova kapittel 3.\n6. I lov 28. april 1978 nr. 18 om behandling av forbrukertvister blir desse endringane gjorde:\n§ 5 tredje ledd skal lyde:",
-                        "Dokumentene i Forbrukerrådets klagesaker blir først offentlige etter bestemmelsene i offentleglova fra det tidspunkt saken er endelig avsluttet i Forbrukerrådet eller endelig avgjort av Forbrukertvistutvalget.\n§ 7 femte ledd skal lyde:",
-                        "Dokumentene i Forbrukertvistutvalgets klagesaker blir først offentlige etter bestemmelsene i offentleglova fra det tidspunkt saken er endelig avgjort av utvalget.\n7. I lov 13. juni 1980 nr. 24 om ligningsforvaltning skal § 8-8 nr. 1 lyde:",
-                        "Når ligningen er ferdig, utarbeides det en liste for hver kommune over alle som det er foretatt ligningsfastsettelser for. Det kan gis innsyn i og utskrift av opplysninger i listen så langt det følger av bestemmelsen her. Offentleglova får ikke anvendelse ved krav om innsyn i slike lister.\n8. I lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall skal § 14 andre og tredje ledd lyde:",
-                        "Opplysninger som forurensningsmyndigheten har taushetsplikt om etter forvaltningsloven § 13 flg., kan holdes tilbake også av den meldepliktige. Det samme gjelder opplysninger som går inn under offentleglova §§ 20 og 21.",
-                        "Bestemmelsen i offentleglova § 30 om hvordan dokument skal gjøres kjent og i § 32 om klage over avgjørelse om ikke å gjøre det tilgjengelig, gjelder både når krav om offentlighet av konsekvensanalyse rettes til forurensningsmyndigheten og til den meldepliktige. Klage over avgjørelse truffet av den meldepliktige går til forurensningsmyndigheten.\n9. I plan- og bygningslov 14. juni 1985 nr. 77 skal § 16-1 tredje ledd lyde:",
-                        "Enhver har hos vedkommende myndighet rett til å gjøre seg kjent med alternative utkast til planer som nevnt i annet ledd og med de dokumenter som ligger til grunn for planutkastene med de unntak som følger av § 13 eller §§ 20 til 26 i offentleglova.\n10. I lov 21. juni 1985 nr. 78 om registrering av foretak skal § 8-1 andre punktum lyde:",
-                        "Bestemmelsene i offentleglova gjelder for opplysninger som ikke er registrert.\n11. I lov 30. august 1991 nr. 71 om statsforetak skal § 4 første punktum lyde:",
-                        "Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder ikke for statsforetak.\n12. I lov 28. august 1992 nr. 103 om pengespill m.v. skal § 4 første punktum lyde:",
-                        "Lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder ikke for dette selskap.\n13. I lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. skal § 12 lyde:"
-                    ]
-                },
-                {
-                    "name": "§ 12",
-                    "title": "Forholdet til offentleglova",
-                    "sections": [
-                        "Offentleglova gjelder for saker som behandles etter denne lov. Uten hinder av taushetsplikt skal følgende opplysninger likevel alltid være offentlige, med mindre de faller inn under offentleglova §§ 20 og 21:\na)\tbeskrivelse av den genmodifiserte organismen, brukerens navn og adresse, formålet med bruken og bruksstedet\nb)\tmetoder og planer for overvåking og beredskap\nc)\tvurderinger av hvilke virkninger som kan forutses.\n14. I lov 7. juni 1996 nr. 31 om Den norske kirke skal § 38 første ledd lyde:",
-                        "Forvaltningsloven og offentleglova gjelder for den virksomhet som drives av lovbestemte kirkelige organer.\n15. I lov 28. juni 1996 nr. 54 om studentsamskipnader skal § 13 lyde:",
-                        "Departementet kan bestemme hvilke saksområder innen studentsamskipnadens forvaltning som er av en slik art at forvaltningsloven og offentleglova får anvendelse.\n16. I lov 29. november 1996 nr. 72 om petroleumsvirksomhet blir det gjort desse endringane:\n§ 4-9 fjerde ledd skal lyde:",
-                        "Kongen kan fastsette at lov 10. februar 1967 om behandlingsmåten i forvaltningssaker ikke skal gjelde for den som har operativansvar etter første ledd.\n§ 11-9 første ledd skal lyde:",
-                        "Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder ikke for selskapet.\n17. I lov 9. mai 1997 nr. 26 om Statens investeringsfond for næringsvirksomhet i utviklingsland skal § 5 første ledd første punktum lyde:",
-                        "Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder ikke for fondet.\n18. I lov 16. juli 1999 nr. 69 om offentlige anskaffelser skal § 7a fjerde ledd lyde:",
-                        "Offentleglova får anvendelse på den virksomhet som drives av Tvisteløsningsorganet.\n19. I lov 14. april 2000 nr. 31 om behandling av personopplysninger skal § 6 første ledd lyde:",
-                        "Loven her begrenser ikke innsynsrett etter offentleglova, forvaltningsloven eller annen lovbestemt rett til innsyn i personopplysninger.\n20. I lov 24. november 2000 nr. 82 om vassdrag og grunnvann skal § 24 første ledd lyde:",
-                        "Søknaden er offentlig i samsvar med reglene i offentleglova.\n21. I lov 15. juni 2001 nr. 53 om erstatning ved pasientskader mv. skal § 14 lyde:"
-                    ]
-                },
-                {
-                    "name": "§ 14",
-                    "title": "Forholdet til forvaltningsloven og offentleglova",
-                    "sections": [
-                        "Forvaltningsloven og offentleglova gjelder for virksomheten til Norsk Pasientskadeerstatning. Som enkeltvedtak anses avgjørelse om erstatning skal ytes, avgjørelse om erstatningens størrelse, avgjørelse om delutbetaling samt avgjørelse om advokatbistand etter § 11.\n22. I lov 15. juni 2001 nr. 93 om helseforetak m.m. blir § 5 andre ledd oppheva. Noverande tredje til femte ledd blir andre til fjerde ledd.\n23. I lov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet blir desse endringane gjorde:\n§ 3 første ledd skal lyde:",
-                        "(1) Denne loven innskrenker ikke retten til opplysninger etter offentleglova, forvaltningsloven eller annen lovgivning.\n§ 5 første ledd bokstav a skal lyde:\na)\tethvert forvaltningsorgan som er omfattet av offentleglova § 2.\n§ 6 skal lyde:",
-                        "Det er ikke adgang til å ta betaling for den miljøinformasjon som noen har rett til å få utlevert etter loven her, med mindre annet er bestemt i forskrift fastsatt i medhold av denne loven eller offentleglova § 8.\n§ 11 første ledd skal lyde:",
-                        "(1) Krav om miljøinformasjon kan avslås dersom det er et reelt og saklig behov for det i det enkelte tilfelle og informasjonen eller dokumentet informasjonen finnes i, kan unntas fra offentlighet i medhold av offentleglova.\n§ 13 første og andre ledd skal lyde:",
-                        "(1) Organet bestemmer ut fra hensynet til forsvarlig saksbehandling hvordan informasjonen skal gjøres kjent. Det kan kreves papirkopi eller elektronisk kopi av informasjonen i alle eksisterende format og språkversjoner. Organet trenger ikke å gi kopi av format og versjoner av informasjonen som er alminnelig tilgjengelig.",
-                        "(2) Informasjonen skal være dekkende og forståelig i forhold til informasjonsbehovet kravet gir uttrykk for. Dersom forespørselen kan besvares fyllestgjørende ved å henvise til allment tilgjengelige offentlige registre, rapporter, produktmerking eller lignende, kan informasjonssøker henvises dit. Når det gis innsyn i informasjon som det knytter seg immaterielle rettigheter til, skal organet dersom det har kjennskap til det opplyse om hvem som er innehaver av rettighetene eller hvilken lisenshaver organet har fått informasjonen fra. Dette gjelder likevel ikke når det fremstår som åpenbart unødvendig å gi slike opplysninger. Kongen kan gi forskrift om at bestemmelsene i første ledd annet punktum og annet ledd tredje og fjerde punktum i paragrafen her ikke skal gjelde for visse  virksomheter eller typer av virksomheter som ikke omfattes av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om viderebruk av informasjon fra offentlig sektor.\n24. I lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon skal § 9-2 andre ledd lyde:",
-                        "Forslag til enkeltvedtak og uttalelser som nevnt i første ledd er offentlige, men likevel slik at opplysninger som er underlagt lovbestemt taushetsplikt skal unntas fra offentlighet. Offentleglova § 12 gjelder tilsvarende.\n25. I lov 19. desember 2003 nr. 130 om Innovasjon Norge blir § 6 andre ledd oppheva. Noverande tredje til femte ledd blir andre til fjerde ledd.\n26. I lov 5. mars 2004 nr. 12 om konkurranse mellom foretak og kontroll med foretakssammenslutninger skal § 26 lyde:"
-                    ]
-                },
-                {
-                    "name": "§ 26",
-                    "title": "Forholdet til offentleglova",
-                    "sections": [
-                        "Offentleglova gjelder ikke i saker om overtredelse av §§ 10, 11, 18 første ledd, 19 første ledd eller vedtak i medhold av denne lov så lenge saken ikke er avsluttet. En sak regnes ikke som avsluttet hvis den er anmeldt til påtalemyndigheten.\n27. I lov 7. mai 2004 nr. 21 om Riksrevisjonen blir desse endringane gjorde:\n§ 18 første ledd skal lyde:",
-                        "Enhver kan hos Riksrevisjonen gjøre seg kjent med det offentlige innholdet av dokumenter i en bestemt sak når dokumentet er kommet inn til eller er sendt fra Riksrevisjonen. Bestemmelsene i offentleglova gjelder tilsvarende, så langt de passer.\n§ 18 tredje ledd skal lyde:",
-                        "Stortinget kan gi regler som utfyller eller gjør unntak fra offentleglovas anvendelse på Riksrevisjonen og fastsette i hvilken utstrekning forskrifter gitt i medhold av offentleglova skal gjelde for Riksrevisjonen.\n28. I lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke blir desse endringane gjorde:\n§ 18 andre ledd skal lyde:",
-                        "Finnmarkseiendommens saksdokumenter er offentlige etter reglene i offentleglova. Ved avslag på krav om innsyn kan spørsmålet om det er adgang til å unnta dokument fra offentlighet, påklages til fylkesmannen i Finnmark.\n§ 46 første ledd første punktum skal lyde:",
-                        "Domstolloven kapittel 6 om ugildhet og offentleglova gjelder så langt de passer for Finnmarkskommisjonens virksomhet. Ved avslag på krav om innsyn kan spørsmålet om det er adgang til å unnta dokument fra offentlighet, påklages til fylkesmannen i Finnmark."
+                        "Frå den tida lova tek til å gjelde, blir desse endringane gjorde i andre lover: - - -"
                     ]
                 }
             ]
